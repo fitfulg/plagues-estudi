@@ -1,0 +1,716 @@
+{
+  "disease-grape-downy-mildew": {
+    "id": "disease-grape-downy-mildew",
+    "image": "images/disease-grape-downy-mildew.jpg",
+    "original": "images/disease-grape-downy-mildew-original.jpg",
+    "page": 12,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-potato-tomato-blight": {
+    "id": "disease-potato-tomato-blight",
+    "image": "images/disease-potato-tomato-blight.jpg",
+    "original": "images/disease-potato-tomato-blight-original.jpg",
+    "page": 13,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-grape-powdery-mildew": {
+    "id": "disease-grape-powdery-mildew",
+    "image": "images/disease-grape-powdery-mildew.jpg",
+    "original": "images/disease-grape-powdery-mildew-original.jpg",
+    "page": 13,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      479,
+      467
+    ]
+  },
+  "disease-rose-powdery-mildew": {
+    "id": "disease-rose-powdery-mildew",
+    "image": "images/disease-rose-powdery-mildew.jpg",
+    "original": "images/disease-rose-powdery-mildew-original.jpg",
+    "page": 14,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      479,
+      467
+    ]
+  },
+  "disease-plane-powdery-mildew": {
+    "id": "disease-plane-powdery-mildew",
+    "image": "images/disease-plane-powdery-mildew.jpg",
+    "original": "images/disease-plane-powdery-mildew-original.jpg",
+    "page": 14,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      479,
+      467
+    ]
+  },
+  "disease-cereal-powdery-mildew": {
+    "id": "disease-cereal-powdery-mildew",
+    "image": "images/disease-cereal-powdery-mildew.jpg",
+    "original": "images/disease-cereal-powdery-mildew-original.jpg",
+    "page": 14,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      479,
+      467
+    ]
+  },
+  "disease-grey-mould": {
+    "id": "disease-grey-mould",
+    "image": "images/disease-grey-mould.jpg",
+    "original": "images/disease-grey-mould-original.jpg",
+    "page": 15,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-brown-rot": {
+    "id": "disease-brown-rot",
+    "image": "images/disease-brown-rot.jpg",
+    "original": "images/disease-brown-rot-original.jpg",
+    "page": 15,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-cereal-rust": {
+    "id": "disease-cereal-rust",
+    "image": "images/disease-cereal-rust.jpg",
+    "original": "images/disease-cereal-rust-original.jpg",
+    "page": 16,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-broad-bean-rust": {
+    "id": "disease-broad-bean-rust",
+    "image": "images/disease-broad-bean-rust.jpg",
+    "original": "images/disease-broad-bean-rust-original.jpg",
+    "page": 16,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-olive-leaf-spot": {
+    "id": "disease-olive-leaf-spot",
+    "image": "images/disease-olive-leaf-spot.jpg",
+    "original": "images/disease-olive-leaf-spot-original.jpg",
+    "page": 17,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 3,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-olive-anthracnose": {
+    "id": "disease-olive-anthracnose",
+    "image": "images/disease-olive-anthracnose.jpg",
+    "original": "images/disease-olive-anthracnose-original.jpg",
+    "page": 17,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      443,
+      434
+    ]
+  },
+  "disease-bean-anthracnose": {
+    "id": "disease-bean-anthracnose",
+    "image": "images/disease-bean-anthracnose.jpg",
+    "original": "images/disease-bean-anthracnose-original.jpg",
+    "page": 17,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      443,
+      434
+    ]
+  },
+  "disease-plane-anthracnose": {
+    "id": "disease-plane-anthracnose",
+    "image": "images/disease-plane-anthracnose.jpg",
+    "original": "images/disease-plane-anthracnose-original.jpg",
+    "page": 18,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-almond-twig-blight": {
+    "id": "disease-almond-twig-blight",
+    "image": "images/disease-almond-twig-blight.jpg",
+    "original": "images/disease-almond-twig-blight-original.jpg",
+    "page": 18,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      443,
+      434
+    ]
+  },
+  "disease-pine-pitch-canker": {
+    "id": "disease-pine-pitch-canker",
+    "image": "images/disease-pine-pitch-canker.jpg",
+    "original": "images/disease-pine-pitch-canker-original.jpg",
+    "page": 18,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      443,
+      434
+    ]
+  },
+  "disease-cereal-loose-smut": {
+    "id": "disease-cereal-loose-smut",
+    "image": "images/disease-cereal-loose-smut.jpg",
+    "original": "images/disease-cereal-loose-smut-original.jpg",
+    "page": 19,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      460,
+      451
+    ]
+  },
+  "disease-corn-smut": {
+    "id": "disease-corn-smut",
+    "image": "images/disease-corn-smut.jpg",
+    "original": "images/disease-corn-smut-original.jpg",
+    "page": 19,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      461,
+      450
+    ]
+  },
+  "disease-apple-pear-scab": {
+    "id": "disease-apple-pear-scab",
+    "image": "images/disease-apple-pear-scab.jpg",
+    "original": "images/disease-apple-pear-scab-original.jpg",
+    "page": 20,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 4,
+    "crop": [
+      0,
+      0,
+      462,
+      451
+    ]
+  },
+  "disease-sooty-mould": {
+    "id": "disease-sooty-mould",
+    "image": "images/disease-sooty-mould.jpg",
+    "original": "images/disease-sooty-mould-original.jpg",
+    "page": 20,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      300,
+      246
+    ]
+  },
+  "disease-peach-leaf-curl": {
+    "id": "disease-peach-leaf-curl",
+    "image": "images/disease-peach-leaf-curl.jpg",
+    "original": "images/disease-peach-leaf-curl-original.jpg",
+    "page": 20,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      300,
+      246
+    ]
+  },
+  "disease-eutypa-dieback": {
+    "id": "disease-eutypa-dieback",
+    "image": "images/disease-eutypa-dieback.jpg",
+    "original": "images/disease-eutypa-dieback-original.jpg",
+    "page": 21,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 8,
+    "crop": [
+      0,
+      0,
+      300,
+      246
+    ]
+  },
+  "disease-shot-hole": {
+    "id": "disease-shot-hole",
+    "image": "images/disease-shot-hole.jpg",
+    "original": "images/disease-shot-hole-original.jpg",
+    "page": 21,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 6,
+    "crop": [
+      0,
+      0,
+      300,
+      246
+    ]
+  },
+  "disease-armillaria-root-rot": {
+    "id": "disease-armillaria-root-rot",
+    "image": "images/disease-armillaria-root-rot.jpg",
+    "original": "images/disease-armillaria-root-rot-original.jpg",
+    "page": 22,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-rosellinia-root-rot": {
+    "id": "disease-rosellinia-root-rot",
+    "image": "images/disease-rosellinia-root-rot.jpg",
+    "original": "images/disease-rosellinia-root-rot-original.jpg",
+    "page": 22,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-dutch-elm-disease": {
+    "id": "disease-dutch-elm-disease",
+    "image": "images/disease-dutch-elm-disease.jpg",
+    "original": "images/disease-dutch-elm-disease-original.jpg",
+    "page": 24,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-plane-canker": {
+    "id": "disease-plane-canker",
+    "image": "images/disease-plane-canker.jpg",
+    "original": "images/disease-plane-canker-original.jpg",
+    "page": 24,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-xylella": {
+    "id": "disease-xylella",
+    "image": "images/disease-xylella.jpg",
+    "original": "images/disease-xylella-original.jpg",
+    "page": 27,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      494,
+      494
+    ]
+  },
+  "disease-fire-blight": {
+    "id": "disease-fire-blight",
+    "image": "images/disease-fire-blight.jpg",
+    "original": "images/disease-fire-blight-original.jpg",
+    "page": 27,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-pear-bacterial-blight": {
+    "id": "disease-pear-bacterial-blight",
+    "image": "images/disease-pear-bacterial-blight.jpg",
+    "original": "images/disease-pear-bacterial-blight-original.jpg",
+    "page": 28,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-stone-fruit-bacterial-spot": {
+    "id": "disease-stone-fruit-bacterial-spot",
+    "image": "images/disease-stone-fruit-bacterial-spot.jpg",
+    "original": "images/disease-stone-fruit-bacterial-spot-original.jpg",
+    "page": 28,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-crown-gall": {
+    "id": "disease-crown-gall",
+    "image": "images/disease-crown-gall.jpg",
+    "original": "images/disease-crown-gall-original.jpg",
+    "page": 28,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      496,
+      486
+    ]
+  },
+  "disease-citrus-greening": {
+    "id": "disease-citrus-greening",
+    "image": "images/disease-citrus-greening.jpg",
+    "original": "images/disease-citrus-greening-original.jpg",
+    "page": 29,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      498,
+      486
+    ]
+  },
+  "disease-potato-brown-rot": {
+    "id": "disease-potato-brown-rot",
+    "image": "images/disease-potato-brown-rot.jpg",
+    "original": "images/disease-potato-brown-rot-original.jpg",
+    "page": 29,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 4,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-potato-ring-rot": {
+    "id": "disease-potato-ring-rot",
+    "image": "images/disease-potato-ring-rot.jpg",
+    "original": "images/disease-potato-ring-rot-original.jpg",
+    "page": 29,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-tomato-bacterial-wilt": {
+    "id": "disease-tomato-bacterial-wilt",
+    "image": "images/disease-tomato-bacterial-wilt.jpg",
+    "original": "images/disease-tomato-bacterial-wilt-original.jpg",
+    "page": 30,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      498,
+      486
+    ]
+  },
+  "disease-pear-decline": {
+    "id": "disease-pear-decline",
+    "image": "images/disease-pear-decline.jpg",
+    "original": "images/disease-pear-decline-original.jpg",
+    "page": 33,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 3,
+    "crop": [
+      0,
+      0,
+      532,
+      519
+    ]
+  },
+  "disease-stone-fruit-yellows": {
+    "id": "disease-stone-fruit-yellows",
+    "image": "images/disease-stone-fruit-yellows.jpg",
+    "original": "images/disease-stone-fruit-yellows-original.jpg",
+    "page": 33,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      541,
+      528
+    ]
+  },
+  "disease-grape-flavescence": {
+    "id": "disease-grape-flavescence",
+    "image": "images/disease-grape-flavescence.jpg",
+    "original": "images/disease-grape-flavescence-original.jpg",
+    "page": 33,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      515,
+      503
+    ]
+  },
+  "disease-ornamental-phytoplasmas": {
+    "id": "disease-ornamental-phytoplasmas",
+    "image": "images/disease-ornamental-phytoplasmas.jpg",
+    "original": "images/disease-ornamental-phytoplasmas-original.jpg",
+    "page": 34,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-plum-pox": {
+    "id": "disease-plum-pox",
+    "image": "images/disease-plum-pox.jpg",
+    "original": "images/disease-plum-pox-original.jpg",
+    "page": 38,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-grape-fanleaf": {
+    "id": "disease-grape-fanleaf",
+    "image": "images/disease-grape-fanleaf.jpg",
+    "original": "images/disease-grape-fanleaf-original.jpg",
+    "page": 38,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-citrus-tristeza": {
+    "id": "disease-citrus-tristeza",
+    "image": "images/disease-citrus-tristeza.jpg",
+    "original": "images/disease-citrus-tristeza-original.jpg",
+    "page": 39,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      482,
+      470
+    ]
+  },
+  "disease-tomato-spotted-wilt-1": {
+    "id": "disease-tomato-spotted-wilt-1",
+    "image": "images/disease-tomato-spotted-wilt-1.jpg",
+    "original": "images/disease-tomato-spotted-wilt-1-original.jpg",
+    "page": 40,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-tomato-spotted-wilt-2": {
+    "id": "disease-tomato-spotted-wilt-2",
+    "image": "images/disease-tomato-spotted-wilt-2.jpg",
+    "original": "images/disease-tomato-spotted-wilt-2-original.jpg",
+    "page": 40,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      532,
+      520
+    ]
+  },
+  "disease-pepino-mosaic": {
+    "id": "disease-pepino-mosaic",
+    "image": "images/disease-pepino-mosaic.jpg",
+    "original": "images/disease-pepino-mosaic-original.jpg",
+    "page": 40,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      532,
+      520
+    ]
+  },
+  "disease-tomato-yellow-leaf-curl": {
+    "id": "disease-tomato-yellow-leaf-curl",
+    "image": "images/disease-tomato-yellow-leaf-curl.jpg",
+    "original": "images/disease-tomato-yellow-leaf-curl-original.jpg",
+    "page": 41,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      532,
+      520
+    ]
+  },
+  "disease-tomato-rugose-virus": {
+    "id": "disease-tomato-rugose-virus",
+    "image": "images/disease-tomato-rugose-virus.jpg",
+    "original": "images/disease-tomato-rugose-virus-original.jpg",
+    "page": 41,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      532,
+      520
+    ]
+  },
+  "disease-abutilon-mosaic": {
+    "id": "disease-abutilon-mosaic",
+    "image": "images/disease-abutilon-mosaic.jpg",
+    "original": "images/disease-abutilon-mosaic-original.jpg",
+    "page": 41,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      328,
+      320
+    ]
+  },
+  "disease-plant-nematodes-1": {
+    "id": "disease-plant-nematodes-1",
+    "image": "images/disease-plant-nematodes-1.jpg",
+    "original": "images/disease-plant-nematodes-1-original.jpg",
+    "page": 42,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  },
+  "disease-plant-nematodes-2": {
+    "id": "disease-plant-nematodes-2",
+    "image": "images/disease-plant-nematodes-2.jpg",
+    "original": "images/disease-plant-nematodes-2-original.jpg",
+    "page": 42,
+    "source": "fitosT2 (2).pdf",
+    "nativeImageIndex": 0,
+    "crop": [
+      0,
+      0,
+      444,
+      433
+    ]
+  }
+}
