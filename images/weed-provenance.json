@@ -1,0 +1,1024 @@
+{
+  "weed-wild-oat-1": {
+    "id": "weed-wild-oat-1",
+    "image": "images/weed-wild-oat-1.jpg",
+    "original": "images/weed-wild-oat-1-original.jpg",
+    "page": 23,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-wild-oat-2": {
+    "id": "weed-wild-oat-2",
+    "image": "images/weed-wild-oat-2.jpg",
+    "original": "images/weed-wild-oat-2-original.jpg",
+    "page": 23,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-white-wall-rocket-1": {
+    "id": "weed-white-wall-rocket-1",
+    "image": "images/weed-white-wall-rocket-1.jpg",
+    "original": "images/weed-white-wall-rocket-1-original.jpg",
+    "page": 24,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-white-wall-rocket-2": {
+    "id": "weed-white-wall-rocket-2",
+    "image": "images/weed-white-wall-rocket-2.jpg",
+    "original": "images/weed-white-wall-rocket-2-original.jpg",
+    "page": 24,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-cleavers-1": {
+    "id": "weed-cleavers-1",
+    "image": "images/weed-cleavers-1.jpg",
+    "original": "images/weed-cleavers-1-original.jpg",
+    "page": 25,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-cleavers-2": {
+    "id": "weed-cleavers-2",
+    "image": "images/weed-cleavers-2.jpg",
+    "original": "images/weed-cleavers-2-original.jpg",
+    "page": 25,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-common-poppy-1": {
+    "id": "weed-common-poppy-1",
+    "image": "images/weed-common-poppy-1.jpg",
+    "original": "images/weed-common-poppy-1-original.jpg",
+    "page": 26,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 8,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-bristly-foxtail-1": {
+    "id": "weed-bristly-foxtail-1",
+    "image": "images/weed-bristly-foxtail-1.jpg",
+    "original": "images/weed-bristly-foxtail-1-original.jpg",
+    "page": 27,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-bristly-foxtail-2": {
+    "id": "weed-bristly-foxtail-2",
+    "image": "images/weed-bristly-foxtail-2.jpg",
+    "original": "images/weed-bristly-foxtail-2-original.jpg",
+    "page": 27,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-charlock-mustard-1": {
+    "id": "weed-charlock-mustard-1",
+    "image": "images/weed-charlock-mustard-1.jpg",
+    "original": "images/weed-charlock-mustard-1-original.jpg",
+    "page": 28,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-charlock-mustard-2": {
+    "id": "weed-charlock-mustard-2",
+    "image": "images/weed-charlock-mustard-2.jpg",
+    "original": "images/weed-charlock-mustard-2-original.jpg",
+    "page": 28,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-common-sowthistle-1": {
+    "id": "weed-common-sowthistle-1",
+    "image": "images/weed-common-sowthistle-1.jpg",
+    "original": "images/weed-common-sowthistle-1-original.jpg",
+    "page": 29,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 7,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-common-chickweed-1": {
+    "id": "weed-common-chickweed-1",
+    "image": "images/weed-common-chickweed-1.jpg",
+    "original": "images/weed-common-chickweed-1-original.jpg",
+    "page": 30,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-common-chickweed-2": {
+    "id": "weed-common-chickweed-2",
+    "image": "images/weed-common-chickweed-2.jpg",
+    "original": "images/weed-common-chickweed-2-original.jpg",
+    "page": 30,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-redroot-pigweed-1": {
+    "id": "weed-redroot-pigweed-1",
+    "image": "images/weed-redroot-pigweed-1.jpg",
+    "original": "images/weed-redroot-pigweed-1-original.jpg",
+    "page": 31,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-redroot-pigweed-2": {
+    "id": "weed-redroot-pigweed-2",
+    "image": "images/weed-redroot-pigweed-2.jpg",
+    "original": "images/weed-redroot-pigweed-2-original.jpg",
+    "page": 31,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 5,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-white-goosefoot-1": {
+    "id": "weed-white-goosefoot-1",
+    "image": "images/weed-white-goosefoot-1.jpg",
+    "original": "images/weed-white-goosefoot-1-original.jpg",
+    "page": 32,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-white-goosefoot-2": {
+    "id": "weed-white-goosefoot-2",
+    "image": "images/weed-white-goosefoot-2.jpg",
+    "original": "images/weed-white-goosefoot-2-original.jpg",
+    "page": 32,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-jimsonweed-1": {
+    "id": "weed-jimsonweed-1",
+    "image": "images/weed-jimsonweed-1.jpg",
+    "original": "images/weed-jimsonweed-1-original.jpg",
+    "page": 33,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-jimsonweed-2": {
+    "id": "weed-jimsonweed-2",
+    "image": "images/weed-jimsonweed-2.jpg",
+    "original": "images/weed-jimsonweed-2-original.jpg",
+    "page": 33,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-barnyard-grass-1": {
+    "id": "weed-barnyard-grass-1",
+    "image": "images/weed-barnyard-grass-1.jpg",
+    "original": "images/weed-barnyard-grass-1-original.jpg",
+    "page": 34,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-barnyard-grass-2": {
+    "id": "weed-barnyard-grass-2",
+    "image": "images/weed-barnyard-grass-2.jpg",
+    "original": "images/weed-barnyard-grass-2-original.jpg",
+    "page": 34,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-common-fumitory-1": {
+    "id": "weed-common-fumitory-1",
+    "image": "images/weed-common-fumitory-1.jpg",
+    "original": "images/weed-common-fumitory-1-original.jpg",
+    "page": 35,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-common-fumitory-2": {
+    "id": "weed-common-fumitory-2",
+    "image": "images/weed-common-fumitory-2.jpg",
+    "original": "images/weed-common-fumitory-2-original.jpg",
+    "page": 35,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-common-purslane-1": {
+    "id": "weed-common-purslane-1",
+    "image": "images/weed-common-purslane-1.jpg",
+    "original": "images/weed-common-purslane-1-original.jpg",
+    "page": 36,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-common-purslane-2": {
+    "id": "weed-common-purslane-2",
+    "image": "images/weed-common-purslane-2.jpg",
+    "original": "images/weed-common-purslane-2-original.jpg",
+    "page": 36,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-prickly-saltwort-1": {
+    "id": "weed-prickly-saltwort-1",
+    "image": "images/weed-prickly-saltwort-1.jpg",
+    "original": "images/weed-prickly-saltwort-1-original.jpg",
+    "page": 37,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-prickly-saltwort-2": {
+    "id": "weed-prickly-saltwort-2",
+    "image": "images/weed-prickly-saltwort-2.jpg",
+    "original": "images/weed-prickly-saltwort-2-original.jpg",
+    "page": 37,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-black-nightshade-1": {
+    "id": "weed-black-nightshade-1",
+    "image": "images/weed-black-nightshade-1.jpg",
+    "original": "images/weed-black-nightshade-1-original.jpg",
+    "page": 38,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-black-nightshade-2": {
+    "id": "weed-black-nightshade-2",
+    "image": "images/weed-black-nightshade-2.jpg",
+    "original": "images/weed-black-nightshade-2-original.jpg",
+    "page": 38,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-creeping-thistle-1": {
+    "id": "weed-creeping-thistle-1",
+    "image": "images/weed-creeping-thistle-1.jpg",
+    "original": "images/weed-creeping-thistle-1-original.jpg",
+    "page": 39,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-creeping-thistle-2": {
+    "id": "weed-creeping-thistle-2",
+    "image": "images/weed-creeping-thistle-2.jpg",
+    "original": "images/weed-creeping-thistle-2-original.jpg",
+    "page": 39,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-common-mallow-1": {
+    "id": "weed-common-mallow-1",
+    "image": "images/weed-common-mallow-1.jpg",
+    "original": "images/weed-common-mallow-1-original.jpg",
+    "page": 40,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 7,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-prickly-lettuce-1": {
+    "id": "weed-prickly-lettuce-1",
+    "image": "images/weed-prickly-lettuce-1.jpg",
+    "original": "images/weed-prickly-lettuce-1-original.jpg",
+    "page": 41,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-prickly-lettuce-2": {
+    "id": "weed-prickly-lettuce-2",
+    "image": "images/weed-prickly-lettuce-2.jpg",
+    "original": "images/weed-prickly-lettuce-2-original.jpg",
+    "page": 41,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-milk-thistle-1": {
+    "id": "weed-milk-thistle-1",
+    "image": "images/weed-milk-thistle-1.jpg",
+    "original": "images/weed-milk-thistle-1-original.jpg",
+    "page": 42,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-milk-thistle-2": {
+    "id": "weed-milk-thistle-2",
+    "image": "images/weed-milk-thistle-2.jpg",
+    "original": "images/weed-milk-thistle-2-original.jpg",
+    "page": 42,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-persian-speedwell-1": {
+    "id": "weed-persian-speedwell-1",
+    "image": "images/weed-persian-speedwell-1.jpg",
+    "original": "images/weed-persian-speedwell-1-original.jpg",
+    "page": 43,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-shepherds-purse-1": {
+    "id": "weed-shepherds-purse-1",
+    "image": "images/weed-shepherds-purse-1.jpg",
+    "original": "images/weed-shepherds-purse-1-original.jpg",
+    "page": 44,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-shepherds-purse-2": {
+    "id": "weed-shepherds-purse-2",
+    "image": "images/weed-shepherds-purse-2.jpg",
+    "original": "images/weed-shepherds-purse-2-original.jpg",
+    "page": 44,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-field-bindweed-1": {
+    "id": "weed-field-bindweed-1",
+    "image": "images/weed-field-bindweed-1.jpg",
+    "original": "images/weed-field-bindweed-1-original.jpg",
+    "page": 45,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-field-bindweed-2": {
+    "id": "weed-field-bindweed-2",
+    "image": "images/weed-field-bindweed-2.jpg",
+    "original": "images/weed-field-bindweed-2-original.jpg",
+    "page": 45,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-bermuda-grass-1": {
+    "id": "weed-bermuda-grass-1",
+    "image": "images/weed-bermuda-grass-1.jpg",
+    "original": "images/weed-bermuda-grass-1-original.jpg",
+    "page": 46,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-bermuda-grass-2": {
+    "id": "weed-bermuda-grass-2",
+    "image": "images/weed-bermuda-grass-2.jpg",
+    "original": "images/weed-bermuda-grass-2-original.jpg",
+    "page": 46,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-purple-nutsedge-1": {
+    "id": "weed-purple-nutsedge-1",
+    "image": "images/weed-purple-nutsedge-1.jpg",
+    "original": "images/weed-purple-nutsedge-1-original.jpg",
+    "page": 47,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-ribwort-plantain-1": {
+    "id": "weed-ribwort-plantain-1",
+    "image": "images/weed-ribwort-plantain-1.jpg",
+    "original": "images/weed-ribwort-plantain-1-original.jpg",
+    "page": 48,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-ribwort-plantain-2": {
+    "id": "weed-ribwort-plantain-2",
+    "image": "images/weed-ribwort-plantain-2.jpg",
+    "original": "images/weed-ribwort-plantain-2-original.jpg",
+    "page": 48,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-broadleaf-dock-1": {
+    "id": "weed-broadleaf-dock-1",
+    "image": "images/weed-broadleaf-dock-1.jpg",
+    "original": "images/weed-broadleaf-dock-1-original.jpg",
+    "page": 49,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-broadleaf-dock-2": {
+    "id": "weed-broadleaf-dock-2",
+    "image": "images/weed-broadleaf-dock-2.jpg",
+    "original": "images/weed-broadleaf-dock-2-original.jpg",
+    "page": 49,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-johnson-grass-1": {
+    "id": "weed-johnson-grass-1",
+    "image": "images/weed-johnson-grass-1.jpg",
+    "original": "images/weed-johnson-grass-1-original.jpg",
+    "page": 50,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-johnson-grass-2": {
+    "id": "weed-johnson-grass-2",
+    "image": "images/weed-johnson-grass-2.jpg",
+    "original": "images/weed-johnson-grass-2-original.jpg",
+    "page": 50,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-dandelion-1": {
+    "id": "weed-dandelion-1",
+    "image": "images/weed-dandelion-1.jpg",
+    "original": "images/weed-dandelion-1-original.jpg",
+    "page": 51,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-dandelion-2": {
+    "id": "weed-dandelion-2",
+    "image": "images/weed-dandelion-2.jpg",
+    "original": "images/weed-dandelion-2-original.jpg",
+    "page": 51,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-stinging-nettle-1": {
+    "id": "weed-stinging-nettle-1",
+    "image": "images/weed-stinging-nettle-1.jpg",
+    "original": "images/weed-stinging-nettle-1-original.jpg",
+    "page": 52,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-palmer-amaranth-1": {
+    "id": "weed-palmer-amaranth-1",
+    "image": "images/weed-palmer-amaranth-1.jpg",
+    "original": "images/weed-palmer-amaranth-1-original.jpg",
+    "page": 53,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-rice-cutgrass-1": {
+    "id": "weed-rice-cutgrass-1",
+    "image": "images/weed-rice-cutgrass-1.jpg",
+    "original": "images/weed-rice-cutgrass-1-original.jpg",
+    "page": 54,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-rice-cutgrass-2": {
+    "id": "weed-rice-cutgrass-2",
+    "image": "images/weed-rice-cutgrass-2.jpg",
+    "original": "images/weed-rice-cutgrass-2-original.jpg",
+    "page": 54,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-sprangletop-1": {
+    "id": "weed-sprangletop-1",
+    "image": "images/weed-sprangletop-1.jpg",
+    "original": "images/weed-sprangletop-1-original.jpg",
+    "page": 55,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-rigid-ryegrass-1": {
+    "id": "weed-rigid-ryegrass-1",
+    "image": "images/weed-rigid-ryegrass-1.jpg",
+    "original": "images/weed-rigid-ryegrass-1-original.jpg",
+    "page": 56,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-rigid-ryegrass-2": {
+    "id": "weed-rigid-ryegrass-2",
+    "image": "images/weed-rigid-ryegrass-2.jpg",
+    "original": "images/weed-rigid-ryegrass-2-original.jpg",
+    "page": 56,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-bur-cucumber-1": {
+    "id": "weed-bur-cucumber-1",
+    "image": "images/weed-bur-cucumber-1.jpg",
+    "original": "images/weed-bur-cucumber-1-original.jpg",
+    "page": 57,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 4,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-bur-cucumber-2": {
+    "id": "weed-bur-cucumber-2",
+    "image": "images/weed-bur-cucumber-2.jpg",
+    "original": "images/weed-bur-cucumber-2-original.jpg",
+    "page": 57,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 5,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-carolina-horsenettle-1": {
+    "id": "weed-carolina-horsenettle-1",
+    "image": "images/weed-carolina-horsenettle-1.jpg",
+    "original": "images/weed-carolina-horsenettle-1-original.jpg",
+    "page": 58,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-carolina-horsenettle-2": {
+    "id": "weed-carolina-horsenettle-2",
+    "image": "images/weed-carolina-horsenettle-2.jpg",
+    "original": "images/weed-carolina-horsenettle-2-original.jpg",
+    "page": 58,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-teosinte-1": {
+    "id": "weed-teosinte-1",
+    "image": "images/weed-teosinte-1.jpg",
+    "original": "images/weed-teosinte-1-original.jpg",
+    "page": 59,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-teosinte-2": {
+    "id": "weed-teosinte-2",
+    "image": "images/weed-teosinte-2.jpg",
+    "original": "images/weed-teosinte-2-original.jpg",
+    "page": 59,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-teosinte-3": {
+    "id": "weed-teosinte-3",
+    "image": "images/weed-teosinte-3.jpg",
+    "original": "images/weed-teosinte-3-original.jpg",
+    "page": 59,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 3,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-mistletoe-1": {
+    "id": "weed-mistletoe-1",
+    "image": "images/weed-mistletoe-1.jpg",
+    "original": "images/weed-mistletoe-1-original.jpg",
+    "page": 61,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-mistletoe-2": {
+    "id": "weed-mistletoe-2",
+    "image": "images/weed-mistletoe-2.jpg",
+    "original": "images/weed-mistletoe-2-original.jpg",
+    "page": 61,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-dodder-1": {
+    "id": "weed-dodder-1",
+    "image": "images/weed-dodder-1.jpg",
+    "original": "images/weed-dodder-1-original.jpg",
+    "page": 62,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 4,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-dodder-2": {
+    "id": "weed-dodder-2",
+    "image": "images/weed-dodder-2.jpg",
+    "original": "images/weed-dodder-2-original.jpg",
+    "page": 62,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 5,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-crenate-broomrape-1": {
+    "id": "weed-crenate-broomrape-1",
+    "image": "images/weed-crenate-broomrape-1.jpg",
+    "original": "images/weed-crenate-broomrape-1-original.jpg",
+    "page": 63,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  },
+  "weed-crenate-broomrape-2": {
+    "id": "weed-crenate-broomrape-2",
+    "image": "images/weed-crenate-broomrape-2.jpg",
+    "original": "images/weed-crenate-broomrape-2-original.jpg",
+    "page": 63,
+    "source": "fitosT3 (1).pdf",
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      55,
+      500,
+      303
+    ]
+  }
+}
