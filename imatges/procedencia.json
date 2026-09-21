@@ -1,0 +1,470 @@
+{
+  "patata": {
+    "image": "imatges/patata.jpg",
+    "original": "imatges/patata-font.jpg",
+    "page": 18,
+    "strip": "p1-Image358",
+    "box": [
+      3,
+      65,
+      175,
+      265
+    ]
+  },
+  "diablo": {
+    "image": "imatges/diablo.jpg",
+    "original": "imatges/diablo-font.jpg",
+    "page": 18,
+    "strip": "p1-Image358",
+    "box": [
+      3,
+      303,
+      175,
+      525
+    ]
+  },
+  "cuca": {
+    "image": "imatges/cuca.jpg",
+    "original": "imatges/cuca-font.jpg",
+    "page": 18,
+    "strip": "p1-Image359",
+    "box": [
+      3,
+      76,
+      194,
+      280
+    ]
+  },
+  "zabre": {
+    "image": "imatges/zabre.jpg",
+    "original": "imatges/zabre-font.jpg",
+    "page": 18,
+    "strip": "p1-Image359",
+    "box": [
+      3,
+      363,
+      194,
+      564
+    ]
+  },
+  "morrut": {
+    "image": "imatges/morrut.jpg",
+    "original": "imatges/morrut-font.jpg",
+    "page": 18,
+    "strip": "p1-Image359",
+    "box": [
+      3,
+      647,
+      194,
+      845
+    ]
+  },
+  "mediterrania": {
+    "image": "imatges/mediterrania.jpg",
+    "original": "imatges/mediterrania-font.jpg",
+    "page": 19,
+    "strip": "p2-Image367",
+    "box": [
+      3,
+      80,
+      208,
+      264
+    ]
+  },
+  "olivera": {
+    "image": "imatges/olivera.jpg",
+    "original": "imatges/olivera-font.jpg",
+    "page": 19,
+    "strip": "p2-Image367",
+    "box": [
+      3,
+      297,
+      208,
+      524
+    ]
+  },
+  "suzukii": {
+    "image": "imatges/suzukii.jpg",
+    "original": "imatges/suzukii-font.jpg",
+    "page": 19,
+    "strip": "p2-Image368",
+    "box": [
+      3,
+      90,
+      212,
+      312
+    ]
+  },
+  "tipula": {
+    "image": "imatges/tipula.jpg",
+    "original": "imatges/tipula-font.jpg",
+    "page": 19,
+    "strip": "p2-Image368",
+    "box": [
+      3,
+      367,
+      212,
+      626
+    ]
+  },
+  "mexicana": {
+    "image": "imatges/mexicana.jpg",
+    "original": "imatges/mexicana-font.jpg",
+    "page": 19,
+    "strip": "p2-Image368",
+    "box": [
+      3,
+      714,
+      212,
+      938
+    ]
+  },
+  "bernat": {
+    "image": "imatges/bernat.jpg",
+    "original": "imatges/bernat-font.jpg",
+    "page": 20,
+    "strip": "p3-Image375",
+    "box": [
+      3,
+      92,
+      246,
+      366
+    ]
+  },
+  "xinxes": {
+    "image": "imatges/xinxes.jpg",
+    "original": "imatges/xinxes-font.jpg",
+    "page": 20,
+    "strip": "p3-Image376",
+    "box": [
+      3,
+      45,
+      246,
+      365
+    ]
+  },
+  "pudenta": {
+    "image": "imatges/pudenta.jpg",
+    "original": "imatges/pudenta-font.jpg",
+    "page": 20,
+    "strip": "p3-Image376",
+    "box": [
+      3,
+      446,
+      246,
+      743
+    ]
+  },
+  "psilla": {
+    "image": "imatges/psilla.jpg",
+    "original": "imatges/psilla-font.jpg",
+    "page": 21,
+    "strip": "p4-Image383",
+    "box": [
+      3,
+      28,
+      105,
+      155
+    ]
+  },
+  "poll": {
+    "image": "imatges/poll.jpg",
+    "original": "imatges/poll-font.jpg",
+    "page": 21,
+    "strip": "p4-Image384",
+    "box": [
+      3,
+      38,
+      105,
+      155
+    ]
+  },
+  "cotonet": {
+    "image": "imatges/cotonet.jpg",
+    "original": "imatges/cotonet-font.jpg",
+    "page": 21,
+    "strip": "p4-Image384",
+    "box": [
+      3,
+      198,
+      105,
+      308
+    ]
+  },
+  "caparreta": {
+    "image": "imatges/caparreta.jpg",
+    "original": "imatges/caparreta-font.jpg",
+    "page": 21,
+    "strip": "p4-Image384",
+    "box": [
+      3,
+      346,
+      105,
+      465
+    ]
+  },
+  "fusta": {
+    "image": "imatges/fusta.jpg",
+    "original": "imatges/fusta-font.jpg",
+    "page": 22,
+    "strip": "p5-Image395",
+    "box": [
+      3,
+      48,
+      245,
+      354
+    ]
+  },
+  "panis": {
+    "image": "imatges/panis.jpg",
+    "original": "imatges/panis-font.jpg",
+    "page": 22,
+    "strip": "p5-Image395",
+    "box": [
+      3,
+      414,
+      245,
+      715
+    ]
+  },
+  "carpocapsa": {
+    "image": "imatges/carpocapsa.jpg",
+    "original": "imatges/carpocapsa-font.jpg",
+    "page": 22,
+    "strip": "p5-Image395",
+    "box": [
+      3,
+      772,
+      245,
+      1078
+    ]
+  },
+  "processionaria": {
+    "image": "imatges/processionaria.jpg",
+    "original": "imatges/processionaria-font.jpg",
+    "page": 23,
+    "strip": "p6-Image402",
+    "box": [
+      3,
+      100,
+      245,
+      349
+    ]
+  },
+  "tuta": {
+    "image": "imatges/tuta.jpg",
+    "original": "imatges/tuta-font.jpg",
+    "page": 23,
+    "strip": "p6-Image402",
+    "box": [
+      3,
+      409,
+      245,
+      699
+    ]
+  },
+  "ortopter-1": {
+    "image": "imatges/ortopter-1.jpg",
+    "original": "imatges/ortopter-1-font.jpg",
+    "page": 23,
+    "strip": "p6-Image403",
+    "box": [
+      3,
+      3,
+      101,
+      150
+    ]
+  },
+  "ortopter-2": {
+    "image": "imatges/ortopter-2.jpg",
+    "original": "imatges/ortopter-2-font.jpg",
+    "page": 23,
+    "strip": "p6-Image404",
+    "box": [
+      3,
+      3,
+      101,
+      152
+    ]
+  },
+  "trip": {
+    "image": "imatges/trip.jpg",
+    "original": "imatges/trip-font.jpg",
+    "page": 24,
+    "strip": "p7-Image412",
+    "box": [
+      3,
+      94,
+      246,
+      351
+    ]
+  },
+  "hoplocampa": {
+    "image": "imatges/hoplocampa.jpg",
+    "original": "imatges/hoplocampa-font.jpg",
+    "page": 24,
+    "strip": "p7-Image414",
+    "box": [
+      3,
+      99,
+      245,
+      362
+    ]
+  },
+  "arge-larva": {
+    "image": "imatges/arge-larva.jpg",
+    "original": "imatges/arge-larva-font.jpg",
+    "page": 24,
+    "strip": "p7-Image414",
+    "box": [
+      3,
+      421,
+      245,
+      721
+    ]
+  },
+  "arge-adult": {
+    "image": "imatges/arge-adult.jpg",
+    "original": "imatges/arge-adult-font.jpg",
+    "page": 24,
+    "strip": "p7-Image414",
+    "box": [
+      3,
+      776,
+      245,
+      1078
+    ]
+  },
+  "ulmi": {
+    "image": "imatges/ulmi.jpg",
+    "original": "imatges/ulmi-font.jpg",
+    "page": 29,
+    "strip": "p8-Image487",
+    "box": [
+      3,
+      66,
+      170,
+      251
+    ]
+  },
+  "urticae": {
+    "image": "imatges/urticae.jpg",
+    "original": "imatges/urticae-font.jpg",
+    "page": 29,
+    "strip": "p8-Image487",
+    "box": [
+      3,
+      314,
+      170,
+      501
+    ]
+  },
+  "ous": {
+    "image": "imatges/ous.jpg",
+    "original": "imatges/ous-font.jpg",
+    "page": 29,
+    "strip": "p8-Image487",
+    "box": [
+      3,
+      592,
+      170,
+      749
+    ]
+  },
+  "colonia-1": {
+    "image": "imatges/colonia-1.jpg",
+    "original": "imatges/colonia-1-font.jpg",
+    "page": 29,
+    "strip": "p8-Image487",
+    "box": [
+      3,
+      825,
+      170,
+      996
+    ]
+  },
+  "colonia-2": {
+    "image": "imatges/colonia-2.jpg",
+    "original": "imatges/colonia-2-font.jpg",
+    "page": 29,
+    "strip": "p8-Image487",
+    "box": [
+      3,
+      1066,
+      170,
+      1229
+    ]
+  },
+  "tarsonemid-1": {
+    "image": "imatges/tarsonemid-1.jpg",
+    "original": "imatges/tarsonemid-1-font.jpg",
+    "page": 30,
+    "strip": "p9-Image493",
+    "box": [
+      3,
+      72,
+      205,
+      295
+    ]
+  },
+  "tarsonemid-2": {
+    "image": "imatges/tarsonemid-2.jpg",
+    "original": "imatges/tarsonemid-2-font.jpg",
+    "page": 30,
+    "strip": "p9-Image493",
+    "box": [
+      3,
+      301,
+      205,
+      581
+    ]
+  },
+  "agalles": {
+    "image": "imatges/agalles.jpg",
+    "original": "imatges/agalles-font.jpg",
+    "page": 30,
+    "strip": "p9-Image495",
+    "box": [
+      3,
+      40,
+      205,
+      295
+    ]
+  },
+  "hipertrofies": {
+    "image": "imatges/hipertrofies.jpg",
+    "original": "imatges/hipertrofies-font.jpg",
+    "page": 30,
+    "strip": "p9-Image495",
+    "box": [
+      3,
+      338,
+      205,
+      592
+    ]
+  },
+  "badoc": {
+    "image": "imatges/badoc.jpg",
+    "original": "imatges/badoc-font.jpg",
+    "page": 30,
+    "strip": "p9-Image495",
+    "box": [
+      3,
+      677,
+      205,
+      886
+    ]
+  },
+  "erinosi": {
+    "image": "imatges/erinosi.jpg",
+    "original": "imatges/erinosi-font.jpg",
+    "page": 30,
+    "strip": "p9-Image495",
+    "box": [
+      3,
+      927,
+      205,
+      1184
+    ]
+  }
+}
