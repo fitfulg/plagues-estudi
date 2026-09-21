@@ -9,3 +9,7 @@
 - Fotografies ampliades mantenint la proporció original. La resolució màxima continua sent la de les imatges del PDF.
 
 - Noms de tots els fitxers i recursos en anglès; rutes actualitzades i proves de 1.000 sessions repetides correctament.
+
+- Mode de malalties: 49 fitxes, 51 variants fotogràfiques, 231 preguntes, 1.000 sessions aleatòries i proves completes del controlador.
+- Selector inicial i canvi de mode provats: els bancs de preguntes són independents i la puntuació es reinicia.
+- Revisió visual de les 47 pàgines del nou PDF i de totes les imatges exportades; crèdits i proporcions conservats.

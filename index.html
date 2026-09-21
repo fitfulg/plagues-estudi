@@ -4,17 +4,30 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#102923">
-  <meta name="description" content="Practica les plagues dels cultius amb les fotografies i el temari del PDF. Identificació, danys, cultius i característiques.">
-  <title>Plagues · Joc d’estudi</title>
+  <meta name="description" content="Practica les plagues i malalties dels cultius amb les fotografies i el temari del PDF. Identificació, danys, cultius i característiques.">
+  <title>Plagues i malalties · Joc d’estudi</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles.css?v=5">
+  <link rel="stylesheet" href="styles.css?v=7">
   <script defer src="data.js?v=4"></script>
+  <script defer src="disease-data.js?v=2"></script>
   <script defer src="engine.js"></script>
-  <script defer src="app.js?v=7"></script>
+  <script defer src="app.js?v=9"></script>
 </head>
 <body>
-  <header class="top"><div class="brand"><span class="brand-icon" aria-hidden="true">✳</span><div><strong>PLAGUES</strong><span>Joc d’estudi · Agricultura</span></div></div><button id="restart" class="quiet">Reinicia ↻</button></header>
+  <header class="top"><div class="brand"><span class="brand-icon" aria-hidden="true">✳</span><div><strong>SANITAT VEGETAL</strong><span id="mode-label">Joc d’estudi · Agricultura</span></div></div><div class="header-actions"><button id="change-mode" class="quiet" hidden>Canvia de joc</button><button id="restart" class="quiet" hidden>Reinicia ↻</button></div></header>
   <main>
+    <section id="mode-picker" class="mode-picker" aria-labelledby="picker-title">
+      <p class="eyebrow">DOS TEMARIS · UNA MANERA D’APRENDRE</p>
+      <h1 id="picker-title" tabindex="-1">Què vols practicar avui?</h1>
+      <p class="picker-intro">Tria un joc. Observa les imatges, posa a prova el que saps i repassa al teu ritme.</p>
+      <div class="mode-grid">
+        <button id="choose-pests" class="mode-card"><img src="images/potato-beetle.jpg" alt="" width="280" height="190"><span class="mode-copy"><span class="mode-kicker">INSECTES I ÀCARS</span><strong>Plagues</strong><span>Noms, cultius, danys i característiques principals.</span><span class="mode-count">34 fitxes · 39 imatges</span><span class="mode-start">Juga a plagues →</span></span></button>
+        <button id="choose-diseases" class="mode-card disease-mode"><img src="images/disease-grape-downy-mildew.jpg" alt="" width="280" height="190"><span class="mode-copy"><span class="mode-kicker">AGENTS I SÍMPTOMES</span><strong>Malalties</strong><span>Fongs, bacteris, fitoplasmes, virus i nematodes.</span><span class="mode-count">49 fitxes · 51 imatges</span><span class="mode-start">Juga a malalties →</span></span></button>
+      </div>
+      <p class="picker-help">10 rondes per sessió · Correcció immediata · Fitxes d’estudi opcionals</p>
+      <p class="picker-note">Pots tornar aquí amb «Canvia de joc». Triar un joc comença una sessió nova.</p>
+    </section>
+    <div id="play-area" hidden>
     <div class="intro"><div><p class="eyebrow">OBSERVA · RECONEIX · APRÈN</p><h1>Què ens diu aquesta imatge?</h1><p>Una imatge, diverses preguntes. Tria una resposta i aprèn amb la correcció.</p></div><div class="session-tag">10 rondes <span>al teu ritme</span></div></div>
     <section class="scorebar" aria-label="Progrés de la sessió"><div><span class="stat-label">RONDA</span><strong id="round-count">1 / 10</strong></div><div><span class="stat-label">ENCERTS</span><strong id="score-count">0</strong></div><div><span class="stat-label">RESPOSTES</span><strong id="answer-count">0 / 30</strong></div><div class="progress-wrap"><span id="progress-label">Comencem!</span><progress id="progress" max="30" value="0" aria-label="Preguntes respostes"></progress></div></section>
     <section id="game" class="game" aria-label="Joc de preguntes">
@@ -30,16 +43,18 @@
           </div>
           <div id="study-view" class="study-view" hidden tabindex="0" role="region" aria-label="Fitxa d’estudi completa">
             <section id="study-card" class="study-card"></section>
-            <details id="source-details" hidden><summary>Veure la imatge original i el context</summary><div class="source-body"><img id="original" alt="Fotografia original amb el rètol"><div><h3 id="source-name"></h3><p id="source-note"></p><p id="source-page"></p><p>Es conserva la terminologia del document. Els rètols s’oculten durant la pregunta.</p></div></div></details>
+            <details id="source-details" hidden><summary>Veure la imatge original i el context</summary><div class="source-body"><img id="original" alt="Fotografia original del temari"><div><h3 id="source-name"></h3><p id="source-note"></p><p id="source-page"></p><p>Es conserva la terminologia del document. Els rètols s’oculten durant la pregunta.</p></div></div></details>
           </div>
         </div>
         <div class="question-bottom"><span id="help">Tria una opció per continuar.</span><button id="next" class="primary" disabled>Següent pregunta <span aria-hidden="true">→</span></button></div>
       </div>
     </section>
     <section id="results" class="results" hidden><p class="eyebrow">SESSIÓ COMPLETADA</p><h2 id="result-title" tabindex="-1">Bona feina!</h2><p id="result-score" class="result-score"></p><p id="result-message"></p><button id="again" class="primary">Torna a jugar ↻</button><div id="review"></div></section>
-    <footer><span>39 imatges · 34 fitxes · 208 preguntes</span><details><summary>Sobre el contingut i les fonts</summary><p>Basat exclusivament en <strong>fitosT1 (1)-18-24_merged.pdf</strong>, «Coneix les plagues que afecten els cultius». Pàgines impreses 18–24, 29 i 30 (9 pàgines del fitxer). Fotografies extretes del mateix PDF; s’hi conserven els crèdits visibles.</p><p>Les fotografies genèriques només donen lloc a preguntes del grup. Els danys il·lustrats s’associen a la plaga indicada al document, sense afirmar que siguin diagnòstics exclusius. La qualificació de quarantena o de plaga prioritària es pregunta tal com figura al temari, no com una consulta normativa actual.</p><p>Les correccions indiquen la pàgina impresa. Algunes descripcions es presenten com a extractes abreujats. No s’han incorporat continguts dels enllaços externs del PDF.</p><a href="content.json" download>Descarrega el banc de preguntes i les referències</a></details></footer>
+    <footer><span id="catalog-count"></span><details><summary>Sobre el contingut i les fonts</summary><p>Dos modes independents: «Plagues», basat en <strong>fitosT1 (1)-18-24_merged.pdf</strong>, i «Malalties», basat en <strong>fitosT2 (2).pdf</strong>, «Coneix les malalties que afecten els cultius». Fotografies extretes dels documents originals; s’hi conserven els crèdits visibles.</p><p>Les fotografies genèriques només donen lloc a preguntes del grup. Els danys il·lustrats s’associen a la plaga indicada al document, sense afirmar que siguin diagnòstics exclusius. La qualificació de quarantena o de plaga prioritària es pregunta tal com figura al temari, no com una consulta normativa actual.</p><p>Les correccions indiquen la pàgina impresa. Algunes descripcions es presenten com a extractes abreujats. No s’han incorporat continguts dels enllaços externs del PDF.</p><a id="data-download" href="content.json" download>Descarrega el banc de preguntes i les referències</a></details></footer>
+    </div>
   </main>
   <noscript>Activa JavaScript per jugar. El contingut també es pot consultar al fitxer content.json.</noscript>
 </body>
 </html>
+
 

@@ -1,7 +1,10 @@
 /* Buildless, offline-compatible: local relative assets only. */
 (()=>{
   'use strict';
-  const $=id=>document.getElementById(id), data=window.PLAGUES_DATA;
+  const $=id=>document.getElementById(id);
+  const modes={pests:{data:window.PLAGUES_DATA,label:'Plagues',file:'content.json'},diseases:{data:window.DISEASE_DATA,label:'Malalties',file:'disease-content.json'}};
+  let data=null,mode=null;
+  const previousCards={pests:null,diseases:null};
   let rounds=[],ri=0,qi=0,score=0,answered=0,locked=false,history=[],total=0,lastCard=null;
   const current=()=>rounds[ri], question=()=>current().questions[qi];
   function stats(){
@@ -12,11 +15,13 @@
     $('progress-label').textContent=answered?`${Math.round(answered/total*100)}% de la sessió`:'Comencem!';
   }
   function start(){
+    if(!data)return;
+    lastCard=previousCards[mode];
     rounds=PlagueEngine.createSession(data.cards,lastCard);ri=0;qi=0;score=0;answered=0;history=[];total=rounds.reduce((n,r)=>n+r.questions.length,0);
     $('game').hidden=false;$('results').hidden=true;render(false);
   }
   function render(focus=true){
-    const r=current(),q=question();locked=false;lastCard=r.card.id;
+    const r=current(),q=question();locked=false;lastCard=r.card.id;previousCards[mode]=lastCard;
     $('photo').src=r.image.image;$('photo').alt='Fotografia del temari per identificar: observa l’exemplar o els símptomes.';$('photo').hidden=false;$('image-error').hidden=true;
     $('image-label').textContent=`IMATGE ${String(ri+1).padStart(2,'0')}`;
     $('photo-caption').textContent=qi?'Continua amb la mateixa imatge.':'Observa la fotografia abans de respondre.';
@@ -45,7 +50,7 @@
       panel.append(list);
     }
     const identity=[{label:'Nom',text:card.name}];
-    if(card.science)identity.push({label:'Nom científic',text:card.science});
+    if(card.science)identity.push({label:card.scienceLabel||'Nom científic',text:card.science});
     if(card.group)identity.push({label:'Classificació',text:card.group});
     fields([...identity,...card.study]);
     if(card.groupStudy.fields.length){
@@ -53,7 +58,7 @@
       fields(card.groupStudy.fields);
     }
     const source=document.createElement('p');source.className='source-ref';
-    const pages=[...new Set([card.page,card.groupStudy.page,...(card.group==='Hemípters · esternorrincs'?[21]:[])])].sort((a,b)=>a-b);
+    const pages=[...new Set([card.page,...(card.groupStudy.pages||[card.groupStudy.page]),...(card.group==='Hemípters · esternorrincs'?[21]:[])])].sort((a,b)=>a-b);
     source.textContent=`Font: temari original · ${pages.length>1?'pàgines':'pàgina'} ${pages.join(', ')}.`;
     panel.append(source);
   }
@@ -72,15 +77,15 @@
   function answer(value){
     if(locked)return;locked=true;const q=question(),r=current(),correct=value===q.answer;
     $('photo').src=r.image.original;
-    $('photo').alt=`Fotografia original amb el rètol: ${r.card.name}`;
-    $('photo-caption').textContent='Imatge original amb el rètol del temari.';
+    $('photo').alt=`Fotografia original: ${r.card.name}`;
+    $('photo-caption').textContent=mode==='diseases'?'Imatge original del temari de malalties.':'Imatge original amb el rètol del temari.';
     answered++;if(correct)score++;
     history.push({card:r.card.name,prompt:q.prompt,chosen:value,answer:q.answer,correct,page:q.page});
     [...$('options').children].forEach((button,i)=>{button.disabled=true;const option=q.options[i];if(option===q.answer){button.classList.add('correct');button.firstChild.textContent='✓';button.setAttribute('aria-label',`Resposta correcta: ${option}`);}else if(option===value){button.classList.add('wrong');button.firstChild.textContent='×';button.setAttribute('aria-label',`Resposta incorrecta: ${option}`);}});
     const heading=document.createElement('strong');heading.textContent=correct?'✓ Correcte!':'Repassem-ho: la resposta correcta és…';
     const answerText=document.createElement('p');answerText.textContent=q.answer;
     const excerpt=document.createElement('p');excerpt.textContent=q.quote;
-    const ref=document.createElement('p');ref.className='source-ref';ref.textContent=`Segons el temari · pàgina impresa ${q.page}`;
+    const ref=document.createElement('p');ref.className='source-ref';ref.textContent=`${modes[mode].label} · pàgina impresa ${q.page}`;
     $('feedback').append(heading,answerText,excerpt,ref);if(!correct)$('feedback').classList.add('incorrect');
     showStudy(r.card);
     $('study-toolbar').hidden=false;
@@ -110,5 +115,21 @@
   $('toggle-study').addEventListener('click',toggleStudy);
   $('next').addEventListener('click',next);$('restart').addEventListener('click',start);$('again').addEventListener('click',()=>{start();$('game').scrollIntoView({block:'start',behavior:'instant'});});
   $('photo').addEventListener('error',()=>{$('photo').hidden=true;$('image-error').hidden=false;[...$('options').children].forEach(b=>b.disabled=true);$('help').textContent='Cal carregar la imatge per poder respondre.';});
-  start();
+  function chooseMode(key){
+    mode=key;data=modes[key].data;
+    $('mode-picker').hidden=true;$('play-area').hidden=false;$('restart').hidden=false;$('change-mode').hidden=false;
+    $('mode-label').textContent=modes[key].label;
+    $('catalog-count').textContent=`${data.cards.reduce((n,c)=>n+c.images.length,0)} imatges · ${data.cards.length} fitxes · ${data.cards.reduce((n,c)=>n+c.questions.length,0)} preguntes`;
+    $('data-download').href=modes[key].file;
+    start();$('question').focus({preventScroll:true});
+  }
+  function showModes(){
+    $('mode-picker').hidden=false;$('play-area').hidden=true;$('restart').hidden=true;$('change-mode').hidden=true;
+    $('mode-label').textContent='Joc d’estudi · Agricultura';
+    $('picker-title').focus({preventScroll:true});
+  }
+  $('choose-pests').addEventListener('click',()=>chooseMode('pests'));
+  $('choose-diseases').addEventListener('click',()=>chooseMode('diseases'));
+  $('change-mode').addEventListener('click',showModes);
+  showModes();
 })();
