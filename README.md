@@ -4,7 +4,7 @@ Aplicació estàtica en català basada exclusivament en `fitosT1 (1)-18-24_merge
 
 ## Obrir l’app
 
-Obriu `index.html` en un navegador. No cal instal·lar res ni connexió a Internet. Manteniu tots els fitxers i la carpeta `imatges` junts. També es pot servir aquesta carpeta amb qualsevol servidor HTTP estàtic.
+Obriu `index.html` en un navegador. No cal instal·lar res ni connexió a Internet. Manteniu tots els fitxers i la carpeta `images` junts. També es pot servir aquesta carpeta amb qualsevol servidor HTTP estàtic.
 
 ## Com es juga
 
@@ -18,14 +18,14 @@ Obriu `index.html` en un navegador. No cal instal·lar res ni connexió a Intern
 ## Fitxers
 
 - `index.html`: interfície accessible i adaptable.
-- `estils.css`: disseny mòbil i escriptori.
-- `motor.js`: aleatorització i selecció de preguntes, sense dependències.
+- `styles.css`: disseny mòbil i escriptori.
+- `engine.js`: aleatorització i selecció de preguntes, sense dependències.
 - `app.js`: interacció, correcció, puntuació i resum.
-- `dades.js`: banc de 34 fitxes i 208 preguntes.
-- `contingut.json`: còpia llegible i auditable del contingut, amb referències.
-- `imatges/`: 39 fotografies retallades per al joc i 39 versions amb rètol per consultar la font.
-- `imatges/procedencia.json`: pàgina, tira original i coordenades del retall de cada fotografia.
-- `AUDITORIA.md`: criteris editorials, ambigüitats i exclusions.
+- `data.js`: banc de 34 fitxes i 208 preguntes.
+- `content.json`: còpia llegible i auditable del contingut, amb referències.
+- `images/`: 39 fotografies retallades per al joc i 39 versions amb rètol per consultar la font.
+- `images/provenance.json`: pàgina, tira original i coordenades del retall de cada fotografia.
+- `AUDIT.md`: criteris editorials, ambigüitats i exclusions.
 
 ## GitHub Pages
 

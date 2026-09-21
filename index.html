@@ -7,9 +7,9 @@
   <meta name="description" content="Practica les plagues dels cultius amb les fotografies i el temari del PDF. Identificació, danys, cultius i característiques.">
   <title>Plagues · Joc d’estudi</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="estils.css?v=5">
-  <script defer src="dades.js?v=4"></script>
-  <script defer src="motor.js"></script>
+  <link rel="stylesheet" href="styles.css?v=5">
+  <script defer src="data.js?v=4"></script>
+  <script defer src="engine.js"></script>
   <script defer src="app.js?v=7"></script>
 </head>
 <body>
@@ -18,7 +18,7 @@
     <div class="intro"><div><p class="eyebrow">OBSERVA · RECONEIX · APRÈN</p><h1>Què ens diu aquesta imatge?</h1><p>Una imatge, diverses preguntes. Tria una resposta i aprèn amb la correcció.</p></div><div class="session-tag">10 rondes <span>al teu ritme</span></div></div>
     <section class="scorebar" aria-label="Progrés de la sessió"><div><span class="stat-label">RONDA</span><strong id="round-count">1 / 10</strong></div><div><span class="stat-label">ENCERTS</span><strong id="score-count">0</strong></div><div><span class="stat-label">RESPOSTES</span><strong id="answer-count">0 / 30</strong></div><div class="progress-wrap"><span id="progress-label">Comencem!</span><progress id="progress" max="30" value="0" aria-label="Preguntes respostes"></progress></div></section>
     <section id="game" class="game" aria-label="Joc de preguntes">
-      <figure class="photo-card"><div class="photo-top"><span id="image-label">IMATGE 01</span><span>DEL TEMARI ORIGINAL</span></div><div class="photo-stage"><img id="photo" alt="Imatge del temari per identificar" src="" decoding="async"><p id="image-error" hidden>No s’ha pogut carregar la fotografia. Comprova que la carpeta «imatges» acompanya l’app i torna a obrir-la.</p></div><figcaption><span class="small-dot"></span><span id="photo-caption">Observa la fotografia abans de respondre.</span></figcaption></figure>
+      <figure class="photo-card"><div class="photo-top"><span id="image-label">IMATGE 01</span><span>DEL TEMARI ORIGINAL</span></div><div class="photo-stage"><img id="photo" alt="Imatge del temari per identificar" src="" decoding="async"><p id="image-error" hidden>No s’ha pogut carregar la fotografia. Comprova que la carpeta «images» acompanya l’app i torna a obrir-la.</p></div><figcaption><span class="small-dot"></span><span id="photo-caption">Observa la fotografia abans de respondre.</span></figcaption></figure>
       <div class="question-card">
         <div id="study-toolbar" class="study-toolbar" hidden><button id="toggle-study" class="study-toggle" aria-expanded="false" aria-controls="study-view">Mostra la fitxa d’estudi</button></div>
         <div id="question-stage" class="question-stage">
@@ -37,8 +37,9 @@
       </div>
     </section>
     <section id="results" class="results" hidden><p class="eyebrow">SESSIÓ COMPLETADA</p><h2 id="result-title" tabindex="-1">Bona feina!</h2><p id="result-score" class="result-score"></p><p id="result-message"></p><button id="again" class="primary">Torna a jugar ↻</button><div id="review"></div></section>
-    <footer><span>39 imatges · 34 fitxes · 208 preguntes</span><details><summary>Sobre el contingut i les fonts</summary><p>Basat exclusivament en <strong>fitosT1 (1)-18-24_merged.pdf</strong>, «Coneix les plagues que afecten els cultius». Pàgines impreses 18–24, 29 i 30 (9 pàgines del fitxer). Fotografies extretes del mateix PDF; s’hi conserven els crèdits visibles.</p><p>Les fotografies genèriques només donen lloc a preguntes del grup. Els danys il·lustrats s’associen a la plaga indicada al document, sense afirmar que siguin diagnòstics exclusius. La qualificació de quarantena o de plaga prioritària es pregunta tal com figura al temari, no com una consulta normativa actual.</p><p>Les correccions indiquen la pàgina impresa. Algunes descripcions es presenten com a extractes abreujats. No s’han incorporat continguts dels enllaços externs del PDF.</p><a href="contingut.json" download>Descarrega el banc de preguntes i les referències</a></details></footer>
+    <footer><span>39 imatges · 34 fitxes · 208 preguntes</span><details><summary>Sobre el contingut i les fonts</summary><p>Basat exclusivament en <strong>fitosT1 (1)-18-24_merged.pdf</strong>, «Coneix les plagues que afecten els cultius». Pàgines impreses 18–24, 29 i 30 (9 pàgines del fitxer). Fotografies extretes del mateix PDF; s’hi conserven els crèdits visibles.</p><p>Les fotografies genèriques només donen lloc a preguntes del grup. Els danys il·lustrats s’associen a la plaga indicada al document, sense afirmar que siguin diagnòstics exclusius. La qualificació de quarantena o de plaga prioritària es pregunta tal com figura al temari, no com una consulta normativa actual.</p><p>Les correccions indiquen la pàgina impresa. Algunes descripcions es presenten com a extractes abreujats. No s’han incorporat continguts dels enllaços externs del PDF.</p><a href="content.json" download>Descarrega el banc de preguntes i les referències</a></details></footer>
   </main>
-  <noscript>Activa JavaScript per jugar. El contingut també es pot consultar al fitxer contingut.json.</noscript>
+  <noscript>Activa JavaScript per jugar. El contingut també es pot consultar al fitxer content.json.</noscript>
 </body>
 </html>
+
