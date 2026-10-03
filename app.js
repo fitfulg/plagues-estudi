@@ -2,9 +2,9 @@
 (()=>{
   'use strict';
   const $=id=>document.getElementById(id);
-  const modes={pests:{data:window.PLAGUES_DATA,label:'Plagues',file:'content.json'},diseases:{data:window.DISEASE_DATA,label:'Malalties',file:'disease-content.json'}};
+  const modes={pests:{data:window.PLAGUES_DATA,label:'Plagues',file:'content.json'},diseases:{data:window.DISEASE_DATA,label:'Malalties',file:'disease-content.json'},weeds:{data:window.WEED_DATA,label:'Vegetació espontània',file:'weed-content.json'}};
   let data=null,mode=null;
-  const previousCards={pests:null,diseases:null};
+  const previousCards={pests:null,diseases:null,weeds:null};
   let rounds=[],ri=0,qi=0,score=0,answered=0,locked=false,history=[],total=0,lastCard=null;
   const current=()=>rounds[ri], question=()=>current().questions[qi];
   function stats(){
@@ -130,6 +130,7 @@
   }
   $('choose-pests').addEventListener('click',()=>chooseMode('pests'));
   $('choose-diseases').addEventListener('click',()=>chooseMode('diseases'));
+  $('choose-weeds').addEventListener('click',()=>chooseMode('weeds'));
   $('change-mode').addEventListener('click',showModes);
   showModes();
 })();

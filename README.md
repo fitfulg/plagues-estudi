@@ -1,6 +1,6 @@
-# Plagues i malalties · Joc d’estudi
+# Sanitat vegetal · Joc d’estudi
 
-Aplicació estàtica en català amb dos modes independents basats en `fitosT1 (1)-18-24_merged.pdf` i `fitosT2 (2).pdf`.
+Aplicació estàtica en català amb tres modes independents basats en `fitosT1 (1)-18-24_merged.pdf`, `fitosT2 (2).pdf` i `fitosT3 (1).pdf`.
 
 ## Obrir l’app
 
@@ -9,7 +9,7 @@ Obriu `index.html` en un navegador. No cal instal·lar res ni connexió a Intern
 ## Com es juga
 
 - Cada sessió té 10 rondes amb fitxes diferents.
-- Cada ronda mostra una fotografia del PDF i 2 o 3 preguntes. Els casos amb menys informació no reben preguntes inventades.
+- Cada ronda mostra una fotografia del PDF i 2 preguntes. Els casos amb menys informació no reben preguntes inventades.
 - Es barregen les fitxes, les variants de fotografia, les preguntes i les respostes. Reiniciar evita començar per la fitxa que s’acaba de veure.
 - Un encert val un punt. No hi ha penalització ni límit de temps. La primera resposta queda bloquejada.
 - La correcció indica la pàgina impresa. Després de cada resposta, correcta o incorrecta, el botó «Mostra la fitxa d’estudi» permet consultar voluntàriament la fitxa completa. Substitueix la pregunta i les respostes al mateix espai; «Torna a la pregunta» les recupera sense alterar la puntuació. Les fitxes llargues es desplacen dins del panell. També es pot consultar la fotografia original amb el rètol.
@@ -41,6 +41,11 @@ S’han mantingut els noms i grafies del PDF. Les mencions normatives s’estudi
 
 ## Mode de malalties
 
-La pantalla inicial permet triar **Plagues** o **Malalties**. «Canvia de joc» torna al selector; cada selecció comença una sessió nova i independent. El nou mode utilitza `fitosT2 (2).pdf`: 49 fitxes, 51 fotografies i 231 preguntes sobre agents, grups, cultius, símptomes i vectors.
+La pantalla inicial permet triar **Plagues**, **Malalties** o **Vegetació espontània**. «Canvia de joc» torna al selector; cada selecció comença una sessió nova i independent. El nou mode utilitza `fitosT2 (2).pdf`: 49 fitxes, 51 fotografies i 231 preguntes sobre agents, grups, cultius, símptomes i vectors.
 
 Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `images/disease-provenance.json` i `DISEASE-AUDIT.md`. Tot funciona sense compilació i amb rutes relatives. El contingut continua en català i els noms dels fitxers són en anglès.
+
+## Vegetació espontània
+
+40 fitxes, 73 imatges i 200 preguntes. Noms, famílies, trets, cicles vitals, hàbitats, reproducció i parasitisme. `weed-data.js` i `weed-content.json` contenen el banc; `images/weed-provenance.json` referencia els originals. Consulteu `WEED-AUDIT.md` per als criteris de fidelitat i les exclusions.
+

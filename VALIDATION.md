@@ -13,3 +13,9 @@
 - Mode de malalties: 49 fitxes, 51 variants fotogràfiques, 231 preguntes, 1.000 sessions aleatòries i proves completes del controlador.
 - Selector inicial i canvi de mode provats: els bancs de preguntes són independents i la puntuació es reinicia.
 - Revisió visual de les 47 pàgines del nou PDF i de totes les imatges exportades; crèdits i proporcions conservats.
+
+## Vegetació espontània — 21/09/2026
+
+Nou mode: 40 fitxes, 73 imatges i 200 preguntes. Comprovats els tres bancs amb 1.000 sessions aleatòries cadascun, respostes úniques, puntuació, bloqueig després de respondre, canvi de mode, resum i reinici. Prova visual al navegador en escriptori i mòbil de 390 px, imatge original en respondre i fitxa opcional al mateix panell. Sense errors de consola ni desbordament horitzontal en mòbil.
+
+03/10/2026: sessions reduïdes a exactament 2 preguntes per foto i 20 per sessió. Verificades 1.000 sessions per cadascun dels tres modes i una sessió completa amb puntuació, fitxa i reinici.
