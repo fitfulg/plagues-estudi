@@ -1,6 +1,6 @@
 {
-  "title": "Vegetació espontània",
-  "source": "fitosT3 (1).pdf",
+  "title": "Vegetació espontània · Comprèn, relaciona i identifica",
+  "source": "fitosT3.pdf · Coneix la vegetació espontània present en els cultius · 03/02/2025",
   "cards": [
     {
       "id": "wild-oat",
@@ -53,7 +53,8 @@
             "Lletsó"
           ],
           "quote": "Moltes tiges erectes i ramificades des de la base; inflorescència en panícula racemosa de fins a 40 cm.",
-          "page": 23
+          "page": 23,
+          "id": "wild-oat-q1"
         },
         {
           "kind": "Nom científic",
@@ -74,7 +75,8 @@
             "Stellaria media L."
           ],
           "quote": "Avena sp.",
-          "page": 23
+          "page": 23,
+          "id": "wild-oat-q2"
         },
         {
           "kind": "Família",
@@ -91,7 +93,8 @@
             "Solanàcia"
           ],
           "quote": "Gramínia (poàcia)",
-          "page": 23
+          "page": 23,
+          "id": "wild-oat-q3"
         },
         {
           "kind": "Característiques",
@@ -110,7 +113,8 @@
             "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis."
           ],
           "quote": "Moltes tiges erectes i ramificades des de la base; inflorescència en panícula racemosa de fins a 40 cm.",
-          "page": 23
+          "page": 23,
+          "id": "wild-oat-q4"
         },
         {
           "kind": "Cicle vital",
@@ -121,7 +125,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 23
+          "page": 23,
+          "id": "wild-oat-q5"
         }
       ],
       "images": [
@@ -140,7 +145,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Gramínia (poàcia)",
-      "trait": "Moltes tiges erectes i ramificades des de la base; inflorescència en panícula racemosa de fins a 40 cm."
+      "trait": "Moltes tiges erectes i ramificades des de la base; inflorescència en panícula racemosa de fins a 40 cm.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "white-wall-rocket",
@@ -198,7 +205,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Flors blanques hermafrodites en forma de creu; les fulles desprenen una forta olor de mostassa quan s’espremen.",
-          "page": 24
+          "page": 24,
+          "id": "white-wall-rocket-q1"
         },
         {
           "kind": "Nom científic",
@@ -219,7 +227,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Diplotaxis erucoides (L.) Dc.",
-          "page": 24
+          "page": 24,
+          "id": "white-wall-rocket-q2"
         },
         {
           "kind": "Família",
@@ -236,7 +245,8 @@
             "Solanàcia"
           ],
           "quote": "Crucífera",
-          "page": 24
+          "page": 24,
+          "id": "white-wall-rocket-q3"
         },
         {
           "kind": "Característiques",
@@ -255,7 +265,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Flors blanques hermafrodites en forma de creu; les fulles desprenen una forta olor de mostassa quan s’espremen.",
-          "page": 24
+          "page": 24,
+          "id": "white-wall-rocket-q4"
         },
         {
           "kind": "Cicle vital",
@@ -266,7 +277,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 17
+          "page": 17,
+          "id": "white-wall-rocket-q5"
         }
       ],
       "images": [
@@ -285,7 +297,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Crucífera",
-      "trait": "Flors blanques hermafrodites en forma de creu; les fulles desprenen una forta olor de mostassa quan s’espremen."
+      "trait": "Flors blanques hermafrodites en forma de creu; les fulles desprenen una forta olor de mostassa quan s’espremen.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "cleavers",
@@ -338,7 +352,8 @@
             "Conillets, herba dels innocents, fumària, fumisterri, herba de colom, gallarets i julivert bord"
           ],
           "quote": "Tija coberta de pèls corbats cap avall, de tacte aspre; de sis a vuit fulles per verticil i fruit globós cobert de pèls.",
-          "page": 25
+          "page": 25,
+          "id": "cleavers-q1"
         },
         {
           "kind": "Nom científic",
@@ -359,7 +374,8 @@
             "Fumaria officinalis L."
           ],
           "quote": "Galium aparine",
-          "page": 25
+          "page": 25,
+          "id": "cleavers-q2"
         },
         {
           "kind": "Família",
@@ -376,7 +392,8 @@
             "Solanàcia"
           ],
           "quote": "Rubinàcia",
-          "page": 25
+          "page": 25,
+          "id": "cleavers-q3"
         },
         {
           "kind": "Característiques",
@@ -395,7 +412,8 @@
             "Flors blanques i grosses, de 6 a 10 cm; fruit en càpsula grossa i generalment espinosa que s’obre en quatre valves."
           ],
           "quote": "Tija coberta de pèls corbats cap avall, de tacte aspre; de sis a vuit fulles per verticil i fruit globós cobert de pèls.",
-          "page": 25
+          "page": 25,
+          "id": "cleavers-q4"
         },
         {
           "kind": "Cicle vital",
@@ -406,7 +424,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 25
+          "page": 25,
+          "id": "cleavers-q5"
         }
       ],
       "images": [
@@ -425,7 +444,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Rubinàcia",
-      "trait": "Tija coberta de pèls corbats cap avall, de tacte aspre; de sis a vuit fulles per verticil i fruit globós cobert de pèls."
+      "trait": "Tija coberta de pèls corbats cap avall, de tacte aspre; de sis a vuit fulles per verticil i fruit globós cobert de pèls.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "common-poppy",
@@ -482,7 +503,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis.",
-          "page": 26
+          "page": 26,
+          "id": "common-poppy-q1"
         },
         {
           "kind": "Nom científic",
@@ -503,7 +525,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Papaver rhoeas L.",
-          "page": 26
+          "page": 26,
+          "id": "common-poppy-q2"
         },
         {
           "kind": "Família",
@@ -520,7 +543,8 @@
             "Solanàcia"
           ],
           "quote": "Papaveràcia",
-          "page": 26
+          "page": 26,
+          "id": "common-poppy-q3"
         },
         {
           "kind": "Característiques",
@@ -539,7 +563,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis.",
-          "page": 26
+          "page": 26,
+          "id": "common-poppy-q4"
         },
         {
           "kind": "Cicle vital",
@@ -550,7 +575,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 26
+          "page": 26,
+          "id": "common-poppy-q5"
         }
       ],
       "images": [
@@ -563,7 +589,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Papaveràcia",
-      "trait": "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis."
+      "trait": "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "bristly-foxtail",
@@ -616,7 +644,8 @@
             "Lletsó"
           ],
           "quote": "Espiga verda, cilíndrica i rasposa de 5-10 cm, sovint interrompuda a la base, amb glumes desiguals.",
-          "page": 27
+          "page": 27,
+          "id": "bristly-foxtail-q1"
         },
         {
           "kind": "Nom científic",
@@ -637,7 +666,8 @@
             "Stellaria media L."
           ],
           "quote": "Setaria verticillata (L.) Beauv.",
-          "page": 27
+          "page": 27,
+          "id": "bristly-foxtail-q2"
         },
         {
           "kind": "Família",
@@ -654,7 +684,8 @@
             "Solanàcia"
           ],
           "quote": "Gramínia (poàcia)",
-          "page": 27
+          "page": 27,
+          "id": "bristly-foxtail-q3"
         },
         {
           "kind": "Característiques",
@@ -673,7 +704,8 @@
             "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis."
           ],
           "quote": "Espiga verda, cilíndrica i rasposa de 5-10 cm, sovint interrompuda a la base, amb glumes desiguals.",
-          "page": 27
+          "page": 27,
+          "id": "bristly-foxtail-q4"
         },
         {
           "kind": "Cicle vital",
@@ -684,7 +716,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 27
+          "page": 27,
+          "id": "bristly-foxtail-q5"
         }
       ],
       "images": [
@@ -703,7 +736,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Gramínia (poàcia)",
-      "trait": "Espiga verda, cilíndrica i rasposa de 5-10 cm, sovint interrompuda a la base, amb glumes desiguals."
+      "trait": "Espiga verda, cilíndrica i rasposa de 5-10 cm, sovint interrompuda a la base, amb glumes desiguals.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "charlock-mustard",
@@ -760,7 +795,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Flors grogues agrupades en un ramell terminal; el fruit és una síliqua cilíndrica.",
-          "page": 28
+          "page": 28,
+          "id": "charlock-mustard-q1"
         },
         {
           "kind": "Nom científic",
@@ -781,7 +817,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Sinapis arvensis",
-          "page": 28
+          "page": 28,
+          "id": "charlock-mustard-q2"
         },
         {
           "kind": "Família",
@@ -798,7 +835,8 @@
             "Solanàcia"
           ],
           "quote": "Crucífera",
-          "page": 28
+          "page": 28,
+          "id": "charlock-mustard-q3"
         },
         {
           "kind": "Característiques",
@@ -817,7 +855,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Flors grogues agrupades en un ramell terminal; el fruit és una síliqua cilíndrica.",
-          "page": 28
+          "page": 28,
+          "id": "charlock-mustard-q4"
         },
         {
           "kind": "Cicle vital",
@@ -828,7 +867,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 28
+          "page": 28,
+          "id": "charlock-mustard-q5"
         }
       ],
       "images": [
@@ -847,7 +887,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Crucífera",
-      "trait": "Flors grogues agrupades en un ramell terminal; el fruit és una síliqua cilíndrica."
+      "trait": "Flors grogues agrupades en un ramell terminal; el fruit és una síliqua cilíndrica.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "common-sowthistle",
@@ -908,7 +950,8 @@
             "Blet amarant i marxant"
           ],
           "quote": "Tija ramificada, sense pèls i buida per dins; fulles grans de color verd-blau, amb dos lòbuls auriculars i punxeguts que envolten la tija.",
-          "page": 29
+          "page": 29,
+          "id": "common-sowthistle-q1"
         },
         {
           "kind": "Nom científic",
@@ -929,7 +972,8 @@
             "Amaranthus retroflexus L."
           ],
           "quote": "Sonchus oleraceus L.",
-          "page": 29
+          "page": 29,
+          "id": "common-sowthistle-q2"
         },
         {
           "kind": "Família",
@@ -946,7 +990,8 @@
             "Solanàcia"
           ],
           "quote": "Composta (Asteràcia)",
-          "page": 29
+          "page": 29,
+          "id": "common-sowthistle-q3"
         },
         {
           "kind": "Característiques",
@@ -965,7 +1010,8 @@
             "Flors grogues agrupades en un ramell terminal; el fruit és una síliqua cilíndrica."
           ],
           "quote": "Tija ramificada, sense pèls i buida per dins; fulles grans de color verd-blau, amb dos lòbuls auriculars i punxeguts que envolten la tija.",
-          "page": 29
+          "page": 29,
+          "id": "common-sowthistle-q4"
         },
         {
           "kind": "Cicle vital",
@@ -976,7 +1022,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 29
+          "page": 29,
+          "id": "common-sowthistle-q5"
         }
       ],
       "images": [
@@ -989,7 +1036,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Composta (Asteràcia)",
-      "trait": "Tija ramificada, sense pèls i buida per dins; fulles grans de color verd-blau, amb dos lòbuls auriculars i punxeguts que envolten la tija."
+      "trait": "Tija ramificada, sense pèls i buida per dins; fulles grans de color verd-blau, amb dos lòbuls auriculars i punxeguts que envolten la tija.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "common-chickweed",
@@ -1042,7 +1091,8 @@
             "Conillets, herba dels innocents, fumària, fumisterri, herba de colom, gallarets i julivert bord"
           ],
           "quote": "Fulles ovals acabades en punta fina; flors petites, blanques i en forma d’estrella, agrupades en inflorescències.",
-          "page": 30
+          "page": 30,
+          "id": "common-chickweed-q1"
         },
         {
           "kind": "Nom científic",
@@ -1063,7 +1113,8 @@
             "Fumaria officinalis L."
           ],
           "quote": "Stellaria media L.",
-          "page": 30
+          "page": 30,
+          "id": "common-chickweed-q2"
         },
         {
           "kind": "Família",
@@ -1080,7 +1131,8 @@
             "Solanàcia"
           ],
           "quote": "Cariofil·làcia",
-          "page": 30
+          "page": 30,
+          "id": "common-chickweed-q3"
         },
         {
           "kind": "Característiques",
@@ -1099,7 +1151,8 @@
             "Flors blanques i grosses, de 6 a 10 cm; fruit en càpsula grossa i generalment espinosa que s’obre en quatre valves."
           ],
           "quote": "Fulles ovals acabades en punta fina; flors petites, blanques i en forma d’estrella, agrupades en inflorescències.",
-          "page": 30
+          "page": 30,
+          "id": "common-chickweed-q4"
         },
         {
           "kind": "Cicle vital",
@@ -1110,7 +1163,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 30
+          "page": 30,
+          "id": "common-chickweed-q5"
         }
       ],
       "images": [
@@ -1129,7 +1183,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Cariofil·làcia",
-      "trait": "Fulles ovals acabades en punta fina; flors petites, blanques i en forma d’estrella, agrupades en inflorescències."
+      "trait": "Fulles ovals acabades en punta fina; flors petites, blanques i en forma d’estrella, agrupades en inflorescències.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "redroot-pigweed",
@@ -1186,7 +1242,8 @@
             "Estramoni, herba talpera i pudent"
           ],
           "quote": "Tija erecta amb estries roges longitudinals; planta monoica, amb flors masculines i femenines en el mateix peu.",
-          "page": 31
+          "page": 31,
+          "id": "redroot-pigweed-q1"
         },
         {
           "kind": "Nom científic",
@@ -1207,7 +1264,8 @@
             "Datura stramonium L."
           ],
           "quote": "Amaranthus retroflexus L.",
-          "page": 31
+          "page": 31,
+          "id": "redroot-pigweed-q2"
         },
         {
           "kind": "Família",
@@ -1224,7 +1282,8 @@
             "Solanàcia"
           ],
           "quote": "Amarantàcia",
-          "page": 31
+          "page": 31,
+          "id": "redroot-pigweed-q3"
         },
         {
           "kind": "Característiques",
@@ -1243,7 +1302,8 @@
             "Fulles ovals acabades en punta fina; flors petites, blanques i en forma d’estrella, agrupades en inflorescències."
           ],
           "quote": "Tija erecta amb estries roges longitudinals; planta monoica, amb flors masculines i femenines en el mateix peu.",
-          "page": 31
+          "page": 31,
+          "id": "redroot-pigweed-q4"
         },
         {
           "kind": "Cicle vital",
@@ -1254,7 +1314,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 31
+          "page": 31,
+          "id": "redroot-pigweed-q5"
         }
       ],
       "images": [
@@ -1273,7 +1334,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Amarantàcia",
-      "trait": "Tija erecta amb estries roges longitudinals; planta monoica, amb flors masculines i femenines en el mateix peu."
+      "trait": "Tija erecta amb estries roges longitudinals; planta monoica, amb flors masculines i femenines en el mateix peu.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "white-goosefoot",
@@ -1330,7 +1393,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals.",
-          "page": 32
+          "page": 32,
+          "id": "white-goosefoot-q1"
         },
         {
           "kind": "Nom científic",
@@ -1351,7 +1415,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Chenopodium album L.",
-          "page": 32
+          "page": 32,
+          "id": "white-goosefoot-q2"
         },
         {
           "kind": "Família",
@@ -1368,7 +1433,8 @@
             "Solanàcia"
           ],
           "quote": "Quenopodiàcia",
-          "page": 32
+          "page": 32,
+          "id": "white-goosefoot-q3"
         },
         {
           "kind": "Característiques",
@@ -1387,7 +1453,8 @@
             "Tija erecta amb estries roges longitudinals; planta monoica, amb flors masculines i femenines en el mateix peu."
           ],
           "quote": "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals.",
-          "page": 32
+          "page": 32,
+          "id": "white-goosefoot-q4"
         },
         {
           "kind": "Cicle vital",
@@ -1398,7 +1465,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 32
+          "page": 32,
+          "id": "white-goosefoot-q5"
         }
       ],
       "images": [
@@ -1417,7 +1485,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Quenopodiàcia",
-      "trait": "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
+      "trait": "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "jimsonweed",
@@ -1470,7 +1540,8 @@
             "Blet blanc"
           ],
           "quote": "Flors blanques i grosses, de 6 a 10 cm; fruit en càpsula grossa i generalment espinosa que s’obre en quatre valves.",
-          "page": 33
+          "page": 33,
+          "id": "jimsonweed-q1"
         },
         {
           "kind": "Nom científic",
@@ -1491,7 +1562,8 @@
             "Chenopodium album L."
           ],
           "quote": "Datura stramonium L.",
-          "page": 33
+          "page": 33,
+          "id": "jimsonweed-q2"
         },
         {
           "kind": "Família",
@@ -1508,7 +1580,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Solanàcia",
-          "page": 33
+          "page": 33,
+          "id": "jimsonweed-q3"
         },
         {
           "kind": "Característiques",
@@ -1527,7 +1600,8 @@
             "Fulles ovals acabades en punta fina; flors petites, blanques i en forma d’estrella, agrupades en inflorescències."
           ],
           "quote": "Flors blanques i grosses, de 6 a 10 cm; fruit en càpsula grossa i generalment espinosa que s’obre en quatre valves.",
-          "page": 33
+          "page": 33,
+          "id": "jimsonweed-q4"
         },
         {
           "kind": "Cicle vital",
@@ -1538,7 +1612,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 33
+          "page": 33,
+          "id": "jimsonweed-q5"
         },
         {
           "kind": "Hàbitat i hostes",
@@ -1550,7 +1625,8 @@
             "Llocs àrids i terrenys salins"
           ],
           "quote": "Cultius farratgers d’estiu",
-          "page": 33
+          "page": 33,
+          "id": "jimsonweed-q6"
         }
       ],
       "images": [
@@ -1569,7 +1645,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Solanàcia",
-      "trait": "Flors blanques i grosses, de 6 a 10 cm; fruit en càpsula grossa i generalment espinosa que s’obre en quatre valves."
+      "trait": "Flors blanques i grosses, de 6 a 10 cm; fruit en càpsula grossa i generalment espinosa que s’obre en quatre valves.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "barnyard-grass",
@@ -1626,7 +1704,8 @@
             "Lletsó"
           ],
           "quote": "Fulles de color porpra a la base i panícules sovint de color porpra, amb llavors grosses similars a les del mill.",
-          "page": 34
+          "page": 34,
+          "id": "barnyard-grass-q1"
         },
         {
           "kind": "Nom científic",
@@ -1647,7 +1726,8 @@
             "Stellaria media L."
           ],
           "quote": "Echinochloa crus-galli (L.) Beauv.",
-          "page": 34
+          "page": 34,
+          "id": "barnyard-grass-q2"
         },
         {
           "kind": "Família",
@@ -1664,7 +1744,8 @@
             "Solanàcia"
           ],
           "quote": "Gramínia (poàcia)",
-          "page": 34
+          "page": 34,
+          "id": "barnyard-grass-q3"
         },
         {
           "kind": "Característiques",
@@ -1683,7 +1764,8 @@
             "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis."
           ],
           "quote": "Fulles de color porpra a la base i panícules sovint de color porpra, amb llavors grosses similars a les del mill.",
-          "page": 34
+          "page": 34,
+          "id": "barnyard-grass-q4"
         }
       ],
       "images": [
@@ -1702,7 +1784,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Gramínia (poàcia)",
-      "trait": "Fulles de color porpra a la base i panícules sovint de color porpra, amb llavors grosses similars a les del mill."
+      "trait": "Fulles de color porpra a la base i panícules sovint de color porpra, amb llavors grosses similars a les del mill.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "common-fumitory",
@@ -1759,7 +1843,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Fulles dividides pinnades i alternes; flors púrpures o rosades, amb 4 pètals estrets i 2 sèpals.",
-          "page": 35
+          "page": 35,
+          "id": "common-fumitory-q1"
         },
         {
           "kind": "Nom científic",
@@ -1780,7 +1865,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Fumaria officinalis L.",
-          "page": 35
+          "page": 35,
+          "id": "common-fumitory-q2"
         },
         {
           "kind": "Família",
@@ -1797,7 +1883,8 @@
             "Solanàcia"
           ],
           "quote": "Papaveràcia",
-          "page": 35
+          "page": 35,
+          "id": "common-fumitory-q3"
         },
         {
           "kind": "Característiques",
@@ -1816,7 +1903,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Fulles dividides pinnades i alternes; flors púrpures o rosades, amb 4 pètals estrets i 2 sèpals.",
-          "page": 35
+          "page": 35,
+          "id": "common-fumitory-q4"
         },
         {
           "kind": "Cicle vital",
@@ -1827,7 +1915,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 35
+          "page": 35,
+          "id": "common-fumitory-q5"
         }
       ],
       "images": [
@@ -1846,7 +1935,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Papaveràcia",
-      "trait": "Fulles dividides pinnades i alternes; flors púrpures o rosades, amb 4 pètals estrets i 2 sèpals."
+      "trait": "Fulles dividides pinnades i alternes; flors púrpures o rosades, amb 4 pètals estrets i 2 sèpals.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "common-purslane",
@@ -1899,7 +1990,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Port ajagut; planta carnosa i de color rogenc, ramificada des de la base; càpsula oval amb moltes llavors negres i lluents.",
-          "page": 36
+          "page": 36,
+          "id": "common-purslane-q1"
         },
         {
           "kind": "Nom científic",
@@ -1920,7 +2012,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Portulaca oleracea L.",
-          "page": 36
+          "page": 36,
+          "id": "common-purslane-q2"
         },
         {
           "kind": "Família",
@@ -1937,7 +2030,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Portulacàcia",
-          "page": 36
+          "page": 36,
+          "id": "common-purslane-q3"
         },
         {
           "kind": "Característiques",
@@ -1956,7 +2050,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Port ajagut; planta carnosa i de color rogenc, ramificada des de la base; càpsula oval amb moltes llavors negres i lluents.",
-          "page": 36
+          "page": 36,
+          "id": "common-purslane-q4"
         },
         {
           "kind": "Cicle vital",
@@ -1967,7 +2062,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 36
+          "page": 36,
+          "id": "common-purslane-q5"
         }
       ],
       "images": [
@@ -1986,7 +2082,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Portulacàcia",
-      "trait": "Port ajagut; planta carnosa i de color rogenc, ramificada des de la base; càpsula oval amb moltes llavors negres i lluents."
+      "trait": "Port ajagut; planta carnosa i de color rogenc, ramificada des de la base; càpsula oval amb moltes llavors negres i lluents.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "prickly-saltwort",
@@ -2039,7 +2137,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Tija amb estries verdes i blanques; fulles alternes, espinoses i triangulars; flors solitàries de color verd-blanquinós.",
-          "page": 37
+          "page": 37,
+          "id": "prickly-saltwort-q1"
         },
         {
           "kind": "Nom científic",
@@ -2060,7 +2159,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Salsola kali L.",
-          "page": 37
+          "page": 37,
+          "id": "prickly-saltwort-q2"
         },
         {
           "kind": "Família",
@@ -2077,7 +2177,8 @@
             "Solanàcia"
           ],
           "quote": "Quenopodiàcia",
-          "page": 37
+          "page": 37,
+          "id": "prickly-saltwort-q3"
         },
         {
           "kind": "Característiques",
@@ -2096,7 +2197,8 @@
             "Tija erecta amb estries roges longitudinals; planta monoica, amb flors masculines i femenines en el mateix peu."
           ],
           "quote": "Tija amb estries verdes i blanques; fulles alternes, espinoses i triangulars; flors solitàries de color verd-blanquinós.",
-          "page": 37
+          "page": 37,
+          "id": "prickly-saltwort-q4"
         },
         {
           "kind": "Cicle vital",
@@ -2107,7 +2209,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 37
+          "page": 37,
+          "id": "prickly-saltwort-q5"
         },
         {
           "kind": "Hàbitat i hostes",
@@ -2119,7 +2222,8 @@
             "Prats i prades amb trèvols"
           ],
           "quote": "Llocs àrids i terrenys salins",
-          "page": 37
+          "page": 37,
+          "id": "prickly-saltwort-q6"
         }
       ],
       "images": [
@@ -2138,7 +2242,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Quenopodiàcia",
-      "trait": "Tija amb estries verdes i blanques; fulles alternes, espinoses i triangulars; flors solitàries de color verd-blanquinós."
+      "trait": "Tija amb estries verdes i blanques; fulles alternes, espinoses i triangulars; flors solitàries de color verd-blanquinós.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "black-nightshade",
@@ -2191,7 +2297,8 @@
             "Blet blanc"
           ],
           "quote": "Tija ramificada i angulosa; fulles ovato-triangulars de vores sinuoses; flors petites i blanques i baies en grups de quatre o cinc.",
-          "page": 38
+          "page": 38,
+          "id": "black-nightshade-q1"
         },
         {
           "kind": "Nom científic",
@@ -2212,7 +2319,8 @@
             "Chenopodium album L."
           ],
           "quote": "Solanum nigrum L.",
-          "page": 38
+          "page": 38,
+          "id": "black-nightshade-q2"
         },
         {
           "kind": "Família",
@@ -2229,7 +2337,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Solanàcia",
-          "page": 38
+          "page": 38,
+          "id": "black-nightshade-q3"
         },
         {
           "kind": "Característiques",
@@ -2248,7 +2357,8 @@
             "Fulles ovals acabades en punta fina; flors petites, blanques i en forma d’estrella, agrupades en inflorescències."
           ],
           "quote": "Tija ramificada i angulosa; fulles ovato-triangulars de vores sinuoses; flors petites i blanques i baies en grups de quatre o cinc.",
-          "page": 38
+          "page": 38,
+          "id": "black-nightshade-q4"
         },
         {
           "kind": "Cicle vital",
@@ -2259,7 +2369,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 38
+          "page": 38,
+          "id": "black-nightshade-q5"
         }
       ],
       "images": [
@@ -2278,7 +2389,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Solanàcia",
-      "trait": "Tija ramificada i angulosa; fulles ovato-triangulars de vores sinuoses; flors petites i blanques i baies en grups de quatre o cinc."
+      "trait": "Tija ramificada i angulosa; fulles ovato-triangulars de vores sinuoses; flors petites i blanques i baies en grups de quatre o cinc.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "creeping-thistle",
@@ -2335,7 +2448,8 @@
             "Blet amarant i marxant"
           ],
           "quote": "Planta amb rizomes; flors en capítols de color púrpura i fruit amb un plomall de sedes blanques de fins a 30 mm.",
-          "page": 39
+          "page": 39,
+          "id": "creeping-thistle-q1"
         },
         {
           "kind": "Nom científic",
@@ -2356,7 +2470,8 @@
             "Amaranthus retroflexus L."
           ],
           "quote": "Cirsium arvense (L.) Scop.",
-          "page": 39
+          "page": 39,
+          "id": "creeping-thistle-q2"
         },
         {
           "kind": "Família",
@@ -2373,7 +2488,8 @@
             "Solanàcia"
           ],
           "quote": "Composta (Asteràcia)",
-          "page": 39
+          "page": 39,
+          "id": "creeping-thistle-q3"
         },
         {
           "kind": "Característiques",
@@ -2392,7 +2508,8 @@
             "Flors grogues agrupades en un ramell terminal; el fruit és una síliqua cilíndrica."
           ],
           "quote": "Planta amb rizomes; flors en capítols de color púrpura i fruit amb un plomall de sedes blanques de fins a 30 mm.",
-          "page": 39
+          "page": 39,
+          "id": "creeping-thistle-q4"
         }
       ],
       "images": [
@@ -2411,7 +2528,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Composta (Asteràcia)",
-      "trait": "Planta amb rizomes; flors en capítols de color púrpura i fruit amb un plomall de sedes blanques de fins a 30 mm."
+      "trait": "Planta amb rizomes; flors en capítols de color púrpura i fruit amb un plomall de sedes blanques de fins a 30 mm.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "common-mallow",
@@ -2468,7 +2587,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Flors hermafrodites d’uns 5 cm, agrupades de dues a sis; pètals de rosa a violeta amb tres estries més o menys marcades.",
-          "page": 40
+          "page": 40,
+          "id": "common-mallow-q1"
         },
         {
           "kind": "Nom científic",
@@ -2489,7 +2609,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Malva sylvestris L.",
-          "page": 40
+          "page": 40,
+          "id": "common-mallow-q2"
         },
         {
           "kind": "Família",
@@ -2506,7 +2627,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Malvàcia",
-          "page": 40
+          "page": 40,
+          "id": "common-mallow-q3"
         },
         {
           "kind": "Característiques",
@@ -2525,7 +2647,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Flors hermafrodites d’uns 5 cm, agrupades de dues a sis; pètals de rosa a violeta amb tres estries més o menys marcades.",
-          "page": 40
+          "page": 40,
+          "id": "common-mallow-q4"
         }
       ],
       "images": [
@@ -2538,7 +2661,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Malvàcia",
-      "trait": "Flors hermafrodites d’uns 5 cm, agrupades de dues a sis; pètals de rosa a violeta amb tres estries més o menys marcades."
+      "trait": "Flors hermafrodites d’uns 5 cm, agrupades de dues a sis; pètals de rosa a violeta amb tres estries més o menys marcades.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "prickly-lettuce",
@@ -2595,7 +2720,8 @@
             "Blet amarant i marxant"
           ],
           "quote": "Fulles rígides i profundament lobulades, amb petites espines al marge i sobre el nervi central només pel revers; flors grogues.",
-          "page": 41
+          "page": 41,
+          "id": "prickly-lettuce-q1"
         },
         {
           "kind": "Nom científic",
@@ -2616,7 +2742,8 @@
             "Amaranthus retroflexus L."
           ],
           "quote": "Lactuca serriola L.",
-          "page": 41
+          "page": 41,
+          "id": "prickly-lettuce-q2"
         },
         {
           "kind": "Família",
@@ -2633,7 +2760,8 @@
             "Solanàcia"
           ],
           "quote": "Composta (Asteràcia)",
-          "page": 41
+          "page": 41,
+          "id": "prickly-lettuce-q3"
         },
         {
           "kind": "Característiques",
@@ -2652,7 +2780,8 @@
             "Flors grogues agrupades en un ramell terminal; el fruit és una síliqua cilíndrica."
           ],
           "quote": "Fulles rígides i profundament lobulades, amb petites espines al marge i sobre el nervi central només pel revers; flors grogues.",
-          "page": 41
+          "page": 41,
+          "id": "prickly-lettuce-q4"
         }
       ],
       "images": [
@@ -2671,7 +2800,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Composta (Asteràcia)",
-      "trait": "Fulles rígides i profundament lobulades, amb petites espines al marge i sobre el nervi central només pel revers; flors grogues."
+      "trait": "Fulles rígides i profundament lobulades, amb petites espines al marge i sobre el nervi central només pel revers; flors grogues.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "milk-thistle",
@@ -2732,7 +2863,8 @@
             "Blet amarant i marxant"
           ],
           "quote": "Fulles grans i llises, vetejades de blanc i de vora espinosa; capítols grans, solitaris i de color púrpura.",
-          "page": 42
+          "page": 42,
+          "id": "milk-thistle-q1"
         },
         {
           "kind": "Nom científic",
@@ -2753,7 +2885,8 @@
             "Amaranthus retroflexus L."
           ],
           "quote": "Silybum marianum (L.) Gaertner",
-          "page": 42
+          "page": 42,
+          "id": "milk-thistle-q2"
         },
         {
           "kind": "Família",
@@ -2770,7 +2903,8 @@
             "Solanàcia"
           ],
           "quote": "Composta (Asteràcia)",
-          "page": 42
+          "page": 42,
+          "id": "milk-thistle-q3"
         },
         {
           "kind": "Característiques",
@@ -2789,7 +2923,8 @@
             "Flors grogues agrupades en un ramell terminal; el fruit és una síliqua cilíndrica."
           ],
           "quote": "Fulles grans i llises, vetejades de blanc i de vora espinosa; capítols grans, solitaris i de color púrpura.",
-          "page": 42
+          "page": 42,
+          "id": "milk-thistle-q4"
         },
         {
           "kind": "Cicle vital",
@@ -2800,7 +2935,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Biennal",
-          "page": 42
+          "page": 42,
+          "id": "milk-thistle-q5"
         }
       ],
       "images": [
@@ -2819,7 +2955,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Composta (Asteràcia)",
-      "trait": "Fulles grans i llises, vetejades de blanc i de vora espinosa; capítols grans, solitaris i de color púrpura."
+      "trait": "Fulles grans i llises, vetejades de blanc i de vora espinosa; capítols grans, solitaris i de color púrpura.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "persian-speedwell",
@@ -2876,7 +3014,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Tija ramificada i ajaguda, fulles triangulars i lobulades, flors blaves solitàries i fruit en càpsula en forma de cor o ovalada.",
-          "page": 43
+          "page": 43,
+          "id": "persian-speedwell-q1"
         },
         {
           "kind": "Nom científic",
@@ -2897,7 +3036,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Veronica persica Poiret",
-          "page": 43
+          "page": 43,
+          "id": "persian-speedwell-q2"
         },
         {
           "kind": "Família",
@@ -2914,7 +3054,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Escrofulariàcia",
-          "page": 43
+          "page": 43,
+          "id": "persian-speedwell-q3"
         },
         {
           "kind": "Característiques",
@@ -2933,7 +3074,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Tija ramificada i ajaguda, fulles triangulars i lobulades, flors blaves solitàries i fruit en càpsula en forma de cor o ovalada.",
-          "page": 43
+          "page": 43,
+          "id": "persian-speedwell-q4"
         }
       ],
       "images": [
@@ -2946,7 +3088,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Escrofulariàcia",
-      "trait": "Tija ramificada i ajaguda, fulles triangulars i lobulades, flors blaves solitàries i fruit en càpsula en forma de cor o ovalada."
+      "trait": "Tija ramificada i ajaguda, fulles triangulars i lobulades, flors blaves solitàries i fruit en càpsula en forma de cor o ovalada.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "shepherds-purse",
@@ -3003,7 +3147,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Fulles simples amb dues orelletes que envolten la tija; flors petites i blanques; fruit lanceolat o triangular i aplanat.",
-          "page": 44
+          "page": 44,
+          "id": "shepherds-purse-q1"
         },
         {
           "kind": "Nom científic",
@@ -3024,7 +3169,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Capsella bursa-pastoris (L.) Medicus",
-          "page": 44
+          "page": 44,
+          "id": "shepherds-purse-q2"
         },
         {
           "kind": "Família",
@@ -3041,7 +3187,8 @@
             "Solanàcia"
           ],
           "quote": "Crucífera",
-          "page": 44
+          "page": 44,
+          "id": "shepherds-purse-q3"
         },
         {
           "kind": "Característiques",
@@ -3060,7 +3207,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Fulles simples amb dues orelletes que envolten la tija; flors petites i blanques; fruit lanceolat o triangular i aplanat.",
-          "page": 44
+          "page": 44,
+          "id": "shepherds-purse-q4"
         },
         {
           "kind": "Cicle vital",
@@ -3071,7 +3219,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Sovint biennal",
-          "page": 44
+          "page": 44,
+          "id": "shepherds-purse-q5"
         }
       ],
       "images": [
@@ -3090,7 +3239,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Crucífera",
-      "trait": "Fulles simples amb dues orelletes que envolten la tija; flors petites i blanques; fruit lanceolat o triangular i aplanat."
+      "trait": "Fulles simples amb dues orelletes que envolten la tija; flors petites i blanques; fruit lanceolat o triangular i aplanat.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "field-bindweed",
@@ -3147,7 +3298,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Tija reptant o enfiladissa, rizomes profunds i prims; fulles en forma de fletxa i flors blanques i rosades en forma d’embut.",
-          "page": 45
+          "page": 45,
+          "id": "field-bindweed-q1"
         },
         {
           "kind": "Nom científic",
@@ -3168,7 +3320,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Convolvulus arvensis L.",
-          "page": 45
+          "page": 45,
+          "id": "field-bindweed-q2"
         },
         {
           "kind": "Família",
@@ -3185,7 +3338,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Convolvulàcia",
-          "page": 45
+          "page": 45,
+          "id": "field-bindweed-q3"
         },
         {
           "kind": "Característiques",
@@ -3204,7 +3358,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Tija reptant o enfiladissa, rizomes profunds i prims; fulles en forma de fletxa i flors blanques i rosades en forma d’embut.",
-          "page": 45
+          "page": 45,
+          "id": "field-bindweed-q4"
         },
         {
           "kind": "Cicle vital",
@@ -3215,7 +3370,8 @@
             "Biennal"
           ],
           "quote": "Perenne",
-          "page": 45
+          "page": 45,
+          "id": "field-bindweed-q5"
         },
         {
           "kind": "Reproducció",
@@ -3226,7 +3382,8 @@
             "Bulbs"
           ],
           "quote": "Rizomes",
-          "page": 45
+          "page": 45,
+          "id": "field-bindweed-q6"
         }
       ],
       "images": [
@@ -3245,7 +3402,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Convolvulàcia",
-      "trait": "Tija reptant o enfiladissa, rizomes profunds i prims; fulles en forma de fletxa i flors blanques i rosades en forma d’embut."
+      "trait": "Tija reptant o enfiladissa, rizomes profunds i prims; fulles en forma de fletxa i flors blanques i rosades en forma d’embut.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "bermuda-grass",
@@ -3303,7 +3462,8 @@
             "Lletsó"
           ],
           "quote": "Fulles curtes, planes i glauques; base estolonífera i sistema radicular rizomàtic; inflorescències dividides en plomalls divergents.",
-          "page": 46
+          "page": 46,
+          "id": "bermuda-grass-q1"
         },
         {
           "kind": "Nom científic",
@@ -3324,7 +3484,8 @@
             "Stellaria media L."
           ],
           "quote": "Cynodon dactilon (L.) Pers.",
-          "page": 46
+          "page": 46,
+          "id": "bermuda-grass-q2"
         },
         {
           "kind": "Família",
@@ -3341,7 +3502,8 @@
             "Solanàcia"
           ],
           "quote": "Gramínia (Poàcia)",
-          "page": 46
+          "page": 46,
+          "id": "bermuda-grass-q3"
         },
         {
           "kind": "Característiques",
@@ -3360,7 +3522,8 @@
             "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis."
           ],
           "quote": "Fulles curtes, planes i glauques; base estolonífera i sistema radicular rizomàtic; inflorescències dividides en plomalls divergents.",
-          "page": 46
+          "page": 46,
+          "id": "bermuda-grass-q4"
         },
         {
           "kind": "Cicle vital",
@@ -3371,7 +3534,8 @@
             "Biennal"
           ],
           "quote": "Perenne",
-          "page": 46
+          "page": 46,
+          "id": "bermuda-grass-q5"
         },
         {
           "kind": "Reproducció",
@@ -3382,7 +3546,8 @@
             "Només tubercles"
           ],
           "quote": "Rizomes i estolons",
-          "page": 22
+          "page": 22,
+          "id": "bermuda-grass-q6"
         }
       ],
       "images": [
@@ -3401,7 +3566,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Gramínia (Poàcia)",
-      "trait": "Fulles curtes, planes i glauques; base estolonífera i sistema radicular rizomàtic; inflorescències dividides en plomalls divergents."
+      "trait": "Fulles curtes, planes i glauques; base estolonífera i sistema radicular rizomàtic; inflorescències dividides en plomalls divergents.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "purple-nutsedge",
@@ -3458,7 +3625,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Tubercles negres similars a les xufles, tija de secció triangular i fulles llargues i embeinadores.",
-          "page": 47
+          "page": 47,
+          "id": "purple-nutsedge-q1"
         },
         {
           "kind": "Nom científic",
@@ -3479,7 +3647,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Cyperus rotundus",
-          "page": 47
+          "page": 47,
+          "id": "purple-nutsedge-q2"
         },
         {
           "kind": "Família",
@@ -3496,7 +3665,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Ciperàcia",
-          "page": 47
+          "page": 47,
+          "id": "purple-nutsedge-q3"
         },
         {
           "kind": "Característiques",
@@ -3515,7 +3685,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Tubercles negres similars a les xufles, tija de secció triangular i fulles llargues i embeinadores.",
-          "page": 47
+          "page": 47,
+          "id": "purple-nutsedge-q4"
         },
         {
           "kind": "Cicle vital",
@@ -3526,7 +3697,8 @@
             "Biennal"
           ],
           "quote": "Vivaç",
-          "page": 47
+          "page": 47,
+          "id": "purple-nutsedge-q5"
         },
         {
           "kind": "Reproducció",
@@ -3537,7 +3709,8 @@
             "Bulbs"
           ],
           "quote": "Tubercles",
-          "page": 47
+          "page": 47,
+          "id": "purple-nutsedge-q6"
         }
       ],
       "images": [
@@ -3550,7 +3723,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Ciperàcia",
-      "trait": "Tubercles negres similars a les xufles, tija de secció triangular i fulles llargues i embeinadores."
+      "trait": "Tubercles negres similars a les xufles, tija de secció triangular i fulles llargues i embeinadores.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "ribwort-plantain",
@@ -3603,7 +3778,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Fulles estretament lanceolades amb 3-7 nervis molt marcats; espigues a l’extrem d’un llarg peduncle i càpsula amb dues llavors.",
-          "page": 48
+          "page": 48,
+          "id": "ribwort-plantain-q1"
         },
         {
           "kind": "Nom científic",
@@ -3624,7 +3800,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Plantago lanceolata",
-          "page": 48
+          "page": 48,
+          "id": "ribwort-plantain-q2"
         },
         {
           "kind": "Família",
@@ -3641,7 +3818,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Plantaginàcia",
-          "page": 48
+          "page": 48,
+          "id": "ribwort-plantain-q3"
         },
         {
           "kind": "Característiques",
@@ -3660,7 +3838,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Fulles estretament lanceolades amb 3-7 nervis molt marcats; espigues a l’extrem d’un llarg peduncle i càpsula amb dues llavors.",
-          "page": 48
+          "page": 48,
+          "id": "ribwort-plantain-q4"
         },
         {
           "kind": "Cicle vital",
@@ -3671,7 +3850,8 @@
             "Biennal"
           ],
           "quote": "Perenne o vivaç",
-          "page": 48
+          "page": 48,
+          "id": "ribwort-plantain-q5"
         }
       ],
       "images": [
@@ -3690,7 +3870,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Plantaginàcia",
-      "trait": "Fulles estretament lanceolades amb 3-7 nervis molt marcats; espigues a l’extrem d’un llarg peduncle i càpsula amb dues llavors."
+      "trait": "Fulles estretament lanceolades amb 3-7 nervis molt marcats; espigues a l’extrem d’un llarg peduncle i càpsula amb dues llavors.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "broadleaf-dock",
@@ -3747,7 +3929,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Fulles grans ovado-oblongues, tiges amb un nus cobert per una òcrea i flors agrupades que passen de verd a roig en madurar.",
-          "page": 49
+          "page": 49,
+          "id": "broadleaf-dock-q1"
         },
         {
           "kind": "Nom científic",
@@ -3768,7 +3951,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Rumex obtusifolius L.",
-          "page": 49
+          "page": 49,
+          "id": "broadleaf-dock-q2"
         },
         {
           "kind": "Família",
@@ -3785,7 +3969,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Poligonàcia",
-          "page": 49
+          "page": 49,
+          "id": "broadleaf-dock-q3"
         },
         {
           "kind": "Característiques",
@@ -3804,7 +3989,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Fulles grans ovado-oblongues, tiges amb un nus cobert per una òcrea i flors agrupades que passen de verd a roig en madurar.",
-          "page": 49
+          "page": 49,
+          "id": "broadleaf-dock-q4"
         }
       ],
       "images": [
@@ -3823,7 +4009,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Poligonàcia",
-      "trait": "Fulles grans ovado-oblongues, tiges amb un nus cobert per una òcrea i flors agrupades que passen de verd a roig en madurar."
+      "trait": "Fulles grans ovado-oblongues, tiges amb un nus cobert per una òcrea i flors agrupades que passen de verd a roig en madurar.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "johnson-grass",
@@ -3881,7 +4069,8 @@
             "Lletsó"
           ],
           "quote": "Tija erecta amb pèls als nusos; espiga laxa i ramificada de tonalitat violàcia, de fins a 30 cm, amb espiguetes amb arestes o sense.",
-          "page": 50
+          "page": 50,
+          "id": "johnson-grass-q1"
         },
         {
           "kind": "Nom científic",
@@ -3902,7 +4091,8 @@
             "Stellaria media L."
           ],
           "quote": "Sorghum halepense (L.) Pers.",
-          "page": 50
+          "page": 50,
+          "id": "johnson-grass-q2"
         },
         {
           "kind": "Família",
@@ -3919,7 +4109,8 @@
             "Solanàcia"
           ],
           "quote": "Gramínia (Poàcia)",
-          "page": 50
+          "page": 50,
+          "id": "johnson-grass-q3"
         },
         {
           "kind": "Característiques",
@@ -3938,7 +4129,8 @@
             "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis."
           ],
           "quote": "Tija erecta amb pèls als nusos; espiga laxa i ramificada de tonalitat violàcia, de fins a 30 cm, amb espiguetes amb arestes o sense.",
-          "page": 50
+          "page": 50,
+          "id": "johnson-grass-q4"
         },
         {
           "kind": "Cicle vital",
@@ -3949,7 +4141,8 @@
             "Biennal"
           ],
           "quote": "Perenne",
-          "page": 50
+          "page": 50,
+          "id": "johnson-grass-q5"
         },
         {
           "kind": "Reproducció",
@@ -3960,7 +4153,8 @@
             "Bulbs"
           ],
           "quote": "Rizomes",
-          "page": 21
+          "page": 21,
+          "id": "johnson-grass-q6"
         }
       ],
       "images": [
@@ -3979,7 +4173,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Gramínia (Poàcia)",
-      "trait": "Tija erecta amb pèls als nusos; espiga laxa i ramificada de tonalitat violàcia, de fins a 30 cm, amb espiguetes amb arestes o sense."
+      "trait": "Tija erecta amb pèls als nusos; espiga laxa i ramificada de tonalitat violàcia, de fins a 30 cm, amb espiguetes amb arestes o sense.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "dandelion",
@@ -4036,7 +4232,8 @@
             "Blet amarant i marxant"
           ],
           "quote": "Planta acaulescent d’arrel pivotant profunda; capítols groguencs sobre un peduncle buit i sense fulles; aqueni amb papus plomós.",
-          "page": 51
+          "page": 51,
+          "id": "dandelion-q1"
         },
         {
           "kind": "Nom científic",
@@ -4057,7 +4254,8 @@
             "Amaranthus retroflexus L."
           ],
           "quote": "Taraxacum officinale L.",
-          "page": 51
+          "page": 51,
+          "id": "dandelion-q2"
         },
         {
           "kind": "Família",
@@ -4074,7 +4272,8 @@
             "Solanàcia"
           ],
           "quote": "Asteràcia",
-          "page": 51
+          "page": 51,
+          "id": "dandelion-q3"
         },
         {
           "kind": "Característiques",
@@ -4093,7 +4292,8 @@
             "Flors grogues agrupades en un ramell terminal; el fruit és una síliqua cilíndrica."
           ],
           "quote": "Planta acaulescent d’arrel pivotant profunda; capítols groguencs sobre un peduncle buit i sense fulles; aqueni amb papus plomós.",
-          "page": 51
+          "page": 51,
+          "id": "dandelion-q4"
         }
       ],
       "images": [
@@ -4112,7 +4312,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Asteràcia",
-      "trait": "Planta acaulescent d’arrel pivotant profunda; capítols groguencs sobre un peduncle buit i sense fulles; aqueni amb papus plomós."
+      "trait": "Planta acaulescent d’arrel pivotant profunda; capítols groguencs sobre un peduncle buit i sense fulles; aqueni amb papus plomós.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "stinging-nettle",
@@ -4165,7 +4367,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Tija amb pèls urticants, fulles oposades, peciolades i peludes, amb la base cordiforme; sistema radicular en rizomes.",
-          "page": 52
+          "page": 52,
+          "id": "stinging-nettle-q1"
         },
         {
           "kind": "Nom científic",
@@ -4186,7 +4389,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Urtica dioica L.",
-          "page": 52
+          "page": 52,
+          "id": "stinging-nettle-q2"
         },
         {
           "kind": "Família",
@@ -4203,7 +4407,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Urticàcia",
-          "page": 52
+          "page": 52,
+          "id": "stinging-nettle-q3"
         },
         {
           "kind": "Característiques",
@@ -4222,7 +4427,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Tija amb pèls urticants, fulles oposades, peciolades i peludes, amb la base cordiforme; sistema radicular en rizomes.",
-          "page": 52
+          "page": 52,
+          "id": "stinging-nettle-q4"
         },
         {
           "kind": "Cicle vital",
@@ -4233,7 +4439,8 @@
             "Biennal"
           ],
           "quote": "Perenne",
-          "page": 52
+          "page": 52,
+          "id": "stinging-nettle-q5"
         },
         {
           "kind": "Reproducció",
@@ -4244,7 +4451,8 @@
             "Bulbs"
           ],
           "quote": "Rizomes",
-          "page": 52
+          "page": 52,
+          "id": "stinging-nettle-q6"
         }
       ],
       "images": [
@@ -4257,7 +4465,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Urticàcia",
-      "trait": "Tija amb pèls urticants, fulles oposades, peciolades i peludes, amb la base cordiforme; sistema radicular en rizomes."
+      "trait": "Tija amb pèls urticants, fulles oposades, peciolades i peludes, amb la base cordiforme; sistema radicular en rizomes.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "palmer-amaranth",
@@ -4314,7 +4524,8 @@
             "Estramoni, herba talpera i pudent"
           ],
           "quote": "Planta dioica, amb peus masculins i femenins separats; alt potencial per desenvolupar resistències als herbicides.",
-          "page": 53
+          "page": 53,
+          "id": "palmer-amaranth-q1"
         },
         {
           "kind": "Nom científic",
@@ -4335,7 +4546,8 @@
             "Datura stramonium L."
           ],
           "quote": "Amaranthus palmeri S. Watson",
-          "page": 53
+          "page": 53,
+          "id": "palmer-amaranth-q2"
         },
         {
           "kind": "Família",
@@ -4352,7 +4564,8 @@
             "Solanàcia"
           ],
           "quote": "Amarantàcia",
-          "page": 53
+          "page": 53,
+          "id": "palmer-amaranth-q3"
         },
         {
           "kind": "Característiques",
@@ -4371,7 +4584,8 @@
             "Fulles ovals acabades en punta fina; flors petites, blanques i en forma d’estrella, agrupades en inflorescències."
           ],
           "quote": "Planta dioica, amb peus masculins i femenins separats; alt potencial per desenvolupar resistències als herbicides.",
-          "page": 53
+          "page": 53,
+          "id": "palmer-amaranth-q4"
         }
       ],
       "images": [
@@ -4384,7 +4598,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Amarantàcia",
-      "trait": "Planta dioica, amb peus masculins i femenins separats; alt potencial per desenvolupar resistències als herbicides."
+      "trait": "Planta dioica, amb peus masculins i femenins separats; alt potencial per desenvolupar resistències als herbicides.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "rice-cutgrass",
@@ -4445,7 +4661,8 @@
             "Estramoni, herba talpera i pudent"
           ],
           "quote": "Planta rizomatosa amb nusos radicants i pilositat al voltant dels nusos; lígula membranosa truncada d’1 a 1,5 mm.",
-          "page": 54
+          "page": 54,
+          "id": "rice-cutgrass-q1"
         },
         {
           "kind": "Nom científic",
@@ -4466,7 +4683,8 @@
             "Datura stramonium L."
           ],
           "quote": "Leersia oryzoides Sw.",
-          "page": 54
+          "page": 54,
+          "id": "rice-cutgrass-q2"
         },
         {
           "kind": "Característiques",
@@ -4485,7 +4703,8 @@
             "Fulles ovals acabades en punta fina; flors petites, blanques i en forma d’estrella, agrupades en inflorescències."
           ],
           "quote": "Planta rizomatosa amb nusos radicants i pilositat al voltant dels nusos; lígula membranosa truncada d’1 a 1,5 mm.",
-          "page": 54
+          "page": 54,
+          "id": "rice-cutgrass-q3"
         },
         {
           "kind": "Cicle vital",
@@ -4497,7 +4716,8 @@
             "Sempre vivaç"
           ],
           "quote": "Vivaç o anual",
-          "page": 54
+          "page": 54,
+          "id": "rice-cutgrass-q4"
         },
         {
           "kind": "Hàbitat i hostes",
@@ -4509,7 +4729,8 @@
             "Llocs àrids i terrenys salins"
           ],
           "quote": "Camps d’arròs",
-          "page": 54
+          "page": 54,
+          "id": "rice-cutgrass-q5"
         }
       ],
       "images": [
@@ -4528,7 +4749,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Amarantàcia",
-      "trait": "Planta rizomatosa amb nusos radicants i pilositat al voltant dels nusos; lígula membranosa truncada d’1 a 1,5 mm."
+      "trait": "Planta rizomatosa amb nusos radicants i pilositat al voltant dels nusos; lígula membranosa truncada d’1 a 1,5 mm.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "sprangletop",
@@ -4585,7 +4808,8 @@
             "Lletsó"
           ],
           "quote": "Port cespitós, lígula membranosa de 2-4 mm, fulles llargues amb nervi central blanc i gran capacitat d’afillament.",
-          "page": 55
+          "page": 55,
+          "id": "sprangletop-q1"
         },
         {
           "kind": "Nom científic",
@@ -4606,7 +4830,8 @@
             "Stellaria media L."
           ],
           "quote": "Leptochloa sp.",
-          "page": 55
+          "page": 55,
+          "id": "sprangletop-q2"
         },
         {
           "kind": "Família",
@@ -4623,7 +4848,8 @@
             "Solanàcia"
           ],
           "quote": "Gramínia (poàcia)",
-          "page": 55
+          "page": 55,
+          "id": "sprangletop-q3"
         },
         {
           "kind": "Característiques",
@@ -4642,7 +4868,8 @@
             "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis."
           ],
           "quote": "Port cespitós, lígula membranosa de 2-4 mm, fulles llargues amb nervi central blanc i gran capacitat d’afillament.",
-          "page": 55
+          "page": 55,
+          "id": "sprangletop-q4"
         },
         {
           "kind": "Cicle vital",
@@ -4653,7 +4880,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 55
+          "page": 55,
+          "id": "sprangletop-q5"
         },
         {
           "kind": "Hàbitat i hostes",
@@ -4665,7 +4893,8 @@
             "Llocs àrids i terrenys salins"
           ],
           "quote": "Camps d’arròs",
-          "page": 55
+          "page": 55,
+          "id": "sprangletop-q6"
         }
       ],
       "images": [
@@ -4678,7 +4907,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Gramínia (poàcia)",
-      "trait": "Port cespitós, lígula membranosa de 2-4 mm, fulles llargues amb nervi central blanc i gran capacitat d’afillament."
+      "trait": "Port cespitós, lígula membranosa de 2-4 mm, fulles llargues amb nervi central blanc i gran capacitat d’afillament.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "rigid-ryegrass",
@@ -4735,7 +4966,8 @@
             "Lletsó"
           ],
           "quote": "Fulles brillants sense pilositat; base de la tija vermellosa i gluma que cobreix més de ¾ de l’espigueta, sense arestes.",
-          "page": 56
+          "page": 56,
+          "id": "rigid-ryegrass-q1"
         },
         {
           "kind": "Nom científic",
@@ -4756,7 +4988,8 @@
             "Stellaria media L."
           ],
           "quote": "Lolium rigidum Gaud.",
-          "page": 56
+          "page": 56,
+          "id": "rigid-ryegrass-q2"
         },
         {
           "kind": "Família",
@@ -4773,7 +5006,8 @@
             "Solanàcia"
           ],
           "quote": "Gramínia (poàcia)",
-          "page": 56
+          "page": 56,
+          "id": "rigid-ryegrass-q3"
         },
         {
           "kind": "Característiques",
@@ -4792,7 +5026,8 @@
             "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis."
           ],
           "quote": "Fulles brillants sense pilositat; base de la tija vermellosa i gluma que cobreix més de ¾ de l’espigueta, sense arestes.",
-          "page": 56
+          "page": 56,
+          "id": "rigid-ryegrass-q4"
         },
         {
           "kind": "Cicle vital",
@@ -4803,7 +5038,8 @@
             "Perenne o vivaç"
           ],
           "quote": "Anual",
-          "page": 56
+          "page": 56,
+          "id": "rigid-ryegrass-q5"
         }
       ],
       "images": [
@@ -4822,7 +5058,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Gramínia (poàcia)",
-      "trait": "Fulles brillants sense pilositat; base de la tija vermellosa i gluma que cobreix més de ¾ de l’espigueta, sense arestes."
+      "trait": "Fulles brillants sense pilositat; base de la tija vermellosa i gluma que cobreix més de ¾ de l’espigueta, sense arestes.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "bur-cucumber",
@@ -4879,7 +5117,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Planta enfiladissa amb tija de 7-8 m; fruits amb una sola llavor i pèls urticants; aixafa el cultiu amb el seu pes.",
-          "page": 57
+          "page": 57,
+          "id": "bur-cucumber-q1"
         },
         {
           "kind": "Nom científic",
@@ -4900,7 +5139,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Sicyos angulatus L.",
-          "page": 57
+          "page": 57,
+          "id": "bur-cucumber-q2"
         },
         {
           "kind": "Família",
@@ -4917,7 +5157,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Cucurbitàcia",
-          "page": 57
+          "page": 57,
+          "id": "bur-cucumber-q3"
         },
         {
           "kind": "Característiques",
@@ -4936,7 +5177,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Planta enfiladissa amb tija de 7-8 m; fruits amb una sola llavor i pèls urticants; aixafa el cultiu amb el seu pes.",
-          "page": 57
+          "page": 57,
+          "id": "bur-cucumber-q4"
         }
       ],
       "images": [
@@ -4955,7 +5197,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Cucurbitàcia",
-      "trait": "Planta enfiladissa amb tija de 7-8 m; fruits amb una sola llavor i pèls urticants; aixafa el cultiu amb el seu pes."
+      "trait": "Planta enfiladissa amb tija de 7-8 m; fruits amb una sola llavor i pèls urticants; aixafa el cultiu amb el seu pes.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "carolina-horsenettle",
@@ -5012,7 +5256,8 @@
             "Blet blanc"
           ],
           "quote": "Tiges i fulles espinoses, sistema radical rizomatós i fruits en baies esfèriques verd grogós disposades en raïms.",
-          "page": 58
+          "page": 58,
+          "id": "carolina-horsenettle-q1"
         },
         {
           "kind": "Nom científic",
@@ -5033,7 +5278,8 @@
             "Chenopodium album L."
           ],
           "quote": "Solanum carolinense L.",
-          "page": 58
+          "page": 58,
+          "id": "carolina-horsenettle-q2"
         },
         {
           "kind": "Família",
@@ -5050,7 +5296,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Solanàcia",
-          "page": 58
+          "page": 58,
+          "id": "carolina-horsenettle-q3"
         },
         {
           "kind": "Característiques",
@@ -5069,7 +5316,8 @@
             "Fulles ovals acabades en punta fina; flors petites, blanques i en forma d’estrella, agrupades en inflorescències."
           ],
           "quote": "Tiges i fulles espinoses, sistema radical rizomatós i fruits en baies esfèriques verd grogós disposades en raïms.",
-          "page": 58
+          "page": 58,
+          "id": "carolina-horsenettle-q4"
         },
         {
           "kind": "Cicle vital",
@@ -5080,7 +5328,8 @@
             "Biennal"
           ],
           "quote": "Perenne",
-          "page": 58
+          "page": 58,
+          "id": "carolina-horsenettle-q5"
         },
         {
           "kind": "Reproducció",
@@ -5091,7 +5340,8 @@
             "Bulbs"
           ],
           "quote": "Rizomes",
-          "page": 58
+          "page": 58,
+          "id": "carolina-horsenettle-q6"
         }
       ],
       "images": [
@@ -5110,7 +5360,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Solanàcia",
-      "trait": "Tiges i fulles espinoses, sistema radical rizomatós i fruits en baies esfèriques verd grogós disposades en raïms."
+      "trait": "Tiges i fulles espinoses, sistema radical rizomatós i fruits en baies esfèriques verd grogós disposades en raïms.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "teosinte",
@@ -5183,7 +5435,8 @@
             "Lletsó"
           ],
           "quote": "Ramificacions amb plomall masculí i 3 o 4 panotxes; panotxes amb dos rengles de llavors encapsulades amb coberta dura i brillant.",
-          "page": 59
+          "page": 59,
+          "id": "teosinte-q1"
         },
         {
           "kind": "Família",
@@ -5200,7 +5453,8 @@
             "Solanàcia"
           ],
           "quote": "Gramínia (Poàcia)",
-          "page": 59
+          "page": 59,
+          "id": "teosinte-q2"
         },
         {
           "kind": "Característiques",
@@ -5219,7 +5473,8 @@
             "Flors grosses de color vermell viu; càpsula amb un casquet pla amb uns 6-9 radis."
           ],
           "quote": "Ramificacions amb plomall masculí i 3 o 4 panotxes; panotxes amb dos rengles de llavors encapsulades amb coberta dura i brillant.",
-          "page": 59
+          "page": 59,
+          "id": "teosinte-q3"
         }
       ],
       "images": [
@@ -5244,7 +5499,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Gramínia (Poàcia)",
-      "trait": "Ramificacions amb plomall masculí i 3 o 4 panotxes; panotxes amb dos rengles de llavors encapsulades amb coberta dura i brillant."
+      "trait": "Ramificacions amb plomall masculí i 3 o 4 panotxes; panotxes amb dos rengles de llavors encapsulades amb coberta dura i brillant.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "mistletoe",
@@ -5303,7 +5560,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Espècie hemiparàsita amb fulles oposades; fruit enganxós que passa de verd a blanc en madurar i es dispersa amb els ocells.",
-          "page": 61
+          "page": 61,
+          "id": "mistletoe-q1"
         },
         {
           "kind": "Nom científic",
@@ -5324,7 +5582,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Viscum album L.",
-          "page": 61
+          "page": 61,
+          "id": "mistletoe-q2"
         },
         {
           "kind": "Família",
@@ -5341,7 +5600,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Lorantàcia",
-          "page": 61
+          "page": 61,
+          "id": "mistletoe-q3"
         },
         {
           "kind": "Característiques",
@@ -5360,7 +5620,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Espècie hemiparàsita amb fulles oposades; fruit enganxós que passa de verd a blanc en madurar i es dispersa amb els ocells.",
-          "page": 61
+          "page": 61,
+          "id": "mistletoe-q4"
         },
         {
           "kind": "Hàbitat i hostes",
@@ -5372,7 +5633,8 @@
             "Prats i prades amb trèvols"
           ],
           "quote": "Branques dels pins",
-          "page": 61
+          "page": 61,
+          "id": "mistletoe-q5"
         },
         {
           "kind": "Parasitisme",
@@ -5383,7 +5645,8 @@
             "No té clorofil·la i les fulles estan reduïdes a escames"
           ],
           "quote": "Té clorofil·la i és hemiparàsita",
-          "page": 61
+          "page": 61,
+          "id": "mistletoe-q6"
         }
       ],
       "images": [
@@ -5402,7 +5665,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Lorantàcia",
-      "trait": "Espècie hemiparàsita amb fulles oposades; fruit enganxós que passa de verd a blanc en madurar i es dispersa amb els ocells."
+      "trait": "Espècie hemiparàsita amb fulles oposades; fruit enganxós que passa de verd a blanc en madurar i es dispersa amb els ocells.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "dodder",
@@ -5469,7 +5734,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Plantes sense fulles ni clorofil·la; xarxa de filaments al voltant de la tija de l’hoste, on es fixen amb òrgans xucladors.",
-          "page": 62
+          "page": 62,
+          "id": "dodder-q1"
         },
         {
           "kind": "Nom científic",
@@ -5490,7 +5756,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Cuscuta sp.",
-          "page": 62
+          "page": 62,
+          "id": "dodder-q2"
         },
         {
           "kind": "Família",
@@ -5507,7 +5774,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Cuscutàcia",
-          "page": 62
+          "page": 62,
+          "id": "dodder-q3"
         },
         {
           "kind": "Característiques",
@@ -5526,7 +5794,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Plantes sense fulles ni clorofil·la; xarxa de filaments al voltant de la tija de l’hoste, on es fixen amb òrgans xucladors.",
-          "page": 62
+          "page": 62,
+          "id": "dodder-q4"
         },
         {
           "kind": "Parasitisme",
@@ -5537,7 +5806,8 @@
             "No té clorofil·la i les fulles estan reduïdes a escames"
           ],
           "quote": "No té clorofil·la i forma filaments al voltant de les tiges",
-          "page": 62
+          "page": 62,
+          "id": "dodder-q5"
         }
       ],
       "images": [
@@ -5556,7 +5826,9 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Cuscutàcia",
-      "trait": "Plantes sense fulles ni clorofil·la; xarxa de filaments al voltant de la tija de l’hoste, on es fixen amb òrgans xucladors."
+      "trait": "Plantes sense fulles ni clorofil·la; xarxa de filaments al voltant de la tija de l’hoste, on es fixen amb òrgans xucladors.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
     },
     {
       "id": "crenate-broomrape",
@@ -5619,7 +5891,8 @@
             "Mill roig, xereix pota de gall i panissola"
           ],
           "quote": "Tija dreta groga o blavosa, amb escames que substitueixen les fulles; flors blanques o grogues amb venes violàcies en espigues cilíndriques.",
-          "page": 63
+          "page": 63,
+          "id": "crenate-broomrape-q1"
         },
         {
           "kind": "Nom científic",
@@ -5640,7 +5913,8 @@
             "Echinochloa crus-galli (L.) Beauv."
           ],
           "quote": "Orobanche crenata Forskal",
-          "page": 63
+          "page": 63,
+          "id": "crenate-broomrape-q2"
         },
         {
           "kind": "Família",
@@ -5657,7 +5931,8 @@
             "Quenopodiàcia"
           ],
           "quote": "Orobancàcia",
-          "page": 63
+          "page": 63,
+          "id": "crenate-broomrape-q3"
         },
         {
           "kind": "Característiques",
@@ -5676,7 +5951,8 @@
             "Fulles ovato-romboïdals de contorn dentat i aspecte farinós quan surten; flors petites, verdoses i sense pètals."
           ],
           "quote": "Tija dreta groga o blavosa, amb escames que substitueixen les fulles; flors blanques o grogues amb venes violàcies en espigues cilíndriques.",
-          "page": 63
+          "page": 63,
+          "id": "crenate-broomrape-q4"
         },
         {
           "kind": "Hàbitat i hostes",
@@ -5688,7 +5964,8 @@
             "Vinya"
           ],
           "quote": "Lleguminoses, especialment faves",
-          "page": 63
+          "page": 63,
+          "id": "crenate-broomrape-q5"
         },
         {
           "kind": "Parasitisme",
@@ -5699,7 +5976,8 @@
             "No té clorofil·la i forma filaments al voltant de les tiges"
           ],
           "quote": "No té clorofil·la i les fulles estan reduïdes a escames",
-          "page": 63
+          "page": 63,
+          "id": "crenate-broomrape-q6"
         }
       ],
       "images": [
@@ -5718,7 +5996,2201 @@
       ],
       "note": "Fotografies associades a la fitxa de la planta al temari «Coneix la vegetació espontània present en els cultius». Els noms originals es mostren després de respondre.",
       "family": "Orobancàcia",
-      "trait": "Tija dreta groga o blavosa, amb escames que substitueixen les fulles; flors blanques o grogues amb venes violàcies en espigues cilíndriques."
+      "trait": "Tija dreta groga o blavosa, amb escames que substitueixen les fulles; flors blanques o grogues amb venes violàcies en espigues cilíndriques.",
+      "learning": true,
+      "learningSection": "Espècies i parasitisme"
+    },
+    {
+      "id": "weed-learning-context",
+      "name": "La flora adventícia depèn del context",
+      "science": "",
+      "group": "Ecologia i competència",
+      "page": 6,
+      "learning": true,
+      "learningSection": "Ecologia i competència",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-context",
+          "image": "images/weed-learning-context.jpg",
+          "original": "images/weed-learning-context-original.jpg",
+          "page": 6
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Concepte",
+          "prompt": "Què determina que una planta sigui considerada flora adventícia?",
+          "answer": "El context on es localitza",
+          "distractors": [
+            "Només la família botànica",
+            "Només la forma de les fulles",
+            "Només si és anual"
+          ],
+          "quote": "La consideració de flora adventícia ve determinada pel context; en un altre ambient la mateixa planta pot ser beneficiosa.",
+          "page": 6,
+          "id": "weed-learning-context-q1"
+        },
+        {
+          "kind": "Recursos",
+          "prompt": "Per quins recursos competeixen les adventícies i els cultius?",
+          "answer": "Aigua, llum i nutrients",
+          "distractors": [
+            "Només llavors",
+            "Només pol·len",
+            "Només fruits"
+          ],
+          "quote": "La competència per aigua, llum i nutrients pot reduir el rendiment dels cultius.",
+          "page": 6,
+          "id": "weed-learning-context-q2"
+        },
+        {
+          "kind": "Impacte",
+          "prompt": "Quina combinació resumeix els perjudicis descrits de la flora adventícia?",
+          "answer": "Menys rendiment, menys valor del producte i més costos",
+          "distractors": [
+            "Més biodiversitat i refugi de fauna",
+            "Protecció del sòl i millor estructura",
+            "Més recursos de pol·len i nèctar"
+          ],
+          "quote": "El tema destaca reducció de rendiment, reducció del valor del producte i augment dels costos de producció.",
+          "page": 6,
+          "id": "weed-learning-context-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Una planta es considera adventícia segons el lloc, el moment i si és desitjada."
+        },
+        {
+          "label": "Concepte",
+          "text": "La consideració de flora adventícia ve determinada pel context; en un altre ambient la mateixa planta pot ser beneficiosa."
+        },
+        {
+          "label": "Recursos",
+          "text": "La competència per aigua, llum i nutrients pot reduir el rendiment dels cultius."
+        },
+        {
+          "label": "Impacte",
+          "text": "El tema destaca reducció de rendiment, reducció del valor del producte i augment dels costos de producció."
+        }
+      ],
+      "groupStudy": {
+        "page": 6,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-adaptation",
+      "name": "Adaptació i persistència",
+      "science": "",
+      "group": "Ecologia i competència",
+      "page": 7,
+      "learning": true,
+      "learningSection": "Ecologia i competència",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-adaptation",
+          "image": "images/weed-learning-adaptation.jpg",
+          "original": "images/weed-learning-adaptation-original.jpg",
+          "page": 7
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Adaptació",
+          "prompt": "Què facilita l’adaptació de les adventícies a ambients variats?",
+          "answer": "La considerable variabilitat genètica",
+          "distractors": [
+            "La manca de reproducció",
+            "La manca de germinació",
+            "Un únic tipus de sòl"
+          ],
+          "quote": "La variabilitat genètica facilita l’adaptació a condicions i ambients variats.",
+          "page": 7,
+          "id": "weed-learning-adaptation-q1"
+        },
+        {
+          "kind": "Sòl",
+          "prompt": "Quins factors del sòl afavoreixen el predomini de determinades espècies?",
+          "answer": "Textura, acidesa, humitat i salinitat",
+          "distractors": [
+            "Només el color de les flors",
+            "Només el nombre de pètals",
+            "Només la forma del fruit"
+          ],
+          "quote": "Les característiques del sòl condicionen quines espècies predominen i cada conreu té flora associada.",
+          "page": 7,
+          "id": "weed-learning-adaptation-q2"
+        },
+        {
+          "kind": "Persistència",
+          "prompt": "Quina característica de les llavors afavoreix la persistència de les adventícies?",
+          "answer": "Supervivència en condicions adverses i latència al sòl",
+          "distractors": [
+            "Pèrdua immediata de viabilitat",
+            "Germinació obligatòria de totes alhora",
+            "Absència de dispersió"
+          ],
+          "quote": "Les llavors poden sobreviure en condicions adverses i romandre en latència al sòl.",
+          "page": 7,
+          "id": "weed-learning-adaptation-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Creixement ràpid, variabilitat i llavors persistents afavoreixen les adventícies."
+        },
+        {
+          "label": "Adaptació",
+          "text": "La variabilitat genètica facilita l’adaptació a condicions i ambients variats."
+        },
+        {
+          "label": "Sòl",
+          "text": "Les característiques del sòl condicionen quines espècies predominen i cada conreu té flora associada."
+        },
+        {
+          "label": "Persistència",
+          "text": "Les llavors poden sobreviure en condicions adverses i romandre en latència al sòl."
+        }
+      ],
+      "groupStudy": {
+        "page": 7,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-competition",
+      "name": "La competència i el rendiment",
+      "science": "",
+      "group": "Ecologia i competència",
+      "page": 8,
+      "learning": true,
+      "learningSection": "Ecologia i competència",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-competition",
+          "image": "images/weed-learning-competition.jpg",
+          "original": "images/weed-learning-competition-original.jpg",
+          "page": 8
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Moment",
+          "prompt": "Quan pot ser més important la pèrdua de rendiment per competència?",
+          "answer": "Amb emergència simultània o durant el primer terç del cicle",
+          "distractors": [
+            "Només després de la collita",
+            "Només quan totes les plantes s’han assecat",
+            "Només després de dispersar les llavors"
+          ],
+          "quote": "En general, l’emergència simultània o la competència durant el primer terç del cicle provoquen pèrdues més importants.",
+          "page": 8,
+          "id": "weed-learning-competition-q1"
+        },
+        {
+          "kind": "Factors",
+          "prompt": "Quins trets de les poblacions adventícies condicionen la interferència?",
+          "answer": "Densitat i agressivitat",
+          "distractors": [
+            "Només color dels pètals",
+            "Només nombre de cotilèdons",
+            "Només nom científic"
+          ],
+          "quote": "La densitat i l’agressivitat de les poblacions condicionen el grau d’interferència.",
+          "page": 8,
+          "id": "weed-learning-competition-q2"
+        },
+        {
+          "kind": "Cultiu",
+          "prompt": "Quins trets de les plantes conreades influeixen en la competència?",
+          "answer": "Espècie, varietat, densitat i disposició espacial",
+          "distractors": [
+            "Només el nom comú",
+            "Només el color del gra",
+            "Només la família de l’adventícia"
+          ],
+          "quote": "També influeixen l’espècie, la varietat, la densitat i la disposició en l’espai de les plantes conreades.",
+          "page": 8,
+          "id": "weed-learning-competition-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "El moment d’emergència i les característiques del cultiu condicionen la interferència."
+        },
+        {
+          "label": "Moment",
+          "text": "En general, l’emergència simultània o la competència durant el primer terç del cicle provoquen pèrdues més importants."
+        },
+        {
+          "label": "Factors",
+          "text": "La densitat i l’agressivitat de les poblacions condicionen el grau d’interferència."
+        },
+        {
+          "label": "Cultiu",
+          "text": "També influeixen l’espècie, la varietat, la densitat i la disposició en l’espai de les plantes conreades."
+        }
+      ],
+      "groupStudy": {
+        "page": 8,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-quality-costs",
+      "name": "Qualitat de la collita i costos",
+      "science": "",
+      "group": "Ecologia i competència",
+      "page": 9,
+      "learning": true,
+      "learningSection": "Ecologia i competència",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-quality-costs",
+          "image": "images/weed-learning-quality-costs.jpg",
+          "original": "images/weed-learning-quality-costs-original.jpg",
+          "page": 6
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Qualitat",
+          "prompt": "Per què les llavors adventícies poden reduir el valor del gra recol·lectat?",
+          "answer": "Perquè hi introdueixen impureses",
+          "distractors": [
+            "Perquè formen un banc de propàguls al gra",
+            "Perquè converteixen el cereal en bianual",
+            "Perquè transformen els cotilèdons"
+          ],
+          "quote": "La presència de llavors no desitjades contamina el gra i disminueix el valor del producte.",
+          "page": 9,
+          "id": "weed-learning-quality-costs-q1"
+        },
+        {
+          "kind": "Costos",
+          "prompt": "Per què augmenten els costos quan hi ha flora adventícia problemàtica?",
+          "answer": "Pel temps i diners de control i les dificultats de maneig i recol·lecció",
+          "distractors": [
+            "Només perquè hi ha flors",
+            "Només pel nombre de famílies botàniques",
+            "Només perquè germina una llavor"
+          ],
+          "quote": "El control comporta temps i diners, i les adventícies dificulten el maneig i la recol·lecció.",
+          "page": 9,
+          "id": "weed-learning-quality-costs-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Les impureses i les dificultats de maneig tenen conseqüències econòmiques."
+        },
+        {
+          "label": "Qualitat",
+          "text": "La presència de llavors no desitjades contamina el gra i disminueix el valor del producte."
+        },
+        {
+          "label": "Costos",
+          "text": "El control comporta temps i diners, i les adventícies dificulten el maneig i la recol·lecció."
+        }
+      ],
+      "groupStudy": {
+        "page": 9,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-allelopathy",
+      "name": "Les interaccions al·lelopàtiques",
+      "science": "",
+      "group": "Ecologia i competència",
+      "page": 9,
+      "learning": true,
+      "learningSection": "Ecologia i competència",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-allelopathy",
+          "image": "images/weed-learning-allelopathy.jpg",
+          "original": "images/weed-learning-allelopathy-original.jpg",
+          "page": 7
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Concepte",
+          "prompt": "Quin mecanisme defineix l’al·lelopatia?",
+          "answer": "Interaccions químiques entre plantes",
+          "distractors": [
+            "Només competència per la llum",
+            "Només dispersió de llavors",
+            "Només reproducció vegetativa"
+          ],
+          "quote": "Algunes plantes produeixen i emeten substàncies químiques que poden interferir en el creixement d’altres espècies.",
+          "page": 9,
+          "id": "weed-learning-allelopathy-q1"
+        },
+        {
+          "kind": "Via",
+          "prompt": "Per quines vies es poden alliberar les substàncies al·lelopàtiques descrites?",
+          "answer": "Arrels i restes vegetals en descomposició",
+          "distractors": [
+            "Només els fruits enganxats als ocells",
+            "Només els cotilèdons visibles",
+            "Només les flors pol·linitzades"
+          ],
+          "quote": "El text descriu l’emissió a través de les arrels i de les restes vegetals en descomposició.",
+          "page": 9,
+          "id": "weed-learning-allelopathy-q2"
+        },
+        {
+          "kind": "Desenvolupament",
+          "prompt": "Quan assoleixen la màxima influència les interaccions químiques descrites?",
+          "answer": "Quan les plantes arriben a la maduresa",
+          "distractors": [
+            "Sempre abans de germinar",
+            "Només durant la latència",
+            "Només abans de formar arrels"
+          ],
+          "quote": "Les interaccions químiques descrites assoleixen la màxima influència quan les plantes arriben a la maduresa.",
+          "page": 9,
+          "id": "weed-learning-allelopathy-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Algunes plantes alliberen substàncies que interfereixen en altres espècies."
+        },
+        {
+          "label": "Concepte",
+          "text": "Algunes plantes produeixen i emeten substàncies químiques que poden interferir en el creixement d’altres espècies."
+        },
+        {
+          "label": "Via",
+          "text": "El text descriu l’emissió a través de les arrels i de les restes vegetals en descomposició."
+        },
+        {
+          "label": "Desenvolupament",
+          "text": "Les interaccions químiques descrites assoleixen la màxima influència quan les plantes arriben a la maduresa."
+        }
+      ],
+      "groupStudy": {
+        "page": 9,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-allelopathy-uses",
+      "name": "Aprofitament de l’al·lelopatia",
+      "science": "",
+      "group": "Ecologia i competència",
+      "page": 10,
+      "learning": true,
+      "learningSection": "Ecologia i competència",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-allelopathy-uses",
+          "image": "images/weed-learning-allelopathy-uses.jpg",
+          "original": "images/weed-learning-allelopathy-uses-original.jpg",
+          "page": 8
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Aplicació",
+          "prompt": "Quines pràctiques poden aprofitar l’efecte al·lelopàtic?",
+          "answer": "Cobertores, encoixinats i adobs verds",
+          "distractors": [
+            "Només dispersar rizomes amb fresadora",
+            "Només barrejar llavors amb la collita",
+            "Només augmentar impureses al gra"
+          ],
+          "quote": "Es poden utilitzar plantes amb efectes al·lelopàtics com a cobertora, encoixinats o adobs verds.",
+          "page": 10,
+          "id": "weed-learning-allelopathy-uses-q1"
+        },
+        {
+          "kind": "Exemple",
+          "prompt": "Quina planta es cita en cobertora per controlar adventícies en plantacions de pomera?",
+          "answer": "Ravenissa borda (Sinapis arvensis)",
+          "distractors": [
+            "Cuscuta sp.",
+            "Viscum album",
+            "Orobanche crenata"
+          ],
+          "quote": "S’esmenta la sembra en cobertora de Sinapis arvensis en plantacions de pomera a Califòrnia.",
+          "page": 10,
+          "id": "weed-learning-allelopathy-uses-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "L’efecte al·lelopàtic també pot limitar altres adventícies."
+        },
+        {
+          "label": "Aplicació",
+          "text": "Es poden utilitzar plantes amb efectes al·lelopàtics com a cobertora, encoixinats o adobs verds."
+        },
+        {
+          "label": "Exemple",
+          "text": "S’esmenta la sembra en cobertora de Sinapis arvensis en plantacions de pomera a Califòrnia."
+        }
+      ],
+      "groupStudy": {
+        "page": 10,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-biodiversity",
+      "name": "Flora adventícia i fauna auxiliar",
+      "science": "",
+      "group": "Ecologia i competència",
+      "page": 11,
+      "learning": true,
+      "learningSection": "Ecologia i competència",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-biodiversity",
+          "image": "images/weed-learning-biodiversity.jpg",
+          "original": "images/weed-learning-biodiversity-original.jpg",
+          "page": 6
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Benefici",
+          "prompt": "Quins organismes poden trobar refugi a la flora arvense?",
+          "answer": "Pol·linitzadors i enemics naturals dels fitòfags",
+          "distractors": [
+            "Només plantes paràsites",
+            "Només llavors en latència",
+            "Només propàguls vegetatius"
+          ],
+          "quote": "La flora arvense augmenta la biodiversitat i serveix de refugi a pol·linitzadors i enemics naturals.",
+          "page": 11,
+          "id": "weed-learning-biodiversity-q1"
+        },
+        {
+          "kind": "Recursos",
+          "prompt": "Quin conjunt de recursos ofereix a la fauna auxiliar?",
+          "answer": "Preses, hostes alternatius, pol·len i nèctar",
+          "distractors": [
+            "Només rizomes i bulbs",
+            "Només impureses del gra",
+            "Només llavors enterrades"
+          ],
+          "quote": "Les plantes proporcionen preses, hostes alternatius, pol·len i nèctar, a més de microhàbitats.",
+          "page": 11,
+          "id": "weed-learning-biodiversity-q2"
+        },
+        {
+          "kind": "Plantes trampa",
+          "prompt": "Com poden actuar algunes plantes com a plantes trampa?",
+          "answer": "Atraient insectes perjudicials i distraient-los dels cultius",
+          "distractors": [
+            "Impedint tota germinació",
+            "Transformant llavors en rizomes",
+            "Eliminant tots els microhàbitats"
+          ],
+          "quote": "Poden atreure insectes perjudicials cap a elles i distreure’ls dels cultius.",
+          "page": 11,
+          "id": "weed-learning-biodiversity-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Les plantes poden oferir refugi, recursos i microhàbitats a la fauna auxiliar."
+        },
+        {
+          "label": "Benefici",
+          "text": "La flora arvense augmenta la biodiversitat i serveix de refugi a pol·linitzadors i enemics naturals."
+        },
+        {
+          "label": "Recursos",
+          "text": "Les plantes proporcionen preses, hostes alternatius, pol·len i nèctar, a més de microhàbitats."
+        },
+        {
+          "label": "Plantes trampa",
+          "text": "Poden atreure insectes perjudicials cap a elles i distreure’ls dels cultius."
+        }
+      ],
+      "groupStudy": {
+        "page": 11,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-soil-cover",
+      "name": "Microclima i protecció del sòl",
+      "science": "",
+      "group": "Ecologia i competència",
+      "page": 11,
+      "learning": true,
+      "learningSection": "Ecologia i competència",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-soil-cover",
+          "image": "images/weed-learning-soil-cover.jpg",
+          "original": "images/weed-learning-soil-cover-original.jpg",
+          "page": 8
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Cobertura",
+          "prompt": "Com contribueix la cobertura vegetal a protegir el sòl?",
+          "answer": "Reduint l’erosió",
+          "distractors": [
+            "Eliminant tota la matèria orgànica",
+            "Impedint l’activitat biològica",
+            "Augmentant les impureses de la collita"
+          ],
+          "quote": "Les adventícies proporcionen cobertura que protegeix el sòl de l’erosió.",
+          "page": 11,
+          "id": "weed-learning-soil-cover-q1"
+        },
+        {
+          "kind": "Arrels",
+          "prompt": "Quin benefici poden aportar les arrels al sòl?",
+          "answer": "Millorar l’estructura i afavorir l’activitat biològica",
+          "distractors": [
+            "Eliminar els nutrients",
+            "Convertir totes les plantes en paràsites",
+            "Impedir la formació d’humus"
+          ],
+          "quote": "Les arrels milloren l’estructura del sòl i afavoreixen la seva activitat biològica.",
+          "page": 11,
+          "id": "weed-learning-soil-cover-q2"
+        },
+        {
+          "kind": "Microclima",
+          "prompt": "Quin efecte pot tenir una població equilibrada d’adventícies?",
+          "answer": "Mantenir la humitat del sòl i protegir-lo contra les gelades",
+          "distractors": [
+            "Eliminar sempre tota la humitat",
+            "Augmentar necessàriament l’erosió",
+            "Impedir qualsevol activitat biològica"
+          ],
+          "quote": "Una població equilibrada pot condicionar favorablement el microclima, mantenir humitat i protegir contra gelades.",
+          "page": 11,
+          "id": "weed-learning-soil-cover-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Una població equilibrada pot protegir el sòl i millorar-ne les condicions."
+        },
+        {
+          "label": "Cobertura",
+          "text": "Les adventícies proporcionen cobertura que protegeix el sòl de l’erosió."
+        },
+        {
+          "label": "Arrels",
+          "text": "Les arrels milloren l’estructura del sòl i afavoreixen la seva activitat biològica."
+        },
+        {
+          "label": "Microclima",
+          "text": "Una població equilibrada pot condicionar favorablement el microclima, mantenir humitat i protegir contra gelades."
+        }
+      ],
+      "groupStudy": {
+        "page": 11,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-uses",
+      "name": "Aprofitaments de la flora arvense",
+      "science": "",
+      "group": "Ecologia i competència",
+      "page": 12,
+      "learning": true,
+      "learningSection": "Ecologia i competència",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-uses",
+          "image": "images/weed-learning-uses.jpg",
+          "original": "images/weed-learning-uses-original.jpg",
+          "page": 36
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Aprofitament",
+          "prompt": "Quins usos econòmics de la flora arvense es descriuen?",
+          "answer": "Aliment per al bestiar, ús ornamental i alimentari",
+          "distractors": [
+            "Només augment d’impureses",
+            "Només reducció del rendiment",
+            "Només competència radicular"
+          ],
+          "quote": "Es descriuen usos com a aliment per al bestiar, plantes ornamentals i aliment per a humans.",
+          "page": 12,
+          "id": "weed-learning-uses-q1"
+        },
+        {
+          "kind": "Exemple",
+          "prompt": "Quina planta exemplifica que una adventícia també pot cultivar-se per aprofitar-la?",
+          "answer": "Verdolaga (Portulaca oleracea)",
+          "distractors": [
+            "Cuscuta sp.",
+            "Orobanche crenata",
+            "Viscum album"
+          ],
+          "quote": "La verdolaga es considera mala herba en moltes zones, però també es cultiva per aprofitar-la. La consideració depèn del context.",
+          "page": 12,
+          "id": "weed-learning-uses-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Algunes espècies tenen aprofitaments farratgers, ornamentals o alimentaris."
+        },
+        {
+          "label": "Aprofitament",
+          "text": "Es descriuen usos com a aliment per al bestiar, plantes ornamentals i aliment per a humans."
+        },
+        {
+          "label": "Exemple",
+          "text": "La verdolaga es considera mala herba en moltes zones, però també es cultiva per aprofitar-la. La consideració depèn del context."
+        }
+      ],
+      "groupStudy": {
+        "page": 12,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-cotyledons",
+      "name": "Plàntules i cotilèdons",
+      "science": "",
+      "group": "Botànica, hàbitats i observació",
+      "page": 13,
+      "learning": true,
+      "learningSection": "Botànica, hàbitats i observació",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-cotyledons",
+          "image": "images/weed-learning-cotyledons.jpg",
+          "original": "images/weed-learning-cotyledons-original.jpg",
+          "page": 13
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Concepte",
+          "prompt": "Què és una plàntula?",
+          "answer": "Una planta jove que comença el desenvolupament amb la germinació",
+          "distractors": [
+            "Un òrgan subterrani de reserva",
+            "Una llavor en latència",
+            "Una planta que ja ha completat diversos anys"
+          ],
+          "quote": "Les plàntules són plantes joves amb poques fulles que surten de l’embrió d’una llavor.",
+          "page": 13,
+          "id": "weed-learning-cotyledons-q1"
+        },
+        {
+          "kind": "Estructura",
+          "prompt": "Què són els cotilèdons?",
+          "answer": "Les primeres fulles embrionàries",
+          "distractors": [
+            "Els pètals de la flor",
+            "Els rizomes subterranis",
+            "Les arrels adventícies"
+          ],
+          "quote": "Els cotilèdons són les fulles embrionàries de la planta en germinació.",
+          "page": 13,
+          "id": "weed-learning-cotyledons-q2"
+        },
+        {
+          "kind": "Comparació",
+          "prompt": "Els cotilèdons sempre tenen la mateixa forma i mida que les fulles adultes?",
+          "answer": "No, generalment són diferents",
+          "distractors": [
+            "Sí, sempre són idèntics",
+            "Només són diferents en plantes paràsites",
+            "Només són diferents en plantes bianuals"
+          ],
+          "quote": "Solen ser simples, de vida curta i de forma i mida diferents de les fulles adultes.",
+          "page": 13,
+          "id": "weed-learning-cotyledons-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Els cotilèdons són fulles embrionàries i poden diferir de les fulles adultes."
+        },
+        {
+          "label": "Concepte",
+          "text": "Les plàntules són plantes joves amb poques fulles que surten de l’embrió d’una llavor."
+        },
+        {
+          "label": "Estructura",
+          "text": "Els cotilèdons són les fulles embrionàries de la planta en germinació."
+        },
+        {
+          "label": "Comparació",
+          "text": "Solen ser simples, de vida curta i de forma i mida diferents de les fulles adultes."
+        }
+      ],
+      "groupStudy": {
+        "page": 13,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-monocots",
+      "name": "Característiques de les monocotiledònies",
+      "science": "",
+      "group": "Botànica, hàbitats i observació",
+      "page": 13,
+      "learning": true,
+      "learningSection": "Botànica, hàbitats i observació",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-monocots",
+          "image": "images/weed-learning-monocots.jpg",
+          "original": "images/weed-learning-monocots-original.jpg",
+          "page": 13
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Germinació",
+          "prompt": "Quants cotilèdons presenta una monocotiledònia en germinar?",
+          "answer": "Un",
+          "distractors": [
+            "Dos",
+            "Tres",
+            "Cinc"
+          ],
+          "quote": "La plàntula monocotiledònia surt amb un cotiledó.",
+          "page": 13,
+          "id": "weed-learning-monocots-q1"
+        },
+        {
+          "kind": "Nervació",
+          "prompt": "Quina nervació és general en les monocotiledònies?",
+          "answer": "Paral·lela",
+          "distractors": [
+            "Palmada, sempre",
+            "Sense nervis",
+            "Només ramificada"
+          ],
+          "quote": "Les fulles són normalment estretes i generalment tenen nervació paral·lela.",
+          "page": 13,
+          "id": "weed-learning-monocots-q2"
+        },
+        {
+          "kind": "Arrels",
+          "prompt": "Quin sistema radicular formen les arrels adventícies de les monocotiledònies?",
+          "answer": "Fascicular",
+          "distractors": [
+            "Pivotant persistent",
+            "Bulbós, sempre",
+            "Sense arrels secundàries"
+          ],
+          "quote": "Les arrels primàries són de vida curta i se substitueixen per arrels adventícies que formen un sistema fascicular.",
+          "page": 13,
+          "id": "weed-learning-monocots-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Un cotiledó, nervació generalment paral·lela i sistema radicular fascicular."
+        },
+        {
+          "label": "Germinació",
+          "text": "La plàntula monocotiledònia surt amb un cotiledó."
+        },
+        {
+          "label": "Nervació",
+          "text": "Les fulles són normalment estretes i generalment tenen nervació paral·lela."
+        },
+        {
+          "label": "Arrels",
+          "text": "Les arrels primàries són de vida curta i se substitueixen per arrels adventícies que formen un sistema fascicular."
+        }
+      ],
+      "groupStudy": {
+        "page": 13,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-dicots",
+      "name": "Característiques de les dicotiledònies",
+      "science": "",
+      "group": "Botànica, hàbitats i observació",
+      "page": 15,
+      "learning": true,
+      "learningSection": "Botànica, hàbitats i observació",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-dicots",
+          "image": "images/weed-learning-dicots.jpg",
+          "original": "images/weed-learning-dicots-original.jpg",
+          "page": 15
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Germinació",
+          "prompt": "Quants cotilèdons presenta una dicotiledònia en germinar?",
+          "answer": "Dos",
+          "distractors": [
+            "Un",
+            "Tres",
+            "Cinc"
+          ],
+          "quote": "Les plàntules dicotiledònies surten amb dos cotilèdons.",
+          "page": 15,
+          "id": "weed-learning-dicots-q1"
+        },
+        {
+          "kind": "Arrels",
+          "prompt": "Com és sovint l’arrel primària d’una dicotiledònia?",
+          "answer": "Persistent i pivotant",
+          "distractors": [
+            "Sempre de vida curta",
+            "Sempre substituïda immediatament per un sistema fascicular",
+            "Inexistent"
+          ],
+          "quote": "L’arrel primària és sovint persistent i pivotant, amb arrels secundàries més petites.",
+          "page": 15,
+          "id": "weed-learning-dicots-q2"
+        },
+        {
+          "kind": "Flors",
+          "prompt": "Com són generalment les flors de les dicotiledònies descrites?",
+          "answer": "Tetràmeres o pentàmeres",
+          "distractors": [
+            "Sempre trímeres",
+            "Sempre sense pètals",
+            "Sempre amb un únic pètal"
+          ],
+          "quote": "Les flors són generalment tetràmeres, amb quatre pètals, o pentàmeres, amb cinc.",
+          "page": 15,
+          "id": "weed-learning-dicots-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Dos cotilèdons i trets generals que cal interpretar amb les seves excepcions."
+        },
+        {
+          "label": "Germinació",
+          "text": "Les plàntules dicotiledònies surten amb dos cotilèdons."
+        },
+        {
+          "label": "Arrels",
+          "text": "L’arrel primària és sovint persistent i pivotant, amb arrels secundàries més petites."
+        },
+        {
+          "label": "Flors",
+          "text": "Les flors són generalment tetràmeres, amb quatre pètals, o pentàmeres, amb cinc."
+        }
+      ],
+      "groupStudy": {
+        "page": 15,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-classification-limits",
+      "name": "No n’hi ha prou amb l’amplada de la fulla",
+      "science": "",
+      "group": "Botànica, hàbitats i observació",
+      "page": 14,
+      "learning": true,
+      "learningSection": "Botànica, hàbitats i observació",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-classification-limits",
+          "image": "images/weed-learning-classification-limits.jpg",
+          "original": "images/weed-learning-classification-limits-original.jpg",
+          "page": 13
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Classificació",
+          "prompt": "Es pot identificar sempre una monocotiledònia només perquè té la fulla estreta?",
+          "answer": "No: hi ha excepcions en tots dos grups",
+          "distractors": [
+            "Sí, sense excepcions",
+            "Només si és anual",
+            "Només si és arvense"
+          ],
+          "quote": "Hi ha dicotiledònies amb fulles estretes i monocotiledònies amb fulles triangulars o més amples.",
+          "page": 14,
+          "id": "weed-learning-classification-limits-q1"
+        },
+        {
+          "kind": "Famílies",
+          "prompt": "Quin conjunt de famílies també pertany a les monocotiledònies, a més de les gramínies?",
+          "answer": "Ciperàcies, liliàcies i juncàcies",
+          "distractors": [
+            "Crucíferes i papaveràcies",
+            "Solanàcies i malvàcies",
+            "Compostes i rubinàcies"
+          ],
+          "quote": "El tema inclou ciperàcies, liliàcies i juncàcies entre les monocotiledònies.",
+          "page": 14,
+          "id": "weed-learning-classification-limits-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Fulla ampla i fulla estreta són simplificacions amb excepcions."
+        },
+        {
+          "label": "Classificació",
+          "text": "Hi ha dicotiledònies amb fulles estretes i monocotiledònies amb fulles triangulars o més amples."
+        },
+        {
+          "label": "Famílies",
+          "text": "El tema inclou ciperàcies, liliàcies i juncàcies entre les monocotiledònies."
+        }
+      ],
+      "groupStudy": {
+        "page": 14,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-habitats",
+      "name": "Arvenses, ruderals i pastures",
+      "science": "",
+      "group": "Botànica, hàbitats i observació",
+      "page": 16,
+      "learning": true,
+      "learningSection": "Botànica, hàbitats i observació",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-habitats",
+          "image": "images/weed-learning-habitats.jpg",
+          "original": "images/weed-learning-habitats-original.jpg",
+          "page": 6
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Arvenses",
+          "prompt": "Com s’anomenen les espècies que conviuen i competeixen amb plantes cultivades?",
+          "answer": "Arvenses",
+          "distractors": [
+            "Ruderals",
+            "Invasores de prats i pastures",
+            "Aquàtiques exclusives"
+          ],
+          "quote": "Les arvenses conviuen i competeixen amb cultius herbàcis o llenyosos i s’adapten a sòls treballats freqüentment.",
+          "page": 16,
+          "id": "weed-learning-habitats-q1"
+        },
+        {
+          "kind": "Ruderals",
+          "prompt": "Quina categoria ocupa erms, camins, marges i canals?",
+          "answer": "Ruderals",
+          "distractors": [
+            "Arvenses estrictes",
+            "Paràsites obligades",
+            "Geòfits exclusius"
+          ],
+          "quote": "Les ruderals ocupen zones marginals i ambients humanitzats.",
+          "page": 16,
+          "id": "weed-learning-habitats-q2"
+        },
+        {
+          "kind": "Pastures",
+          "prompt": "Quin tret és habitual entre les invasores de prats i pastures?",
+          "answer": "Ser perennes adaptades al pasturatge i a la sega",
+          "distractors": [
+            "Ser sempre paràsites sense clorofil·la",
+            "Completar sempre el cicle en un mes",
+            "Viure només en hàbitats aquàtics"
+          ],
+          "quote": "Solen ser espècies perennes adaptades al pasturatge i a la sega freqüents.",
+          "page": 16,
+          "id": "weed-learning-habitats-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "L’hàbitat permet classificar les plantes segons on es desenvolupen."
+        },
+        {
+          "label": "Arvenses",
+          "text": "Les arvenses conviuen i competeixen amb cultius herbàcis o llenyosos i s’adapten a sòls treballats freqüentment."
+        },
+        {
+          "label": "Ruderals",
+          "text": "Les ruderals ocupen zones marginals i ambients humanitzats."
+        },
+        {
+          "label": "Pastures",
+          "text": "Solen ser espècies perennes adaptades al pasturatge i a la sega freqüents."
+        }
+      ],
+      "groupStudy": {
+        "page": 16,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-identification",
+      "name": "Observar abans de posar un nom",
+      "science": "",
+      "group": "Botànica, hàbitats i observació",
+      "page": 64,
+      "learning": true,
+      "learningSection": "Botànica, hàbitats i observació",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-identification",
+          "image": "images/weed-learning-identification.jpg",
+          "original": "images/weed-learning-identification-original.jpg",
+          "page": 15
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Observació",
+          "prompt": "Quines parts cal observar per identificar una planta?",
+          "answer": "Fulles, flors, tiges i arrels",
+          "distractors": [
+            "Només els pètals",
+            "Només el color general",
+            "Només l’alçada"
+          ],
+          "quote": "Per trobar el nom comú i científic cal observar fulles, flors, tiges, arrels i altres característiques significatives.",
+          "page": 64,
+          "id": "weed-learning-identification-q1"
+        },
+        {
+          "kind": "Recursos",
+          "prompt": "Quin recurs citat inclou descripcions de la planta adulta i de la plàntula?",
+          "answer": "Manual de les males herbes dels conreus de Catalunya",
+          "distractors": [
+            "Només un catàleg d’aprofitaments",
+            "Només la llista de famílies",
+            "Només un banc de llavors"
+          ],
+          "quote": "El Manual de les males herbes dels conreus de Catalunya inclou descripcions de plantes adultes i plàntules, agrupades en famílies.",
+          "page": 64,
+          "id": "weed-learning-identification-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "La identificació combina diferents parts i característiques significatives."
+        },
+        {
+          "label": "Observació",
+          "text": "Per trobar el nom comú i científic cal observar fulles, flors, tiges, arrels i altres característiques significatives."
+        },
+        {
+          "label": "Recursos",
+          "text": "El Manual de les males herbes dels conreus de Catalunya inclou descripcions de plantes adultes i plàntules, agrupades en famílies."
+        }
+      ],
+      "groupStudy": {
+        "page": 64,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-seedling-identification",
+      "name": "Reconèixer les plàntules",
+      "science": "",
+      "group": "Botànica, hàbitats i observació",
+      "page": 66,
+      "learning": true,
+      "learningSection": "Botànica, hàbitats i observació",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-seedling-identification",
+          "image": "images/weed-learning-seedling-identification.jpg",
+          "original": "images/weed-learning-seedling-identification-original.jpg",
+          "page": 15
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Moment",
+          "prompt": "Quin avantatge té identificar les arvenses en els primers estadis?",
+          "answer": "Avançar decisions i prevenir possibles danys",
+          "distractors": [
+            "Esperar sempre a la dispersió de llavors",
+            "Prescindir d’observar les plantes",
+            "Determinar el nom només pel cultiu"
+          ],
+          "quote": "Reconèixer les arvenses en els primers estadis permet avançar decisions i prevenir possibles danys.",
+          "page": 66,
+          "id": "weed-learning-seedling-identification-q1"
+        },
+        {
+          "kind": "Tret clau",
+          "prompt": "Quin element és clau en la identificació de plàntules?",
+          "answer": "La morfologia del cotiledó",
+          "distractors": [
+            "Només el fruit madur",
+            "Només el nombre de panotxes",
+            "Només les flors obertes"
+          ],
+          "quote": "La morfologia del cotiledó és un element clau per identificar plantes petites sense flors.",
+          "page": 66,
+          "id": "weed-learning-seedling-identification-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Identificar els primers estadis ajuda a avançar la presa de decisions."
+        },
+        {
+          "label": "Moment",
+          "text": "Reconèixer les arvenses en els primers estadis permet avançar decisions i prevenir possibles danys."
+        },
+        {
+          "label": "Tret clau",
+          "text": "La morfologia del cotiledó és un element clau per identificar plantes petites sense flors."
+        }
+      ],
+      "groupStudy": {
+        "page": 66,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-digital-identification",
+      "name": "Contrast de la identificació digital",
+      "science": "",
+      "group": "Botànica, hàbitats i observació",
+      "page": 65,
+      "learning": true,
+      "learningSection": "Botànica, hàbitats i observació",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-digital-identification",
+          "image": "images/weed-learning-digital-identification.jpg",
+          "original": "images/weed-learning-digital-identification-original.jpg",
+          "page": 15
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Límit",
+          "prompt": "Quina limitació de les aplicacions d’identificació destaca el tema?",
+          "answer": "Poden ser poc específiques i poc acurades",
+          "distractors": [
+            "Sempre identifiquen sense error",
+            "Només contenen arvenses de Catalunya",
+            "Substitueixen tota observació botànica"
+          ],
+          "quote": "Poden ser poc específiques perquè es basen en flora mundial i inclouen plantes ornamentals.",
+          "page": 65,
+          "id": "weed-learning-digital-identification-q1"
+        },
+        {
+          "kind": "Contrast",
+          "prompt": "Si ja coneixes el nom d’una planta, quin recurs es proposa per confirmar-lo?",
+          "answer": "Herbaris digitals",
+          "distractors": [
+            "Només el color del sòl",
+            "Només el banc de llavors",
+            "Només l’època de recol·lecció"
+          ],
+          "quote": "El tema proposa herbaris digitals per confirmar un nom que ja es coneix.",
+          "page": 65,
+          "id": "weed-learning-digital-identification-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Les aplicacions basades en imatges són una ajuda que pot ser poc específica."
+        },
+        {
+          "label": "Límit",
+          "text": "Poden ser poc específiques perquè es basen en flora mundial i inclouen plantes ornamentals."
+        },
+        {
+          "label": "Contrast",
+          "text": "El tema proposa herbaris digitals per confirmar un nom que ja es coneix."
+        }
+      ],
+      "groupStudy": {
+        "page": 65,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-life-cycle",
+      "name": "Les etapes del cicle vital",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 17,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-life-cycle",
+          "image": "images/weed-learning-life-cycle.jpg",
+          "original": "images/weed-learning-life-cycle-original.jpg",
+          "page": 17
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Seqüència",
+          "prompt": "Quina seqüència ordena les etapes del cicle vital?",
+          "answer": "Germinació, desenvolupament vegetatiu, floració, fecundació, fructificació i dispersió",
+          "distractors": [
+            "Floració, germinació, dispersió i desenvolupament vegetatiu",
+            "Fructificació, fecundació, germinació i floració",
+            "Dispersió, floració, germinació i fecundació"
+          ],
+          "quote": "El cicle inclou germinació, desenvolupament vegetatiu, floració, fecundació, fructificació i dispersió.",
+          "page": 17,
+          "id": "weed-learning-life-cycle-q1"
+        },
+        {
+          "kind": "Criteris",
+          "prompt": "Quins dos criteris biològics es destaquen per classificar les adventícies?",
+          "answer": "Durada del cicle i època de germinació",
+          "distractors": [
+            "Només color i alçada",
+            "Només mida del fruit",
+            "Només nom comú i científic"
+          ],
+          "quote": "Es destaquen la durada del cicle vital i l’època de germinació per valorar el maneig i control.",
+          "page": 17,
+          "id": "weed-learning-life-cycle-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "El cicle passa de la germinació a la dispersió de noves llavors."
+        },
+        {
+          "label": "Seqüència",
+          "text": "El cicle inclou germinació, desenvolupament vegetatiu, floració, fecundació, fructificació i dispersió."
+        },
+        {
+          "label": "Criteris",
+          "text": "Es destaquen la durada del cicle vital i l’època de germinació per valorar el maneig i control."
+        }
+      ],
+      "groupStudy": {
+        "page": 17,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-annuals",
+      "name": "Les plantes anuals",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 17,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-annuals",
+          "image": "images/weed-learning-annuals.jpg",
+          "original": "images/weed-learning-annuals-original.jpg",
+          "page": 17
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Durada",
+          "prompt": "Quina durada defineix el cicle d’una planta anual?",
+          "answer": "Menys d’un any",
+          "distractors": [
+            "Dos anys",
+            "Diversos anys",
+            "Sense germinació"
+          ],
+          "quote": "Les anuals completen el cicle vegetatiu en menys d’un any: germinen, creixen, floreixen i produeixen llavors.",
+          "page": 17,
+          "id": "weed-learning-annuals-q1"
+        },
+        {
+          "kind": "Maneig",
+          "prompt": "Quin tipus de maneig afavoreix la presència d’anuals?",
+          "answer": "Treball freqüent del sòl",
+          "distractors": [
+            "Absència permanent de pertorbacions",
+            "Només pasturatge sense treball del sòl",
+            "Només creixement sobre branques d’hostes"
+          ],
+          "quote": "El treball freqüent del sòl afavoreix la presència de plantes anuals.",
+          "page": 17,
+          "id": "weed-learning-annuals-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Completen el cicle vegetatiu en menys d’un any i deixen noves llavors."
+        },
+        {
+          "label": "Durada",
+          "text": "Les anuals completen el cicle vegetatiu en menys d’un any: germinen, creixen, floreixen i produeixen llavors."
+        },
+        {
+          "label": "Maneig",
+          "text": "El treball freqüent del sòl afavoreix la presència de plantes anuals."
+        }
+      ],
+      "groupStudy": {
+        "page": 17,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-biennials",
+      "name": "Les plantes bianuals",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 17,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-biennials",
+          "image": "images/weed-learning-biennials.jpg",
+          "original": "images/weed-learning-biennials-original.jpg",
+          "page": 17
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Durada",
+          "prompt": "Quants anys necessita una planta bianual per completar el cicle?",
+          "answer": "Dos",
+          "distractors": [
+            "Menys d’un",
+            "Sempre més de deu",
+            "Un únic període de germinació"
+          ],
+          "quote": "Les bianuals necessiten dos anys per completar el cicle vegetatiu.",
+          "page": 17,
+          "id": "weed-learning-biennials-q1"
+        },
+        {
+          "kind": "Etapes",
+          "prompt": "Què formen habitualment el primer any les plantes bianuals?",
+          "answer": "Una roseta de fulles",
+          "distractors": [
+            "Sempre fruits madurs",
+            "Una xarxa de tiges paràsites",
+            "Només espores"
+          ],
+          "quote": "Durant el primer any formen una roseta de fulles i floreixen el segon any.",
+          "page": 17,
+          "id": "weed-learning-biennials-q2"
+        },
+        {
+          "kind": "Reserva",
+          "prompt": "Quin òrgan els permet continuar vives si desapareix la part aèria a l’hivern?",
+          "answer": "L’arrel transformada en òrgan de reserva",
+          "distractors": [
+            "Només els pètals",
+            "Només el pol·len",
+            "Només els fruits dispersats"
+          ],
+          "quote": "Poden continuar vives perquè l’arrel s’ha convertit en un òrgan de reserva.",
+          "page": 17,
+          "id": "weed-learning-biennials-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Necessiten dos anys: roseta el primer i floració el segon."
+        },
+        {
+          "label": "Durada",
+          "text": "Les bianuals necessiten dos anys per completar el cicle vegetatiu."
+        },
+        {
+          "label": "Etapes",
+          "text": "Durant el primer any formen una roseta de fulles i floreixen el segon any."
+        },
+        {
+          "label": "Reserva",
+          "text": "Poden continuar vives perquè l’arrel s’ha convertit en un òrgan de reserva."
+        }
+      ],
+      "groupStudy": {
+        "page": 17,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-perennials",
+      "name": "Les plantes perennes o vivaces",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 18,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-perennials",
+          "image": "images/weed-learning-perennials.jpg",
+          "original": "images/weed-learning-perennials-original.jpg",
+          "page": 18
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Durada",
+          "prompt": "Quin tret defineix les plantes perennes o vivaces?",
+          "answer": "Cicle de vida de diversos anys",
+          "distractors": [
+            "Cicle sempre inferior a un any",
+            "Floració obligatòria només el segon any",
+            "Absència de reproducció"
+          ],
+          "quote": "Viuen diversos anys i poden reproduir-se diversos cops.",
+          "page": 18,
+          "id": "weed-learning-perennials-q1"
+        },
+        {
+          "kind": "Rebrot",
+          "prompt": "Què pot quedar al sòl quan desapareix la part aèria a l’hivern?",
+          "answer": "Un òrgan que permet tornar a brotar",
+          "distractors": [
+            "Només pètals secs",
+            "Només fruits sense llavors",
+            "Cap estructura viva"
+          ],
+          "quote": "La part aèria pot desaparèixer, però queda un òrgan al sòl i la planta reapareix quan les condicions són apropiades.",
+          "page": 18,
+          "id": "weed-learning-perennials-q2"
+        },
+        {
+          "kind": "Dispersió",
+          "prompt": "Quins òrgans poden escampar els treballs del sòl en aquestes plantes?",
+          "answer": "Tubercles, rizomes o bulbs",
+          "distractors": [
+            "Només cotilèdons",
+            "Només pètals",
+            "Només fruits carnosos"
+          ],
+          "quote": "Els treballs del sòl poden dispersar tubercles, rizomes o bulbs i dificultar el control.",
+          "page": 18,
+          "id": "weed-learning-perennials-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Viuen diversos anys i poden rebrotar des d’òrgans que queden al sòl."
+        },
+        {
+          "label": "Durada",
+          "text": "Viuen diversos anys i poden reproduir-se diversos cops."
+        },
+        {
+          "label": "Rebrot",
+          "text": "La part aèria pot desaparèixer, però queda un òrgan al sòl i la planta reapareix quan les condicions són apropiades."
+        },
+        {
+          "label": "Dispersió",
+          "text": "Els treballs del sòl poden dispersar tubercles, rizomes o bulbs i dificultar el control."
+        }
+      ],
+      "groupStudy": {
+        "page": 18,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-winter-germination",
+      "name": "Germinació de tardor-hivern",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 18,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-winter-germination",
+          "image": "images/weed-learning-winter-germination.jpg",
+          "original": "images/weed-learning-winter-germination-original.jpg",
+          "page": 18
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Hivern",
+          "prompt": "Com passen els mesos freds les espècies que germinen a la tardor-hivern?",
+          "answer": "En roseta o afillolades",
+          "distractors": [
+            "Sempre en forma de llavor sense germinar",
+            "Sempre amb fruits madurs",
+            "Sempre sense arrels vives"
+          ],
+          "quote": "Les dicotiledònies passen l’hivern en roseta i les gramínies, afillolades.",
+          "page": 18,
+          "id": "weed-learning-winter-germination-q1"
+        },
+        {
+          "kind": "Reproducció",
+          "prompt": "Quan compleixen la fase reproductiva aquestes espècies?",
+          "answer": "A la primavera",
+          "distractors": [
+            "Només a la tardor següent",
+            "Sempre en ple hivern",
+            "Després de diversos anys obligatòriament"
+          ],
+          "quote": "Compleixen la fase reproductiva a la primavera i les llavors maduren a finals de primavera o principis d’estiu.",
+          "page": 18,
+          "id": "weed-learning-winter-germination-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "La fase reproductiva arriba a la primavera després de passar els mesos freds."
+        },
+        {
+          "label": "Hivern",
+          "text": "Les dicotiledònies passen l’hivern en roseta i les gramínies, afillolades."
+        },
+        {
+          "label": "Reproducció",
+          "text": "Compleixen la fase reproductiva a la primavera i les llavors maduren a finals de primavera o principis d’estiu."
+        }
+      ],
+      "groupStudy": {
+        "page": 18,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-summer-germination",
+      "name": "Germinació de primavera-estiu",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 19,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-summer-germination",
+          "image": "images/weed-learning-summer-germination.jpg",
+          "original": "images/weed-learning-summer-germination-original.jpg",
+          "page": 19
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Estació",
+          "prompt": "Quan acaben el desenvolupament vegetatiu i la floració les espècies de primavera-estiu descrites?",
+          "answer": "A l’estiu",
+          "distractors": [
+            "Sempre al primer hivern",
+            "Només a la primavera següent",
+            "Sempre el segon any"
+          ],
+          "quote": "Acaben el desenvolupament i la floració a l’estiu i s’assequen a la tardor abans del fred.",
+          "page": 19,
+          "id": "weed-learning-summer-germination-q1"
+        },
+        {
+          "kind": "Persistència",
+          "prompt": "Com passen l’hivern les llavors d’aquestes espècies?",
+          "answer": "Enterrades al sòl",
+          "distractors": [
+            "Sempre formant rosetes",
+            "Sempre afillolades",
+            "Sempre damunt de branques d’un hoste"
+          ],
+          "quote": "Les llavors passen l’hivern enterrades al sòl.",
+          "page": 19,
+          "id": "weed-learning-summer-germination-q2"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Desenvolupament i floració a l’estiu; les llavors poden passar l’hivern al sòl."
+        },
+        {
+          "label": "Estació",
+          "text": "Acaben el desenvolupament i la floració a l’estiu i s’assequen a la tardor abans del fred."
+        },
+        {
+          "label": "Persistència",
+          "text": "Les llavors passen l’hivern enterrades al sòl."
+        }
+      ],
+      "groupStudy": {
+        "page": 19,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-seed-bank",
+      "name": "El banc de llavors",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 20,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-seed-bank",
+          "image": "images/weed-learning-seed-bank.jpg",
+          "original": "images/weed-learning-seed-bank-original.jpg",
+          "page": 6
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Concepte",
+          "prompt": "Què és el banc de llavors?",
+          "answer": "La reserva de llavors enterrades al sòl",
+          "distractors": [
+            "Un conjunt de rizomes tallats",
+            "Només les arrels vives",
+            "Només fruits a les branques"
+          ],
+          "quote": "La majoria de sòls agrícoles contenen una reserva de llavors enterrades anomenada banc de llavors.",
+          "page": 20,
+          "id": "weed-learning-seed-bank-q1"
+        },
+        {
+          "kind": "Persistència",
+          "prompt": "Per què poden reaparèixer anuals després d’una campanya?",
+          "answer": "Per la reserva de llavors viables al sòl",
+          "distractors": [
+            "Perquè totes formen bulbs",
+            "Perquè totes tenen rizomes",
+            "Perquè no produeixen llavors"
+          ],
+          "quote": "El banc de llavors constitueix l’origen del cicle de les anuals i explica la seva persistència.",
+          "page": 20,
+          "id": "weed-learning-seed-bank-q2"
+        },
+        {
+          "kind": "Latència",
+          "prompt": "Quina propietat permet a moltes llavors esperar condicions favorables?",
+          "answer": "Romandre en latència durant anys",
+          "distractors": [
+            "Formar pètals immediatament",
+            "Convertir-se sempre en tubercles",
+            "Germinar totes al mateix moment"
+          ],
+          "quote": "Les llavors de moltes adventícies poden sobreviure en condicions adverses i romandre en latència diversos anys.",
+          "page": 20,
+          "id": "weed-learning-seed-bank-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "El sòl conté una reserva de llavors que explica la persistència de les anuals."
+        },
+        {
+          "label": "Concepte",
+          "text": "La majoria de sòls agrícoles contenen una reserva de llavors enterrades anomenada banc de llavors."
+        },
+        {
+          "label": "Persistència",
+          "text": "El banc de llavors constitueix l’origen del cicle de les anuals i explica la seva persistència."
+        },
+        {
+          "label": "Latència",
+          "text": "Les llavors de moltes adventícies poden sobreviure en condicions adverses i romandre en latència diversos anys."
+        }
+      ],
+      "groupStudy": {
+        "page": 20,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-seed-dispersal",
+      "name": "Multiplicació sexual i dispersió",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 20,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-seed-dispersal",
+          "image": "images/weed-learning-seed-dispersal.jpg",
+          "original": "images/weed-learning-seed-dispersal-original.jpg",
+          "page": 19
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Reproducció",
+          "prompt": "Com es reprodueix la gran majoria de plantes anuals?",
+          "answer": "Mitjançant llavors",
+          "distractors": [
+            "Només per tubercles",
+            "Només per bulbs",
+            "Només per estolons"
+          ],
+          "quote": "La gran majoria d’anuals es reprodueix sexualment mitjançant llavors.",
+          "page": 20,
+          "id": "weed-learning-seed-dispersal-q1"
+        },
+        {
+          "kind": "Dispersió",
+          "prompt": "Quins agents poden disseminar les llavors adventícies?",
+          "answer": "Vent, animals i aigua",
+          "distractors": [
+            "Només rizomes",
+            "Només bulbs",
+            "Només arrels pivotants"
+          ],
+          "quote": "Les llavors es disseminen fàcilment pel vent, els animals i l’aigua.",
+          "page": 20,
+          "id": "weed-learning-seed-dispersal-q2"
+        },
+        {
+          "kind": "Producció",
+          "prompt": "Com es descriu la producció de llavors de moltes adventícies?",
+          "answer": "Precoç i abundant",
+          "distractors": [
+            "Sempre escassa i tardana",
+            "Només després de deu anys",
+            "Sense germinació prèvia"
+          ],
+          "quote": "Poden produir moltes llavors precoçment, després d’un curt període de creixement vegetatiu.",
+          "page": 20,
+          "id": "weed-learning-seed-dispersal-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Moltes anuals produeixen abundant llavor després d’un creixement breu."
+        },
+        {
+          "label": "Reproducció",
+          "text": "La gran majoria d’anuals es reprodueix sexualment mitjançant llavors."
+        },
+        {
+          "label": "Dispersió",
+          "text": "Les llavors es disseminen fàcilment pel vent, els animals i l’aigua."
+        },
+        {
+          "label": "Producció",
+          "text": "Poden produir moltes llavors precoçment, després d’un curt període de creixement vegetatiu."
+        }
+      ],
+      "groupStudy": {
+        "page": 20,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-vegetative-bank",
+      "name": "El banc de propàguls vegetatius",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 21,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-vegetative-bank",
+          "image": "images/weed-learning-vegetative-bank.jpg",
+          "original": "images/weed-learning-vegetative-bank-original.jpg",
+          "page": 21
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Concepte",
+          "prompt": "Què conté el banc de propàguls vegetatius?",
+          "answer": "Fragments de plantes capaços de reproduir-se vegetativament",
+          "distractors": [
+            "Només llavors en latència",
+            "Només pol·len",
+            "Només pètals"
+          ],
+          "quote": "El sòl pot contenir fragments de plantes que es reprodueixen vegetativament.",
+          "page": 21,
+          "id": "weed-learning-vegetative-bank-q1"
+        },
+        {
+          "kind": "Rebrot",
+          "prompt": "Quines estructures permeten rebrotar i emetre tiges i arrels?",
+          "answer": "Gemmes",
+          "distractors": [
+            "Només pètals",
+            "Només cotilèdons secs",
+            "Només fruits dispersats"
+          ],
+          "quote": "Algunes perennes tenen gemmes que permeten rebrotar i emetre tiges i arrels.",
+          "page": 21,
+          "id": "weed-learning-vegetative-bank-q2"
+        },
+        {
+          "kind": "Avantatge",
+          "prompt": "Què afavoreix el desenvolupament inicial ràpid d’aquests propàguls?",
+          "answer": "Les reserves acumulades a les estructures vegetatives",
+          "distractors": [
+            "L’absència de reserves",
+            "L’absència de gemmes",
+            "L’absència d’arrels"
+          ],
+          "quote": "Les reserves dels tubercles, bulbs, rizomes i estolons permeten un desenvolupament inicial ràpid.",
+          "page": 21,
+          "id": "weed-learning-vegetative-bank-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Fragments i òrgans amb reserves poden originar nous brots."
+        },
+        {
+          "label": "Concepte",
+          "text": "El sòl pot contenir fragments de plantes que es reprodueixen vegetativament."
+        },
+        {
+          "label": "Rebrot",
+          "text": "Algunes perennes tenen gemmes que permeten rebrotar i emetre tiges i arrels."
+        },
+        {
+          "label": "Avantatge",
+          "text": "Les reserves dels tubercles, bulbs, rizomes i estolons permeten un desenvolupament inicial ràpid."
+        }
+      ],
+      "groupStudy": {
+        "page": 21,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-geophytes",
+      "name": "Bulbs, rizomes i tubercles",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 21,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-geophytes",
+          "image": "images/weed-learning-geophytes.jpg",
+          "original": "images/weed-learning-geophytes-original.jpg",
+          "page": 21
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Bulbs",
+          "prompt": "Quin òrgan subterrani s’associa a l’agrella (Oxalis latifolia)?",
+          "answer": "Bulbs",
+          "distractors": [
+            "Rizomes",
+            "Tubercles",
+            "Fruits capsulars"
+          ],
+          "quote": "El tema associa Oxalis latifolia amb bulbs.",
+          "page": 21,
+          "id": "weed-learning-geophytes-q1"
+        },
+        {
+          "kind": "Rizomes",
+          "prompt": "Quin òrgan s’associa a la canyota o milloca (Sorghum halepense)?",
+          "answer": "Rizomes",
+          "distractors": [
+            "Bulbs",
+            "Tubercles",
+            "Baies enganxoses"
+          ],
+          "quote": "El tema associa Sorghum halepense amb rizomes.",
+          "page": 21,
+          "id": "weed-learning-geophytes-q2"
+        },
+        {
+          "kind": "Tubercles",
+          "prompt": "Quin òrgan s’associa a la jonça (Cyperus rotundus)?",
+          "answer": "Tubercles",
+          "distractors": [
+            "Bulbs",
+            "Només llavors",
+            "Baies"
+          ],
+          "quote": "El tema associa Cyperus rotundus amb tubercles.",
+          "page": 21,
+          "id": "weed-learning-geophytes-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Els geòfits es poden reproduir mitjançant òrgans subterranis."
+        },
+        {
+          "label": "Bulbs",
+          "text": "El tema associa Oxalis latifolia amb bulbs."
+        },
+        {
+          "label": "Rizomes",
+          "text": "El tema associa Sorghum halepense amb rizomes."
+        },
+        {
+          "label": "Tubercles",
+          "text": "El tema associa Cyperus rotundus amb tubercles."
+        }
+      ],
+      "groupStudy": {
+        "page": 21,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-soil-fragmentation",
+      "name": "Quan treballar el sòl pot multiplicar plantes",
+      "science": "",
+      "group": "Cicles i reproducció",
+      "page": 22,
+      "learning": true,
+      "learningSection": "Cicles i reproducció",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-soil-fragmentation",
+          "image": "images/weed-learning-soil-fragmentation.jpg",
+          "original": "images/weed-learning-soil-fragmentation-original.jpg",
+          "page": 22
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Mecanisme",
+          "prompt": "Per què el treball mecànic del sòl pot afavorir algunes adventícies?",
+          "answer": "Perquè fragmenta i escampa òrgans capaços de rebrotar",
+          "distractors": [
+            "Perquè sempre elimina totes les gemmes",
+            "Perquè converteix totes les plantes en anuals",
+            "Perquè impedeix sempre la reproducció"
+          ],
+          "quote": "El conreu pot trencar estructures en fragments i escampar òrgans subterranis que es multipliquen.",
+          "page": 22,
+          "id": "weed-learning-soil-fragmentation-q1"
+        },
+        {
+          "kind": "Cas pràctic",
+          "prompt": "Què pot passar en passar la fresadora sobre el gram?",
+          "answer": "Els fragments de rizomes i estolons poden originar noves plantes",
+          "distractors": [
+            "Totes les llavors deixen de ser viables",
+            "Desapareixen totes les reserves",
+            "El gram esdevé una planta paràsita"
+          ],
+          "quote": "La fresadora pot esmicolar rizomes i estolons del gram que donen lloc a noves plantes.",
+          "page": 22,
+          "id": "weed-learning-soil-fragmentation-q2"
+        },
+        {
+          "kind": "Doble via",
+          "prompt": "Per què costa controlar plantes amb llavors i reproducció vegetativa?",
+          "answer": "Perquè disposen de dos sistemes de reproducció",
+          "distractors": [
+            "Perquè no tenen cap òrgan de reserva",
+            "Perquè només viuen un dia",
+            "Perquè no es dispersen"
+          ],
+          "quote": "Algunes espècies tenen tant llavors com òrgans vegetatius, cosa que dificulta el control.",
+          "page": 22,
+          "id": "weed-learning-soil-fragmentation-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Fragmentar i dispersar òrgans vegetatius pot originar noves plantes."
+        },
+        {
+          "label": "Mecanisme",
+          "text": "El conreu pot trencar estructures en fragments i escampar òrgans subterranis que es multipliquen."
+        },
+        {
+          "label": "Cas pràctic",
+          "text": "La fresadora pot esmicolar rizomes i estolons del gram que donen lloc a noves plantes."
+        },
+        {
+          "label": "Doble via",
+          "text": "Algunes espècies tenen tant llavors com òrgans vegetatius, cosa que dificulta el control."
+        }
+      ],
+      "groupStudy": {
+        "page": 22,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
+    },
+    {
+      "id": "weed-learning-parasitic-types",
+      "name": "Dependència i clorofil·la en les plantes paràsites",
+      "science": "",
+      "group": "Espècies i parasitisme",
+      "page": 60,
+      "learning": true,
+      "learningSection": "Espècies i parasitisme",
+      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
+      "images": [
+        {
+          "id": "weed-learning-parasitic-types",
+          "image": "images/weed-learning-parasitic-types.jpg",
+          "original": "images/weed-learning-parasitic-types-original.jpg",
+          "page": 62
+        }
+      ],
+      "questions": [
+        {
+          "kind": "Dependència",
+          "prompt": "Què defineix una planta paràsita obligada?",
+          "answer": "No pot completar el cicle vital fora de l’hoste",
+          "distractors": [
+            "Sempre pot viure sense hoste",
+            "Només competeix per la llum",
+            "Només comparteix el sòl"
+          ],
+          "quote": "Una paràsita obligada no pot completar el cicle vital fora de l’organisme hoste.",
+          "page": 60,
+          "id": "weed-learning-parasitic-types-q1"
+        },
+        {
+          "kind": "Clorofil·la",
+          "prompt": "Quin grup de plantes paràsites posseeix clorofil·la?",
+          "answer": "Hemiparàsites",
+          "distractors": [
+            "Haloparàsites",
+            "Totes les paràsites sense excepció",
+            "Cap planta paràsita"
+          ],
+          "quote": "Les hemiparàsites posseeixen clorofil·la; el grup anomenat haloparàsites a la pàgina 60 no en té.",
+          "page": 60,
+          "id": "weed-learning-parasitic-types-q2"
+        },
+        {
+          "kind": "Nutrició",
+          "prompt": "Què succionen les hemiparàsites dels vasos llenyosos de l’hoste?",
+          "answer": "Saba bruta",
+          "distractors": [
+            "Només pol·len",
+            "Només llavors",
+            "Només pètals"
+          ],
+          "quote": "Les hemiparàsites succionen saba bruta dels vasos llenyosos i elaboren el seu propi aliment.",
+          "page": 60,
+          "id": "weed-learning-parasitic-types-q3"
+        }
+      ],
+      "study": [
+        {
+          "label": "Idea clau",
+          "text": "Les plantes paràsites depenen completament o parcialment d’altres vegetals."
+        },
+        {
+          "label": "Dependència",
+          "text": "Una paràsita obligada no pot completar el cicle vital fora de l’organisme hoste."
+        },
+        {
+          "label": "Clorofil·la",
+          "text": "Les hemiparàsites posseeixen clorofil·la; el grup anomenat haloparàsites a la pàgina 60 no en té."
+        },
+        {
+          "label": "Nutrició",
+          "text": "Les hemiparàsites succionen saba bruta dels vasos llenyosos i elaboren el seu propi aliment."
+        }
+      ],
+      "groupStudy": {
+        "page": 60,
+        "fields": []
+      },
+      "note": "Imatge del mateix document, utilitzada com a suport del concepte explicitat a la pregunta. No s’infereix una espècie no identificada."
     }
-  ]
+  ],
+  "sourceSHA256": "9ece8755fec65f6a7af870b896e4076434373dbbdfb8c152ebed7c24bdd8c9d5"
 }

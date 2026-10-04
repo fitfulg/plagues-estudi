@@ -34,3 +34,7 @@ Actualització preparada per al mateix repositori: modes en llista i tema 1 refe
 ## v1.3.0
 
 Actualització del tema 2 preparada per a `fitfulg/plagues-estudi`: 82 fitxes, 324 preguntes, sis blocs d’aprenentatge i recursos locals documentats.
+
+## v1.4.0
+
+Actualització del tema 3 preparada per a `fitfulg/plagues-estudi`: 69 fitxes, 276 preguntes i quatre blocs d'aprenentatge. 58 recursos nous amb prefix weed-learning- i manifest de procedència actualitzat. Revisió local completa i proves automàtiques correctes.

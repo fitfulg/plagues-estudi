@@ -1,6 +1,6 @@
 # QUALIFITOS
 
-Aplicació estàtica en català amb quatre modes independents basats en `fitosT1.pdf`, `fitosT2.pdf`, `fitosT3 (1).pdf` i `fitosT4.pdf`.
+Aplicació estàtica en català amb quatre modes independents basats en `fitosT1.pdf`, `fitosT2.pdf`, `fitosT3.pdf` i `fitosT4.pdf`.
 
 ## Obrir l’app
 
@@ -47,7 +47,7 @@ Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `ima
 
 ## Vegetació espontània
 
-40 fitxes, 73 imatges i 200 preguntes. Noms, famílies, trets, cicles vitals, hàbitats, reproducció i parasitisme. `weed-data.js` i `weed-content.json` contenen el banc; `images/weed-provenance.json` referencia els originals. Consulteu `WEED-AUDIT.md` per als criteris de fidelitat i les exclusions.
+69 fitxes, 102 variants d’imatge i 276 preguntes. Noms, famílies, trets, cicles vitals, hàbitats, reproducció i parasitisme. `weed-data.js` i `weed-content.json` contenen el banc; `images/weed-provenance.json` referencia els originals. Consulteu `WEED-AUDIT.md` per als criteris de fidelitat i les exclusions.
 
 
 ## Protecció de cultius — Tema 4
@@ -56,7 +56,7 @@ Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `ima
 
 ## Versions
 
-Versió actual: **1.3.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.4.0, 1.5.0…). Per correccions petites, incrementar el pedaç (1.3.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
+Versió actual: **1.4.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.5.0, 1.6.0…). Per correccions petites, incrementar el pedaç (1.4.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
 
 ## Tema 1 refet per aprendre
 
@@ -65,3 +65,7 @@ Versió actual: **1.3.0**. La marca es mostra al costat del títol. Amb cada nou
 ## Tema 2 refet per aprendre
 
 El PDF complet de 47 pàgines sustenta 82 fitxes i 324 preguntes. Cada sessió de 10 rondes inclou els sis blocs (1 o 2 rondes per bloc): fonaments i diagnosi, fongs, bacteris, fitoplasmes, virus i viroides, i nematodes. Cada ronda tria dues preguntes de tipus diferents i no combina identificació i nom científic. Els casos textuals sense fotografia específica estan indicats. Es preserven les grafies i la classificació del temari, amb les exclusions documentades a `DISEASE-AUDIT.md`.
+
+## Tema 3 refet per aprendre
+
+El PDF complet de 66 pàgines sustenta 69 fitxes i 276 preguntes. Cada sessió alterna quatre blocs, amb 2 o 3 rondes de cadascun: ecologia i competència; botànica, hàbitats i observació; cicles i reproducció; espècies i parasitisme. Dues preguntes de tipus diferents per ronda, sense forçar identificació ni combinar nom comú i científic. Les 40 fitxes d’espècies es conserven i s’hi afegeixen 29 fitxes conceptuals.

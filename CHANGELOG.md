@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.4.0 — 2026-10-04
+
+- Tema 3 refet amb enfocament d’aprenentatge: 69 fitxes i 276 preguntes.
+- Quatre blocs equilibrats amb ecologia, botànica, hàbitats, cicles, reproducció i identificació.
+- 29 noves fitxes conceptuals amb imatges originals i referències.
+- Preguntes variades, amb dos tipus diferents per ronda i sense dues preguntes de noms.
+
 ## 1.3.0 — 2026-10-04
 
 - Tema 2 refet amb enfocament d’aprenentatge: 82 fitxes i 324 preguntes.

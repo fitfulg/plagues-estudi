@@ -38,3 +38,12 @@ Tema 1: 78 fitxes, 342 preguntes i 83 variants d’imatge. Revisades les 34 pàg
 - Sessió real de navegador amb 20 respostes i sis blocs; les preguntes de classificació no revelen la resposta al títol del bloc.
 - Imatge original després de respondre, fitxa opcional al mateix espai (543,8 px en la prova), disseny mòbil sense desbordament horitzontal (375 px de contingut).
 - Revisió visual de totes les pàgines del PDF i dels recursos nous finals; font idèntica al fitxer anterior verificada per SHA-256.
+
+## v1.4.0 — Tema 3
+
+- Revisades visualment les 66 pàgines de fitosT3.pdf i el text complet; font idèntica a l'anterior comprovada per SHA-256.
+- 69 fitxes, 276 preguntes i 102 variants; 29 fitxes de conceptes noves i totes les espècies conservades.
+- 1.000 sessions i proves del controlador correctes; 2.000 sessions d'aprenentatge amb quatre blocs, 2–3 rondes per bloc i totes les preguntes accessibles.
+- Sessió completa de 20 respostes al navegador, amb els quatre blocs i resum final. Sense errors de consola.
+- Original després de respondre i fitxa opcional que substitueix les preguntes. Revisió visual d'escriptori i mòbil de 390 × 844, sense desbordament horitzontal.
+- Referències locals i noms anglesos validats. Contradiccions de la font excloses de les preguntes inequívoces.
