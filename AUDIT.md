@@ -1,35 +1,29 @@
-# Revisió de contingut i imatges
+# Tema 1: revisió d’aprenentatge — v1.2.0
 
-S’han llegit el text i les nou pàgines renderitzades del PDF abans d’estructurar el banc de preguntes. Les 39 fotografies s’han extret de les imatges incrustades, sense generar exemplars ni substituir-los per fotografies d’Internet. Els retalls eliminen el rètol identificador durant el joc; la versió amb rètol continua disponible després de la ronda.
+Font exclusiva: `fitosT1.pdf`, «Coneix les plagues que afecten els cultius», Escola Agrària, actualitzat el 03/02/2025. Revisats el text i les 34 pàgines renderitzades. No s’han seguit els enllaços externs ni incorporat fonts alienes al document.
 
-| Pàgina impresa | Imatges | Tractament |
-|---|---:|---|
-| 18 | 5 | Cinc coleòpters identificats pels rètols. |
-| 19 | 5 | Cinc dípters identificats pels rètols. No s’assigna un aparell bucal uniforme a tots els dípters. |
-| 20 | 3 | Heteròpters. La fotografia d’Aelia rostrata és una de les dues espècies tractades com a xinxes dels cereals. |
-| 21 | 4 | Psil·la, poll de San José, cotonet i caparreta. Les dues darreres fotografies no segueixen l’ordre dels paràgrafs: s’han associat pels rètols. |
-| 22 | 3 | Barrinador de la fusta, barrinador del panís i carpocapsa. No s’assigna el barrinador del panís a una sola de les dues espècies del text. |
-| 23 | 4 | Processionària, danys per Tuta i dues fotografies genèriques d’ortòpters. |
-| 24 | 4 | Trip, hoplocampa i dues fases d’Arge ochropus. |
-| 29 | 5 | Panonychus ulmi, Tetranychus urticae i tres fotografies genèriques d’ous/colònies de Tetranychus. |
-| 30 | 6 | Dues fotografies de tarsonèmids, agalles, hipertròfies, badoc i erinosi. |
+## Cobertura i criteris didàctics
 
-## Regles de fidelitat
+78 fitxes i 342 preguntes. Quatre blocs: fonaments i diagnosi; biologia dels insectes; plagues d’insectes; àcars i altres organismes. Cada sessió de 10 rondes inclou 2 o 3 fitxes de cada bloc i dues preguntes de categories diferents per ronda. Es barregen conceptes, comparacions, mecanismes, símptomes i reconeixement. No s’obliga a identificar a cada ronda, ni es pregunta nom comú i nom científic junts. Totes les preguntes del banc són accessibles.
 
-- Les fotografies s’assignen pels noms visibles, no per proximitat aparent al paràgraf.
-- Les preguntes científiques conserven els noms del PDF, inclòs `Phytoptus avallanae`. No s’ha normalitzat la taxonomia amb coneixement extern.
-- Els rètols d’ous i colònies indiquen només `Tetranychus`: no s’han convertit en identificacions de `Tetranychus urticae`.
-- Les fotografies de tarsonèmids no distingeixen inequívocament les dues espècies enumerades; només es pregunta pel grup.
-- Agalles i hipertròfies són fitxes d’alteracions vegetals. El text admet diversos agents causants de les agalles, així que no s’atribueixen a una espècie ni a una causa exclusiva.
-- Les dues fotografies d’ortòpters no tenen identificació específica; només es pregunta per l’ordre.
-- Les propietats generals dels ordres es formulen explícitament com a preguntes de grup. Es manté «majoritàriament» en la metamorfosi dels hemípters.
-- No es pregunta la metamorfosi dels lepidòpters: no s’indica explícitament en aquestes pàgines. Es distingeix l’aparell bucal de larves i adults.
-- Les plagues sense fotografia al PDF no tenen una ronda d’identificació inventada. Els seus termes poden aparèixer com a distractors del temari quan són inequívocs.
-- Les opcions de metamorfosi són dues: no s’inventen categories per arribar artificialment a quatre.
-- La correcció ofereix extractes o descripcions abreujades del text, amb la pàgina impresa, i evita presentar-los com a informació externa actualitzada.
+Els continguts nous inclouen llindars i tipus de plaga, taxonomia, artròpodes, fauna útil, anatomia, aparells bucals, reproducció, muda, metamorfosi, diapausa, alimentació, morfologia i cicle dels àcars, miriàpodes, mol·luscs, vertebrats i procediments d’identificació. Les fitxes opcionals sintetitzen el tema amb definicions i relacions.
 
-## Disseny i funcionament
+Els pugons, la mosca blanca i altres espècies sense foto individual inequívoca es treballen com a casos escrits. La lupa de la pàgina 33 és una il·lustració de suport, explícitament marcada; no es presenta com una fotografia de la plaga. Les fotografies genèriques i els esquemes només donen lloc a afirmacions justificades pel grup o pel cas. No s’atribueix un diagnòstic exclusiu a una fotografia de danys.
 
-La imatge i l’activitat són el centre de la pantalla, inspirant-se en el joc de plantes de referència. No hi ha comptes, analítica, serveis externs ni desament de dades personals. L’app funciona directament amb `file://` o HTTP i utilitza exclusivament recursos relatius.
+## Imatges i traçabilitat
 
-La puntuació compta respostes, no rondes. S’eviten fitxes repetides en una sessió i la repetició immediata en reiniciar. Els continguts no es guarden entre recàrregues.
+83 variants vinculades a fitxes (algunes comparteixen la mateixa il·lustració). Les 39 fotografies de la selecció anterior coincideixen píxel a píxel amb les imatges incrustades de les pàgines 18–24, 29 i 30 del PDF complet; s’han contrastat amb SHA-256 abans de conservar els retalls. S’han afegit 44 parelles d’imatge de joc/original. `images/pest-full-provenance.json` registra pàgina, índex natiu, retalls i empremtes dels recursos conservats.
+
+Les originals conserven els crèdits i rètols. No hi ha imatges generades ni d’Internet. Alguns esquemes s’utilitzen com a suport de comprensió, i no com a examen de reconeixement sense pistes. Es conserven els noms i grafies del document, inclosos Chilo suppresalis i Phytoptus avallanae.
+
+## Ambigüitats i exclusions
+
+- Pàgina 10: no es pregunta quin parell d’ales origina els balancins, ni el nombre general de parells d’ales; les frases presenten inconsistències. Sí que es pregunta la funció estabilitzadora i la protecció dels èlitres.
+- Pàgina 15: la frase que atribueix metamorfosi completa als peixets d’argent contradiu el mateix apartat de desenvolupament directe. Es treballen la definició i l’esquema, sense convertir aquella frase en resposta correcta.
+- Pàgina 13: s’omet l’exemple ambigu de paidogènesi en mosquits i es distingeix la partenogènesi de la reproducció sexual sense equiparar-la a tota viviparitat.
+- No es converteixen en preguntes actuals les etiquetes de quarantena, dates d’introducció ni qualificacions legals. Les mencions conservades en fitxes s’entenen com a contingut del temari.
+- No es generalitzen el nombre de potes dels miriàpodes ni la descripció general del cicle dels àcars a totes les espècies. Les preguntes d’àcars es refereixen al cicle descrit.
+- Es manté «majoritàriament» per a la metamorfosi dels hemípters. La metamorfosi completa dels lepidòpters ara té referència explícita a la pàgina 16.
+- Els rètols d’ous i colònies de Tetranychus no s’assignen a T. urticae; les fotos de tarsonèmids no s’assignen a una espècie concreta. Les agalles no tenen una causa exclusiva.
+
+Les correccions són extractes abreujats fidels amb pàgina, no transcripcions literals ni recomanacions de tractament.

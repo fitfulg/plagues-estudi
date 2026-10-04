@@ -1,6 +1,6 @@
 # QUALIFITOS
 
-Aplicació estàtica en català amb quatre modes independents basats en `fitosT1 (1)-18-24_merged.pdf`, `fitosT2 (2).pdf` `fitosT3 (1).pdf` i `fitosT4.pdf`.
+Aplicació estàtica en català amb quatre modes independents basats en `fitosT1.pdf`, `fitosT2 (2).pdf`, `fitosT3 (1).pdf` i `fitosT4.pdf`.
 
 ## Obrir l’app
 
@@ -9,7 +9,7 @@ Obriu `index.html` en un navegador. No cal instal·lar res ni connexió a Intern
 ## Com es juga
 
 - Cada sessió té 10 rondes amb fitxes diferents.
-- Cada ronda mostra una fotografia del PDF i 2 preguntes. Els casos amb menys informació no reben preguntes inventades.
+- Cada ronda mostra una fotografia, un esquema o una imatge de suport amb 2 preguntes. Els casos amb menys informació no reben preguntes inventades.
 - Es barregen les fitxes, les variants de fotografia, les preguntes i les respostes. Reiniciar evita començar per la fitxa que s’acaba de veure.
 - Un encert val un punt. No hi ha penalització ni límit de temps. La primera resposta queda bloquejada.
 - La correcció indica la pàgina impresa. Després de cada resposta, correcta o incorrecta, el botó «Mostra la fitxa d’estudi» permet consultar voluntàriament la fitxa completa. Substitueix la pregunta i les respostes al mateix espai; «Torna a la pregunta» les recupera sense alterar la puntuació. Les fitxes llargues es desplacen dins del panell. També es pot consultar la fotografia original amb el rètol.
@@ -21,9 +21,9 @@ Obriu `index.html` en un navegador. No cal instal·lar res ni connexió a Intern
 - `styles.css`: disseny mòbil i escriptori.
 - `engine.js`: aleatorització i selecció de preguntes, sense dependències.
 - `app.js`: interacció, correcció, puntuació i resum.
-- `data.js`: banc de 34 fitxes i 208 preguntes.
+- `data.js`: banc de 78 fitxes i 342 preguntes.
 - `content.json`: còpia llegible i auditable del contingut, amb referències.
-- `images/`: 39 fotografies retallades per al joc i 39 versions amb rètol per consultar la font.
+- `images/`: fotografies, esquemes i il·lustracions dels quatre temaris amb les seves versions originals.
 - `images/provenance.json`: pàgina, tira original i coordenades del retall de cada fotografia.
 - `AUDIT.md`: criteris editorials, ambigüitats i exclusions.
 
@@ -31,11 +31,11 @@ Obriu `index.html` en un navegador. No cal instal·lar res ni connexió a Intern
 
 Es pot publicar el contingut d’aquesta carpeta a l’arrel d’un repositori nou o en una carpeta nova d’un repositori que ja utilitzi Pages. Tots els enllaços són relatius; no hi ha rutes que comencin amb `/` ni cap compilació.
 
-Una ruta independent possible al repositori existent és `plagues/`, sempre que aquesta carpeta no existeixi. Això no requereix canviar `imagenes/plantgame.html` ni la configuració actual de Pages.
+Publicació actual: https://fitfulg.github.io/plagues-estudi/ (repositori `fitfulg/plagues-estudi`).
 
 ## Font i crèdits
 
-«Coneix les plagues que afecten els cultius», Escola Agrària, pàgines impreses 18–24, 29 i 30 (9 pàgines del PDF facilitat). Les fotografies i els textos provenen d’aquest document. Es conserven els crèdits visibles a les imatges originals, inclosos Carme Serrano, Hectonichus, Ramon Toro, G. Barrios i A. Torrell. No s’atribueix autoria pròpia sobre aquestes fotografies ni s’hi aplica una llicència nova.
+«Coneix les plagues que afecten els cultius», Escola Agrària, PDF complet de 34 pàgines, actualitzat el 03/02/2025. Les fotografies i els textos provenen d’aquest document. Es conserven els crèdits visibles a les imatges originals, inclosos Carme Serrano, Hectonichus, Ramon Toro, G. Barrios i A. Torrell. No s’atribueix autoria pròpia sobre aquestes fotografies ni s’hi aplica una llicència nova.
 
 S’han mantingut els noms i grafies del PDF. Les mencions normatives s’estudien segons el document, sense actualitzar-les amb fonts externes. No s’han seguit els enllaços de fitxes externes.
 
@@ -56,4 +56,8 @@ Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `ima
 
 ## Versions
 
-Versió actual: **1.1.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.2.0, 1.3.0…). Per correccions petites, incrementar el pedaç (1.1.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
+Versió actual: **1.2.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.3.0, 1.4.0…). Per correccions petites, incrementar el pedaç (1.2.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
+
+## Tema 1 refet per aprendre
+
+78 fitxes i 342 preguntes sobre el PDF complet `fitosT1.pdf`. Les 10 rondes reparteixen 2 o 3 fitxes de cadascun dels quatre blocs: fonaments i diagnosi, biologia dels insectes, plagues d’insectes, i àcars i altres organismes. Totes les preguntes són seleccionables; no es força una identificació a cada ronda ni es demanen nom comú i científic junts. Els casos sense fotografia pròpia són textuals i estan marcats. `images/pest-full-provenance.json` documenta els recursos i la correspondència exacta de les fotografies conservades. Els altres modes mantenen el seu funcionament.

@@ -22,9 +22,10 @@
   }
   function render(focus=true){
     const r=current(),q=question();locked=false;lastCard=r.card.id;previousCards[mode]=lastCard;
-    $('photo').src=r.image.image;$('photo').alt='Imatge del temari: observa els detalls i llegeix el cas de la pregunta.';$('photo').hidden=false;$('image-error').hidden=true;
-    $('image-label').textContent=`IMATGE ${String(ri+1).padStart(2,'0')}`;
-    $('photo-caption').textContent=qi?'Continua amb la mateixa imatge.':'Observa la imatge i llegeix la pregunta abans de respondre.';
+    $('photo').src=r.image.image;$('photo').alt=r.card.imageContext||'Imatge del temari: observa els detalls i llegeix el cas de la pregunta.';$('photo').hidden=false;$('image-error').hidden=true;
+    $('learning-section').textContent=r.card.learningSection||'OBSERVA · RECONEIX · APRÈN';
+    $('image-label').textContent=`RONDA ${String(ri+1).padStart(2,'0')}`;
+    $('photo-caption').textContent=r.card.imageContext||(qi?'Continua amb la mateixa imatge.':'Observa la imatge i llegeix la pregunta abans de respondre.');
     $('category').textContent=q.kind;$('question-count').textContent=`Pregunta ${qi+1} de ${r.questions.length}`;
     $('question').textContent=q.prompt;$('feedback').replaceChildren();$('feedback').className='feedback';
     $('study-card').replaceChildren();$('study-toolbar').hidden=true;
@@ -77,8 +78,8 @@
   function answer(value){
     if(locked)return;locked=true;const q=question(),r=current(),correct=value===q.answer;
     $('photo').src=r.image.original;
-    $('photo').alt=`Fotografia original: ${r.card.name}`;
-    $('photo-caption').textContent=mode==='protection'?'Imatge original del tema de protecció de cultius.':mode==='diseases'?'Imatge original del temari de malalties.':'Imatge original amb el rètol del temari.';
+    $('photo').alt=r.card.imageContext?`Imatge de suport original: ${r.card.name}`:`Fotografia original: ${r.card.name}`;
+    $('photo-caption').textContent=r.card.imageContext?r.card.imageContext:mode==='protection'?'Imatge original del tema de protecció de cultius.':mode==='diseases'?'Imatge original del temari de malalties.':'Imatge original amb el rètol del temari.';
     answered++;if(correct)score++;
     history.push({card:r.card.name,prompt:q.prompt,chosen:value,answer:q.answer,correct,page:q.page});
     [...$('options').children].forEach((button,i)=>{button.disabled=true;const option=q.options[i];if(option===q.answer){button.classList.add('correct');button.firstChild.textContent='✓';button.setAttribute('aria-label',`Resposta correcta: ${option}`);}else if(option===value){button.classList.add('wrong');button.firstChild.textContent='×';button.setAttribute('aria-label',`Resposta incorrecta: ${option}`);}});

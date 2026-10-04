@@ -22,3 +22,11 @@ Nou mode: 40 fitxes, 73 imatges i 200 preguntes. Comprovats els tres bancs amb 1
 
 Preparada l’actualització del tema 4: 39 fitxes, 39 imatges, 117 preguntes i selector de quatre modes. Mateix repositori i domini de GitHub Pages. Es conserven dues preguntes per ronda, tema fosc, originals després de respondre i fitxes opcionals.
 
+
+Publicació verificada: commit 815a513145dcec4009b1e4031ef1de134e81ee56; GitHub Pages execució 37186365210 completada correctament. Comprovats al domini públic el selector de quatre modes, la ronda del tema 4, càrrega de la imatge original, puntuació i fitxa opcional. Sense errors de consola.
+
+
+## QUALIFITOS 1.2.0 — 04/10/2026
+
+Actualització preparada per al mateix repositori: modes en llista i tema 1 refet sobre fitosT1.pdf complet amb 78 fitxes i 342 preguntes. Quatre blocs equilibrats, dues preguntes per ronda, imatges originals i fitxes opcionals. Recursos nous amb prefix pest- i manifest de traçabilitat.
+

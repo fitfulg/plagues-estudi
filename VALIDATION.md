@@ -24,3 +24,8 @@ Nou mode: 40 fitxes, 73 imatges i 200 preguntes. Comprovats els tres bancs amb 1
 
 39 fitxes, 117 preguntes i 39 imatges natives verificades visualment. Els quatre modes superen 1.000 sessions aleatòries per banc: 10 rondes, dues preguntes per ronda, categories diferents, respostes úniques, cap repetició immediata, puntuació, bloqueig, resum, reinici i errors d’imatge. Referències HTML i noms de fitxers validats. Al navegador: resposta incorrecta i correcta, original carregat, fitxa opcional de la mateixa alçada que el panell, pregunta 2 de 2 seguida de ronda 2, selector de quatre modes, amplada mòbil de 390 px sense desbordament i cap error de consola.
 
+
+## QUALIFITOS 1.2.0 — 04/10/2026
+
+Tema 1: 78 fitxes, 342 preguntes i 83 variants d’imatge. Revisades les 34 pàgines del PDF complet i els recursos nous. Coincidència exacta de píxels de les 17 tires originals conservades. Proves de 1.000 sessions per cadascun dels quatre modes i 2.000 sessions específiques d’aprenentatge: 2–3 rondes de cadascun dels quatre blocs, totes les preguntes accessibles i mai dues preguntes de noms a la mateixa ronda. Sessió real de 20 preguntes completada al navegador, original carregat i fitxa amb la mateixa alçada del panell. Selector en llista comprovat en escriptori i mòbil de 390 px, sense desbordament ni errors de consola. Referències i noms dels fitxers validats.
+
