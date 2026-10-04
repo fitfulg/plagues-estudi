@@ -1,0 +1,979 @@
+[
+  {
+    "image": "images/potato-beetle.jpg",
+    "original": "images/potato-beetle-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 18,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "a786645cb5ee226117814acd772a06c37694b1e01f6684fe4e9a3c9773630f41",
+    "box": [
+      3,
+      65,
+      175,
+      265
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/hazelnut-weevil.jpg",
+    "original": "images/hazelnut-weevil-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 18,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "a786645cb5ee226117814acd772a06c37694b1e01f6684fe4e9a3c9773630f41",
+    "box": [
+      3,
+      303,
+      175,
+      525
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/alfalfa-leaf-beetle.jpg",
+    "original": "images/alfalfa-leaf-beetle-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 18,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "663ff3d51b9572964537882dd26e4424190ba5b65acf67a416fe2871eba7add4",
+    "box": [
+      3,
+      76,
+      194,
+      280
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/cereal-ground-beetle.jpg",
+    "original": "images/cereal-ground-beetle-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 18,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "663ff3d51b9572964537882dd26e4424190ba5b65acf67a416fe2871eba7add4",
+    "box": [
+      3,
+      363,
+      194,
+      564
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/red-palm-weevil.jpg",
+    "original": "images/red-palm-weevil-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 18,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "663ff3d51b9572964537882dd26e4424190ba5b65acf67a416fe2871eba7add4",
+    "box": [
+      3,
+      647,
+      194,
+      845
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/mediterranean-fruit-fly.jpg",
+    "original": "images/mediterranean-fruit-fly-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 19,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "7b113ae6f7e348511f23bddba7c3ac0535e7e0b77614d4237cb0258c51839df5",
+    "box": [
+      3,
+      80,
+      208,
+      264
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/olive-fruit-fly.jpg",
+    "original": "images/olive-fruit-fly-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 19,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "7b113ae6f7e348511f23bddba7c3ac0535e7e0b77614d4237cb0258c51839df5",
+    "box": [
+      3,
+      297,
+      208,
+      524
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/spotted-wing-fruit-fly.jpg",
+    "original": "images/spotted-wing-fruit-fly-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 19,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "44ceefc0f4cb33cdc25478b904205808a2e8400e452ceb3e4fdad72a0117a543",
+    "box": [
+      3,
+      90,
+      212,
+      312
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/crane-fly.jpg",
+    "original": "images/crane-fly-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 19,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "44ceefc0f4cb33cdc25478b904205808a2e8400e452ceb3e4fdad72a0117a543",
+    "box": [
+      3,
+      367,
+      212,
+      626
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/mexican-fruit-fly.jpg",
+    "original": "images/mexican-fruit-fly-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 19,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "44ceefc0f4cb33cdc25478b904205808a2e8400e452ceb3e4fdad72a0117a543",
+    "box": [
+      3,
+      714,
+      212,
+      938
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/brown-marmorated-stink-bug.jpg",
+    "original": "images/brown-marmorated-stink-bug-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 20,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "218eb66a3eb6469729420cd8876874aec261636a6a552efb551101435bc19a9d",
+    "box": [
+      3,
+      92,
+      246,
+      366
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/cereal-bugs.jpg",
+    "original": "images/cereal-bugs-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 20,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "eca9d3ae5f53bd3d690a6159a8ff5e56104de8d644dc0e0f9c3357d905bc2f4d",
+    "box": [
+      3,
+      45,
+      246,
+      365
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/rice-stink-bug.jpg",
+    "original": "images/rice-stink-bug-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 20,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "eca9d3ae5f53bd3d690a6159a8ff5e56104de8d644dc0e0f9c3357d905bc2f4d",
+    "box": [
+      3,
+      446,
+      246,
+      743
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/pear-psyllid.jpg",
+    "original": "images/pear-psyllid-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 21,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "7c4e0e35adeea004035ea2b8232e1fd07bf010289965a8dafadc5bcc4fcc82dc",
+    "box": [
+      3,
+      28,
+      105,
+      155
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/san-jose-scale.jpg",
+    "original": "images/san-jose-scale-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 21,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "91c084aef1ef4941297a56d5873cc3f1ca5e94e9a95cf5eddcffc0a17c05ce31",
+    "box": [
+      3,
+      38,
+      105,
+      155
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/citrus-mealybug.jpg",
+    "original": "images/citrus-mealybug-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 21,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "91c084aef1ef4941297a56d5873cc3f1ca5e94e9a95cf5eddcffc0a17c05ce31",
+    "box": [
+      3,
+      198,
+      105,
+      308
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/olive-black-scale.jpg",
+    "original": "images/olive-black-scale-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 21,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "91c084aef1ef4941297a56d5873cc3f1ca5e94e9a95cf5eddcffc0a17c05ce31",
+    "box": [
+      3,
+      346,
+      105,
+      465
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/wood-borer.jpg",
+    "original": "images/wood-borer-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 22,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "2ee6da23fb8e313e2f5344cba9eac611d3888801707f74c7be1f2708c682740c",
+    "box": [
+      3,
+      48,
+      245,
+      354
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/corn-borer.jpg",
+    "original": "images/corn-borer-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 22,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "2ee6da23fb8e313e2f5344cba9eac611d3888801707f74c7be1f2708c682740c",
+    "box": [
+      3,
+      414,
+      245,
+      715
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/codling-moth.jpg",
+    "original": "images/codling-moth-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 22,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "2ee6da23fb8e313e2f5344cba9eac611d3888801707f74c7be1f2708c682740c",
+    "box": [
+      3,
+      772,
+      245,
+      1078
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/pine-processionary-moth.jpg",
+    "original": "images/pine-processionary-moth-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 23,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "935e99a5c2acf855c53e089c610675e545ea94f3579ded562558b70cec82c6f3",
+    "box": [
+      3,
+      100,
+      245,
+      349
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/tomato-leafminer.jpg",
+    "original": "images/tomato-leafminer-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 23,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "935e99a5c2acf855c53e089c610675e545ea94f3579ded562558b70cec82c6f3",
+    "box": [
+      3,
+      409,
+      245,
+      699
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/grasshopper-1.jpg",
+    "original": "images/grasshopper-1-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 23,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "be9ba50a1d76ca8c0adf498699f24327423adf47fd5ab10019c8d70449dbcfff",
+    "box": [
+      3,
+      3,
+      101,
+      150
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/grasshopper-2.jpg",
+    "original": "images/grasshopper-2-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 23,
+    "nativeImageIndex": 3,
+    "sourcePixelSHA256": "cdcd72f8426e397115b957ff615abbe6aff4a294c43fab1df5e86f81b8c21c07",
+    "box": [
+      3,
+      3,
+      101,
+      152
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/western-flower-thrips.jpg",
+    "original": "images/western-flower-thrips-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 24,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "bfd2afb99611adbef74e8978c5d272c2aa02762256a727347a0d46c67cc1206e",
+    "box": [
+      3,
+      94,
+      246,
+      351
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/pear-sawfly.jpg",
+    "original": "images/pear-sawfly-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 24,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "e910c90c4d05b10fdac69e983e8f2995a846080f322281f214c325b6e17db74a",
+    "box": [
+      3,
+      99,
+      245,
+      362
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/rose-sawfly-larva.jpg",
+    "original": "images/rose-sawfly-larva-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 24,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "e910c90c4d05b10fdac69e983e8f2995a846080f322281f214c325b6e17db74a",
+    "box": [
+      3,
+      421,
+      245,
+      721
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/rose-sawfly-adult.jpg",
+    "original": "images/rose-sawfly-adult-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 24,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "e910c90c4d05b10fdac69e983e8f2995a846080f322281f214c325b6e17db74a",
+    "box": [
+      3,
+      776,
+      245,
+      1078
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/european-red-mite.jpg",
+    "original": "images/european-red-mite-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 29,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "40b0f66bcee94742d51e798e09201faa94346b90ba3c80e792914c99975bd10a",
+    "box": [
+      3,
+      66,
+      170,
+      251
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/two-spotted-spider-mite.jpg",
+    "original": "images/two-spotted-spider-mite-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 29,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "40b0f66bcee94742d51e798e09201faa94346b90ba3c80e792914c99975bd10a",
+    "box": [
+      3,
+      314,
+      170,
+      501
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/spider-mite-eggs.jpg",
+    "original": "images/spider-mite-eggs-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 29,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "40b0f66bcee94742d51e798e09201faa94346b90ba3c80e792914c99975bd10a",
+    "box": [
+      3,
+      592,
+      170,
+      749
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/spider-mite-colony-1.jpg",
+    "original": "images/spider-mite-colony-1-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 29,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "40b0f66bcee94742d51e798e09201faa94346b90ba3c80e792914c99975bd10a",
+    "box": [
+      3,
+      825,
+      170,
+      996
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/spider-mite-colony-2.jpg",
+    "original": "images/spider-mite-colony-2-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 29,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "40b0f66bcee94742d51e798e09201faa94346b90ba3c80e792914c99975bd10a",
+    "box": [
+      3,
+      1066,
+      170,
+      1229
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/tarsonemid-mite-1.jpg",
+    "original": "images/tarsonemid-mite-1-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 30,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "3965e5ce5b6f023d934949ad0b6ad53a12c466cad65b78e89ff8b4b008624d1b",
+    "box": [
+      3,
+      72,
+      205,
+      295
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/tarsonemid-mite-2.jpg",
+    "original": "images/tarsonemid-mite-2-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 30,
+    "nativeImageIndex": 1,
+    "sourcePixelSHA256": "3965e5ce5b6f023d934949ad0b6ad53a12c466cad65b78e89ff8b4b008624d1b",
+    "box": [
+      3,
+      301,
+      205,
+      581
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/galls.jpg",
+    "original": "images/galls-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 30,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "2cea8ba5eeefd6daa14e0f4c9cceb35233858529fa1e57c182ba693746510921",
+    "box": [
+      3,
+      40,
+      205,
+      295
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/hypertrophy.jpg",
+    "original": "images/hypertrophy-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 30,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "2cea8ba5eeefd6daa14e0f4c9cceb35233858529fa1e57c182ba693746510921",
+    "box": [
+      3,
+      338,
+      205,
+      592
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/hazelnut-bud-mite.jpg",
+    "original": "images/hazelnut-bud-mite-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 30,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "2cea8ba5eeefd6daa14e0f4c9cceb35233858529fa1e57c182ba693746510921",
+    "box": [
+      3,
+      677,
+      205,
+      886
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/leaf-erineum.jpg",
+    "original": "images/leaf-erineum-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 30,
+    "nativeImageIndex": 2,
+    "sourcePixelSHA256": "2cea8ba5eeefd6daa14e0f4c9cceb35233858529fa1e57c182ba693746510921",
+    "box": [
+      3,
+      927,
+      205,
+      1184
+    ],
+    "note": "Native source pixels match the earlier crop exactly."
+  },
+  {
+    "image": "images/pest-pest-threshold.jpg",
+    "original": "images/pest-pest-threshold-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 4,
+    "nativeImageIndex": 1,
+    "crop": null
+  },
+  {
+    "image": "images/pest-pest-types.jpg",
+    "original": "images/pest-pest-types-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 4,
+    "nativeImageIndex": 1,
+    "crop": null
+  },
+  {
+    "image": "images/pest-taxonomy.jpg",
+    "original": "images/pest-taxonomy-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 5,
+    "nativeImageIndex": 2,
+    "crop": null
+  },
+  {
+    "image": "images/pest-arthropods.jpg",
+    "original": "images/pest-arthropods-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 6,
+    "nativeImageIndex": 2,
+    "crop": null
+  },
+  {
+    "image": "images/pest-useful-arthropods.jpg",
+    "original": "images/pest-useful-arthropods-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 7,
+    "nativeImageIndex": 5,
+    "crop": null
+  },
+  {
+    "image": "images/pest-insects-and-allies.jpg",
+    "original": "images/pest-insects-and-allies-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 8,
+    "nativeImageIndex": 6,
+    "crop": null
+  },
+  {
+    "image": "images/pest-diagnosis.jpg",
+    "original": "images/pest-diagnosis-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 33,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-identification-sheets.jpg",
+    "original": "images/pest-identification-sheets-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 34,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-insect-body.jpg",
+    "original": "images/pest-insect-body-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 9,
+    "nativeImageIndex": 1,
+    "crop": [
+      0.49,
+      0.35,
+      1,
+      1
+    ]
+  },
+  {
+    "image": "images/pest-insect-eyes.jpg",
+    "original": "images/pest-insect-eyes-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 9,
+    "nativeImageIndex": 2,
+    "crop": null
+  },
+  {
+    "image": "images/pest-thorax.jpg",
+    "original": "images/pest-thorax-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 10,
+    "nativeImageIndex": 3,
+    "crop": null
+  },
+  {
+    "image": "images/pest-wings.jpg",
+    "original": "images/pest-wings-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 10,
+    "nativeImageIndex": 2,
+    "crop": null
+  },
+  {
+    "image": "images/pest-abdomen.jpg",
+    "original": "images/pest-abdomen-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 11,
+    "nativeImageIndex": 5,
+    "crop": [
+      0,
+      0,
+      0.76,
+      0.67
+    ]
+  },
+  {
+    "image": "images/pest-chewing-mouth.jpg",
+    "original": "images/pest-chewing-mouth-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 11,
+    "nativeImageIndex": 6,
+    "crop": null
+  },
+  {
+    "image": "images/pest-sucking-mouth.jpg",
+    "original": "images/pest-sucking-mouth-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 12,
+    "nativeImageIndex": 10,
+    "crop": null
+  },
+  {
+    "image": "images/pest-lapping-mouth.jpg",
+    "original": "images/pest-lapping-mouth-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 12,
+    "nativeImageIndex": 11,
+    "crop": null
+  },
+  {
+    "image": "images/pest-piercing-mouth.jpg",
+    "original": "images/pest-piercing-mouth-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 12,
+    "nativeImageIndex": 12,
+    "crop": null
+  },
+  {
+    "image": "images/pest-parthenogenesis.jpg",
+    "original": "images/pest-parthenogenesis-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 13,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-polyembryony.jpg",
+    "original": "images/pest-polyembryony-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 13,
+    "nativeImageIndex": 6,
+    "crop": null
+  },
+  {
+    "image": "images/pest-cottony-cushion-scale.jpg",
+    "original": "images/pest-cottony-cushion-scale-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 14,
+    "nativeImageIndex": 1,
+    "crop": null
+  },
+  {
+    "image": "images/pest-moulting.jpg",
+    "original": "images/pest-moulting-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 14,
+    "nativeImageIndex": 7,
+    "crop": null
+  },
+  {
+    "image": "images/pest-direct-development.jpg",
+    "original": "images/pest-direct-development-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 15,
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      1,
+      0.63
+    ]
+  },
+  {
+    "image": "images/pest-incomplete-metamorphosis.jpg",
+    "original": "images/pest-incomplete-metamorphosis-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 15,
+    "nativeImageIndex": 2,
+    "crop": [
+      0,
+      0,
+      1,
+      0.82
+    ]
+  },
+  {
+    "image": "images/pest-complete-metamorphosis.jpg",
+    "original": "images/pest-complete-metamorphosis-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 16,
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      1,
+      0.83
+    ]
+  },
+  {
+    "image": "images/pest-diapause.jpg",
+    "original": "images/pest-diapause-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 16,
+    "nativeImageIndex": 1,
+    "crop": [
+      0,
+      0,
+      1,
+      0.83
+    ]
+  },
+  {
+    "image": "images/pest-zoophages.jpg",
+    "original": "images/pest-zoophages-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 17,
+    "nativeImageIndex": 10,
+    "crop": null
+  },
+  {
+    "image": "images/pest-omnivores.jpg",
+    "original": "images/pest-omnivores-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 17,
+    "nativeImageIndex": 11,
+    "crop": null
+  },
+  {
+    "image": "images/pest-saprophages.jpg",
+    "original": "images/pest-saprophages-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 17,
+    "nativeImageIndex": 12,
+    "crop": null
+  },
+  {
+    "image": "images/pest-phytophages.jpg",
+    "original": "images/pest-phytophages-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 17,
+    "nativeImageIndex": 13,
+    "crop": null
+  },
+  {
+    "image": "images/pest-myriapods.jpg",
+    "original": "images/pest-myriapods-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 25,
+    "nativeImageIndex": 11,
+    "crop": null
+  },
+  {
+    "image": "images/pest-mites.jpg",
+    "original": "images/pest-mites-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 25,
+    "nativeImageIndex": 1,
+    "crop": null
+  },
+  {
+    "image": "images/pest-mite-body.jpg",
+    "original": "images/pest-mite-body-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 26,
+    "nativeImageIndex": 1,
+    "crop": [
+      0.19,
+      0.2,
+      0.62,
+      1
+    ]
+  },
+  {
+    "image": "images/pest-mite-mouth.jpg",
+    "original": "images/pest-mite-mouth-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 26,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-mite-cycle.jpg",
+    "original": "images/pest-mite-cycle-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 27,
+    "nativeImageIndex": 8,
+    "crop": [
+      0.36,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "image": "images/pest-gastropods.jpg",
+    "original": "images/pest-gastropods-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 31,
+    "nativeImageIndex": 5,
+    "crop": null
+  },
+  {
+    "image": "images/pest-apple-snail.jpg",
+    "original": "images/pest-apple-snail-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 31,
+    "nativeImageIndex": 1,
+    "crop": null
+  },
+  {
+    "image": "images/pest-vertebrates.jpg",
+    "original": "images/pest-vertebrates-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 32,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-aphids.jpg",
+    "original": "images/pest-aphids-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 33,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-whiteflies.jpg",
+    "original": "images/pest-whiteflies-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 33,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-rice-borer.jpg",
+    "original": "images/pest-rice-borer-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 33,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-peach-borers.jpg",
+    "original": "images/pest-peach-borers-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 33,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-grape-moth.jpg",
+    "original": "images/pest-grape-moth-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 33,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-citrus-leafminer.jpg",
+    "original": "images/pest-citrus-leafminer-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 33,
+    "nativeImageIndex": 4,
+    "crop": null
+  },
+  {
+    "image": "images/pest-artichoke-borer.jpg",
+    "original": "images/pest-artichoke-borer-original.jpg",
+    "source": "fitosT1.pdf",
+    "page": 33,
+    "nativeImageIndex": 4,
+    "crop": null
+  }
+]
