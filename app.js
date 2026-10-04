@@ -123,6 +123,7 @@
     $('mode-label').textContent=modes[key].label;$('mode-label').hidden=false;
     $('catalog-count').textContent=`${data.cards.reduce((n,c)=>n+c.images.length,0)} imatges · ${data.cards.length} fitxes · ${data.cards.reduce((n,c)=>n+c.questions.length,0)} preguntes`;
     $('data-download').href=modes[key].file;
+    $('answers-download').href=modes[key].file.replace('.pdf?v=1.6.0','-answers.pdf?v=1.7.0');
     start();$('question').focus({preventScroll:true});
   }
   function showModes(){

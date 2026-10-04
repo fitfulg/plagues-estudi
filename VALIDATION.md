@@ -55,3 +55,7 @@ Tema 1: 78 fitxes, 342 preguntes i 83 variants d’imatge. Revisades les 34 pàg
 ## v1.6.0 — Bancs PDF
 
 Quatre PDF de text seleccionable: 80/80/80/78 preguntes, amb imatges, opcions i solucionari. Comprovada la presència de tots els enunciats i les respostes numerades. Totes les pàgines renderitzades amb Poppler i revisades visualment. Quatre descàrregues reals des del navegador local, amb hash idèntic als documents generats. Disseny mòbil de 390 px sense desbordament; proves dels quatre modes i referències locals correctes.
+
+## v1.7.0 — Respostes marcades
+
+Quatre nous PDF amb exactament una resposta CORRECTA per pregunta: 80/80/80/78. Comprovada cada marca contra el banc actiu i comparat el text i ordre de totes les preguntes/opcions amb el PDF per practicar. Documents renderitzats amb Poppler; mostres de cada tema revisades visualment, incloses respostes llargues. Controls d’alçada impedeixen desbordament. Vuit enllaços al selector i enllaç correcte del mode actiu; mòbil de 390 px sense desbordament. Proves dels quatre modes correctes.

@@ -57,3 +57,6 @@ button:focus-visible,a:focus-visible,summary:focus-visible{outline-color:#d2e64b
 
 /* Readable PDF banks: independent links, never nested in game buttons. */
 .mode-entry{min-width:0}.mode-entry .mode-card{width:100%;border-bottom-left-radius:0;border-bottom-right-radius:0}.bank-download{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:44px;padding:10px 22px;border:1px solid #465849;border-top:0;border-radius:0 0 14px 14px;background:#122219;color:#d2e64b;font-size:14px;text-decoration:none;font-weight:600}.bank-download:hover{background:#23372b;text-decoration:underline}.download-note{color:var(--muted);font-size:14px;max-width:660px}.mode-entry .mode-card:hover{transform:none}@media(max-width:680px){.bank-download{padding:10px 14px;font-size:13px}}
+
+/* Separate practice and marked-answer PDF downloads. */
+.bank-downloads{display:grid;grid-template-columns:1fr 1fr}.bank-downloads .bank-download{border-radius:0 0 0 14px}.bank-downloads .marked-download{border-radius:0 0 14px 0;border-left:0;color:#a0e2bb}.bank-downloads .bank-download span{flex-shrink:0}@media(max-width:680px){.bank-downloads{grid-template-columns:1fr}.bank-downloads .bank-download{border-radius:0}.bank-downloads .marked-download{border-left:1px solid #465849;border-top:1px solid #35483f;border-radius:0 0 14px 14px}}

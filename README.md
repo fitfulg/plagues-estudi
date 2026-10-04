@@ -56,7 +56,7 @@ Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `ima
 
 ## Versions
 
-Versió actual: **1.6.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.7.0, 1.8.0…). Per correccions petites, incrementar el pedaç (1.6.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
+Versió actual: **1.7.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.8.0, 1.9.0…). Per correccions petites, incrementar el pedaç (1.7.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
 
 ## Tema 1 refet per aprendre
 
@@ -77,3 +77,7 @@ La versió 1.5.0 limita cada banc a unes 80 preguntes: 80 de plagues, 80 de mala
 ## Bancs descarregables en PDF
 
 La versió 1.6.0 incorpora un enllaç de descàrrega a cada tema i al peu del joc. Els quatre documents de `downloads/` contenen les 80/80/80/78 preguntes actives, opcions A–D, imatges per interpretar els casos i solucionari amb explicacions i pàgines de referència. Text seleccionable i imprimible; no es descarrega JSON des de la interfície. En actualitzar un banc, cal regenerar-ne el PDF i la clau de memòria cau del seu enllaç.
+
+## PDF amb respostes marcades
+
+La versió 1.7.0 afegeix una segona descàrrega per tema, al selector i al peu del joc. Els documents `downloads/*-answers.pdf` mantenen les mateixes preguntes i ordre de les opcions del PDF per practicar; ressalten la resposta correcta en negreta, fons verd clar i etiqueta CORRECTA, llegible també en blanc i negre. Es conserva el solucionari.

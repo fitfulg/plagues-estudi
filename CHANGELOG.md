@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.7.0 — 2026-10-04
+
+- Segona descàrrega per tema: PDF amb la resposta correcta marcada a cada pregunta.
+- Ressaltat en verd, negreta i etiqueta CORRECTA, també identificable sense color.
+- Es mantenen els PDF per practicar i el solucionari de totes dues versions.
+
 ## 1.6.0 — 2026-10-04
 
 - Descàrrega directa del banc de cada tema en PDF, tant al selector com al peu del joc.
