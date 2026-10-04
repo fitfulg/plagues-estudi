@@ -42,3 +42,7 @@ Actualització del tema 3 preparada per a `fitfulg/plagues-estudi`: 69 fitxes, 2
 ## v1.5.0
 
 Selecció essencial preparada per al mateix repositori i domini: 80 preguntes als temes 1–3 i 78 al tema 4. Dades i selector actualitzats amb claus de memòria cau noves. Imatges i funcionament conservats.
+
+## v1.6.0
+
+Quatre PDF descarregables a downloads/ i enllaços directes al selector i al peu del mode actiu. Actualitzats interfície, estils, controlador, versió i claus de memòria cau. Documents revisats i descàrregues locals verificades.

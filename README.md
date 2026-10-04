@@ -56,7 +56,7 @@ Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `ima
 
 ## Versions
 
-Versió actual: **1.5.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.6.0, 1.7.0…). Per correccions petites, incrementar el pedaç (1.5.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
+Versió actual: **1.6.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.7.0, 1.8.0…). Per correccions petites, incrementar el pedaç (1.6.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
 
 ## Tema 1 refet per aprendre
 
@@ -73,3 +73,7 @@ El PDF complet de 66 pàgines sustenta 40 fitxes i 80 preguntes. Cada sessió al
 ## Selecció essencial
 
 La versió 1.5.0 limita cada banc a unes 80 preguntes: 80 de plagues, 80 de malalties, 80 de vegetació espontània i 78 de protecció de cultius. La selecció prioritza conceptes, diagnosi i diferències útils, i elimina repeticions. `CURATION.md` documenta cada pregunta seleccionada. Les fitxes d’estudi dels casos seleccionats es conserven completes.
+
+## Bancs descarregables en PDF
+
+La versió 1.6.0 incorpora un enllaç de descàrrega a cada tema i al peu del joc. Els quatre documents de `downloads/` contenen les 80/80/80/78 preguntes actives, opcions A–D, imatges per interpretar els casos i solucionari amb explicacions i pàgines de referència. Text seleccionable i imprimible; no es descarrega JSON des de la interfície. En actualitzar un banc, cal regenerar-ne el PDF i la clau de memòria cau del seu enllaç.

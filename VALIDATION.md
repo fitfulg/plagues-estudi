@@ -51,3 +51,7 @@ Tema 1: 78 fitxes, 342 preguntes i 83 variants d’imatge. Revisades les 34 pàg
 ## v1.5.0 — Selecció essencial
 
 80, 80, 80 i 78 preguntes verificades. Les preguntes seleccionades, les fitxes completes, els recursos i les referències coincideixen exactament amb la versió anterior. JSON i scripts sincronitzats. 1.000 sessions per mode i proves completes del controlador; 2.000 sessions equilibrades per als temes 1–3, amb totes les preguntes assolibles. Prova de resposta, original i fitxa opcional als quatre modes en navegador. Selector revisat en escriptori i mòbil de 390 px sense desbordament. Sense errors de consola.
+
+## v1.6.0 — Bancs PDF
+
+Quatre PDF de text seleccionable: 80/80/80/78 preguntes, amb imatges, opcions i solucionari. Comprovada la presència de tots els enunciats i les respostes numerades. Totes les pàgines renderitzades amb Poppler i revisades visualment. Quatre descàrregues reals des del navegador local, amb hash idèntic als documents generats. Disseny mòbil de 390 px sense desbordament; proves dels quatre modes i referències locals correctes.

@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.6.0 — 2026-10-04
+
+- Descàrrega directa del banc de cada tema en PDF, tant al selector com al peu del joc.
+- Text llegible i seleccionable, preguntes numerades, opcions, imatges i solucionari amb referències.
+- Els enllaços públics de descàrrega substitueixen el format JSON.
+
 ## 1.5.0 — 2026-10-04
 
 - Selecció de les preguntes essencials: 80 als temes 1, 2 i 3, i 78 al tema 4.

@@ -2,7 +2,7 @@
 (()=>{
   'use strict';
   const $=id=>document.getElementById(id);
-  const modes={pests:{data:window.PLAGUES_DATA,label:'Plagues',file:'content.json'},diseases:{data:window.DISEASE_DATA,label:'Malalties',file:'disease-content.json'},protection:{data:window.PROTECTION_DATA,label:'Protecció de cultius',file:'protection-content.json'},weeds:{data:window.WEED_DATA,label:'Vegetació espontània',file:'weed-content.json'}};
+  const modes={pests:{data:window.PLAGUES_DATA,label:'Plagues',file:'downloads/topic-1-pests.pdf?v=1.6.0'},diseases:{data:window.DISEASE_DATA,label:'Malalties',file:'downloads/topic-2-diseases.pdf?v=1.6.0'},protection:{data:window.PROTECTION_DATA,label:'Protecció de cultius',file:'downloads/topic-4-protection.pdf?v=1.6.0'},weeds:{data:window.WEED_DATA,label:'Vegetació espontània',file:'downloads/topic-3-weeds.pdf?v=1.6.0'}};
   let data=null,mode=null;
   const previousCards={pests:null,diseases:null,weeds:null,protection:null};
   let rounds=[],ri=0,qi=0,score=0,answered=0,locked=false,history=[],total=0,lastCard=null;
