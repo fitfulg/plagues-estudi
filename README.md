@@ -1,6 +1,6 @@
 # Sanitat vegetal · Joc d’estudi
 
-Aplicació estàtica en català amb tres modes independents basats en `fitosT1 (1)-18-24_merged.pdf`, `fitosT2 (2).pdf` i `fitosT3 (1).pdf`.
+Aplicació estàtica en català amb quatre modes independents basats en `fitosT1 (1)-18-24_merged.pdf`, `fitosT2 (2).pdf` `fitosT3 (1).pdf` i `fitosT4.pdf`.
 
 ## Obrir l’app
 
@@ -41,7 +41,7 @@ S’han mantingut els noms i grafies del PDF. Les mencions normatives s’estudi
 
 ## Mode de malalties
 
-La pantalla inicial permet triar **Plagues**, **Malalties** o **Vegetació espontània**. «Canvia de joc» torna al selector; cada selecció comença una sessió nova i independent. El nou mode utilitza `fitosT2 (2).pdf`: 49 fitxes, 51 fotografies i 231 preguntes sobre agents, grups, cultius, símptomes i vectors.
+La pantalla inicial permet triar **Plagues**, **Malalties**, **Vegetació espontània** o **Protecció de cultius**. «Canvia de joc» torna al selector; cada selecció comença una sessió nova i independent. El nou mode utilitza `fitosT2 (2).pdf`: 49 fitxes, 51 fotografies i 231 preguntes sobre agents, grups, cultius, símptomes i vectors.
 
 Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `images/disease-provenance.json` i `DISEASE-AUDIT.md`. Tot funciona sense compilació i amb rutes relatives. El contingut continua en català i els noms dels fitxers són en anglès.
 
@@ -49,3 +49,7 @@ Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `ima
 
 40 fitxes, 73 imatges i 200 preguntes. Noms, famílies, trets, cicles vitals, hàbitats, reproducció i parasitisme. `weed-data.js` i `weed-content.json` contenen el banc; `images/weed-provenance.json` referencia els originals. Consulteu `WEED-AUDIT.md` per als criteris de fidelitat i les exclusions.
 
+
+## Protecció de cultius — Tema 4
+
+39 fitxes, 39 imatges i 117 preguntes basades exclusivament en `fitosT4.pdf`, «Protegeix els teus cultius». Imatges i casos de prevenció, mètodes culturals, físics, biològics, biotècnics, químics, seguiment i llindars. Cada sessió tria 10 fitxes amb 2 preguntes per ronda. `protection-data.js`, `protection-content.json`, `images/protection-provenance.json` i `PROTECTION-AUDIT.md` documenten el nou banc.

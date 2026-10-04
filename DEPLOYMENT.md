@@ -17,3 +17,8 @@ Publicació dels dos modes verificada a https://fitfulg.github.io/plagues-estudi
 ## Vegetació espontània — 21/09/2026
 
 Nou mode: 40 fitxes, 73 imatges i 200 preguntes. Comprovats els tres bancs amb 1.000 sessions aleatòries cadascun, respostes úniques, puntuació, bloqueig després de respondre, canvi de mode, resum i reinici. Prova visual al navegador en escriptori i mòbil de 390 px, imatge original en respondre i fitxa opcional al mateix panell. Sense errors de consola ni desbordament horitzontal en mòbil.
+
+## Protecció de cultius — 04/10/2026
+
+Preparada l’actualització del tema 4: 39 fitxes, 39 imatges, 117 preguntes i selector de quatre modes. Mateix repositori i domini de GitHub Pages. Es conserven dues preguntes per ronda, tema fosc, originals després de respondre i fitxes opcionals.
+

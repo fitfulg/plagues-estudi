@@ -2,9 +2,9 @@
 (()=>{
   'use strict';
   const $=id=>document.getElementById(id);
-  const modes={pests:{data:window.PLAGUES_DATA,label:'Plagues',file:'content.json'},diseases:{data:window.DISEASE_DATA,label:'Malalties',file:'disease-content.json'},weeds:{data:window.WEED_DATA,label:'Vegetació espontània',file:'weed-content.json'}};
+  const modes={pests:{data:window.PLAGUES_DATA,label:'Plagues',file:'content.json'},diseases:{data:window.DISEASE_DATA,label:'Malalties',file:'disease-content.json'},protection:{data:window.PROTECTION_DATA,label:'Protecció de cultius',file:'protection-content.json'},weeds:{data:window.WEED_DATA,label:'Vegetació espontània',file:'weed-content.json'}};
   let data=null,mode=null;
-  const previousCards={pests:null,diseases:null,weeds:null};
+  const previousCards={pests:null,diseases:null,weeds:null,protection:null};
   let rounds=[],ri=0,qi=0,score=0,answered=0,locked=false,history=[],total=0,lastCard=null;
   const current=()=>rounds[ri], question=()=>current().questions[qi];
   function stats(){
@@ -22,9 +22,9 @@
   }
   function render(focus=true){
     const r=current(),q=question();locked=false;lastCard=r.card.id;previousCards[mode]=lastCard;
-    $('photo').src=r.image.image;$('photo').alt='Fotografia del temari per identificar: observa l’exemplar o els símptomes.';$('photo').hidden=false;$('image-error').hidden=true;
+    $('photo').src=r.image.image;$('photo').alt='Imatge del temari: observa els detalls i llegeix el cas de la pregunta.';$('photo').hidden=false;$('image-error').hidden=true;
     $('image-label').textContent=`IMATGE ${String(ri+1).padStart(2,'0')}`;
-    $('photo-caption').textContent=qi?'Continua amb la mateixa imatge.':'Observa la fotografia abans de respondre.';
+    $('photo-caption').textContent=qi?'Continua amb la mateixa imatge.':'Observa la imatge i llegeix la pregunta abans de respondre.';
     $('category').textContent=q.kind;$('question-count').textContent=`Pregunta ${qi+1} de ${r.questions.length}`;
     $('question').textContent=q.prompt;$('feedback').replaceChildren();$('feedback').className='feedback';
     $('study-card').replaceChildren();$('study-toolbar').hidden=true;
@@ -78,7 +78,7 @@
     if(locked)return;locked=true;const q=question(),r=current(),correct=value===q.answer;
     $('photo').src=r.image.original;
     $('photo').alt=`Fotografia original: ${r.card.name}`;
-    $('photo-caption').textContent=mode==='diseases'?'Imatge original del temari de malalties.':'Imatge original amb el rètol del temari.';
+    $('photo-caption').textContent=mode==='protection'?'Imatge original del tema de protecció de cultius.':mode==='diseases'?'Imatge original del temari de malalties.':'Imatge original amb el rètol del temari.';
     answered++;if(correct)score++;
     history.push({card:r.card.name,prompt:q.prompt,chosen:value,answer:q.answer,correct,page:q.page});
     [...$('options').children].forEach((button,i)=>{button.disabled=true;const option=q.options[i];if(option===q.answer){button.classList.add('correct');button.firstChild.textContent='✓';button.setAttribute('aria-label',`Resposta correcta: ${option}`);}else if(option===value){button.classList.add('wrong');button.firstChild.textContent='×';button.setAttribute('aria-label',`Resposta incorrecta: ${option}`);}});
@@ -130,6 +130,7 @@
   }
   $('choose-pests').addEventListener('click',()=>chooseMode('pests'));
   $('choose-diseases').addEventListener('click',()=>chooseMode('diseases'));
+  $('choose-protection').addEventListener('click',()=>chooseMode('protection'));
   $('choose-weeds').addEventListener('click',()=>chooseMode('weeds'));
   $('change-mode').addEventListener('click',showModes);
   showModes();

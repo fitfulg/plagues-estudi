@@ -19,3 +19,8 @@
 Nou mode: 40 fitxes, 73 imatges i 200 preguntes. Comprovats els tres bancs amb 1.000 sessions aleatòries cadascun, respostes úniques, puntuació, bloqueig després de respondre, canvi de mode, resum i reinici. Prova visual al navegador en escriptori i mòbil de 390 px, imatge original en respondre i fitxa opcional al mateix panell. Sense errors de consola ni desbordament horitzontal en mòbil.
 
 03/10/2026: sessions reduïdes a exactament 2 preguntes per foto i 20 per sessió. Verificades 1.000 sessions per cadascun dels tres modes i una sessió completa amb puntuació, fitxa i reinici.
+
+## Tema 4 — 04/10/2026
+
+39 fitxes, 117 preguntes i 39 imatges natives verificades visualment. Els quatre modes superen 1.000 sessions aleatòries per banc: 10 rondes, dues preguntes per ronda, categories diferents, respostes úniques, cap repetició immediata, puntuació, bloqueig, resum, reinici i errors d’imatge. Referències HTML i noms de fitxers validats. Al navegador: resposta incorrecta i correcta, original carregat, fitxa opcional de la mateixa alçada que el panell, pregunta 2 de 2 seguida de ronda 2, selector de quatre modes, amplada mòbil de 390 px sense desbordament i cap error de consola.
+
