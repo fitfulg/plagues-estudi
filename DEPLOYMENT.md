@@ -30,3 +30,7 @@ Publicació verificada: commit 815a513145dcec4009b1e4031ef1de134e81ee56; GitHub 
 
 Actualització preparada per al mateix repositori: modes en llista i tema 1 refet sobre fitosT1.pdf complet amb 78 fitxes i 342 preguntes. Quatre blocs equilibrats, dues preguntes per ronda, imatges originals i fitxes opcionals. Recursos nous amb prefix pest- i manifest de traçabilitat.
 
+
+## v1.3.0
+
+Actualització del tema 2 preparada per a `fitfulg/plagues-estudi`: 82 fitxes, 324 preguntes, sis blocs d’aprenentatge i recursos locals documentats.

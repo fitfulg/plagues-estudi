@@ -23,7 +23,7 @@
   function render(focus=true){
     const r=current(),q=question();locked=false;lastCard=r.card.id;previousCards[mode]=lastCard;
     $('photo').src=r.image.image;$('photo').alt=r.card.imageContext||'Imatge del temari: observa els detalls i llegeix el cas de la pregunta.';$('photo').hidden=false;$('image-error').hidden=true;
-    $('learning-section').textContent=r.card.learningSection||'OBSERVA · RECONEIX · APRÈN';
+    $('learning-section').textContent=q.kind==='Classificació'?'OBSERVA · RELACIONA':r.card.learningSection||'OBSERVA · RECONEIX · APRÈN';
     $('image-label').textContent=`RONDA ${String(ri+1).padStart(2,'0')}`;
     $('photo-caption').textContent=r.card.imageContext||(qi?'Continua amb la mateixa imatge.':'Observa la imatge i llegeix la pregunta abans de respondre.');
     $('category').textContent=q.kind;$('question-count').textContent=`Pregunta ${qi+1} de ${r.questions.length}`;
@@ -77,6 +77,7 @@
   }
   function answer(value){
     if(locked)return;locked=true;const q=question(),r=current(),correct=value===q.answer;
+    $('learning-section').textContent=r.card.learningSection||'OBSERVA · RECONEIX · APRÈN';
     $('photo').src=r.image.original;
     $('photo').alt=r.card.imageContext?`Imatge de suport original: ${r.card.name}`:`Fotografia original: ${r.card.name}`;
     $('photo-caption').textContent=r.card.imageContext?r.card.imageContext:mode==='protection'?'Imatge original del tema de protecció de cultius.':mode==='diseases'?'Imatge original del temari de malalties.':'Imatge original amb el rètol del temari.';

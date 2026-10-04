@@ -29,3 +29,12 @@ Nou mode: 40 fitxes, 73 imatges i 200 preguntes. Comprovats els tres bancs amb 1
 
 Tema 1: 78 fitxes, 342 preguntes i 83 variants d’imatge. Revisades les 34 pàgines del PDF complet i els recursos nous. Coincidència exacta de píxels de les 17 tires originals conservades. Proves de 1.000 sessions per cadascun dels quatre modes i 2.000 sessions específiques d’aprenentatge: 2–3 rondes de cadascun dels quatre blocs, totes les preguntes accessibles i mai dues preguntes de noms a la mateixa ronda. Sessió real de 20 preguntes completada al navegador, original carregat i fitxa amb la mateixa alçada del panell. Selector en llista comprovat en escriptori i mòbil de 390 px, sense desbordament ni errors de consola. Referències i noms dels fitxers validats.
 
+
+## v1.3.0 — Tema 2
+
+- 82 fitxes, 324 preguntes i 84 variants; tots els recursos locals existeixen.
+- 2.000 sessions de malalties: els sis blocs en totes les sessions, 1–2 rondes per bloc, totes les preguntes assolibles i cap parella de preguntes de noms.
+- 1.000 sessions per mode i proves del controlador: puntuació, bloqueig, resum, reinici, canvi de mode i errors d’imatge.
+- Sessió real de navegador amb 20 respostes i sis blocs; les preguntes de classificació no revelen la resposta al títol del bloc.
+- Imatge original després de respondre, fitxa opcional al mateix espai (543,8 px en la prova), disseny mòbil sense desbordament horitzontal (375 px de contingut).
+- Revisió visual de totes les pàgines del PDF i dels recursos nous finals; font idèntica al fitxer anterior verificada per SHA-256.

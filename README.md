@@ -1,6 +1,6 @@
 # QUALIFITOS
 
-Aplicació estàtica en català amb quatre modes independents basats en `fitosT1.pdf`, `fitosT2 (2).pdf`, `fitosT3 (1).pdf` i `fitosT4.pdf`.
+Aplicació estàtica en català amb quatre modes independents basats en `fitosT1.pdf`, `fitosT2.pdf`, `fitosT3 (1).pdf` i `fitosT4.pdf`.
 
 ## Obrir l’app
 
@@ -41,7 +41,7 @@ S’han mantingut els noms i grafies del PDF. Les mencions normatives s’estudi
 
 ## Mode de malalties
 
-La pantalla inicial permet triar **Plagues**, **Malalties**, **Vegetació espontània** o **Protecció de cultius**. «Canvia de joc» torna al selector; cada selecció comença una sessió nova i independent. El nou mode utilitza `fitosT2 (2).pdf`: 49 fitxes, 51 fotografies i 231 preguntes sobre agents, grups, cultius, símptomes i vectors.
+La pantalla inicial permet triar **Plagues**, **Malalties**, **Vegetació espontània** o **Protecció de cultius**. «Canvia de joc» torna al selector; cada selecció comença una sessió nova i independent. El nou mode utilitza `fitosT2.pdf`: 82 fitxes, 84 variants d’imatge i 324 preguntes sobre conceptes, agents, cultius, símptomes, transmissió i diagnosi.
 
 Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `images/disease-provenance.json` i `DISEASE-AUDIT.md`. Tot funciona sense compilació i amb rutes relatives. El contingut continua en català i els noms dels fitxers són en anglès.
 
@@ -56,8 +56,12 @@ Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `ima
 
 ## Versions
 
-Versió actual: **1.2.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.3.0, 1.4.0…). Per correccions petites, incrementar el pedaç (1.2.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
+Versió actual: **1.3.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.4.0, 1.5.0…). Per correccions petites, incrementar el pedaç (1.3.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
 
 ## Tema 1 refet per aprendre
 
 78 fitxes i 342 preguntes sobre el PDF complet `fitosT1.pdf`. Les 10 rondes reparteixen 2 o 3 fitxes de cadascun dels quatre blocs: fonaments i diagnosi, biologia dels insectes, plagues d’insectes, i àcars i altres organismes. Totes les preguntes són seleccionables; no es força una identificació a cada ronda ni es demanen nom comú i científic junts. Els casos sense fotografia pròpia són textuals i estan marcats. `images/pest-full-provenance.json` documenta els recursos i la correspondència exacta de les fotografies conservades. Els altres modes mantenen el seu funcionament.
+
+## Tema 2 refet per aprendre
+
+El PDF complet de 47 pàgines sustenta 82 fitxes i 324 preguntes. Cada sessió de 10 rondes inclou els sis blocs (1 o 2 rondes per bloc): fonaments i diagnosi, fongs, bacteris, fitoplasmes, virus i viroides, i nematodes. Cada ronda tria dues preguntes de tipus diferents i no combina identificació i nom científic. Els casos textuals sense fotografia específica estan indicats. Es preserven les grafies i la classificació del temari, amb les exclusions documentades a `DISEASE-AUDIT.md`.

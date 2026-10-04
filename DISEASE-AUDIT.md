@@ -1,21 +1,32 @@
-# Malalties: auditoria del contingut
+# Tema 2: auditoria del contingut
 
-Font exclusiva: `fitosT2 (2).pdf`, «Coneix les malalties que afecten els cultius», actualitzat al document el 03/02/2025. S’han extret els textos i revisat visualment les 47 pàgines.
+Font exclusiva: `fitosT2.pdf`, «Coneix les malalties que afecten els cultius», 47 pàgines, data interna 03/02/2025. S’ha revisat el text i la maquetació de totes les pàgines. El fitxer és idèntic byte a byte a `fitosT2 (2).pdf`; el SHA-256 del document es conserva a `disease-content.json`.
 
-49 fitxes, 51 fotografies i 231 preguntes. Els recursos s’extreuen de les imatges natives, conservant les proporcions i els crèdits. `images/disease-provenance.json` documenta la pàgina, l’índex d’imatge i el retall. Els quatre rètols identificadors de fumagina, arrufat, eutipiosi i cribat s’oculten durant la pregunta; l’original es recupera en respondre.
+## Cobertura i aprenentatge
 
-Les fotografies de les pàgines 12–22, 24, 27–30, 33–34 i 38–42 s’han associat al paràgraf adjacent, contrastant text i maquetació. La fitxa del bronzejat inclou les dues fotografies de la pàgina 40. Nematodes inclou dues imatges genèriques de la pàgina 42.
+82 fitxes, 324 preguntes i 84 variants d’imatge. Es conserven les 49 fitxes de casos, revisades amb el document complet, i s’hi afegeixen 33 fitxes conceptuals i casos textuals. Les sessions alternen sis blocs, amb 1 o 2 rondes per bloc: fonaments i diagnosi; fongs; bacteris; fitoplasmes; virus i viroides; nematodes. Dues preguntes de tipus diferents per ronda. Totes són seleccionables i mai es combinen identificació i nom científic en una mateixa ronda.
 
-## Ambigüitats i exclusions
+- Pàgines 5–6: infecció, fisiopatia, hoste, patogen i ambient.
+- Pàgines 7–11: hifes, miceli, incubació, fongs beneficiosos, reproducció, localització, necrosi, hipertròfia i hiperplàsia.
+- Pàgines 12–24: casos de malalties fúngiques, mal de coll i bloqueig vascular.
+- Pàgines 25–30: estructura, vies d’entrada, transmissió, bacteris beneficiosos, símptomes i casos.
+- Pàgines 31–34: estructura, floema, vectors, latència, virescència, fil·lòdia i casos de fitoplasmes.
+- Pàgines 35–41: estructura, dependència cel·lular, viroides, transmissió, cultiu in vitro, símptomes i casos, inclosa l’exocortis.
+- Pàgines 42–43: cos, estilet, reproducció, supervivència, nematodes beneficiosos, nòduls, parts aèries, vectors i decaïment del pi.
+- Pàgines 44–47: límits del diagnòstic visual, laboratori, examen general, seguiment, registres i òrgans afectats.
 
-- Carbó nu d’ordi/blat i motejat de pomera/perera es mantenen com a casos conjunts. No es pregunta una sola espècie per aquestes imatges.
-- Els nematodes es pregunten com a grup; la fotografia d’arrels no s’atribueix a Meloidogyne. Fitoplasmes ornamentals es pregunten sense identificar una espècie concreta.
-- Les il·lustracions generals, les fotografies repetides, les escenes de maneig o de laboratori i la imatge de palets de la pàgina 43 no es converteixen en diagnòstics específics.
-- Els casos sense una fotografia inequívocament associada, com el mal de coll, Fusarium/verticil·losi genèrics i l’exocortis, no tenen una ronda fotogràfica pròpia.
-- No s’han seguit enllaços externs ni s’han afegit dades de tractaments, normativa actual o distribució actual. Les preguntes de malalties se centren en identificació, agent, grup, cultiu, símptomes, vectors i alimentació dels nematodes.
-- Les grafies científiques s’han preservat, incloses Botrytis cinera, Puccinia gramis, Colletorichum lindemuthianum, Cacopsyilla pyri i Tomato yeallow leaf curl virus-TYLCV. La doble grafia Rosellinia/Rossellinia del document s’explica a la fitxa.
-- Les característiques es presenten com a descripcions abreujades del cas del temari, no com a criteris de diagnòstic exclusiu. Els distractors procedeixen d’altres casos del mateix document.
+## Imatges i fonts
 
-## Comprovacions
+`images/disease-provenance.json` conserva per a cada recurs la pàgina, l’índex de la imatge nativa i el retall. Les imatges noves es componen sobre blanc per preservar transparències. La imatge original reapareix en respondre qualsevol opció. Els rètols de les fotografies antigues continuen ocults durant la pregunta.
 
-Existència de totes les fotografies, noms de fitxer anglesos, 1.000 sessions aleatòries per mode, cobertura de totes les variants, opcions úniques, puntuació, bloqueig de resposta, resum, reinici i canvi entre modes. Revisió visual dels retalls finals i del selector en escriptori i mòbil.
+Les imatges genèriques indiquen que són suport conceptual. Els casos sense fotografia específica (mal de coll, Fusarium/verticil·losi, bacteris beneficiosos, exocortis i casos de nematodes de la pàgina 43) utilitzen l’escena d’observació de la pàgina 44 i ho indiquen explícitament. Cada pregunta concreta el tema; no demana identificar aquestes afeccions a partir de la fotografia de suport. No es converteix la fotografia dels palets en una fotografia del nematode del pi.
+
+## Fidelitat i exclusions
+
+- Grafies científiques conservades, incloses Botrytis cinera, Puccinia gramis, Colletorichum lindemuthianum, Cacopsyilla pyri i Tomato yeallow leaf curl virus-TYLCV. La variant Rosellinia/Rossellinia s’explica a la fitxa.
+- Es manté la classificació del temari (inclosos els míldius a l’apartat de fongs); les preguntes de grup es refereixen a aquesta classificació.
+- No es converteix en pregunta l’afirmació general que tots els fongs són paràsits obligats, perquè el mateix document presenta sapròfits i altres formes de vida. Tampoc es pregunta la prevalença de Gram positius entre fitopatògens. Sí que es pregunta el fonament de la tinció de Gram.
+- S’exclouen normativa vigent, distribució actual, dates històriques, productes autoritzats i recomanacions de tractament. No es consulten els enllaços externs.
+- Carbó nu d’ordi/blat i motejat de pomera/perera continuen com a casos conjunts; les fotografies genèriques de nematodes no identifiquen un gènere concret.
+- Els símptomes s’estudien com a característiques del cas del document, no com a diagnòstics exclusius. La necessitat de laboratori davant símptomes semblants és un objectiu explícit.
+- Distractors amb termes, agents i processos del mateix temari. Els distractors de noms es restringeixen al mateix grup quan hi ha prou alternatives.

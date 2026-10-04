@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.0 — 2026-10-04
+
+- Tema 2 refet amb enfocament d’aprenentatge: 82 fitxes i 324 preguntes.
+- Sis blocs equilibrats per sessió, amb conceptes, transmissió, símptomes i diagnosi.
+- 33 noves fitxes conceptuals i casos pràctics, amb imatges extretes del document.
+- Dues preguntes variades per ronda, sense forçar identificació ni combinar dos noms.
+
 ## 1.2.0 — 2026-10-04
 
 - Selector de modes en llista, tant en escriptori com en mòbil.
