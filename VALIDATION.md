@@ -47,3 +47,7 @@ Tema 1: 78 fitxes, 342 preguntes i 83 variants d’imatge. Revisades les 34 pàg
 - Sessió completa de 20 respostes al navegador, amb els quatre blocs i resum final. Sense errors de consola.
 - Original després de respondre i fitxa opcional que substitueix les preguntes. Revisió visual d'escriptori i mòbil de 390 × 844, sense desbordament horitzontal.
 - Referències locals i noms anglesos validats. Contradiccions de la font excloses de les preguntes inequívoces.
+
+## v1.5.0 — Selecció essencial
+
+80, 80, 80 i 78 preguntes verificades. Les preguntes seleccionades, les fitxes completes, els recursos i les referències coincideixen exactament amb la versió anterior. JSON i scripts sincronitzats. 1.000 sessions per mode i proves completes del controlador; 2.000 sessions equilibrades per als temes 1–3, amb totes les preguntes assolibles. Prova de resposta, original i fitxa opcional als quatre modes en navegador. Selector revisat en escriptori i mòbil de 390 px sense desbordament. Sense errors de consola.

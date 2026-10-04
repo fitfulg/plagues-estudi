@@ -52,18 +52,6 @@ window.PROTECTION_DATA = {
           "page": 5
         },
         {
-          "kind": "Moment d’actuació",
-          "prompt": "Quan es duen a terme els tractaments curatius?",
-          "answer": "Quan els danys ja estan fets",
-          "distractors": [
-            "Abans de l’acció del patogen",
-            "Només durant la sembra",
-            "Només abans de plantar"
-          ],
-          "quote": "Els tractaments curatius es duen a terme quan els danys ja estan fets.",
-          "page": 5
-        },
-        {
           "kind": "Objectiu",
           "prompt": "Quin criteri acompanya el control de les poblacions de patògens?",
           "answer": "Respectar l’equilibri de l’agroecosistema",
@@ -142,18 +130,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "La lletra C precedeix el codi de traçabilitat del vegetal o objecte.",
           "page": 8
-        },
-        {
-          "kind": "Identificació botànica",
-          "prompt": "Quina informació correspon a la lletra A?",
-          "answer": "Nom botànic de l’espècie",
-          "distractors": [
-            "Codi de traçabilitat",
-            "País d’origen",
-            "Codi del productor"
-          ],
-          "quote": "La lletra A precedeix la denominació botànica de l’espècie o tàxon.",
-          "page": 8
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -220,18 +196,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Les varietats tolerants no mostren símptomes encara que l’agent nociu hagi penetrat a la planta.",
           "page": 10
-        },
-        {
-          "kind": "Exemple",
-          "prompt": "A què fa referència RAF en l’exemple del tomàquet?",
-          "answer": "Resistent A Fusarium",
-          "distractors": [
-            "Resistent a Botrytis",
-            "Tolerant a Rhizoctonia",
-            "Resistent a Verticillium"
-          ],
-          "quote": "El tema presenta el tomàquet RAF com a «Resistent A Fusarium».",
-          "page": 10
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -273,18 +237,6 @@ window.PROTECTION_DATA = {
         }
       ],
       "questions": [
-        {
-          "kind": "Classificació",
-          "prompt": "Ajustar la data de sembra i el marc de plantació és una mesura de quin grup?",
-          "answer": "Mètodes de control culturals",
-          "distractors": [
-            "Mètodes de control biològics",
-            "Mètodes de control químics",
-            "Mètodes de control biotècnics"
-          ],
-          "quote": "Les mesures culturals són activitats realitzades a la parcel·la abans, durant i després d’un cultiu.",
-          "page": 11
-        },
         {
           "kind": "Disseny",
           "prompt": "Quins factors formen part d’un bon disseny de plantació?",
@@ -372,18 +324,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Un excés de nitrogen pot provocar creixement excessiu, predisposició a malalties especialment la cendrosa i emergència de flora adventícia.",
           "page": 12
-        },
-        {
-          "kind": "Esmenes",
-          "prompt": "A més d’enriquir el sòl, què poden aportar les esmenes orgàniques?",
-          "answer": "Contribuir al control de patògens",
-          "distractors": [
-            "Impedir la síntesi de quitina",
-            "Capturar mascles amb feromones",
-            "Substituir el passaport fitosanitari"
-          ],
-          "quote": "Les esmenes orgàniques, a més d’enriquir el sòl, poden contribuir al control de patògens.",
-          "page": 12
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -425,18 +365,6 @@ window.PROTECTION_DATA = {
         }
       ],
       "questions": [
-        {
-          "kind": "Classificació",
-          "prompt": "El treball del sòl per gestionar restes de collita i males herbes pertany a quin grup?",
-          "answer": "Mètodes de control culturals",
-          "distractors": [
-            "Mètodes de control biològics",
-            "Mètodes de control químics",
-            "Mètodes de control biotècnics"
-          ],
-          "quote": "El treball del sòl és una de les principals mesures culturals.",
-          "page": 12
-        },
         {
           "kind": "Limitació",
           "prompt": "Quines males herbes es poden veure afavorides pel conreu del sòl?",
@@ -500,18 +428,6 @@ window.PROTECTION_DATA = {
         }
       ],
       "questions": [
-        {
-          "kind": "Classificació",
-          "prompt": "Gestionar el reg i el drenatge per reduir malalties és una mesura de quin grup?",
-          "answer": "Mètodes de control culturals",
-          "distractors": [
-            "Mètodes de control biotècnics",
-            "Mètodes de control químics",
-            "Mètodes de control biològics"
-          ],
-          "quote": "Els regs i drenatges formen part de les principals mesures culturals.",
-          "page": 13
-        },
         {
           "kind": "Dispersió",
           "prompt": "Com poden els esquitxos d’aigua afavorir una malaltia?",
@@ -599,18 +515,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Les ferides grans que tarden a cicatritzar són una entrada de moltes malalties.",
           "page": 13
-        },
-        {
-          "kind": "Aeració",
-          "prompt": "Quina funció comparteixen el desfullat i l’asprada?",
-          "answer": "Millorar l’aeració i reduir zones vulnerables al contacte amb el sòl",
-          "distractors": [
-            "Capturar insectes per llum ultraviolada",
-            "Alliberar enemics autòctons",
-            "Generar gasos per descomposició"
-          ],
-          "quote": "El desfullat millora l’aeració i elimina zones vulnerables pel contacte amb el sòl; l’asprada té una funció complementària semblant.",
-          "page": 13
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -674,18 +578,6 @@ window.PROTECTION_DATA = {
             "Insectes capturats amb adhesius"
           ],
           "quote": "L’absència del cultiu pot fer morir patògens o perdre viabilitat de l’inòcul, especialment si necessiten hoste viu i tenen un rang estret d’hostes.",
-          "page": 14
-        },
-        {
-          "kind": "Sòl",
-          "prompt": "Què aporta alternar cultius amb diferent fondària d’arrels?",
-          "answer": "Ajuda a evitar la compactació del sòl",
-          "distractors": [
-            "Impedeix la síntesi de quitina",
-            "Augmenta les captures de trips",
-            "Esterilitza els insectes"
-          ],
-          "quote": "Alternar cultius amb diferent fondària d’arrels ajuda a evitar la compactació del sòl.",
           "page": 14
         }
       ],
@@ -751,18 +643,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Es col·loquen als perímetres de parcel·les o a les portes i finestres d’hivernacles; també es poden emmallar fruiters sencers.",
           "page": 15
-        },
-        {
-          "kind": "Complement",
-          "prompt": "Quina mesura en pot complementar l’efecte en un hivernacle?",
-          "answer": "Una doble porta",
-          "distractors": [
-            "Un atraient alimentari",
-            "Un alliberament de mascles estèrils",
-            "Un recompte de graus dia"
-          ],
-          "quote": "La doble porta dificulta encara més l’entrada de patògens a l’hivernacle.",
-          "page": 15
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -814,18 +694,6 @@ window.PROTECTION_DATA = {
             "Trampes cromàtiques"
           ],
           "quote": "L’embossament protegeix els fruits de forma individual per evitar danys d’ocells i insectes.",
-          "page": 15
-        },
-        {
-          "kind": "Exemple",
-          "prompt": "Quin fruit es cita com a exemple d’embossament?",
-          "answer": "Préssecs de Calanda",
-          "distractors": [
-            "Olives amb picades de mosca",
-            "Pomes cucades per Carpocapsa",
-            "Raïm amb Botrytis"
-          ],
-          "quote": "El tema cita l’embossament dels préssecs de Calanda amb bosses de paper parafinat transpirable i translúcid.",
           "page": 15
         },
         {
@@ -903,18 +771,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Aïllen la collita de la humitat del sòl i de possibles esquitxades amb espores o bacteris.",
           "page": 15
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "Dins dels mètodes físics, a quin grup pertanyen?",
-          "answer": "Passius o mecànics",
-          "distractors": [
-            "Reguladors de creixement",
-            "Control biològic per inundació",
-            "Control químic"
-          ],
-          "quote": "Els encoixinats figuren entre els mètodes passius o mecànics de control físic.",
-          "page": 15
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -983,18 +839,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "L’aigua del sòl transmet calor i contribueix a assolir temperatures letals per a part de les poblacions de patògens.",
           "page": 17
-        },
-        {
-          "kind": "Limitació",
-          "prompt": "Quins nematodes poden escapar de l’efecte de la solarització?",
-          "answer": "Els que migren a zones més profundes del sòl",
-          "distractors": [
-            "Els atrets per trampes blaves",
-            "Els capturats per feromones",
-            "Els que viuen en evolucionaris"
-          ],
-          "quote": "Els nematodes amb desplaçaments verticals poden migrar a zones profundes on no arriben les altes temperatures.",
-          "page": 17
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -1046,18 +890,6 @@ window.PROTECTION_DATA = {
             "Embossament de fruits"
           ],
           "quote": "El vapor d’aigua produeix altes temperatures als primers 25–30 cm del sòl.",
-          "page": 17
-        },
-        {
-          "kind": "Avantatge",
-          "prompt": "Quin avantatge té respecte de la solarització?",
-          "answer": "És més ràpida i no necessita plàstics",
-          "distractors": [
-            "No consumeix energia",
-            "No afecta mai l’estructura del sòl",
-            "Actua amb feromones"
-          ],
-          "quote": "Els avantatges indicats són que no calen plàstics i és més ràpida que una solarització.",
           "page": 17
         },
         {
@@ -1122,18 +954,6 @@ window.PROTECTION_DATA = {
             "Captura massiva"
           ],
           "quote": "La biofumigació aprofita gasos de la descomposició de matèria orgànica per controlar organismes perjudicials del sòl i males herbes.",
-          "page": 18
-        },
-        {
-          "kind": "Material",
-          "prompt": "D’on pot procedir la matèria orgànica?",
-          "answer": "Del mateix cultiu o d’aportacions externes compostades",
-          "distractors": [
-            "Només de feromones sintètiques",
-            "Només d’inhibidors de quitina",
-            "Només d’atraients cromàtics"
-          ],
-          "quote": "Pot procedir del cultiu o d’aportacions externes, com fems i restes de collites, després d’una fase de compostatge.",
           "page": 18
         },
         {
@@ -1211,18 +1031,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Cal fixar els gasos amb plàstics i retenir-los al sòl al voltant de dos mesos.",
           "page": 18
-        },
-        {
-          "kind": "Efecte",
-          "prompt": "Quin efecte busca aquesta combinació?",
-          "answer": "Augmentar l’efectivitat i la fondària d’actuació",
-          "distractors": [
-            "Reduir l’aeració amb podes",
-            "Capturar només mascles",
-            "Comptar els ous d’hivern"
-          ],
-          "quote": "Es reforça l’efecte desinfectant de la solarització, augmentant-ne l’efectivitat i la fondària d’actuació.",
-          "page": 18
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -1287,18 +1095,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Acostumen a ser poc selectius i s’alimenten de moltes espècies: són polífags.",
           "page": 19
-        },
-        {
-          "kind": "Exemple",
-          "prompt": "Quin nom científic correspon a la marieta de set punts citada?",
-          "answer": "Coccinella septempunctata",
-          "distractors": [
-            "Aphelinus mali",
-            "Bacillus thuringiensis",
-            "Candida sake"
-          ],
-          "quote": "La marieta de set punts es presenta amb el nom Coccinella septempunctata.",
-          "page": 19
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -1350,18 +1146,6 @@ window.PROTECTION_DATA = {
             "Microorganismes antagònics"
           ],
           "quote": "Aphelinus mali actua contra el pugó llanós de la pomera tot ponent un ou dins seu.",
-          "page": 19
-        },
-        {
-          "kind": "Hoste",
-          "prompt": "Quin hoste s’associa a Aphelinus mali?",
-          "answer": "Pugó llanós de la pomera (Eriosoma lanigerum)",
-          "distractors": [
-            "Mosca de l’olivera (Bactrocera oleae)",
-            "Carpocapsa (Cydia pomonella)",
-            "Mosca de la fruita (Ceratitis capitata)"
-          ],
-          "quote": "L’exemple associa Aphelinus mali amb Eriosoma lanigerum.",
           "page": 19
         },
         {
@@ -1439,18 +1223,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "L’exemple més conegut que cita el tema és el bacteri Bacillus thuringiensis.",
           "page": 19
-        },
-        {
-          "kind": "Organismes",
-          "prompt": "Quins organismes poden ser entomopatògens?",
-          "answer": "Bacteris, fongs, virus o nematodes",
-          "distractors": [
-            "Només marietes depredadores",
-            "Només llevats antagonistes",
-            "Només mascles estèrils"
-          ],
-          "quote": "Els agents entomopatògens poden ser bacteris, fongs, virus o nematodes.",
-          "page": 19
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -1502,18 +1274,6 @@ window.PROTECTION_DATA = {
             "Atraients alimentaris"
           ],
           "quote": "Els microorganismes antagònics controlen altres microorganismes perjudicials per a les plantes.",
-          "page": 19
-        },
-        {
-          "kind": "Patogen",
-          "prompt": "Quin patogen es relaciona amb Candida sake en aquest exemple?",
-          "answer": "Botrytis cinerea",
-          "distractors": [
-            "Eriosoma lanigerum",
-            "Bactrocera oleae",
-            "Cydia pomonella"
-          ],
-          "quote": "S’utilitza Candida sake en el control de la podridura del raïm produïda per Botrytis cinerea.",
           "page": 19
         },
         {
@@ -1594,18 +1354,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "La inundació augmenta artificialment la població d’enemics autòctons mitjançant alliberaments esglaonats o massius.",
           "page": 20
-        },
-        {
-          "kind": "Inoculació",
-          "prompt": "Com presenta el tema el control biològic per inoculació?",
-          "answer": "Introducció d’enemics originaris del lloc d’origen de l’organisme nociu",
-          "distractors": [
-            "Retenció de gasos sota plàstic",
-            "Captura d’adults amb atraients alimentaris",
-            "Eliminació de parts vegetals malaltes"
-          ],
-          "quote": "El tema defineix la inoculació com la introducció d’enemics del lloc d’origen de l’organisme nociu, amb alliberaments periòdics.",
-          "page": 20
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -1670,18 +1418,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Un dels principals inconvenients és que només actuen sobre un període del cicle de vida de la plaga.",
           "page": 22
-        },
-        {
-          "kind": "Mecanisme",
-          "prompt": "Quina resposta provoca la tebufenocida en l’exemple del tema?",
-          "answer": "Muda prematura",
-          "distractors": [
-            "Esterilització per radiació",
-            "Atracció pel color blau",
-            "Descomposició de matèria orgànica"
-          ],
-          "quote": "El tema indica que la tebufenocida provoca una muda prematura imitant l’hormona que la causa.",
-          "page": 22
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -1733,18 +1469,6 @@ window.PROTECTION_DATA = {
             "Control per conservació"
           ],
           "quote": "Els inhibidors de la síntesi de quitina impedeixen formar l’esquelet extern de l’insecte.",
-          "page": 22
-        },
-        {
-          "kind": "Estructura",
-          "prompt": "Quina estructura queda afectada per aquest mecanisme?",
-          "answer": "L’esquelet extern",
-          "distractors": [
-            "El sistema d’arrels del cultiu",
-            "El codi de traçabilitat",
-            "La fulla observada amb lupa"
-          ],
-          "quote": "La manca de formació de l’esquelet extern deixa l’insecte desprotegit.",
           "page": 22
         },
         {
@@ -1822,18 +1546,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Un avantatge de la tècnica és que es trenca el cicle reproductiu de la plaga.",
           "page": 22
-        },
-        {
-          "kind": "Establiment",
-          "prompt": "Per què els insectes estèrils alliberats no poden establir-se per reproducció?",
-          "answer": "No s’autoreprodueixen",
-          "distractors": [
-            "Són microorganismes antagònics",
-            "Només viuen en trampes cromàtiques",
-            "Són gasos de la matèria orgànica"
-          ],
-          "quote": "Els insectes estèrils no s’autoreprodueixen i per això no poden establir-se.",
-          "page": 22
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -1885,18 +1597,6 @@ window.PROTECTION_DATA = {
             "Vapor d’aigua"
           ],
           "quote": "Les feromones són substàncies químiques segregades per comunicar informació a individus de la mateixa espècie.",
-          "page": 23
-        },
-        {
-          "kind": "Comunicació",
-          "prompt": "Qui emet habitualment les feromones sexuals descrites?",
-          "answer": "Les femelles, perquè els mascles les localitzin",
-          "distractors": [
-            "Els patògens del sòl per escalfar-lo",
-            "Els llevats per destruir la quitina",
-            "Les plantes per embossar els fruits"
-          ],
-          "quote": "Les feromones sexuals són emeses habitualment per les femelles amb l’objectiu de ser localitzades pels mascles.",
           "page": 23
         },
         {
@@ -1974,18 +1674,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "En aquest apartat s’utilitzen trampes amb atraients alimentaris i es capturen tant mascles com femelles.",
           "page": 23
-        },
-        {
-          "kind": "Exemple",
-          "prompt": "Quin grup es destaca entre els principals destinataris d’aquesta captura?",
-          "answer": "Dípters, com les mosques de la fruita i de l’olivera",
-          "distractors": [
-            "Només fongs del sòl",
-            "Només nematodes",
-            "Només microorganismes antagònics"
-          ],
-          "quote": "S’hi destaquen dípters com Ceratitis capitata, Bactrocera oleae i Rhagoletis cerasi; també es cita Tuta absoluta en horticultura.",
-          "page": 23
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -2054,18 +1742,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "La lluita química es presenta com una alternativa quan no es pot controlar el patogen i s’han esgotat els altres recursos.",
           "page": 24
-        },
-        {
-          "kind": "Avaluació",
-          "prompt": "Com es proposa avaluar l’eficàcia dels tractaments?",
-          "answer": "Amb les dades registrades i el nivell d’organismes nocius",
-          "distractors": [
-            "Només pel color de la trampa",
-            "Només pel nom comercial",
-            "Només per l’aspecte del passaport"
-          ],
-          "quote": "L’eficàcia s’avalua a partir de dades registrades de la utilització de productes i del nivell d’organismes nocius.",
-          "page": 24
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -2130,18 +1806,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "L’examen general busca manca d’uniformitat entre plantes semblants, diferències de creixement i coloracions.",
           "page": 26
-        },
-        {
-          "kind": "Punts de risc",
-          "prompt": "Quines zones acostumen a concentrar més plagues?",
-          "answer": "Entrades i marges de parcel·les o hivernacles",
-          "distractors": [
-            "Només recipients d’evolucionaris",
-            "Només sòls coberts amb plàstic",
-            "Només les dobles portes tancades"
-          ],
-          "quote": "Les entrades i els marges solen ser zones amb més concentració de plagues.",
-          "page": 26
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -2187,18 +1851,6 @@ window.PROTECTION_DATA = {
         }
       ],
       "questions": [
-        {
-          "kind": "Classificació",
-          "prompt": "Anotar quants patògens es troben, on i amb quina periodicitat forma part de…",
-          "answer": "Control i estandardització del seguiment",
-          "distractors": [
-            "Captura massiva",
-            "Embossament de fruits",
-            "Inhibició de la síntesi de quitina"
-          ],
-          "quote": "El seguiment exigeix anotar nombre de formes, lloc de detecció i observacions amb característiques estandarditzades.",
-          "page": 27
-        },
         {
           "kind": "Fauna auxiliar",
           "prompt": "Quins organismes cal valorar al costat dels insectes plaga?",
@@ -2276,18 +1928,6 @@ window.PROTECTION_DATA = {
           "page": 28
         },
         {
-          "kind": "Estadis",
-          "prompt": "Què són els estadis fenològics?",
-          "answer": "Estadis de desenvolupament vegetatiu de la planta",
-          "distractors": [
-            "Tipus de codis de traçabilitat",
-            "Categories de trampes cromàtiques",
-            "Modalitats d’esterilització"
-          ],
-          "quote": "Els estadis de desenvolupament vegetatiu de la planta també s’anomenen estadis fenològics.",
-          "page": 28
-        },
-        {
           "kind": "Sincronització",
           "prompt": "Amb què estan sincronitzats molts patògens?",
           "answer": "La fenologia del cultiu i la climatologia local",
@@ -2362,18 +2002,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Per conèixer el moment del cicle de la plaga s’observen temperatures d’una estació climàtica representativa.",
           "page": 28
-        },
-        {
-          "kind": "Patologies",
-          "prompt": "Quants factors climàtics solen influir en una patologia?",
-          "answer": "Més d’un factor climàtic",
-          "distractors": [
-            "Únicament el color d’una trampa",
-            "Únicament el país d’origen",
-            "Cap factor climàtic"
-          ],
-          "quote": "La majoria de les patologies estan influenciades per més d’un factor climàtic.",
-          "page": 28
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -2425,18 +2053,6 @@ window.PROTECTION_DATA = {
             "Seguiment en evolucionaris"
           ],
           "quote": "Els frapatges colpegen branques amb martell o barra de goma i recullen els artròpodes que cauen en un embut de tela.",
-          "page": 29
-        },
-        {
-          "kind": "Exemple",
-          "prompt": "Quina plaga il·lustrada es cita com a exemple de seguiment amb frapatges?",
-          "answer": "Diabló de l’avellaner (Curculio nucum)",
-          "distractors": [
-            "Mosca de la fruita (Ceratitis capitata)",
-            "Mosca de l’olivera (Bactrocera oleae)",
-            "Aranya roja (Panonychus ulmi)"
-          ],
-          "quote": "El tema cita el diabló de l’avellaner (Curculio nucum) i la psil·la de la perera (Cacopsylla pyri).",
           "page": 29
         },
         {
@@ -2513,18 +2129,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "El blau és especialment atractiu per als trips; el groc atreu àfids, dípters, microlepidòpters i mosques blanques, i el roig diversos coleòpters.",
           "page": 30
-        },
-        {
-          "kind": "Limitació",
-          "prompt": "Quin inconvenient tenen aquestes trampes?",
-          "answer": "També capturen insectes beneficiosos",
-          "distractors": [
-            "Només capturen mascles d’una espècie",
-            "No retenen insectes",
-            "Només funcionen en evolucionaris"
-          ],
-          "quote": "Les trampes cromàtiques tenen efecte molt local i són poc selectives: també capturen insectes beneficiosos.",
-          "page": 30
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -2589,18 +2193,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Les trampes de llum poden atreure insectes beneficiosos amb hàbits crepusculars.",
           "page": 31
-        },
-        {
-          "kind": "Exemple",
-          "prompt": "Per a quina plaga es cita l’ús de trampes de llum per determinar l’època d’aparellament?",
-          "answer": "Barrinador de la fusta (Zeuzera pyrina)",
-          "distractors": [
-            "Pugó llanós (Eriosoma lanigerum)",
-            "Aranya roja (Panonychus ulmi)",
-            "Diabló de l’avellaner (Curculio nucum)"
-          ],
-          "quote": "Es poden utilitzar per determinar el cicle biològic i l’època d’aparellament de Zeuzera pyrina.",
-          "page": 31
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -2652,18 +2244,6 @@ window.PROTECTION_DATA = {
             "Cromàtic"
           ],
           "quote": "Cada patogen té predilecció per un aliment; s’hi citen fosfat biamònic, proteïna hidrolitzada i melassa.",
-          "page": 31
-        },
-        {
-          "kind": "Presentació",
-          "prompt": "Què passa amb els insectes atrets per un atraient líquid?",
-          "answer": "S’ofeguen a l’interior del brou",
-          "distractors": [
-            "Es crien per seguir-ne l’evolució",
-            "S’esterilitzen amb radiacions",
-            "S’alimenten de pugons"
-          ],
-          "quote": "Quan els atraients alimentaris són líquids, el patogen es mor ofegat a l’interior del brou.",
           "page": 31
         },
         {
@@ -2741,18 +2321,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Les trampes amb aquestes feromones atreuen els mascles d’una espècie específica.",
           "page": 32
-        },
-        {
-          "kind": "Combinació",
-          "prompt": "Quins tres components descriu l’exemple Tripack?",
-          "answer": "Atraient alimentari sòlid, atraient sexual i insecticida gasós",
-          "distractors": [
-            "Només tres colors diferents",
-            "Només llum, aigua i malla",
-            "Només vapor, plàstic i compost"
-          ],
-          "quote": "L’exemple Tripack per a Ceratitis capitata combina un atraient alimentari sòlid, un atraient sexual i un insecticida gasós.",
-          "page": 32
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -2817,18 +2385,6 @@ window.PROTECTION_DATA = {
           ],
           "quote": "Permet extreure percentatges d’eclosió d’ous, mortalitat natural i taxes de parasitisme.",
           "page": 32
-        },
-        {
-          "kind": "Exemple",
-          "prompt": "Quin cas es cita per seguir els ous d’hivern?",
-          "answer": "Aranya roja (Panonychus ulmi)",
-          "distractors": [
-            "Diabló de l’avellaner (Curculio nucum)",
-            "Barrinador de la fusta (Zeuzera pyrina)",
-            "Mosca de la fruita (Ceratitis capitata)"
-          ],
-          "quote": "Els evolucionaris s’utilitzen per seguir l’evolució dels ous d’hivern en l’aranya roja (Panonychus ulmi).",
-          "page": 32
         }
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
@@ -2870,18 +2426,6 @@ window.PROTECTION_DATA = {
         }
       ],
       "questions": [
-        {
-          "kind": "Classificació",
-          "prompt": "La gràfica relaciona la població del patogen amb els nivells que orienten la intervenció. Quin concepte representa?",
-          "answer": "Llindar de tolerància",
-          "distractors": [
-            "Passaport fitosanitari",
-            "Seguiment en evolucionaris",
-            "Lluita autocida"
-          ],
-          "quote": "El llindar de tolerància és el nivell de població que, en ser sobrepassat, necessita una intervenció limitant.",
-          "page": 34
-        },
         {
           "kind": "Variabilitat",
           "prompt": "Es poden generalitzar els valors dels llindars a qualsevol parcel·la?",
@@ -2945,18 +2489,6 @@ window.PROTECTION_DATA = {
       ],
       "questions": [
         {
-          "kind": "Classificació",
-          "prompt": "Escollir entre lluita física, biològica, biotecnològica i química forma part de…",
-          "answer": "Les estratègies de lluita",
-          "distractors": [
-            "El codi de traçabilitat",
-            "L’observació exclusiva del color",
-            "El recompte exclusiu de graus dia"
-          ],
-          "quote": "L’elecció de diferents mètodes de control forma part de l’estratègia de lluita.",
-          "page": 35
-        },
-        {
           "kind": "Objectiu",
           "prompt": "Quin és l’objectiu de combinar diversos mètodes de control?",
           "answer": "Mantenir els patògens sota els llindars de tolerància",
@@ -2983,5 +2515,10 @@ window.PROTECTION_DATA = {
       ],
       "note": "Imatge il·lustrativa del mateix apartat del temari. Els casos descriuen la tècnica: una fotografia sola no sempre permet distingir-la. En respondre es mostra la imatge original sense ocultar-ne els rètols."
     }
-  ]
+  ],
+  "selection": {
+    "version": "1.5.0",
+    "approach": "Preguntes essencials",
+    "criteria": "Es conserven les 39 fitxes amb dues preguntes essencials: mecanisme, utilitat, limitació o criteri de decisió. Es redueixen exemples puntuals, detalls de codificació i classificacions repetides."
+  }
 };

@@ -8,24 +8,24 @@
   <title>QUALIFITOS</title>
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css?v=1.2.0">
-  <script defer src="data.js?v=1.2.0"></script>
-  <script defer src="disease-data.js?v=1.3.0"></script>
-  <script defer src="weed-data.js?v=1.4.0"></script>
-  <script defer src="protection-data.js?v=1"></script>
+  <script defer src="data.js?v=1.5.0"></script>
+  <script defer src="disease-data.js?v=1.5.0"></script>
+  <script defer src="weed-data.js?v=1.5.0"></script>
+  <script defer src="protection-data.js?v=1.5.0"></script>
   <script defer src="engine.js?v=1.2.0"></script>
   <script defer src="app.js?v=1.3.0"></script>
 </head>
 <body>
-  <header class="top"><div class="brand"><span class="brand-icon" aria-hidden="true">✳</span><div><div class="brand-title"><strong>QUALIFITOS</strong><small class="app-version" aria-label="Versió 1.4.0">v1.4.0</small></div><span id="mode-label" hidden></span></div></div><div class="header-actions"><button id="change-mode" class="quiet" hidden>Canvia de joc</button><button id="restart" class="quiet" hidden>Reinicia ↻</button></div></header>
+  <header class="top"><div class="brand"><span class="brand-icon" aria-hidden="true">✳</span><div><div class="brand-title"><strong>QUALIFITOS</strong><small class="app-version" aria-label="Versió 1.5.0">v1.5.0</small></div><span id="mode-label" hidden></span></div></div><div class="header-actions"><button id="change-mode" class="quiet" hidden>Canvia de joc</button><button id="restart" class="quiet" hidden>Reinicia ↻</button></div></header>
   <main>
     <section id="mode-picker" class="mode-picker" aria-labelledby="picker-title">
       <h1 id="picker-title" tabindex="-1">Què vols practicar avui?</h1>
       <p class="picker-intro">Tria un joc. Observa les imatges, posa a prova el que saps i repassa al teu ritme.</p>
       <div class="mode-grid">
-        <button id="choose-pests" class="mode-card"><img src="images/potato-beetle.jpg" alt="" width="280" height="190"><span class="mode-copy"><span class="mode-kicker">TEMA 1 · CONCEPTES I IDENTIFICACIÓ</span><strong>Plagues</strong><span>Biologia, cicles, fauna útil, plagues i diagnosi.</span><span class="mode-count">78 fitxes · 342 preguntes</span><span class="mode-start">Juga a plagues →</span></span></button>
-        <button id="choose-diseases" class="mode-card disease-mode"><img src="images/disease-grape-downy-mildew.jpg" alt="" width="280" height="190"><span class="mode-copy"><span class="mode-kicker">TEMA 2 · CONCEPTES I DIAGNOSI</span><strong>Malalties</strong><span>Causes, transmissió, símptomes i diagnosi.</span><span class="mode-count">82 fitxes · 324 preguntes</span><span class="mode-start">Juga a malalties →</span></span></button>
-        <button id="choose-weeds" class="mode-card weed-mode"><img src="images/weed-common-poppy-1.jpg" alt="" width="280" height="190"><span class="mode-copy"><span class="mode-kicker">TEMA 3 · CONCEPTES I IDENTIFICACIÓ</span><strong>Vegetació espontània</strong><span>Ecologia, botànica, cicles, reproducció i espècies.</span><span class="mode-count">69 fitxes · 276 preguntes</span><span class="mode-start">Juga a vegetació →</span></span></button>
-        <button id="choose-protection" class="mode-card protection-mode"><img src="images/protection-mass-trapping.jpg" alt="" width="280" height="190"><span class="mode-copy"><span class="mode-kicker">TEMA 4 · MÈTODES I SEGUIMENT</span><strong>Protecció de cultius</strong><span>Prevenció, mètodes de control, trampes i llindars.</span><span class="mode-count">39 fitxes · 117 preguntes</span><span class="mode-start">Juga a protecció →</span></span></button>
+        <button id="choose-pests" class="mode-card"><img src="images/potato-beetle.jpg" alt="" width="280" height="190"><span class="mode-copy"><span class="mode-kicker">TEMA 1 · CONCEPTES I IDENTIFICACIÓ</span><strong>Plagues</strong><span>Biologia, cicles, fauna útil, plagues i diagnosi.</span><span class="mode-count">40 fitxes · 80 preguntes essencials</span><span class="mode-start">Juga a plagues →</span></span></button>
+        <button id="choose-diseases" class="mode-card disease-mode"><img src="images/disease-grape-downy-mildew.jpg" alt="" width="280" height="190"><span class="mode-copy"><span class="mode-kicker">TEMA 2 · CONCEPTES I DIAGNOSI</span><strong>Malalties</strong><span>Causes, transmissió, símptomes i diagnosi.</span><span class="mode-count">40 fitxes · 80 preguntes essencials</span><span class="mode-start">Juga a malalties →</span></span></button>
+        <button id="choose-weeds" class="mode-card weed-mode"><img src="images/weed-common-poppy-1.jpg" alt="" width="280" height="190"><span class="mode-copy"><span class="mode-kicker">TEMA 3 · CONCEPTES I IDENTIFICACIÓ</span><strong>Vegetació espontània</strong><span>Ecologia, botànica, cicles, reproducció i espècies.</span><span class="mode-count">40 fitxes · 80 preguntes essencials</span><span class="mode-start">Juga a vegetació →</span></span></button>
+        <button id="choose-protection" class="mode-card protection-mode"><img src="images/protection-mass-trapping.jpg" alt="" width="280" height="190"><span class="mode-copy"><span class="mode-kicker">TEMA 4 · MÈTODES I SEGUIMENT</span><strong>Protecció de cultius</strong><span>Prevenció, mètodes de control, trampes i llindars.</span><span class="mode-count">39 fitxes · 78 preguntes essencials</span><span class="mode-start">Juga a protecció →</span></span></button>
       </div>
       <p class="picker-help">10 rondes · 2 preguntes per ronda · Correcció immediata · Fitxes d’estudi opcionals</p>
       <p class="picker-note">Pots tornar aquí amb «Canvia de joc». Triar un joc comença una sessió nova.</p>

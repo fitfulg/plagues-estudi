@@ -38,3 +38,7 @@ Actualització del tema 2 preparada per a `fitfulg/plagues-estudi`: 82 fitxes, 3
 ## v1.4.0
 
 Actualització del tema 3 preparada per a `fitfulg/plagues-estudi`: 69 fitxes, 276 preguntes i quatre blocs d'aprenentatge. 58 recursos nous amb prefix weed-learning- i manifest de procedència actualitzat. Revisió local completa i proves automàtiques correctes.
+
+## v1.5.0
+
+Selecció essencial preparada per al mateix repositori i domini: 80 preguntes als temes 1–3 i 78 al tema 4. Dades i selector actualitzats amb claus de memòria cau noves. Imatges i funcionament conservats.

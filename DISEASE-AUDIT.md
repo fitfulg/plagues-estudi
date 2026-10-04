@@ -1,5 +1,7 @@
 # Tema 2: auditoria del contingut
 
+> Versió 1.5.0: el banc actiu és la selecció essencial documentada a [CURATION.md](CURATION.md). Els recomptes anteriors d’aquest informe descriuen la construcció del banc complet. Les exclusions i els criteris de fidelitat continuen vigents.
+
 Font exclusiva: `fitosT2.pdf`, «Coneix les malalties que afecten els cultius», 47 pàgines, data interna 03/02/2025. S’ha revisat el text i la maquetació de totes les pàgines. El fitxer és idèntic byte a byte a `fitosT2 (2).pdf`; el SHA-256 del document es conserva a `disease-content.json`.
 
 ## Cobertura i aprenentatge

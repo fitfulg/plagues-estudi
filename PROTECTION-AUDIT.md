@@ -1,5 +1,7 @@
 # Tema 4: criteris de fidelitat
 
+> Versió 1.5.0: el banc actiu és la selecció essencial documentada a [CURATION.md](CURATION.md). Els recomptes anteriors d’aquest informe descriuen la construcció del banc complet. Les exclusions i els criteris de fidelitat continuen vigents.
+
 Font exclusiva: `fitosT4.pdf`, «Protegeix els teus cultius», Escola Agrària, actualització indicada 30/10/2024. Revisades visualment les 35 pàgines i contrastades amb el text extret. No s’han incorporat continguts dels enllaços externs.
 
 39 fitxes, 117 preguntes i 39 imatges natives extretes del document. Els índexs i les pàgines de cada imatge consten a `images/protection-provenance.json`. La versió original conserva els rètols i crèdits del document. No s’atribueix autoria pròpia ni una llicència nova a aquests recursos.

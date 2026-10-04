@@ -58,19 +58,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Solanàcies (patata, tomàquet i albergínia)",
-          "distractors": [
-            "Gespa",
-            "Palmeres, principalment la Phoenix canariensis",
-            "Olivera"
-          ],
-          "quote": "Perjudica els cultius de solanàcies (patata, tomàquet i albergínia).",
-          "page": 18,
-          "id": "patata-1"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "L’escarabat de la patata",
@@ -85,62 +72,17 @@ window.PLAGUES_DATA = {
           "id": "patata-2"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Leptinotarsa decemlineata",
+          "kind": "Cultius",
+          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
+          "answer": "Solanàcies (patata, tomàquet i albergínia)",
           "distractors": [
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus"
+            "Gespa",
+            "Palmeres, principalment la Phoenix canariensis",
+            "Olivera"
           ],
-          "quote": "L’escarabat de la patata (Leptinotarsa decemlineata).",
+          "quote": "Perjudica els cultius de solanàcies (patata, tomàquet i albergínia).",
           "page": 18,
-          "id": "patata-3"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Coleòpters",
-          "distractors": [
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Coleòpters.",
-          "page": 18,
-          "id": "patata-4"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Mastegador",
-          "distractors": [
-            "Picador-xuclador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Es caracteritzen perquè tenen un parell d’ales anteriors (èlitres) endurides, amb la funcionalitat de protecció corporal, i un aparell bucal mastegador. Són de metamorfosi completa.",
-          "page": 18,
-          "id": "patata-5"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Es caracteritzen perquè tenen un parell d’ales anteriors (èlitres) endurides, amb la funcionalitat de protecció corporal, i un aparell bucal mastegador. Són de metamorfosi completa.",
-          "page": 18,
-          "id": "patata-6"
+          "id": "patata-1"
         }
       ],
       "note": "",
@@ -201,19 +143,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Picada d’alimentació al mànec del floc de les avellanes i danys a l’interior del fruit",
-          "distractors": [
-            "Olives deformades i pèrdua de qualitat de l’oli",
-            "Galeries a la part central de pomes i peres",
-            "Aurèola vermella al voltant de la picada"
-          ],
-          "quote": "Un produït per la picada d’alimentació que fa al mànec del floc de les avellanes i a l’interior del fruit on es desenvolupa la larva.",
-          "page": 18,
-          "id": "diablo-1"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "El diabló de l’avellaner",
@@ -228,62 +157,17 @@ window.PLAGUES_DATA = {
           "id": "diablo-2"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Curculio nucum L.",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "Picada d’alimentació al mànec del floc de les avellanes i danys a l’interior del fruit",
           "distractors": [
-            "Leptinotarsa decemlineata",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus"
+            "Olives deformades i pèrdua de qualitat de l’oli",
+            "Galeries a la part central de pomes i peres",
+            "Aurèola vermella al voltant de la picada"
           ],
-          "quote": "El diabló de l’avellaner (Curculio nucum L.).",
+          "quote": "Un produït per la picada d’alimentació que fa al mànec del floc de les avellanes i a l’interior del fruit on es desenvolupa la larva.",
           "page": 18,
-          "id": "diablo-3"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Coleòpters",
-          "distractors": [
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Coleòpters.",
-          "page": 18,
-          "id": "diablo-4"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Mastegador",
-          "distractors": [
-            "Picador-xuclador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Es caracteritzen perquè tenen un parell d’ales anteriors (èlitres) endurides, amb la funcionalitat de protecció corporal, i un aparell bucal mastegador. Són de metamorfosi completa.",
-          "page": 18,
-          "id": "diablo-5"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Es caracteritzen perquè tenen un parell d’ales anteriors (èlitres) endurides, amb la funcionalitat de protecció corporal, i un aparell bucal mastegador. Són de metamorfosi completa.",
-          "page": 18,
-          "id": "diablo-6"
+          "id": "diablo-1"
         }
       ],
       "note": "",
@@ -299,320 +183,6 @@ window.PLAGUES_DATA = {
         {
           "label": "Alimentació",
           "text": "Tant els adults com les larves s’alimenten de les fulles de la planta."
-        }
-      ],
-      "groupStudy": {
-        "page": 18,
-        "fields": [
-          {
-            "label": "Grup",
-            "text": "Coneguts com a escarabats. És l’ordre més nombrós d’insectes al món: unes 350.000 espècies descrites."
-          },
-          {
-            "label": "Ales",
-            "text": "Un parell d’ales anteriors (èlitres) endurides, amb funció de protecció corporal."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Mastegador."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Completa."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
-      "id": "cuca",
-      "name": "La cuca negra de l’alfals (o userda)",
-      "science": "Colaspidema atrum",
-      "group": "Coleòpters",
-      "page": 18,
-      "images": [
-        {
-          "id": "cuca",
-          "image": "images/alfalfa-leaf-beetle.jpg",
-          "original": "images/alfalfa-leaf-beetle-original.jpg",
-          "page": 18,
-          "strip": "p1-Image359",
-          "box": [
-            3,
-            76,
-            194,
-            280
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Tant els adults com les larves es mengen les fulles",
-          "distractors": [
-            "Les erugues barrinen els troncs dels arbres",
-            "Les larves afecten la base de la tija i les arrels de la gespa",
-            "Provoca una aurèola vermella al voltant de la picada"
-          ],
-          "quote": "Tant els adults com les larves es mengen les fulles",
-          "page": 18,
-          "id": "cuca-1"
-        },
-        {
-          "kind": "Tret especial",
-          "prompt": "Quan es produeixen els atacs més importants?",
-          "answer": "Durant els primers dalls",
-          "distractors": [
-            "Durant els mesos de febrer o març",
-            "A partir dels 12 mesos de la infestació"
-          ],
-          "quote": "Els atacs més importants es produeixen durant els primers dalls.",
-          "page": 18,
-          "id": "cuca-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "La cuca negra de l’alfals (o userda)",
-          "distractors": [
-            "L’escarabat de la patata",
-            "El diabló de l’avellaner",
-            "El zabre del cereal",
-            "El morrut roig de les palmeres"
-          ],
-          "quote": "La cuca negra de l’alfals (o userda) (Colaspidema atrum).",
-          "page": 18,
-          "id": "cuca-3"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Colaspidema atrum",
-          "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus"
-          ],
-          "quote": "La cuca negra de l’alfals (o userda) (Colaspidema atrum).",
-          "page": 18,
-          "id": "cuca-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Coleòpters",
-          "distractors": [
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Coleòpters.",
-          "page": 18,
-          "id": "cuca-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Mastegador",
-          "distractors": [
-            "Picador-xuclador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Es caracteritzen perquè tenen un parell d’ales anteriors (èlitres) endurides, amb la funcionalitat de protecció corporal, i un aparell bucal mastegador. Són de metamorfosi completa.",
-          "page": 18,
-          "id": "cuca-6"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Es caracteritzen perquè tenen un parell d’ales anteriors (èlitres) endurides, amb la funcionalitat de protecció corporal, i un aparell bucal mastegador. Són de metamorfosi completa.",
-          "page": 18,
-          "id": "cuca-7"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Cultiu afectat",
-          "text": "Alfals (o userda)."
-        },
-        {
-          "label": "Alimentació i danys",
-          "text": "Adults i larves es mengen les fulles; les larves són les més voraces."
-        },
-        {
-          "label": "Moment dels atacs",
-          "text": "Els atacs més importants es produeixen durant els primers dalls."
-        },
-        {
-          "label": "Gravetat",
-          "text": "En camps d’alfals de primer any d’implantació, els danys poden ser especialment greus i es poden perdre els primers dalls."
-        }
-      ],
-      "groupStudy": {
-        "page": 18,
-        "fields": [
-          {
-            "label": "Grup",
-            "text": "Coneguts com a escarabats. És l’ordre més nombrós d’insectes al món: unes 350.000 espècies descrites."
-          },
-          {
-            "label": "Ales",
-            "text": "Un parell d’ales anteriors (èlitres) endurides, amb funció de protecció corporal."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Mastegador."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Completa."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
-      "id": "zabre",
-      "name": "El zabre del cereal",
-      "science": "Zabrus tenebrioides",
-      "group": "Coleòpters",
-      "page": 18,
-      "images": [
-        {
-          "id": "zabre",
-          "image": "images/cereal-ground-beetle.jpg",
-          "original": "images/cereal-ground-beetle-original.jpg",
-          "page": 18,
-          "strip": "p1-Image359",
-          "box": [
-            3,
-            363,
-            194,
-            564
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Les larves afecten la fulla del blat nounat",
-          "distractors": [
-            "Les erugues barrinen els troncs dels arbres",
-            "Els grans d’arròs queden buits i deformats",
-            "Les olives cauen prematurament"
-          ],
-          "quote": "Els danys principals els ocasionen les larves, que afecten la fulla del blat nounat. Acostuma a incidir per rodals.",
-          "page": 18,
-          "id": "zabre-1"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "El zabre del cereal",
-          "distractors": [
-            "L’escarabat de la patata",
-            "El diabló de l’avellaner",
-            "La cuca negra de l’alfals (o userda)",
-            "El morrut roig de les palmeres"
-          ],
-          "quote": "El zabre del cereal (Zabrus tenebrioides).",
-          "page": 18,
-          "id": "zabre-2"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Zabrus tenebrioides",
-          "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Rhynchophorus ferrugineus"
-          ],
-          "quote": "El zabre del cereal (Zabrus tenebrioides).",
-          "page": 18,
-          "id": "zabre-3"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Coleòpters",
-          "distractors": [
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Coleòpters.",
-          "page": 18,
-          "id": "zabre-4"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Mastegador",
-          "distractors": [
-            "Picador-xuclador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Es caracteritzen perquè tenen un parell d’ales anteriors (èlitres) endurides, amb la funcionalitat de protecció corporal, i un aparell bucal mastegador. Són de metamorfosi completa.",
-          "page": 18,
-          "id": "zabre-5"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Es caracteritzen perquè tenen un parell d’ales anteriors (èlitres) endurides, amb la funcionalitat de protecció corporal, i un aparell bucal mastegador. Són de metamorfosi completa.",
-          "page": 18,
-          "id": "zabre-6"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Cultiu afectat",
-          "text": "Cereals; el text destaca el blat nounat."
-        },
-        {
-          "label": "Adults",
-          "text": "Es mengen les fulles grans."
-        },
-        {
-          "label": "Larves i danys principals",
-          "text": "Afecten la fulla del blat nounat."
-        },
-        {
-          "label": "Distribució dels atacs",
-          "text": "Acostuma a incidir per rodals."
         }
       ],
       "groupStudy": {
@@ -662,44 +232,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Palmeres, principalment la Phoenix canariensis",
-          "distractors": [
-            "Solanàcies (patata, tomàquet i albergínia)",
-            "Gespa",
-            "Rosers"
-          ],
-          "quote": "Palmeres, principalment la Phoenix canariensis",
-          "page": 18,
-          "id": "morrut-1"
-        },
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Asimetria de la capçada, decaïment de les fulles i debilitat de l’ull",
-          "distractors": [
-            "Aurèola vermella al voltant de la picada",
-            "Grans d’arròs buits i deformats",
-            "Galeries a la part central del fruit"
-          ],
-          "quote": "Asimetria de la capçada, decaïment de les fulles i debilitat de l’ull",
-          "page": 18,
-          "id": "morrut-2"
-        },
-        {
-          "kind": "Tret especial",
-          "prompt": "Quan se solen detectar els símptomes més evidents?",
-          "answer": "A partir dels 12 mesos de la infestació",
-          "distractors": [
-            "Durant els primers dalls",
-            "Durant els mesos de febrer o març"
-          ],
-          "quote": "Els símptomes més evidents se solen detectar a partir dels 12 mesos de la infestació.",
-          "page": 18,
-          "id": "morrut-3"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "El morrut roig de les palmeres",
@@ -714,62 +246,17 @@ window.PLAGUES_DATA = {
           "id": "morrut-4"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Rhynchophorus ferrugineus",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "Asimetria de la capçada, decaïment de les fulles i debilitat de l’ull",
           "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides"
+            "Aurèola vermella al voltant de la picada",
+            "Grans d’arròs buits i deformats",
+            "Galeries a la part central del fruit"
           ],
-          "quote": "El morrut roig de les palmeres (Rhynchophorus ferrugineus).",
+          "quote": "Asimetria de la capçada, decaïment de les fulles i debilitat de l’ull",
           "page": 18,
-          "id": "morrut-5"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Coleòpters",
-          "distractors": [
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Coleòpters.",
-          "page": 18,
-          "id": "morrut-6"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Mastegador",
-          "distractors": [
-            "Picador-xuclador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Es caracteritzen perquè tenen un parell d’ales anteriors (èlitres) endurides, amb la funcionalitat de protecció corporal, i un aparell bucal mastegador. Són de metamorfosi completa.",
-          "page": 18,
-          "id": "morrut-7"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Es caracteritzen perquè tenen un parell d’ales anteriors (èlitres) endurides, amb la funcionalitat de protecció corporal, i un aparell bucal mastegador. Són de metamorfosi completa.",
-          "page": 18,
-          "id": "morrut-8"
+          "id": "morrut-2"
         }
       ],
       "note": "",
@@ -838,32 +325,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Préssecs i cítrics, però també altres fruits",
-          "distractors": [
-            "Gespa",
-            "Palmeres",
-            "Rosers"
-          ],
-          "quote": "És un dípter molt polífag i causa atacs molt greus en préssecs i en cítrics, però també pot afectar altres fruits.",
-          "page": 19,
-          "id": "mediterrania-1"
-        },
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "La larva es desenvolupa i s’alimenta a l’interior dels fruits en procés de maduració",
-          "distractors": [
-            "Les larves afecten la base de la tija i les arrels de la gespa",
-            "Les erugues barrinen els troncs dels arbres",
-            "Les gemmes atacades creixen, es deformen i no broten"
-          ],
-          "quote": "L’adult pon els ous dins dels fruits en procés de maduració i la larva es desenvolupa i s’alimenta al seu interior.",
-          "page": 19,
-          "id": "mediterrania-2"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "La mosca mediterrània de la fruita",
@@ -878,61 +339,17 @@ window.PLAGUES_DATA = {
           "id": "mediterrania-3"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Ceratitis capitata",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "La larva es desenvolupa i s’alimenta a l’interior dels fruits en procés de maduració",
           "distractors": [
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew."
+            "Les larves afecten la base de la tija i les arrels de la gespa",
+            "Les erugues barrinen els troncs dels arbres",
+            "Les gemmes atacades creixen, es deformen i no broten"
           ],
-          "quote": "La mosca mediterrània de la fruita (Ceratitis capitata).",
+          "quote": "L’adult pon els ous dins dels fruits en procés de maduració i la larva es desenvolupa i s’alimenta al seu interior.",
           "page": 19,
-          "id": "mediterrania-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Dípters",
-          "distractors": [
-            "Coleòpters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Dípters.",
-          "page": 19,
-          "id": "mediterrania-5"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Presenten metamorfosis completa i només tenen un parell d’ales verdaderes, l’altre parell s’ha transformat amb unes estructures especialitzades anomenades balancins.",
-          "page": 19,
-          "id": "mediterrania-6"
-        },
-        {
-          "kind": "Tret del grup",
-          "prompt": "Com s’anomena el parell d’ales transformat dels dípters?",
-          "answer": "Balancins",
-          "distractors": [
-            "Èlitres",
-            "Capoll"
-          ],
-          "quote": "Presenten metamorfosis completa i només tenen un parell d’ales verdaderes, l’altre parell s’ha transformat amb unes estructures especialitzades anomenades balancins.",
-          "page": 19,
-          "id": "mediterrania-7"
+          "id": "mediterrania-2"
         }
       ],
       "note": "",
@@ -997,32 +414,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Caiguda prematura dels fruits i pèrdua de qualitat de l’oli",
-          "distractors": [
-            "Asimetria de la capçada de la palmera",
-            "Galeries als troncs dels arbres",
-            "Defoliacions al roser"
-          ],
-          "quote": "Ocasiona danys molt greus a la collita en provocar, no només la caiguda prematura dels fruits de l’arbre, sinó també la pèrdua de qualitat de l’oli.",
-          "page": 19,
-          "id": "olivera-1"
-        },
-        {
-          "kind": "Símptomes",
-          "prompt": "Quin és el primer símptoma?",
-          "answer": "La picada",
-          "distractors": [
-            "Espigues seques",
-            "Bosses blanques",
-            "Assecament prematur de les fulles"
-          ],
-          "quote": "El primer símptoma és la picada, posteriorment, quan la larva assoleix el màxim desenvolupament, es veuen les olives deformades.",
-          "page": 19,
-          "id": "olivera-2"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "La mosca de l’olivera",
@@ -1037,61 +428,17 @@ window.PLAGUES_DATA = {
           "id": "olivera-3"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Bactrocera oleae L.",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "Caiguda prematura dels fruits i pèrdua de qualitat de l’oli",
           "distractors": [
-            "Ceratitis capitata",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew."
+            "Asimetria de la capçada de la palmera",
+            "Galeries als troncs dels arbres",
+            "Defoliacions al roser"
           ],
-          "quote": "La mosca de l’olivera (Bactrocera oleae L.).",
+          "quote": "Ocasiona danys molt greus a la collita en provocar, no només la caiguda prematura dels fruits de l’arbre, sinó també la pèrdua de qualitat de l’oli.",
           "page": 19,
-          "id": "olivera-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Dípters",
-          "distractors": [
-            "Coleòpters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Dípters.",
-          "page": 19,
-          "id": "olivera-5"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Presenten metamorfosis completa i només tenen un parell d’ales verdaderes, l’altre parell s’ha transformat amb unes estructures especialitzades anomenades balancins.",
-          "page": 19,
-          "id": "olivera-6"
-        },
-        {
-          "kind": "Tret del grup",
-          "prompt": "Com s’anomena el parell d’ales transformat dels dípters?",
-          "answer": "Balancins",
-          "distractors": [
-            "Èlitres",
-            "Capoll"
-          ],
-          "quote": "Presenten metamorfosis completa i només tenen un parell d’ales verdaderes, l’altre parell s’ha transformat amb unes estructures especialitzades anomenades balancins.",
-          "page": 19,
-          "id": "olivera-7"
+          "id": "olivera-1"
         }
       ],
       "note": "",
@@ -1146,1086 +493,6 @@ window.PLAGUES_DATA = {
       "learning": true
     },
     {
-      "id": "suzukii",
-      "name": "La mosca d’ales tacades",
-      "science": "Drosophila suzukii",
-      "group": "Dípters",
-      "page": 19,
-      "images": [
-        {
-          "id": "suzukii",
-          "image": "images/spotted-wing-fruit-fly.jpg",
-          "original": "images/spotted-wing-fruit-fly-original.jpg",
-          "page": 19,
-          "strip": "p2-Image368",
-          "box": [
-            3,
-            90,
-            212,
-            312
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Tret especial",
-          "prompt": "Quin tret caracteritza els fruits que pot danyar?",
-          "answer": "Pot danyar fruits sans en el moment de la maduració",
-          "distractors": [
-            "Les larves afecten la base de la tija i les arrels",
-            "Les erugues barrinen els troncs dels arbres"
-          ],
-          "quote": "Pot danyar fruits sans en el moment de la maduració com ara cirera, maduixa, figa, raïm, pruna, albercoc, poma, préssec, caqui i gerds.",
-          "page": 19,
-          "id": "suzukii-1"
-        },
-        {
-          "kind": "Origen",
-          "prompt": "D’on procedeix?",
-          "answer": "Del sud-est asiàtic",
-          "distractors": [
-            "Del nord-est de Mèxic",
-            "De l’Àfrica subsahariana"
-          ],
-          "quote": "És un dípter procedent del sud-est asiàtic.",
-          "page": 19,
-          "id": "suzukii-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "La mosca d’ales tacades",
-          "distractors": [
-            "La mosca mediterrània de la fruita",
-            "La mosca de l’olivera",
-            "Les típules",
-            "La mosca de la fruita mexicana"
-          ],
-          "quote": "La mosca d’ales tacades (Drosophila suzukii).",
-          "page": 19,
-          "id": "suzukii-3"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Drosophila suzukii",
-          "distractors": [
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Tipula sp.",
-            "Anastrepha ludens Loew."
-          ],
-          "quote": "La mosca d’ales tacades (Drosophila suzukii).",
-          "page": 19,
-          "id": "suzukii-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Dípters",
-          "distractors": [
-            "Coleòpters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Dípters.",
-          "page": 19,
-          "id": "suzukii-5"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Presenten metamorfosis completa i només tenen un parell d’ales verdaderes, l’altre parell s’ha transformat amb unes estructures especialitzades anomenades balancins.",
-          "page": 19,
-          "id": "suzukii-6"
-        },
-        {
-          "kind": "Tret del grup",
-          "prompt": "Com s’anomena el parell d’ales transformat dels dípters?",
-          "answer": "Balancins",
-          "distractors": [
-            "Èlitres",
-            "Capoll"
-          ],
-          "quote": "Presenten metamorfosis completa i només tenen un parell d’ales verdaderes, l’altre parell s’ha transformat amb unes estructures especialitzades anomenades balancins.",
-          "page": 19,
-          "id": "suzukii-7"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Origen",
-          "text": "Sud-est asiàtic."
-        },
-        {
-          "label": "Tret especial",
-          "text": "Pot danyar fruits sans en el moment de la maduració."
-        },
-        {
-          "label": "Fruits afectats",
-          "text": "Cirera, maduixa, figa, raïm, pruna, albercoc, poma, préssec, caqui i gerds."
-        }
-      ],
-      "groupStudy": {
-        "page": 19,
-        "fields": [
-          {
-            "label": "Grup",
-            "text": "Mosques, mosquits i tàvecs."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Molt variat: destaca el picador-xuclador dels mosquits i el llepador de les mosques."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Completa."
-          },
-          {
-            "label": "Ales",
-            "text": "Només un parell d’ales verdaderes; l’altre parell es transforma en estructures especialitzades anomenades balancins."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
-      "id": "tipula",
-      "name": "Les típules",
-      "science": "Tipula sp.",
-      "group": "Dípters",
-      "page": 19,
-      "images": [
-        {
-          "id": "tipula",
-          "image": "images/crane-fly.jpg",
-          "original": "images/crane-fly-original.jpg",
-          "page": 19,
-          "strip": "p2-Image368",
-          "box": [
-            3,
-            367,
-            212,
-            626
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Diferents tipus de gespa",
-          "distractors": [
-            "Solanàcies",
-            "Palmeres",
-            "Olivera"
-          ],
-          "quote": "Diferents tipus de gespa",
-          "page": 19,
-          "id": "tipula-1"
-        },
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Les larves afecten la base de la tija i les arrels",
-          "distractors": [
-            "Les erugues barrinen els troncs dels arbres",
-            "Aurèola vermella al voltant de la picada",
-            "Grans d’arròs buits i deformats"
-          ],
-          "quote": "Les larves afecten la base de la tija i les arrels",
-          "page": 19,
-          "id": "tipula-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "Les típules",
-          "distractors": [
-            "La mosca mediterrània de la fruita",
-            "La mosca de l’olivera",
-            "La mosca d’ales tacades",
-            "La mosca de la fruita mexicana"
-          ],
-          "quote": "Les típules (Tipula sp.).",
-          "page": 19,
-          "id": "tipula-3"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Tipula sp.",
-          "distractors": [
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Anastrepha ludens Loew."
-          ],
-          "quote": "Les típules (Tipula sp.).",
-          "page": 19,
-          "id": "tipula-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Dípters",
-          "distractors": [
-            "Coleòpters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Dípters.",
-          "page": 19,
-          "id": "tipula-5"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Presenten metamorfosis completa i només tenen un parell d’ales verdaderes, l’altre parell s’ha transformat amb unes estructures especialitzades anomenades balancins.",
-          "page": 19,
-          "id": "tipula-6"
-        },
-        {
-          "kind": "Tret del grup",
-          "prompt": "Com s’anomena el parell d’ales transformat dels dípters?",
-          "answer": "Balancins",
-          "distractors": [
-            "Èlitres",
-            "Capoll"
-          ],
-          "quote": "Presenten metamorfosis completa i només tenen un parell d’ales verdaderes, l’altre parell s’ha transformat amb unes estructures especialitzades anomenades balancins.",
-          "page": 19,
-          "id": "tipula-7"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Cultius afectats",
-          "text": "Diferents tipus de gespa."
-        },
-        {
-          "label": "Danys de les larves",
-          "text": "Afecten la base de la tija i les arrels."
-        }
-      ],
-      "groupStudy": {
-        "page": 19,
-        "fields": [
-          {
-            "label": "Grup",
-            "text": "Mosques, mosquits i tàvecs."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Molt variat: destaca el picador-xuclador dels mosquits i el llepador de les mosques."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Completa."
-          },
-          {
-            "label": "Ales",
-            "text": "Només un parell d’ales verdaderes; l’altre parell es transforma en estructures especialitzades anomenades balancins."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
-      "id": "mexicana",
-      "name": "La mosca de la fruita mexicana",
-      "science": "Anastrepha ludens Loew.",
-      "group": "Dípters",
-      "page": 19,
-      "images": [
-        {
-          "id": "mexicana",
-          "image": "images/mexican-fruit-fly.jpg",
-          "original": "images/mexican-fruit-fly-original.jpg",
-          "page": 19,
-          "strip": "p2-Image368",
-          "box": [
-            3,
-            714,
-            212,
-            938
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Origen",
-          "prompt": "D’on és nadiua?",
-          "answer": "Del nord-est de Mèxic",
-          "distractors": [
-            "Del sud-est asiàtic",
-            "De l’Àfrica subsahariana"
-          ],
-          "quote": "És un dípter nadiu del nord-est de Mèxic.",
-          "page": 19,
-          "id": "mexicana-1"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "La mosca de la fruita mexicana",
-          "distractors": [
-            "La mosca mediterrània de la fruita",
-            "La mosca de l’olivera",
-            "La mosca d’ales tacades",
-            "Les típules"
-          ],
-          "quote": "La mosca de la fruita mexicana (Anastrepha ludens Loew.).",
-          "page": 19,
-          "id": "mexicana-2"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Anastrepha ludens Loew.",
-          "distractors": [
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp."
-          ],
-          "quote": "La mosca de la fruita mexicana (Anastrepha ludens Loew.).",
-          "page": 19,
-          "id": "mexicana-3"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Dípters",
-          "distractors": [
-            "Coleòpters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Dípters.",
-          "page": 19,
-          "id": "mexicana-4"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Presenten metamorfosis completa i només tenen un parell d’ales verdaderes, l’altre parell s’ha transformat amb unes estructures especialitzades anomenades balancins.",
-          "page": 19,
-          "id": "mexicana-5"
-        },
-        {
-          "kind": "Tret del grup",
-          "prompt": "Com s’anomena el parell d’ales transformat dels dípters?",
-          "answer": "Balancins",
-          "distractors": [
-            "Èlitres",
-            "Capoll"
-          ],
-          "quote": "Presenten metamorfosis completa i només tenen un parell d’ales verdaderes, l’altre parell s’ha transformat amb unes estructures especialitzades anomenades balancins.",
-          "page": 19,
-          "id": "mexicana-6"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Origen",
-          "text": "Nadiua del nord-est de Mèxic."
-        },
-        {
-          "label": "Distribució descrita",
-          "text": "Amèrica Central i algunes parts dels EUA."
-        },
-        {
-          "label": "Consideració al temari",
-          "text": "Plaga prioritària de la Unió Europea."
-        }
-      ],
-      "groupStudy": {
-        "page": 19,
-        "fields": [
-          {
-            "label": "Grup",
-            "text": "Mosques, mosquits i tàvecs."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Molt variat: destaca el picador-xuclador dels mosquits i el llepador de les mosques."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Completa."
-          },
-          {
-            "label": "Ales",
-            "text": "Només un parell d’ales verdaderes; l’altre parell es transforma en estructures especialitzades anomenades balancins."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
-      "id": "bernat",
-      "name": "El bernat mabrejat",
-      "science": "Halyomorpha halys",
-      "group": "Hemípters · heteròpters",
-      "page": 20,
-      "images": [
-        {
-          "id": "bernat",
-          "image": "images/brown-marmorated-stink-bug.jpg",
-          "original": "images/brown-marmorated-stink-bug-original.jpg",
-          "page": 20,
-          "strip": "p3-Image375",
-          "box": [
-            3,
-            92,
-            246,
-            366
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "El bernat mabrejat",
-          "distractors": [
-            "L’escarabat de la patata",
-            "El diabló de l’avellaner",
-            "La cuca negra de l’alfals (o userda)",
-            "El zabre del cereal",
-            "El morrut roig de les palmeres",
-            "La mosca mediterrània de la fruita",
-            "La mosca de l’olivera",
-            "La mosca d’ales tacades",
-            "Les típules",
-            "La mosca de la fruita mexicana",
-            "Les xinxes dels cereals",
-            "La pudenta de l’arròs",
-            "La psil·la de la pera",
-            "El poll de San José",
-            "El cotonet de les Valls",
-            "La caparreta de l’olivera",
-            "El barrinador de la fusta",
-            "Corc o barrinador del panís",
-            "El corc de les pomes i peres o carpocapsa",
-            "La processionària del pi",
-            "La tuta del tomàquet",
-            "El trip californià o occidental de les flors",
-            "L’hoplocampa de la perera",
-            "La falsa eruga o poll del roser",
-            "L’aranya roja dels fruiters",
-            "L’aranya groga dels fruiters i aranya roja del panís",
-            "El badoc de l’avellaner",
-            "L’erinosi"
-          ],
-          "quote": "El bernat mabrejat (Halyomorpha halys).",
-          "page": 20,
-          "id": "bernat-1"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Halyomorpha halys",
-          "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus",
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew.",
-            "Aelia rostrata",
-            "Eusarcoris inconspicuus",
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae",
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta",
-            "Frankliniella occidentalis",
-            "Hoplocampa brevis",
-            "Arge ochropus",
-            "Panonychus ulmi",
-            "Tetranychus urticae",
-            "Phytoptus avallanae",
-            "Eriophyes vitis"
-          ],
-          "quote": "El bernat mabrejat (Halyomorpha halys).",
-          "page": 20,
-          "id": "bernat-2"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Hemípters · heteròpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Hemípters · heteròpters.",
-          "page": 20,
-          "id": "bernat-3"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Picador-xuclador",
-          "distractors": [
-            "Mastegador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "bernat-4"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Com és la metamorfosi dels hemípters, en general?",
-          "answer": "Majoritàriament incompleta",
-          "distractors": [
-            "Completa"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "bernat-5"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Família",
-          "text": "Pentatomidae."
-        },
-        {
-          "label": "Origen i introducció",
-          "text": "Origen asiàtic. Introduïda accidentalment als EUA el 1998."
-        },
-        {
-          "label": "Primera cita a la península Ibèrica",
-          "text": "Campus de la Universitat de Girona, l’any 2016."
-        },
-        {
-          "label": "Plantes afectades",
-          "text": "Molt polífaga. A Europa, citada en 51 espècies de plantes de 32 famílies: principalment arbres fruiters, ornamentals, cultius hortícoles i extensius."
-        },
-        {
-          "label": "Pèrdues als EUA",
-          "text": "Greus pèrdues econòmiques en pomes, préssecs, pebrots, tomàquets, blat de moro i soja."
-        },
-        {
-          "label": "Seguiment",
-          "text": "A Catalunya s’ha activat el protocol de seguiment, segons el temari."
-        }
-      ],
-      "groupStudy": {
-        "page": 20,
-        "fields": [
-          {
-            "label": "Ordre",
-            "text": "Hemípters: xinxes, pugons i cigales."
-          },
-          {
-            "label": "Subordre",
-            "text": "Heteròpters (xinxes)."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Picador-xuclador, per perforar i xuclar."
-          },
-          {
-            "label": "Alimentació",
-            "text": "Saba de les plantes."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Majoritàriament incompleta."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
-      "id": "xinxes",
-      "name": "Les xinxes dels cereals",
-      "science": "Aelia rostrata",
-      "group": "Hemípters · heteròpters",
-      "page": 20,
-      "images": [
-        {
-          "id": "xinxes",
-          "image": "images/cereal-bugs.jpg",
-          "original": "images/cereal-bugs-original.jpg",
-          "page": 20,
-          "strip": "p3-Image376",
-          "box": [
-            3,
-            45,
-            246,
-            365
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Gramínies salvatges i cultivades, majoritàriament el blat",
-          "distractors": [
-            "Pins i cedres",
-            "Rosers",
-            "Palmeres"
-          ],
-          "quote": "Gramínies salvatges i cultivades, majoritàriament el blat",
-          "page": 20,
-          "id": "xinxes-1"
-        },
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Espigues seques i gra arrugat i deformat",
-          "distractors": [
-            "Aurèola vermella al voltant de la picada",
-            "Galeries a la part central de pomes i peres",
-            "Asimetria de la capçada de la palmera"
-          ],
-          "quote": "Si piquen la tija, s’observarà l’aparició d’espigues seques. El gra serà arrugat i deformat, comportant una disminució del rendiment i de la qualitat de la farina.",
-          "page": 20,
-          "id": "xinxes-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "Les xinxes dels cereals",
-          "distractors": [
-            "L’escarabat de la patata",
-            "El diabló de l’avellaner",
-            "La cuca negra de l’alfals (o userda)",
-            "El zabre del cereal",
-            "El morrut roig de les palmeres",
-            "La mosca mediterrània de la fruita",
-            "La mosca de l’olivera",
-            "La mosca d’ales tacades",
-            "Les típules",
-            "La mosca de la fruita mexicana",
-            "El bernat mabrejat",
-            "La pudenta de l’arròs",
-            "La psil·la de la pera",
-            "El poll de San José",
-            "El cotonet de les Valls",
-            "La caparreta de l’olivera",
-            "El barrinador de la fusta",
-            "Corc o barrinador del panís",
-            "El corc de les pomes i peres o carpocapsa",
-            "La processionària del pi",
-            "La tuta del tomàquet",
-            "El trip californià o occidental de les flors",
-            "L’hoplocampa de la perera",
-            "La falsa eruga o poll del roser",
-            "L’aranya roja dels fruiters",
-            "L’aranya groga dels fruiters i aranya roja del panís",
-            "El badoc de l’avellaner",
-            "L’erinosi"
-          ],
-          "quote": "Les xinxes dels cereals (Aelia rostrata).",
-          "page": 20,
-          "id": "xinxes-3"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Aelia rostrata",
-          "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus",
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew.",
-            "Halyomorpha halys",
-            "Eusarcoris inconspicuus",
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae",
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta",
-            "Frankliniella occidentalis",
-            "Hoplocampa brevis",
-            "Arge ochropus",
-            "Panonychus ulmi",
-            "Tetranychus urticae",
-            "Phytoptus avallanae",
-            "Eriophyes vitis"
-          ],
-          "quote": "Les xinxes dels cereals (Aelia rostrata).",
-          "page": 20,
-          "id": "xinxes-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Hemípters · heteròpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Hemípters · heteròpters.",
-          "page": 20,
-          "id": "xinxes-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Picador-xuclador",
-          "distractors": [
-            "Mastegador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "xinxes-6"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Com és la metamorfosi dels hemípters, en general?",
-          "answer": "Majoritàriament incompleta",
-          "distractors": [
-            "Completa"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "xinxes-7"
-        }
-      ],
-      "note": "El rètol de la fotografia identifica Aelia rostrata. El text tracta conjuntament Aelia rostrata i Eurygaster austriacus; els danys es pregunten per a les xinxes dels cereals.",
-      "study": [
-        {
-          "label": "Espècies tractades",
-          "text": "Aelia rostrata i Eurygaster austriacus. La fotografia identifica Aelia rostrata."
-        },
-        {
-          "label": "Plantes afectades",
-          "text": "Insectes polífags que parasiten gramínies salvatges i cultivades, majoritàriament el blat."
-        },
-        {
-          "label": "Danys a la tija",
-          "text": "Les picades a la tija provoquen l’aparició d’espigues seques."
-        },
-        {
-          "label": "Danys al gra",
-          "text": "Gra arrugat i deformat; disminució del rendiment i de la qualitat de la farina."
-        }
-      ],
-      "groupStudy": {
-        "page": 20,
-        "fields": [
-          {
-            "label": "Ordre",
-            "text": "Hemípters: xinxes, pugons i cigales."
-          },
-          {
-            "label": "Subordre",
-            "text": "Heteròpters (xinxes)."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Picador-xuclador, per perforar i xuclar."
-          },
-          {
-            "label": "Alimentació",
-            "text": "Saba de les plantes."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Majoritàriament incompleta."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
-      "id": "pudenta",
-      "name": "La pudenta de l’arròs",
-      "science": "Eusarcoris inconspicuus",
-      "group": "Hemípters · heteròpters",
-      "page": 20,
-      "images": [
-        {
-          "id": "pudenta",
-          "image": "images/rice-stink-bug.jpg",
-          "original": "images/rice-stink-bug-original.jpg",
-          "page": 20,
-          "strip": "p3-Image376",
-          "box": [
-            3,
-            446,
-            246,
-            743
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Arròs: només s’hi han descrit danys apreciables",
-          "distractors": [
-            "Gespa",
-            "Rosers",
-            "Palmeres"
-          ],
-          "quote": "Només s’han descrit danys apreciables en el cultiu de l’arròs.",
-          "page": 20,
-          "id": "pudenta-1"
-        },
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Grans parasitats buits i deformats",
-          "distractors": [
-            "Olives deformades i pèrdua de qualitat de l’oli",
-            "Asimetria de la capçada de la palmera",
-            "Defoliacions al roser"
-          ],
-          "quote": "Grans parasitats buits i deformats",
-          "page": 20,
-          "id": "pudenta-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "La pudenta de l’arròs",
-          "distractors": [
-            "L’escarabat de la patata",
-            "El diabló de l’avellaner",
-            "La cuca negra de l’alfals (o userda)",
-            "El zabre del cereal",
-            "El morrut roig de les palmeres",
-            "La mosca mediterrània de la fruita",
-            "La mosca de l’olivera",
-            "La mosca d’ales tacades",
-            "Les típules",
-            "La mosca de la fruita mexicana",
-            "El bernat mabrejat",
-            "Les xinxes dels cereals",
-            "La psil·la de la pera",
-            "El poll de San José",
-            "El cotonet de les Valls",
-            "La caparreta de l’olivera",
-            "El barrinador de la fusta",
-            "Corc o barrinador del panís",
-            "El corc de les pomes i peres o carpocapsa",
-            "La processionària del pi",
-            "La tuta del tomàquet",
-            "El trip californià o occidental de les flors",
-            "L’hoplocampa de la perera",
-            "La falsa eruga o poll del roser",
-            "L’aranya roja dels fruiters",
-            "L’aranya groga dels fruiters i aranya roja del panís",
-            "El badoc de l’avellaner",
-            "L’erinosi"
-          ],
-          "quote": "La pudenta de l’arròs (Eusarcoris inconspicuus).",
-          "page": 20,
-          "id": "pudenta-3"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Eusarcoris inconspicuus",
-          "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus",
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew.",
-            "Halyomorpha halys",
-            "Aelia rostrata",
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae",
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta",
-            "Frankliniella occidentalis",
-            "Hoplocampa brevis",
-            "Arge ochropus",
-            "Panonychus ulmi",
-            "Tetranychus urticae",
-            "Phytoptus avallanae",
-            "Eriophyes vitis"
-          ],
-          "quote": "La pudenta de l’arròs (Eusarcoris inconspicuus).",
-          "page": 20,
-          "id": "pudenta-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Hemípters · heteròpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Hemípters · heteròpters.",
-          "page": 20,
-          "id": "pudenta-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Picador-xuclador",
-          "distractors": [
-            "Mastegador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "pudenta-6"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Com és la metamorfosi dels hemípters, en general?",
-          "answer": "Majoritàriament incompleta",
-          "distractors": [
-            "Completa"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "pudenta-7"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Alimentació",
-          "text": "Insecte polífag que s’alimenta de gramínies salvatges i cultivades."
-        },
-        {
-          "label": "Cultiu amb danys apreciables",
-          "text": "Només s’han descrit danys apreciables en l’arròs."
-        },
-        {
-          "label": "Símptomes i conseqüències",
-          "text": "Grans parasitats buits i deformats, que interfereixen en el rendiment i la qualitat del gra."
-        }
-      ],
-      "groupStudy": {
-        "page": 20,
-        "fields": [
-          {
-            "label": "Ordre",
-            "text": "Hemípters: xinxes, pugons i cigales."
-          },
-          {
-            "label": "Subordre",
-            "text": "Heteròpters (xinxes)."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Picador-xuclador, per perforar i xuclar."
-          },
-          {
-            "label": "Alimentació",
-            "text": "Saba de les plantes."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Majoritàriament incompleta."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
       "id": "psilla",
       "name": "La psil·la de la pera",
       "science": "Cacopsylla pyri",
@@ -2248,19 +515,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Gotes de melassa i colònies de larves als extrems dels brots en creixement",
-          "distractors": [
-            "Espigues seques i gra arrugat",
-            "Galeries als troncs dels arbres",
-            "Asimetria de la capçada de la palmera"
-          ],
-          "quote": "En els arbres afectats s’observen gotes de melassa i colònies de larves en els extrems dels brots en creixement. Sobre aquesta melassa solen aparèixer fongs de coloració negra.",
-          "page": 21,
-          "id": "psilla-1"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "La psil·la de la pera",
@@ -2274,61 +528,17 @@ window.PLAGUES_DATA = {
           "id": "psilla-2"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Cacopsylla pyri",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "Gotes de melassa i colònies de larves als extrems dels brots en creixement",
           "distractors": [
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae"
+            "Espigues seques i gra arrugat",
+            "Galeries als troncs dels arbres",
+            "Asimetria de la capçada de la palmera"
           ],
-          "quote": "La psil·la de la pera (Cacopsylla pyri).",
+          "quote": "En els arbres afectats s’observen gotes de melassa i colònies de larves en els extrems dels brots en creixement. Sobre aquesta melassa solen aparèixer fongs de coloració negra.",
           "page": 21,
-          "id": "psilla-3"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Hemípters · esternorrincs",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Hemípters · esternorrincs.",
-          "page": 21,
-          "id": "psilla-4"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Picador-xuclador",
-          "distractors": [
-            "Mastegador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "psilla-5"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Com és la metamorfosi dels hemípters, en general?",
-          "answer": "Majoritàriament incompleta",
-          "distractors": [
-            "Completa"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "psilla-6"
+          "id": "psilla-1"
         }
       ],
       "note": "",
@@ -2397,19 +607,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Aurèola vermella al voltant de la picada",
-          "distractors": [
-            "Espigues seques",
-            "Asimetria de la capçada de la palmera",
-            "Galeries als troncs dels arbres"
-          ],
-          "quote": "Quan succiona, segrega una substància tòxica que origina una aurèola vermella al voltant de la picada.",
-          "page": 21,
-          "id": "poll-1"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "El poll de San José",
@@ -2423,61 +620,17 @@ window.PLAGUES_DATA = {
           "id": "poll-2"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Quadraspidiotus perniciosus",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "Aurèola vermella al voltant de la picada",
           "distractors": [
-            "Cacopsylla pyri",
-            "Delottococcus aberiae",
-            "Saissetia oleae"
+            "Espigues seques",
+            "Asimetria de la capçada de la palmera",
+            "Galeries als troncs dels arbres"
           ],
-          "quote": "El poll de San José (Quadraspidiotus perniciosus).",
+          "quote": "Quan succiona, segrega una substància tòxica que origina una aurèola vermella al voltant de la picada.",
           "page": 21,
-          "id": "poll-3"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Hemípters · esternorrincs",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Hemípters · esternorrincs.",
-          "page": 21,
-          "id": "poll-4"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Picador-xuclador",
-          "distractors": [
-            "Mastegador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "poll-5"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Com és la metamorfosi dels hemípters, en general?",
-          "answer": "Majoritàriament incompleta",
-          "distractors": [
-            "Completa"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "poll-6"
+          "id": "poll-1"
         }
       ],
       "note": "",
@@ -2532,340 +685,6 @@ window.PLAGUES_DATA = {
       "learning": true
     },
     {
-      "id": "cotonet",
-      "name": "El cotonet de les Valls",
-      "science": "Delottococcus aberiae",
-      "group": "Hemípters · esternorrincs",
-      "page": 21,
-      "images": [
-        {
-          "id": "cotonet",
-          "image": "images/citrus-mealybug.jpg",
-          "original": "images/citrus-mealybug-original.jpg",
-          "page": 21,
-          "strip": "p4-Image384",
-          "box": [
-            3,
-            198,
-            105,
-            308
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Origen",
-          "prompt": "D’on és originari?",
-          "answer": "De l’Àfrica subsahariana",
-          "distractors": [
-            "Del sud-est asiàtic",
-            "Del nord-est de Mèxic"
-          ],
-          "quote": "Originari de l’Àfrica subsahariana, es va detectar per primera vegada a Benifairó de les Valls (València) l’any 2009.",
-          "page": 21,
-          "id": "cotonet-1"
-        },
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Danys als fruits molt greus que impedeixen la seva comercialització",
-          "distractors": [
-            "Les erugues barrinen els troncs dels arbres",
-            "Les larves afecten la base de la tija i les arrels de la gespa",
-            "Defoliacions al roser"
-          ],
-          "quote": "Danys als fruits molt greus que impedeixen la seva comercialització",
-          "page": 21,
-          "id": "cotonet-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "El cotonet de les Valls",
-          "distractors": [
-            "La psil·la de la pera",
-            "El poll de San José",
-            "La caparreta de l’olivera"
-          ],
-          "quote": "El cotonet de les Valls (Delottococcus aberiae).",
-          "page": 21,
-          "id": "cotonet-3"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Delottococcus aberiae",
-          "distractors": [
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Saissetia oleae"
-          ],
-          "quote": "El cotonet de les Valls (Delottococcus aberiae).",
-          "page": 21,
-          "id": "cotonet-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Hemípters · esternorrincs",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Hemípters · esternorrincs.",
-          "page": 21,
-          "id": "cotonet-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Picador-xuclador",
-          "distractors": [
-            "Mastegador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "cotonet-6"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Com és la metamorfosi dels hemípters, en general?",
-          "answer": "Majoritàriament incompleta",
-          "distractors": [
-            "Completa"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "cotonet-7"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Grup i plantes afectades",
-          "text": "Còccid polífag. Camps de cítrics; també ataca el caqui, l’olivera o la perera."
-        },
-        {
-          "label": "Origen",
-          "text": "Àfrica subsahariana."
-        },
-        {
-          "label": "Primera detecció",
-          "text": "Benifairó de les Valls (València), l’any 2009."
-        },
-        {
-          "label": "Expansió descrita",
-          "text": "Ha colonitzat camps de cítrics de València i Castelló; també s’han detectat focus a Catalunya."
-        },
-        {
-          "label": "Danys",
-          "text": "Danys als fruits molt greus, que impedeixen la seva comercialització."
-        }
-      ],
-      "groupStudy": {
-        "page": 20,
-        "fields": [
-          {
-            "label": "Ordre",
-            "text": "Hemípters: xinxes, pugons i cigales."
-          },
-          {
-            "label": "Subordre",
-            "text": "Esternorrincs: mosques blanques, psil·les, pugons i caparretes (pàgina 21)."
-          },
-          {
-            "label": "Alimentació i importància",
-            "text": "Majoritàriament fitòfags, responsables de plagues amb danys molt importants en l’agricultura. Els hemípters s’alimenten de saba."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Picador-xuclador, per perforar i xuclar."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Majoritàriament incompleta."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
-      "id": "caparreta",
-      "name": "La caparreta de l’olivera",
-      "science": "Saissetia oleae",
-      "group": "Hemípters · esternorrincs",
-      "page": 21,
-      "images": [
-        {
-          "id": "caparreta",
-          "image": "images/olive-black-scale.jpg",
-          "original": "images/olive-black-scale-original.jpg",
-          "page": 21,
-          "strip": "p4-Image384",
-          "box": [
-            3,
-            346,
-            105,
-            465
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Tret especial",
-          "prompt": "Amb quin organisme està associada aquesta plaga?",
-          "answer": "“Negrilla” (Capnopodium elaeophilum)",
-          "distractors": [
-            "Podridura grisa (Botrytis cinerea)",
-            "Virus de la cullera del tomàquet"
-          ],
-          "quote": "Està associada amb la “negrilla” (Capnopodium elaeophilum), un fong que creix sobre la melassa que segreguen les caparretes i dona un aspecte negrós als arbres.",
-          "page": 21,
-          "id": "caparreta-1"
-        },
-        {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Olivera, cítrics i moltes plantes ornamentals",
-          "distractors": [
-            "Pins i cedres",
-            "Gespa",
-            "Palmeres"
-          ],
-          "quote": "Olivera, cítrics i moltes plantes ornamentals",
-          "page": 21,
-          "id": "caparreta-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "La caparreta de l’olivera",
-          "distractors": [
-            "La psil·la de la pera",
-            "El poll de San José",
-            "El cotonet de les Valls"
-          ],
-          "quote": "La caparreta de l’olivera (Saissetia oleae).",
-          "page": 21,
-          "id": "caparreta-3"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Saissetia oleae",
-          "distractors": [
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae"
-          ],
-          "quote": "La caparreta de l’olivera (Saissetia oleae).",
-          "page": 21,
-          "id": "caparreta-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Hemípters · esternorrincs",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Hemípters · esternorrincs.",
-          "page": 21,
-          "id": "caparreta-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Picador-xuclador",
-          "distractors": [
-            "Mastegador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "caparreta-6"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Com és la metamorfosi dels hemípters, en general?",
-          "answer": "Majoritàriament incompleta",
-          "distractors": [
-            "Completa"
-          ],
-          "quote": "Tots tenen un aparell bucal picador-xuclador, per poder perforar i xuclar. S’alimenten de la saba de les plantes. Majoritàriament tenen metamorfosi incompleta.",
-          "page": 20,
-          "id": "caparreta-7"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Grup",
-          "text": "Còccid."
-        },
-        {
-          "label": "Plantes afectades",
-          "text": "Olivera, cítrics i moltes plantes ornamentals."
-        },
-        {
-          "label": "Organisme associat",
-          "text": "“Negrilla” (Capnopodium elaeophilum)."
-        },
-        {
-          "label": "Símptomes",
-          "text": "El fong creix sobre la melassa que segreguen les caparretes i dona un aspecte negrós als arbres."
-        }
-      ],
-      "groupStudy": {
-        "page": 20,
-        "fields": [
-          {
-            "label": "Ordre",
-            "text": "Hemípters: xinxes, pugons i cigales."
-          },
-          {
-            "label": "Subordre",
-            "text": "Esternorrincs: mosques blanques, psil·les, pugons i caparretes (pàgina 21)."
-          },
-          {
-            "label": "Alimentació i importància",
-            "text": "Majoritàriament fitòfags, responsables de plagues amb danys molt importants en l’agricultura. Els hemípters s’alimenten de saba."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Picador-xuclador, per perforar i xuclar."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Majoritàriament incompleta."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
       "id": "fusta",
       "name": "El barrinador de la fusta",
       "science": "Zeuzera pyrina",
@@ -2888,19 +707,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Les erugues barrinen els troncs dels arbres",
-          "distractors": [
-            "Galeries a la part central del fruit",
-            "Grans d’arròs buits i deformats",
-            "Aurèola vermella al voltant de la picada"
-          ],
-          "quote": "Les erugues barrinen els troncs dels arbres",
-          "page": 22,
-          "id": "fusta-1"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "El barrinador de la fusta",
@@ -2915,75 +721,17 @@ window.PLAGUES_DATA = {
           "id": "fusta-2"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Zeuzera pyrina",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "Les erugues barrinen els troncs dels arbres",
           "distractors": [
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta"
+            "Galeries a la part central del fruit",
+            "Grans d’arròs buits i deformats",
+            "Aurèola vermella al voltant de la picada"
           ],
-          "quote": "El barrinador de la fusta (Zeuzera pyrina).",
+          "quote": "Les erugues barrinen els troncs dels arbres",
           "page": 22,
-          "id": "fusta-3"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Lepidòpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Lepidòpters.",
-          "page": 22,
-          "id": "fusta-4"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal tenen les larves dels lepidòpters?",
-          "answer": "Mastegador",
-          "distractors": [
-            "Picador-xuclador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Les larves, que són les principals causants de danys en els cultius, tenen un aparell bucal mastegador. Els adults tenen un aparell bucal xuclador.",
-          "page": 22,
-          "id": "fusta-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal tenen els adults dels lepidòpters?",
-          "answer": "Xuclador",
-          "distractors": [
-            "Picador-xuclador",
-            "Mastegador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Les larves, que són les principals causants de danys en els cultius, tenen un aparell bucal mastegador. Els adults tenen un aparell bucal xuclador.",
-          "page": 22,
-          "id": "fusta-6"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi correspon als lepidòpters?",
-          "answer": "Completa o holometàbola",
-          "distractors": [
-            "Incompleta o hemimetàbola",
-            "Desenvolupament directe o ametàbol"
-          ],
-          "quote": "Els lepidòpters es troben entre els grups amb metamorfosi completa: ou, larva, pupa i adult.",
-          "page": 16,
-          "id": "fusta-7"
+          "id": "fusta-1"
         }
       ],
       "note": "",
@@ -2999,175 +747,6 @@ window.PLAGUES_DATA = {
         {
           "label": "Danys",
           "text": "Les erugues barrinen els troncs dels arbres."
-        }
-      ],
-      "groupStudy": {
-        "page": 22,
-        "fields": [
-          {
-            "label": "Grup",
-            "text": "Papallones."
-          },
-          {
-            "label": "Larves",
-            "text": "Principals causants de danys als cultius. Aparell bucal mastegador, amb el qual s’alimenten de les plantes."
-          },
-          {
-            "label": "Adults",
-            "text": "Aparell bucal xuclador, amb el qual s’alimenten de pol·len, segons el temari."
-          },
-          {
-            "label": "Seda",
-            "text": "Posseeixen glàndules que sintetitzen seda per formar el capoll."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Completa: ou, larva (eruga), pupa (crisàlide) i adult. Pàgina 16."
-          }
-        ],
-        "pages": [
-          22,
-          16
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
-      "id": "panis",
-      "name": "Corc o barrinador del panís",
-      "science": null,
-      "group": "Lepidòpters",
-      "page": 22,
-      "images": [
-        {
-          "id": "panis",
-          "image": "images/corn-borer.jpg",
-          "original": "images/corn-borer-original.jpg",
-          "page": 22,
-          "strip": "p5-Image395",
-          "box": [
-            3,
-            414,
-            245,
-            715
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Les erugues penetren a la tija i al final aquesta es fractura",
-          "distractors": [
-            "Les erugues barrinen els troncs dels arbres",
-            "Aurèola vermella al voltant de la picada",
-            "Olives deformades i pèrdua de qualitat de l’oli"
-          ],
-          "quote": "Les erugues penetren a la tija i al final aquesta es fractura",
-          "page": 22,
-          "id": "panis-1"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quines dues espècies s’agrupen com a barrinador del panís?",
-          "answer": "Sesamia nonagrioides i Ostrinia nubilalis",
-          "distractors": [
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta"
-          ],
-          "quote": "Corc o barrinador del panís (Sesamia nonagrioides i Ostrinia nubilalis).",
-          "page": 22,
-          "id": "panis-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "Corc o barrinador del panís",
-          "distractors": [
-            "El barrinador de la fusta",
-            "El corc de les pomes i peres o carpocapsa",
-            "La processionària del pi",
-            "La tuta del tomàquet"
-          ],
-          "quote": "Corc o barrinador del panís.",
-          "page": 22,
-          "id": "panis-3"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Lepidòpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Lepidòpters.",
-          "page": 22,
-          "id": "panis-4"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal tenen les larves dels lepidòpters?",
-          "answer": "Mastegador",
-          "distractors": [
-            "Picador-xuclador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Les larves, que són les principals causants de danys en els cultius, tenen un aparell bucal mastegador. Els adults tenen un aparell bucal xuclador.",
-          "page": 22,
-          "id": "panis-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal tenen els adults dels lepidòpters?",
-          "answer": "Xuclador",
-          "distractors": [
-            "Picador-xuclador",
-            "Mastegador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Les larves, que són les principals causants de danys en els cultius, tenen un aparell bucal mastegador. Els adults tenen un aparell bucal xuclador.",
-          "page": 22,
-          "id": "panis-6"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi correspon als lepidòpters?",
-          "answer": "Completa o holometàbola",
-          "distractors": [
-            "Incompleta o hemimetàbola",
-            "Desenvolupament directe o ametàbol"
-          ],
-          "quote": "Els lepidòpters es troben entre els grups amb metamorfosi completa: ou, larva, pupa i adult.",
-          "page": 16,
-          "id": "panis-7"
-        }
-      ],
-      "note": "La fotografia diu «Barrinador panís». El PDF tracta Sesamia nonagrioides i Ostrinia nubilalis conjuntament: no s’atribueix la foto a una de les dues espècies.",
-      "study": [
-        {
-          "label": "Espècies tractades",
-          "text": "Sesamia nonagrioides i Ostrinia nubilalis. La fotografia no distingeix entre aquestes dues espècies."
-        },
-        {
-          "label": "Cultiu afectat",
-          "text": "Panís."
-        },
-        {
-          "label": "Danys",
-          "text": "Les erugues penetren a la tija i al final aquesta es fractura."
         }
       ],
       "groupStudy": {
@@ -3225,32 +804,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Pomeres, pereres i noguers",
-          "distractors": [
-            "Pins i cedres",
-            "Gespa",
-            "Rosers"
-          ],
-          "quote": "Pomeres, pereres i noguers",
-          "page": 22,
-          "id": "carpocapsa-1"
-        },
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Les erugues formen una galeria fins a la part central del fruit",
-          "distractors": [
-            "Les erugues barrinen els troncs dels arbres",
-            "Les larves afecten la base de la tija i les arrels de la gespa",
-            "Grans d’arròs buits i deformats"
-          ],
-          "quote": "Les erugues formen una galeria fins a la part central del fruit",
-          "page": 22,
-          "id": "carpocapsa-2"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "El corc de les pomes i peres o carpocapsa",
@@ -3265,75 +818,17 @@ window.PLAGUES_DATA = {
           "id": "carpocapsa-3"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Cydia pomonella",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "Les erugues formen una galeria fins a la part central del fruit",
           "distractors": [
-            "Zeuzera pyrina",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta"
+            "Les erugues barrinen els troncs dels arbres",
+            "Les larves afecten la base de la tija i les arrels de la gespa",
+            "Grans d’arròs buits i deformats"
           ],
-          "quote": "El corc de les pomes i peres o carpocapsa (Cydia pomonella).",
+          "quote": "Les erugues formen una galeria fins a la part central del fruit",
           "page": 22,
-          "id": "carpocapsa-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Lepidòpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Lepidòpters.",
-          "page": 22,
-          "id": "carpocapsa-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal tenen les larves dels lepidòpters?",
-          "answer": "Mastegador",
-          "distractors": [
-            "Picador-xuclador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Les larves, que són les principals causants de danys en els cultius, tenen un aparell bucal mastegador. Els adults tenen un aparell bucal xuclador.",
-          "page": 22,
-          "id": "carpocapsa-6"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal tenen els adults dels lepidòpters?",
-          "answer": "Xuclador",
-          "distractors": [
-            "Picador-xuclador",
-            "Mastegador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Les larves, que són les principals causants de danys en els cultius, tenen un aparell bucal mastegador. Els adults tenen un aparell bucal xuclador.",
-          "page": 22,
-          "id": "carpocapsa-7"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi correspon als lepidòpters?",
-          "answer": "Completa o holometàbola",
-          "distractors": [
-            "Incompleta o hemimetàbola",
-            "Desenvolupament directe o ametàbol"
-          ],
-          "quote": "Els lepidòpters es troben entre els grups amb metamorfosi completa: ou, larva, pupa i adult.",
-          "page": 16,
-          "id": "carpocapsa-8"
+          "id": "carpocapsa-2"
         }
       ],
       "note": "",
@@ -3406,31 +901,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Pins i cedres",
-          "distractors": [
-            "Pomeres, pereres i noguers",
-            "Olivera i cítrics",
-            "Rosers"
-          ],
-          "quote": "Pins i cedres",
-          "page": 23,
-          "id": "processionaria-1"
-        },
-        {
-          "kind": "Tret especial",
-          "prompt": "Com es protegeixen les erugues del fred?",
-          "answer": "Viuen agrupades dins les conegudes bosses blanques",
-          "distractors": [
-            "Penetren a la part central del fruit",
-            "Barrinen els troncs dels arbres"
-          ],
-          "quote": "Les erugues neixen a la tardor i s’alimenten de les fulles i, per protegir-se del fred, viuen agrupades dins les conegudes bosses blanques.",
-          "page": 23,
-          "id": "processionaria-2"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "La processionària del pi",
@@ -3445,75 +915,16 @@ window.PLAGUES_DATA = {
           "id": "processionaria-3"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Thaumetopoea pityocampa",
+          "kind": "Tret especial",
+          "prompt": "Com es protegeixen les erugues del fred?",
+          "answer": "Viuen agrupades dins les conegudes bosses blanques",
           "distractors": [
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Tuta absoluta"
+            "Penetren a la part central del fruit",
+            "Barrinen els troncs dels arbres"
           ],
-          "quote": "La processionària del pi (Thaumetopoea pityocampa).",
+          "quote": "Les erugues neixen a la tardor i s’alimenten de les fulles i, per protegir-se del fred, viuen agrupades dins les conegudes bosses blanques.",
           "page": 23,
-          "id": "processionaria-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Lepidòpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Lepidòpters.",
-          "page": 23,
-          "id": "processionaria-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal tenen les larves dels lepidòpters?",
-          "answer": "Mastegador",
-          "distractors": [
-            "Picador-xuclador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Les larves, que són les principals causants de danys en els cultius, tenen un aparell bucal mastegador. Els adults tenen un aparell bucal xuclador.",
-          "page": 22,
-          "id": "processionaria-6"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal tenen els adults dels lepidòpters?",
-          "answer": "Xuclador",
-          "distractors": [
-            "Picador-xuclador",
-            "Mastegador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Les larves, que són les principals causants de danys en els cultius, tenen un aparell bucal mastegador. Els adults tenen un aparell bucal xuclador.",
-          "page": 22,
-          "id": "processionaria-7"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi correspon als lepidòpters?",
-          "answer": "Completa o holometàbola",
-          "distractors": [
-            "Incompleta o hemimetàbola",
-            "Desenvolupament directe o ametàbol"
-          ],
-          "quote": "Els lepidòpters es troben entre els grups amb metamorfosi completa: ou, larva, pupa i adult.",
-          "page": 16,
-          "id": "processionaria-8"
+          "id": "processionaria-2"
         }
       ],
       "note": "",
@@ -3590,31 +1001,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Tomàquet",
-          "distractors": [
-            "Gespa",
-            "Palmeres",
-            "Rosers"
-          ],
-          "quote": "La Tuta absoluta és un microlepidòpter de la familia Gelechiidae considerada una de les principals plagues del cultiu de tomàquet del continent sud-americà.",
-          "page": 23,
-          "id": "tuta-1"
-        },
-        {
-          "kind": "Tret especial",
-          "prompt": "A quina família pertany?",
-          "answer": "Gelechiidae",
-          "distractors": [
-            "Pentatomidae",
-            "Trypetidae"
-          ],
-          "quote": "La Tuta absoluta és un microlepidòpter de la familia Gelechiidae.",
-          "page": 23,
-          "id": "tuta-2"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "La tuta del tomàquet",
@@ -3629,75 +1015,17 @@ window.PLAGUES_DATA = {
           "id": "tuta-3"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Tuta absoluta",
+          "kind": "Cultius",
+          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
+          "answer": "Tomàquet",
           "distractors": [
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa"
+            "Gespa",
+            "Palmeres",
+            "Rosers"
           ],
-          "quote": "La tuta del tomàquet (Tuta absoluta).",
+          "quote": "La Tuta absoluta és un microlepidòpter de la familia Gelechiidae considerada una de les principals plagues del cultiu de tomàquet del continent sud-americà.",
           "page": 23,
-          "id": "tuta-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Lepidòpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Lepidòpters.",
-          "page": 23,
-          "id": "tuta-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal tenen les larves dels lepidòpters?",
-          "answer": "Mastegador",
-          "distractors": [
-            "Picador-xuclador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Les larves, que són les principals causants de danys en els cultius, tenen un aparell bucal mastegador. Els adults tenen un aparell bucal xuclador.",
-          "page": 22,
-          "id": "tuta-6"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal tenen els adults dels lepidòpters?",
-          "answer": "Xuclador",
-          "distractors": [
-            "Picador-xuclador",
-            "Mastegador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Les larves, que són les principals causants de danys en els cultius, tenen un aparell bucal mastegador. Els adults tenen un aparell bucal xuclador.",
-          "page": 22,
-          "id": "tuta-7"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi correspon als lepidòpters?",
-          "answer": "Completa o holometàbola",
-          "distractors": [
-            "Incompleta o hemimetàbola",
-            "Desenvolupament directe o ametàbol"
-          ],
-          "quote": "Els lepidòpters es troben entre els grups amb metamorfosi completa: ou, larva, pupa i adult.",
-          "page": 16,
-          "id": "tuta-8"
+          "id": "tuta-1"
         }
       ],
       "note": "La fotografia mostra «Danys per Tuta» al fruit, no un adult. Les preguntes es refereixen a la plaga que identifica el PDF.",
@@ -3800,26 +1128,6 @@ window.PLAGUES_DATA = {
           "id": "ortopters-1"
         },
         {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Ortòpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Ortòpters.",
-          "page": 23,
-          "id": "ortopters-2"
-        },
-        {
           "kind": "Aparell bucal",
           "prompt": "Quin aparell bucal té aquest grup?",
           "answer": "Mastegador",
@@ -3831,17 +1139,6 @@ window.PLAGUES_DATA = {
           "quote": "Tenen un aparell bucal mastegador i metamorfosi incompleta.",
           "page": 23,
           "id": "ortopters-3"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Incompleta",
-          "distractors": [
-            "Completa"
-          ],
-          "quote": "Tenen un aparell bucal mastegador i metamorfosi incompleta.",
-          "page": 23,
-          "id": "ortopters-4"
         }
       ],
       "note": "El PDF presenta aquestes dues imatges com a exemples d’ortòpters, sense identificar-ne l’espècie. Només es pregunta pel grup.",
@@ -3893,31 +1190,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Farratges, vinya, hortalisses i fruiters",
-          "distractors": [
-            "Pins i cedres",
-            "Palmeres",
-            "Gespa"
-          ],
-          "quote": "És una espècie molt polífaga, que pot afectar farratges, vinya, hortalisses i fruiters.",
-          "page": 24,
-          "id": "trip-1"
-        },
-        {
-          "kind": "Tret especial",
-          "prompt": "Què poden provocar les picades dels adults?",
-          "answer": "Causen danys i poden ser possibles vectors de virus",
-          "distractors": [
-            "Provoquen una aurèola vermella al voltant de la picada",
-            "Provoquen asimetria de la capçada de la palmera"
-          ],
-          "quote": "Els danys són causats per les picades dels adults, i poden ser possibles vectors de virus.",
-          "page": 24,
-          "id": "trip-2"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "El trip californià o occidental de les flors",
@@ -3956,85 +1228,16 @@ window.PLAGUES_DATA = {
           "id": "trip-3"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Frankliniella occidentalis",
+          "kind": "Tret especial",
+          "prompt": "Què poden provocar les picades dels adults?",
+          "answer": "Causen danys i poden ser possibles vectors de virus",
           "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus",
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew.",
-            "Halyomorpha halys",
-            "Aelia rostrata",
-            "Eusarcoris inconspicuus",
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae",
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta",
-            "Hoplocampa brevis",
-            "Arge ochropus",
-            "Panonychus ulmi",
-            "Tetranychus urticae",
-            "Phytoptus avallanae",
-            "Eriophyes vitis"
+            "Provoquen una aurèola vermella al voltant de la picada",
+            "Provoquen asimetria de la capçada de la palmera"
           ],
-          "quote": "El trip californià o occidental de les flors (Frankliniella occidentalis).",
+          "quote": "Els danys són causats per les picades dels adults, i poden ser possibles vectors de virus.",
           "page": 24,
-          "id": "trip-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Tisanòpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Tisanòpters.",
-          "page": 24,
-          "id": "trip-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Picador-xuclador",
-          "distractors": [
-            "Mastegador",
-            "Xuclador",
-            "Adaptat per mossegar i llepar líquids"
-          ],
-          "quote": "Tenen metamorfosi incompleta. S’alimenten del contingut cel·lular amb un aparell bucal picador-xuclador.",
-          "page": 24,
-          "id": "trip-6"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Incompleta",
-          "distractors": [
-            "Completa"
-          ],
-          "quote": "Tenen metamorfosi incompleta. S’alimenten del contingut cel·lular amb un aparell bucal picador-xuclador.",
-          "page": 24,
-          "id": "trip-7"
+          "id": "trip-2"
         }
       ],
       "note": "",
@@ -4081,203 +1284,6 @@ window.PLAGUES_DATA = {
       "learning": true
     },
     {
-      "id": "hoplocampa",
-      "name": "L’hoplocampa de la perera",
-      "science": "Hoplocampa brevis",
-      "group": "Himenòpters",
-      "page": 24,
-      "images": [
-        {
-          "id": "hoplocampa",
-          "image": "images/pear-sawfly.jpg",
-          "original": "images/pear-sawfly-original.jpg",
-          "page": 24,
-          "strip": "p7-Image414",
-          "box": [
-            3,
-            99,
-            245,
-            362
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Tret especial",
-          "prompt": "En quina situació pot produir pèrdues importants?",
-          "answer": "En anys de baix quallat o baixa floració",
-          "distractors": [
-            "Durant els primers dalls",
-            "A partir dels 12 mesos de la infestació"
-          ],
-          "quote": "És considerada una plaga secundària en el cultiu de la pera. Tot i això, en anys de baix quallat o baixa floració, pot produir pèrdues importants.",
-          "page": 24,
-          "id": "hoplocampa-1"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "L’hoplocampa de la perera",
-          "distractors": [
-            "L’escarabat de la patata",
-            "El diabló de l’avellaner",
-            "La cuca negra de l’alfals (o userda)",
-            "El zabre del cereal",
-            "El morrut roig de les palmeres",
-            "La mosca mediterrània de la fruita",
-            "La mosca de l’olivera",
-            "La mosca d’ales tacades",
-            "Les típules",
-            "La mosca de la fruita mexicana",
-            "El bernat mabrejat",
-            "Les xinxes dels cereals",
-            "La pudenta de l’arròs",
-            "La psil·la de la pera",
-            "El poll de San José",
-            "El cotonet de les Valls",
-            "La caparreta de l’olivera",
-            "El barrinador de la fusta",
-            "Corc o barrinador del panís",
-            "El corc de les pomes i peres o carpocapsa",
-            "La processionària del pi",
-            "La tuta del tomàquet",
-            "El trip californià o occidental de les flors",
-            "La falsa eruga o poll del roser",
-            "L’aranya roja dels fruiters",
-            "L’aranya groga dels fruiters i aranya roja del panís",
-            "El badoc de l’avellaner",
-            "L’erinosi"
-          ],
-          "quote": "L’hoplocampa de la perera (Hoplocampa brevis).",
-          "page": 24,
-          "id": "hoplocampa-2"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Hoplocampa brevis",
-          "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus",
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew.",
-            "Halyomorpha halys",
-            "Aelia rostrata",
-            "Eusarcoris inconspicuus",
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae",
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta",
-            "Frankliniella occidentalis",
-            "Arge ochropus",
-            "Panonychus ulmi",
-            "Tetranychus urticae",
-            "Phytoptus avallanae",
-            "Eriophyes vitis"
-          ],
-          "quote": "L’hoplocampa de la perera (Hoplocampa brevis).",
-          "page": 24,
-          "id": "hoplocampa-3"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Himenòpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Himenòpters.",
-          "page": 24,
-          "id": "hoplocampa-4"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Adaptat per mossegar i llepar líquids",
-          "distractors": [
-            "Mastegador",
-            "Picador-xuclador",
-            "Xuclador"
-          ],
-          "quote": "Tots tenen un aparell bucal adaptat per mossegar i llepar líquids. Posseeixen metamorfosi completa.",
-          "page": 24,
-          "id": "hoplocampa-5"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Tots tenen un aparell bucal adaptat per mossegar i llepar líquids. Posseeixen metamorfosi completa.",
-          "page": 24,
-          "id": "hoplocampa-6"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Cultiu afectat",
-          "text": "Pera."
-        },
-        {
-          "label": "Importància",
-          "text": "Considerada una plaga secundària."
-        },
-        {
-          "label": "Situacions de risc",
-          "text": "En anys de baix quallat o baixa floració, pot produir pèrdues importants."
-        }
-      ],
-      "groupStudy": {
-        "page": 24,
-        "fields": [
-          {
-            "label": "Grup",
-            "text": "Formigues, abelles i vespes."
-          },
-          {
-            "label": "Aparell bucal",
-            "text": "Adaptat per mossegar i llepar líquids."
-          },
-          {
-            "label": "Metamorfosi",
-            "text": "Completa."
-          },
-          {
-            "label": "Ales",
-            "text": "El parell anterior té una mida molt superior al posterior."
-          },
-          {
-            "label": "Importància agrícola",
-            "text": "Destaquen pels efectes beneficiosos com a excel·lents pol·linitzadors, tot i que l’ordre també inclou enemics de les plantes."
-          }
-        ]
-      },
-      "learningSection": "Plagues d’insectes",
-      "learning": true
-    },
-    {
       "id": "arge",
       "name": "La falsa eruga o poll del roser",
       "science": "Arge ochropus",
@@ -4312,31 +1318,6 @@ window.PLAGUES_DATA = {
         }
       ],
       "questions": [
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Defoliacions al roser",
-          "distractors": [
-            "Galeries als troncs dels arbres",
-            "Olives deformades i pèrdua de qualitat de l’oli",
-            "Grans d’arròs buits i deformats"
-          ],
-          "quote": "Provoca defoliacions al roser.",
-          "page": 24,
-          "id": "arge-1"
-        },
-        {
-          "kind": "Tret especial",
-          "prompt": "Com és l’adult?",
-          "answer": "Cap i tòrax de color negre, abdomen taronja",
-          "distractors": [
-            "Coloració variable: grogues, verdes o roges",
-            "Transparents, encara que es coneixen com a aranyes blanques"
-          ],
-          "quote": "En la fase d’adult, el poll del roser mesura entre 7 i 10 mm, i el cap i el tòrax són de color negre mentre que l’abdomen és taronja.",
-          "page": 24,
-          "id": "arge-2"
-        },
         {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
@@ -4376,85 +1357,17 @@ window.PLAGUES_DATA = {
           "id": "arge-3"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Arge ochropus",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "Defoliacions al roser",
           "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus",
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew.",
-            "Halyomorpha halys",
-            "Aelia rostrata",
-            "Eusarcoris inconspicuus",
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae",
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta",
-            "Frankliniella occidentalis",
-            "Hoplocampa brevis",
-            "Panonychus ulmi",
-            "Tetranychus urticae",
-            "Phytoptus avallanae",
-            "Eriophyes vitis"
+            "Galeries als troncs dels arbres",
+            "Olives deformades i pèrdua de qualitat de l’oli",
+            "Grans d’arròs buits i deformats"
           ],
-          "quote": "La falsa eruga o poll del roser (Arge ochropus).",
+          "quote": "Provoca defoliacions al roser.",
           "page": 24,
-          "id": "arge-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Himenòpters",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Tetraníquids",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Himenòpters.",
-          "page": 24,
-          "id": "arge-5"
-        },
-        {
-          "kind": "Aparell bucal",
-          "prompt": "Quin aparell bucal té aquest grup?",
-          "answer": "Adaptat per mossegar i llepar líquids",
-          "distractors": [
-            "Mastegador",
-            "Picador-xuclador",
-            "Xuclador"
-          ],
-          "quote": "Tots tenen un aparell bucal adaptat per mossegar i llepar líquids. Posseeixen metamorfosi completa.",
-          "page": 24,
-          "id": "arge-6"
-        },
-        {
-          "kind": "Metamorfosi",
-          "prompt": "Quina metamorfosi presenta aquest ordre?",
-          "answer": "Completa",
-          "distractors": [
-            "Incompleta"
-          ],
-          "quote": "Tots tenen un aparell bucal adaptat per mossegar i llepar líquids. Posseeixen metamorfosi completa.",
-          "page": 24,
-          "id": "arge-7"
+          "id": "arge-1"
         }
       ],
       "note": "",
@@ -4523,19 +1436,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Decoloracions i bombaments decolorants en les fulles; pot causar defoliacions",
-          "distractors": [
-            "Galeries als troncs dels arbres",
-            "Aurèola vermella al voltant de la picada",
-            "Grans d’arròs buits i deformats"
-          ],
-          "quote": "Decoloracions i bombaments decolorants en les fulles; pot causar defoliacions",
-          "page": 29,
-          "id": "ulmi-1"
-        },
-        {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
           "answer": "L’aranya roja dels fruiters",
@@ -4574,87 +1474,17 @@ window.PLAGUES_DATA = {
           "id": "ulmi-2"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Panonychus ulmi",
-          "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus",
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew.",
-            "Halyomorpha halys",
-            "Aelia rostrata",
-            "Eusarcoris inconspicuus",
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae",
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta",
-            "Frankliniella occidentalis",
-            "Hoplocampa brevis",
-            "Arge ochropus",
-            "Tetranychus urticae",
-            "Phytoptus avallanae",
-            "Eriophyes vitis"
-          ],
-          "quote": "L’aranya roja dels fruiters (Panonychus ulmi).",
-          "page": 29,
-          "id": "ulmi-3"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Tetraníquids",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Tetraníquids.",
-          "page": 29,
-          "id": "ulmi-4"
-        },
-        {
-          "kind": "Danys del grup",
-          "prompt": "Quin símptoma caracteritza els tetraníquids?",
-          "answer": "Puntejat cloròtic que, quan és dens, produeix una coloració groguenca",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "Decoloracions i bombaments decolorants en les fulles; pot causar defoliacions",
           "distractors": [
             "Galeries als troncs dels arbres",
             "Aurèola vermella al voltant de la picada",
-            "Espigues seques"
+            "Grans d’arròs buits i deformats"
           ],
-          "quote": "Es caracteritzen per produir un puntejat cloròtic en les fulles, al succionar el contingut de les cèl·lules, que quan és dens, produeix una coloració groguenca.",
+          "quote": "Decoloracions i bombaments decolorants en les fulles; pot causar defoliacions",
           "page": 29,
-          "id": "ulmi-5"
-        },
-        {
-          "kind": "Tret del grup",
-          "prompt": "Quina mida tenen els tetraníquids?",
-          "answer": "Entre 0,5 i 0,6 mm",
-          "distractors": [
-            "Entre 0,2 i 0,3 mm",
-            "Entre 0,5 i 5 mm",
-            "Entre 7 i 10 mm"
-          ],
-          "quote": "Mesuren entre 0,5 i 0,6 mm de longitud.",
-          "page": 29,
-          "id": "ulmi-6"
+          "id": "ulmi-1"
         }
       ],
       "note": "",
@@ -4670,349 +1500,6 @@ window.PLAGUES_DATA = {
         {
           "label": "Atacs severs",
           "text": "Poden causar defoliacions."
-        }
-      ],
-      "groupStudy": {
-        "page": 29,
-        "fields": [
-          {
-            "label": "Nom i coloració",
-            "text": "Coneguts com a aranyes roges. Poden ser grogues, verdes o roges segons el clima, el substrat i l’edat."
-          },
-          {
-            "label": "Mida",
-            "text": "Entre 0,5 i 0,6 mm de longitud."
-          },
-          {
-            "label": "Reproducció",
-            "text": "Molt prolífiques: una femella pot pondre entre 100 i 200 ous cada 2–3 dies, segons el temari."
-          },
-          {
-            "label": "Distribució",
-            "text": "Àcars cosmopolites, en diferents ambients i tota mena de conreus: hortícoles, fruiters, extensius, ornamentals, etc."
-          },
-          {
-            "label": "Danys del grup",
-            "text": "Succionen el contingut de les cèl·lules i produeixen un puntejat cloròtic a les fulles. Quan és dens, provoca una coloració groguenca."
-          }
-        ]
-      },
-      "learningSection": "Àcars i altres organismes",
-      "learning": true
-    },
-    {
-      "id": "urticae",
-      "name": "L’aranya groga dels fruiters i aranya roja del panís",
-      "science": "Tetranychus urticae",
-      "group": "Tetraníquids",
-      "page": 29,
-      "images": [
-        {
-          "id": "urticae",
-          "image": "images/two-spotted-spider-mite.jpg",
-          "original": "images/two-spotted-spider-mite-original.jpg",
-          "page": 29,
-          "strip": "p8-Image487",
-          "box": [
-            3,
-            314,
-            170,
-            501
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Debilitament de la planta i assecament prematur de les fulles",
-          "distractors": [
-            "Galeries als troncs dels arbres",
-            "Aurèola vermella al voltant de la picada",
-            "Grans d’arròs buits i deformats"
-          ],
-          "quote": "Es troben al revers de les fulles on xuclen la saba, debiliten la planta provocant un assecament prematur de les fulles.",
-          "page": 29,
-          "id": "urticae-1"
-        },
-        {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Fruiters, panís i cultius hortícoles",
-          "distractors": [
-            "Pins i cedres",
-            "Palmeres",
-            "Gespa"
-          ],
-          "quote": "L’aranya groga ataca els fruiters i la roja al panís i als cultius hortícoles.",
-          "page": 29,
-          "id": "urticae-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "L’aranya groga dels fruiters i aranya roja del panís",
-          "distractors": [
-            "L’escarabat de la patata",
-            "El diabló de l’avellaner",
-            "La cuca negra de l’alfals (o userda)",
-            "El zabre del cereal",
-            "El morrut roig de les palmeres",
-            "La mosca mediterrània de la fruita",
-            "La mosca de l’olivera",
-            "La mosca d’ales tacades",
-            "Les típules",
-            "La mosca de la fruita mexicana",
-            "El bernat mabrejat",
-            "Les xinxes dels cereals",
-            "La pudenta de l’arròs",
-            "La psil·la de la pera",
-            "El poll de San José",
-            "El cotonet de les Valls",
-            "La caparreta de l’olivera",
-            "El barrinador de la fusta",
-            "Corc o barrinador del panís",
-            "El corc de les pomes i peres o carpocapsa",
-            "La processionària del pi",
-            "La tuta del tomàquet",
-            "El trip californià o occidental de les flors",
-            "L’hoplocampa de la perera",
-            "La falsa eruga o poll del roser",
-            "L’aranya roja dels fruiters",
-            "El badoc de l’avellaner",
-            "L’erinosi"
-          ],
-          "quote": "L’aranya groga dels fruiters i aranya roja del panís (Tetranychus urticae).",
-          "page": 29,
-          "id": "urticae-3"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Tetranychus urticae",
-          "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus",
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew.",
-            "Halyomorpha halys",
-            "Aelia rostrata",
-            "Eusarcoris inconspicuus",
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae",
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta",
-            "Frankliniella occidentalis",
-            "Hoplocampa brevis",
-            "Arge ochropus",
-            "Panonychus ulmi",
-            "Phytoptus avallanae",
-            "Eriophyes vitis"
-          ],
-          "quote": "L’aranya groga dels fruiters i aranya roja del panís (Tetranychus urticae).",
-          "page": 29,
-          "id": "urticae-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Tetraníquids",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Tetraníquids.",
-          "page": 29,
-          "id": "urticae-5"
-        },
-        {
-          "kind": "Danys del grup",
-          "prompt": "Quin símptoma caracteritza els tetraníquids?",
-          "answer": "Puntejat cloròtic que, quan és dens, produeix una coloració groguenca",
-          "distractors": [
-            "Galeries als troncs dels arbres",
-            "Aurèola vermella al voltant de la picada",
-            "Espigues seques"
-          ],
-          "quote": "Es caracteritzen per produir un puntejat cloròtic en les fulles, al succionar el contingut de les cèl·lules, que quan és dens, produeix una coloració groguenca.",
-          "page": 29,
-          "id": "urticae-6"
-        },
-        {
-          "kind": "Tret del grup",
-          "prompt": "Quina mida tenen els tetraníquids?",
-          "answer": "Entre 0,5 i 0,6 mm",
-          "distractors": [
-            "Entre 0,2 i 0,3 mm",
-            "Entre 0,5 i 5 mm",
-            "Entre 7 i 10 mm"
-          ],
-          "quote": "Mesuren entre 0,5 i 0,6 mm de longitud.",
-          "page": 29,
-          "id": "urticae-7"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Localització i alimentació",
-          "text": "Revers de les fulles, on xuclen la saba."
-        },
-        {
-          "label": "Danys",
-          "text": "Debiliten la planta i provoquen un assecament prematur de les fulles."
-        },
-        {
-          "label": "Cultius afectats",
-          "text": "L’aranya groga ataca els fruiters i la roja el panís i els cultius hortícoles."
-        }
-      ],
-      "groupStudy": {
-        "page": 29,
-        "fields": [
-          {
-            "label": "Nom i coloració",
-            "text": "Coneguts com a aranyes roges. Poden ser grogues, verdes o roges segons el clima, el substrat i l’edat."
-          },
-          {
-            "label": "Mida",
-            "text": "Entre 0,5 i 0,6 mm de longitud."
-          },
-          {
-            "label": "Reproducció",
-            "text": "Molt prolífiques: una femella pot pondre entre 100 i 200 ous cada 2–3 dies, segons el temari."
-          },
-          {
-            "label": "Distribució",
-            "text": "Àcars cosmopolites, en diferents ambients i tota mena de conreus: hortícoles, fruiters, extensius, ornamentals, etc."
-          },
-          {
-            "label": "Danys del grup",
-            "text": "Succionen el contingut de les cèl·lules i produeixen un puntejat cloròtic a les fulles. Quan és dens, provoca una coloració groguenca."
-          }
-        ]
-      },
-      "learningSection": "Àcars i altres organismes",
-      "learning": true
-    },
-    {
-      "id": "tetranychus",
-      "name": "Tetranychus (ous i colònies)",
-      "science": null,
-      "group": "Tetraníquids",
-      "page": 29,
-      "images": [
-        {
-          "id": "ous",
-          "image": "images/spider-mite-eggs.jpg",
-          "original": "images/spider-mite-eggs-original.jpg",
-          "page": 29,
-          "strip": "p8-Image487",
-          "box": [
-            3,
-            592,
-            170,
-            749
-          ]
-        },
-        {
-          "id": "colonia-1",
-          "image": "images/spider-mite-colony-1.jpg",
-          "original": "images/spider-mite-colony-1-original.jpg",
-          "page": 29,
-          "strip": "p8-Image487",
-          "box": [
-            3,
-            825,
-            170,
-            996
-          ]
-        },
-        {
-          "id": "colonia-2",
-          "image": "images/spider-mite-colony-2.jpg",
-          "original": "images/spider-mite-colony-2-original.jpg",
-          "page": 29,
-          "strip": "p8-Image487",
-          "box": [
-            3,
-            1066,
-            170,
-            1229
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Tetraníquids",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tarsonèmids",
-            "Eriòfids"
-          ],
-          "quote": "Apartat: Tetraníquids.",
-          "page": 29,
-          "id": "tetranychus-1"
-        },
-        {
-          "kind": "Danys del grup",
-          "prompt": "Quin símptoma caracteritza els tetraníquids?",
-          "answer": "Puntejat cloròtic que, quan és dens, produeix una coloració groguenca",
-          "distractors": [
-            "Galeries als troncs dels arbres",
-            "Aurèola vermella al voltant de la picada",
-            "Espigues seques"
-          ],
-          "quote": "Es caracteritzen per produir un puntejat cloròtic en les fulles, al succionar el contingut de les cèl·lules, que quan és dens, produeix una coloració groguenca.",
-          "page": 29,
-          "id": "tetranychus-2"
-        },
-        {
-          "kind": "Tret del grup",
-          "prompt": "Quina mida tenen els tetraníquids?",
-          "answer": "Entre 0,5 i 0,6 mm",
-          "distractors": [
-            "Entre 0,2 i 0,3 mm",
-            "Entre 0,5 i 5 mm",
-            "Entre 7 i 10 mm"
-          ],
-          "quote": "Mesuren entre 0,5 i 0,6 mm de longitud.",
-          "page": 29,
-          "id": "tetranychus-3"
-        }
-      ],
-      "note": "Els rètols diuen «Ous de Tetranychus» i «Colònia de Tetranychus», sense espècie. Les preguntes només tracten els tetraníquids.",
-      "study": [
-        {
-          "label": "Identificació de les imatges",
-          "text": "Ous i colònies de Tetranychus, sense espècie individual identificada."
         }
       ],
       "groupStudy": {
@@ -5079,30 +1566,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Tret especial",
-          "prompt": "On són freqüents aquests àcars?",
-          "answer": "En cultius d’hivernacles",
-          "distractors": [
-            "Al revers de les fulles de fruiters i panís",
-            "A l’interior dels borrons de l’avellaner"
-          ],
-          "quote": "Són freqüents en cultius d’hivernacles.",
-          "page": 30,
-          "id": "tarsonemids-1"
-        },
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quins danys provoquen els tarsonèmids?",
-          "answer": "Deformacions en botons florals i borrons, i decoloracions en fulles joves",
-          "distractors": [
-            "Puntejat cloròtic que produeix una coloració groguenca",
-            "Galeries als troncs dels arbres"
-          ],
-          "quote": "Provoquen deformacions en els botons florals i borrons, i decoloracions en les fulles joves.",
-          "page": 30,
-          "id": "tarsonemids-2"
-        },
-        {
           "kind": "Classificació",
           "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
           "answer": "Tarsonèmids",
@@ -5123,16 +1586,16 @@ window.PLAGUES_DATA = {
           "id": "tarsonemids-3"
         },
         {
-          "kind": "Tret del grup",
-          "prompt": "Com són realment les anomenades aranyes blanques?",
-          "answer": "Transparents",
+          "kind": "Danys i símptomes",
+          "prompt": "Quins danys provoquen els tarsonèmids?",
+          "answer": "Deformacions en botons florals i borrons, i decoloracions en fulles joves",
           "distractors": [
-            "Grogues, verdes o roges",
-            "Cap i tòrax negres i abdomen taronja"
+            "Puntejat cloròtic que produeix una coloració groguenca",
+            "Galeries als troncs dels arbres"
           ],
-          "quote": "Els tarsonèmids, coneguts com a aranyes blanques, encara que realment són transparents, tenen una mida petita (entre 0,2 – 0,3 mm).",
+          "quote": "Provoquen deformacions en els botons florals i borrons, i decoloracions en les fulles joves.",
           "page": 30,
-          "id": "tarsonemids-4"
+          "id": "tarsonemids-2"
         }
       ],
       "note": "Les imatges estan situades a l’apartat Tarsonèmids; no tenen un nom científic individual inequívoc. No es pregunta si són Steneotarsonemus pallidus o Poliphagotarsonemus latus.",
@@ -5171,349 +1634,6 @@ window.PLAGUES_DATA = {
       "learning": true
     },
     {
-      "id": "agalles",
-      "name": "Agalles",
-      "science": null,
-      "group": null,
-      "page": 30,
-      "images": [
-        {
-          "id": "agalles",
-          "image": "images/galls.jpg",
-          "original": "images/galls-original.jpg",
-          "page": 30,
-          "strip": "p9-Image495",
-          "box": [
-            3,
-            40,
-            205,
-            295
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Símptomes",
-          "prompt": "Quina alteració mostra aquesta imatge?",
-          "answer": "Agalles",
-          "distractors": [
-            "Hipertròfies",
-            "Puntejat cloròtic",
-            "Aurèola vermella"
-          ],
-          "quote": "Les agalles, macarulles, ballarugues, gales (gal·les) o cecidis són unes estructures tumorals que apareixen en les plantes com a resposta a la presència d’un paràsit (artròpodes, bacteris i fongs).",
-          "page": 30,
-          "id": "agalles-1"
-        },
-        {
-          "kind": "Tret especial",
-          "prompt": "Quin és l’objectiu del creixement anormal de teixit de les agalles?",
-          "answer": "Aïllar la infecció",
-          "distractors": [
-            "Formar el capoll",
-            "Protegir-se del fred"
-          ],
-          "quote": "Es produeix un creixement anormal de teixit amb l’objectiu d’aïllar la infecció.",
-          "page": 30,
-          "id": "agalles-2"
-        }
-      ],
-      "note": "És una fotografia d’una alteració vegetal. El PDF explica que les agalles poden respondre a artròpodes, bacteris o fongs; no es dedueix una espècie causant.",
-      "study": [
-        {
-          "label": "Altres noms",
-          "text": "Macarulles, ballarugues, gales (gal·les) o cecidis."
-        },
-        {
-          "label": "Què són",
-          "text": "Estructures tumorals que apareixen en les plantes com a resposta a la presència d’un paràsit."
-        },
-        {
-          "label": "Agents possibles",
-          "text": "Artròpodes, bacteris i fongs. La imatge no identifica una causa exclusiva."
-        },
-        {
-          "label": "Mecanisme i funció",
-          "text": "Creixement anormal de teixit amb l’objectiu d’aïllar la infecció."
-        }
-      ],
-      "groupStudy": {
-        "page": 30,
-        "fields": []
-      },
-      "learningSection": "Àcars i altres organismes",
-      "learning": true
-    },
-    {
-      "id": "hipertrofies",
-      "name": "Hipertròfies",
-      "science": null,
-      "group": null,
-      "page": 30,
-      "images": [
-        {
-          "id": "hipertrofies",
-          "image": "images/hypertrophy.jpg",
-          "original": "images/hypertrophy-original.jpg",
-          "page": 30,
-          "strip": "p9-Image495",
-          "box": [
-            3,
-            338,
-            205,
-            592
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Símptomes",
-          "prompt": "Quina alteració mostra aquesta imatge?",
-          "answer": "Hipertròfies",
-          "distractors": [
-            "Agalles",
-            "Puntejat cloròtic",
-            "Aurèola vermella"
-          ],
-          "quote": "Les hipertròfies es produeixen per un augment anormal del volum d’un teixit o òrgan a causa de l’increment de la mida de les cèl·lules.",
-          "page": 30,
-          "id": "hipertrofies-1"
-        },
-        {
-          "kind": "Tret especial",
-          "prompt": "Què causa l’augment de volum en les hipertròfies?",
-          "answer": "A l’increment de la mida de les cèl·lules",
-          "distractors": [
-            "A la succió de saba",
-            "A la presència d’un paràsit que provoca agalles"
-          ],
-          "quote": "Les hipertròfies es produeixen per un augment anormal del volum d’un teixit o òrgan a causa de l’increment de la mida de les cèl·lules.",
-          "page": 30,
-          "id": "hipertrofies-2"
-        }
-      ],
-      "note": "Fotografia identificada com a «Hipertròfies». No s’atribueix a cap espècie concreta.",
-      "study": [
-        {
-          "label": "Què són",
-          "text": "Augment anormal del volum d’un teixit o òrgan."
-        },
-        {
-          "label": "Mecanisme",
-          "text": "Increment de la mida de les cèl·lules."
-        },
-        {
-          "label": "Identificació",
-          "text": "La imatge mostra l’alteració; no identifica una espècie causant."
-        }
-      ],
-      "groupStudy": {
-        "page": 30,
-        "fields": []
-      },
-      "learningSection": "Àcars i altres organismes",
-      "learning": true
-    },
-    {
-      "id": "badoc",
-      "name": "El badoc de l’avellaner",
-      "science": "Phytoptus avallanae",
-      "group": "Eriòfids",
-      "page": 30,
-      "images": [
-        {
-          "id": "badoc",
-          "image": "images/hazelnut-bud-mite.jpg",
-          "original": "images/hazelnut-bud-mite-original.jpg",
-          "page": 30,
-          "strip": "p9-Image495",
-          "box": [
-            3,
-            677,
-            205,
-            886
-          ]
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Les gemmes atacades creixen, es deformen i no broten",
-          "distractors": [
-            "Galeries als troncs dels arbres",
-            "Olives deformades i pèrdua de qualitat de l’oli",
-            "Grans d’arròs buits i deformats"
-          ],
-          "quote": "Les gemmes atacades creixen, es deformen i no broten per l’acció de la gran quantitat d’àcars instal·lats en el seu interior.",
-          "page": 30,
-          "id": "badoc-1"
-        },
-        {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Avellaner",
-          "distractors": [
-            "Vinya",
-            "Rosers",
-            "Palmeres"
-          ],
-          "quote": "Causa danys als borrons de l’avellaner.",
-          "page": 30,
-          "id": "badoc-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "A quina plaga correspon aquesta imatge?",
-          "answer": "El badoc de l’avellaner",
-          "distractors": [
-            "L’escarabat de la patata",
-            "El diabló de l’avellaner",
-            "La cuca negra de l’alfals (o userda)",
-            "El zabre del cereal",
-            "El morrut roig de les palmeres",
-            "La mosca mediterrània de la fruita",
-            "La mosca de l’olivera",
-            "La mosca d’ales tacades",
-            "Les típules",
-            "La mosca de la fruita mexicana",
-            "El bernat mabrejat",
-            "Les xinxes dels cereals",
-            "La pudenta de l’arròs",
-            "La psil·la de la pera",
-            "El poll de San José",
-            "El cotonet de les Valls",
-            "La caparreta de l’olivera",
-            "El barrinador de la fusta",
-            "Corc o barrinador del panís",
-            "El corc de les pomes i peres o carpocapsa",
-            "La processionària del pi",
-            "La tuta del tomàquet",
-            "El trip californià o occidental de les flors",
-            "L’hoplocampa de la perera",
-            "La falsa eruga o poll del roser",
-            "L’aranya roja dels fruiters",
-            "L’aranya groga dels fruiters i aranya roja del panís",
-            "L’erinosi"
-          ],
-          "quote": "El badoc de l’avellaner (Phytoptus avallanae).",
-          "page": 30,
-          "id": "badoc-3"
-        },
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Phytoptus avallanae",
-          "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus",
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew.",
-            "Halyomorpha halys",
-            "Aelia rostrata",
-            "Eusarcoris inconspicuus",
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae",
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta",
-            "Frankliniella occidentalis",
-            "Hoplocampa brevis",
-            "Arge ochropus",
-            "Panonychus ulmi",
-            "Tetranychus urticae",
-            "Eriophyes vitis"
-          ],
-          "quote": "El badoc de l’avellaner (Phytoptus avallanae).",
-          "page": 30,
-          "id": "badoc-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Eriòfids",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids"
-          ],
-          "quote": "Apartat: Eriòfids.",
-          "page": 30,
-          "id": "badoc-5"
-        },
-        {
-          "kind": "Tret del grup",
-          "prompt": "Com es poden veure els eriòfids?",
-          "answer": "Són invisibles a simple vista",
-          "distractors": [
-            "Mesuren entre 7 i 10 mm",
-            "Mesuren entre 0,5 i 5 mm"
-          ],
-          "quote": "Els eriòfids són invisibles a simple vista. Es caracteritzen per produir tota mena de deformacions, des d’agalles fins a hipertròfies orgàniques.",
-          "page": 30,
-          "id": "badoc-6"
-        }
-      ],
-      "note": "",
-      "study": [
-        {
-          "label": "Planta afectada",
-          "text": "Avellaner; és una de les seves plagues més importants."
-        },
-        {
-          "label": "Localització dels danys",
-          "text": "Borrons de l’avellaner."
-        },
-        {
-          "label": "Símptomes",
-          "text": "Les gemmes atacades creixen, es deformen i no broten."
-        },
-        {
-          "label": "Causa dels danys",
-          "text": "Acció de la gran quantitat d’àcars instal·lats a l’interior de les gemmes."
-        }
-      ],
-      "groupStudy": {
-        "page": 30,
-        "fields": [
-          {
-            "label": "Visibilitat",
-            "text": "Invisibles a simple vista."
-          },
-          {
-            "label": "Danys del grup",
-            "text": "Produeixen tota mena de deformacions, des d’agalles fins a hipertròfies orgàniques."
-          },
-          {
-            "label": "Agalles",
-            "text": "Estructures tumorals que responen a un paràsit (artròpodes, bacteris o fongs), amb creixement anormal de teixit per aïllar la infecció."
-          },
-          {
-            "label": "Hipertròfies",
-            "text": "Augment anormal del volum d’un teixit o òrgan per l’increment de la mida de les cèl·lules."
-          }
-        ]
-      },
-      "learningSection": "Àcars i altres organismes",
-      "learning": true
-    },
-    {
       "id": "erinosi",
       "name": "L’erinosi",
       "science": "Eriophyes vitis",
@@ -5535,32 +1655,6 @@ window.PLAGUES_DATA = {
         }
       ],
       "questions": [
-        {
-          "kind": "Cultius",
-          "prompt": "Quins cultius o plantes afecta aquesta plaga?",
-          "answer": "Vinya",
-          "distractors": [
-            "Avellaner",
-            "Rosers",
-            "Palmeres"
-          ],
-          "quote": "És una plaga que afecta la vinya.",
-          "page": 30,
-          "id": "erinosi-1"
-        },
-        {
-          "kind": "Danys i símptomes",
-          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
-          "answer": "Deformacions característiques a les fulles, que poden ser importants en vivers",
-          "distractors": [
-            "Galeries als troncs dels arbres",
-            "Olives deformades i pèrdua de qualitat de l’oli",
-            "Aurèola vermella al voltant de la picada"
-          ],
-          "quote": "Deformacions característiques a les fulles, que poden ser importants en vivers",
-          "page": 30,
-          "id": "erinosi-2"
-        },
         {
           "kind": "Identificació",
           "prompt": "A quina plaga correspon aquesta imatge?",
@@ -5600,73 +1694,17 @@ window.PLAGUES_DATA = {
           "id": "erinosi-3"
         },
         {
-          "kind": "Nom científic",
-          "prompt": "Quin és el nom científic de la plaga de la fotografia?",
-          "answer": "Eriophyes vitis",
+          "kind": "Danys i símptomes",
+          "prompt": "Quin dany o símptoma provoca aquesta plaga?",
+          "answer": "Deformacions característiques a les fulles, que poden ser importants en vivers",
           "distractors": [
-            "Leptinotarsa decemlineata",
-            "Curculio nucum L.",
-            "Colaspidema atrum",
-            "Zabrus tenebrioides",
-            "Rhynchophorus ferrugineus",
-            "Ceratitis capitata",
-            "Bactrocera oleae L.",
-            "Drosophila suzukii",
-            "Tipula sp.",
-            "Anastrepha ludens Loew.",
-            "Halyomorpha halys",
-            "Aelia rostrata",
-            "Eusarcoris inconspicuus",
-            "Cacopsylla pyri",
-            "Quadraspidiotus perniciosus",
-            "Delottococcus aberiae",
-            "Saissetia oleae",
-            "Zeuzera pyrina",
-            "Cydia pomonella",
-            "Thaumetopoea pityocampa",
-            "Tuta absoluta",
-            "Frankliniella occidentalis",
-            "Hoplocampa brevis",
-            "Arge ochropus",
-            "Panonychus ulmi",
-            "Tetranychus urticae",
-            "Phytoptus avallanae"
+            "Galeries als troncs dels arbres",
+            "Olives deformades i pèrdua de qualitat de l’oli",
+            "Aurèola vermella al voltant de la picada"
           ],
-          "quote": "L’erinosi (Eriophyes vitis).",
+          "quote": "Deformacions característiques a les fulles, que poden ser importants en vivers",
           "page": 30,
-          "id": "erinosi-4"
-        },
-        {
-          "kind": "Classificació",
-          "prompt": "A quin ordre, subordre o grup correspon aquesta imatge?",
-          "answer": "Eriòfids",
-          "distractors": [
-            "Coleòpters",
-            "Dípters",
-            "Hemípters · heteròpters",
-            "Hemípters · esternorrincs",
-            "Lepidòpters",
-            "Ortòpters",
-            "Tisanòpters",
-            "Himenòpters",
-            "Tetraníquids",
-            "Tarsonèmids"
-          ],
-          "quote": "Apartat: Eriòfids.",
-          "page": 30,
-          "id": "erinosi-5"
-        },
-        {
-          "kind": "Tret del grup",
-          "prompt": "Com es poden veure els eriòfids?",
-          "answer": "Són invisibles a simple vista",
-          "distractors": [
-            "Mesuren entre 7 i 10 mm",
-            "Mesuren entre 0,5 i 5 mm"
-          ],
-          "quote": "Els eriòfids són invisibles a simple vista. Es caracteritzen per produir tota mena de deformacions, des d’agalles fins a hipertròfies orgàniques.",
-          "page": 30,
-          "id": "erinosi-6"
+          "id": "erinosi-2"
         }
       ],
       "note": "",
@@ -5751,19 +1789,6 @@ window.PLAGUES_DATA = {
           "quote": "Hi intervenen factors físics, hàbitats adequats, depredadors i disponibilitat d’aliments i aigua.",
           "page": 4,
           "id": "pest-pest-threshold-2"
-        },
-        {
-          "kind": "Danys",
-          "prompt": "Quin exemple pot provocar danys irreversibles perquè afecta les arrels?",
-          "answer": "El cuc de la ceba o el cuc del filferro",
-          "distractors": [
-            "Una marieta que depreda pugons",
-            "Un insecte que pol·linitza",
-            "Un sapròfag que descompon residus"
-          ],
-          "quote": "Els danys solen ser reversibles, però les plagues d’arrels, com el cuc de la ceba o del filferro, poden matar la planta.",
-          "page": 4,
-          "id": "pest-pest-threshold-3"
         }
       ],
       "study": [
@@ -5821,18 +1846,6 @@ window.PLAGUES_DATA = {
           "id": "pest-pest-types-1"
         },
         {
-          "kind": "Freqüència",
-          "prompt": "Només eventualment la població arriba a un nivell que afecta el cultiu. Quin tipus és?",
-          "answer": "Plaga ocasional",
-          "distractors": [
-            "Plaga clau",
-            "Plaga potencial"
-          ],
-          "quote": "Una plaga ocasional només eventualment assoleix un nivell que afecta els cultius.",
-          "page": 4,
-          "id": "pest-pest-types-2"
-        },
-        {
           "kind": "Impacte",
           "prompt": "Una plaga freqüent a la zona ocasiona forts danys econòmics. Quin tipus és?",
           "answer": "Plaga clau",
@@ -5888,19 +1901,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Concepte",
-          "prompt": "Quina ciència estudia la classificació dels organismes?",
-          "answer": "Taxonomia",
-          "distractors": [
-            "Entomologia",
-            "Pol·linització",
-            "Metamorfosi"
-          ],
-          "quote": "La ciència que estudia aquestes classificacions és la taxonomia.",
-          "page": 5,
-          "id": "pest-taxonomy-1"
-        },
-        {
           "kind": "Categories",
           "prompt": "Quina és la categoria taxonòmica més bàsica?",
           "answer": "Espècie",
@@ -5952,88 +1952,6 @@ window.PLAGUES_DATA = {
       "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
     },
     {
-      "id": "pest-arthropods",
-      "name": "Els artròpodes",
-      "science": "",
-      "group": "Fonaments i diagnosi",
-      "page": 6,
-      "learning": true,
-      "learningSection": "Fonaments i diagnosi",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-arthropods",
-          "image": "images/pest-arthropods.jpg",
-          "original": "images/pest-arthropods-original.jpg",
-          "page": 6
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Estructura",
-          "prompt": "De quina substància està format principalment l’exoesquelet dels artròpodes?",
-          "answer": "Quitina",
-          "distractors": [
-            "Melassa",
-            "Cera",
-            "Seda"
-          ],
-          "quote": "La cutícula o exoesquelet està formada principalment per quitina, una substància dura i resistent.",
-          "page": 6,
-          "id": "pest-arthropods-1"
-        },
-        {
-          "kind": "Funció",
-          "prompt": "Quina combinació descriu l’exoesquelet?",
-          "answer": "Protegeix, però dificulta el creixement",
-          "distractors": [
-            "Permet créixer contínuament sense mudar",
-            "És un òrgan digestiu",
-            "És un òrgan de reproducció"
-          ],
-          "quote": "L’exoesquelet protegeix de condicions adverses i dificulta el creixement; es renova mitjançant la muda.",
-          "page": 6,
-          "id": "pest-arthropods-2"
-        },
-        {
-          "kind": "Morfologia",
-          "prompt": "Què significa que presenten simetria bilateral?",
-          "answer": "El cos es divideix en dues parts iguals",
-          "distractors": [
-            "El cos té sempre dues ales",
-            "El cos té sempre dues potes",
-            "El cos no té segments"
-          ],
-          "quote": "La simetria bilateral divideix el cos en dues parts iguals.",
-          "page": 6,
-          "id": "pest-arthropods-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Invertebrats amb simetria bilateral, exoesquelet i apèndixs articulats."
-        },
-        {
-          "label": "Estructura",
-          "text": "La cutícula o exoesquelet està formada principalment per quitina, una substància dura i resistent."
-        },
-        {
-          "label": "Funció",
-          "text": "L’exoesquelet protegeix de condicions adverses i dificulta el creixement; es renova mitjançant la muda."
-        },
-        {
-          "label": "Morfologia",
-          "text": "La simetria bilateral divideix el cos en dues parts iguals."
-        }
-      ],
-      "groupStudy": {
-        "page": 6,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
       "id": "pest-useful-arthropods",
       "name": "Artròpodes: perjudicis i beneficis",
       "science": "",
@@ -6076,18 +1994,6 @@ window.PLAGUES_DATA = {
           "quote": "La pol·linització transmet el pol·len des dels estams fins a l’estigma.",
           "page": 7,
           "id": "pest-useful-arthropods-2"
-        },
-        {
-          "kind": "Beneficis",
-          "prompt": "Quins productes útils es relacionen amb els artròpodes?",
-          "answer": "Cera d’abella, mel i seda",
-          "distractors": [
-            "Melassa, negreta i galeries",
-            "Agalles, hipertròfies i defoliacions"
-          ],
-          "quote": "El tema cita aliments i productes útils, com cera d’abella, mel, seda i colorants.",
-          "page": 7,
-          "id": "pest-useful-arthropods-3"
         }
       ],
       "study": [
@@ -6132,19 +2038,6 @@ window.PLAGUES_DATA = {
         }
       ],
       "questions": [
-        {
-          "kind": "Concepte",
-          "prompt": "Què significa hexàpodes?",
-          "answer": "Sis potes",
-          "distractors": [
-            "Vuit potes",
-            "Dos parells de potes",
-            "Cap pota"
-          ],
-          "quote": "Els insectes són la classe dels hexàpodes: sis potes.",
-          "page": 8,
-          "id": "pest-insects-and-allies-1"
-        },
         {
           "kind": "Fauna auxiliar",
           "prompt": "Una marieta s’alimenta de pugons. Quin paper té?",
@@ -6243,19 +2136,6 @@ window.PLAGUES_DATA = {
           "quote": "La llista d’observació combina localització, tipus de dany, tipus de plaga, potes, moviment, estructures i color.",
           "page": 33,
           "id": "pest-diagnosis-2"
-        },
-        {
-          "kind": "Eina",
-          "prompt": "Quina eina pot ajudar a observar les parts afectades i l’organisme?",
-          "answer": "Lupa comptafils",
-          "distractors": [
-            "Oviscapte",
-            "Ràdula",
-            "Balancins"
-          ],
-          "quote": "Es poden observar les diferents parts de la planta amb una lupa comptafils i després l’organisme causant.",
-          "page": 33,
-          "id": "pest-diagnosis-3"
         }
       ],
       "study": [
@@ -6278,88 +2158,6 @@ window.PLAGUES_DATA = {
       ],
       "groupStudy": {
         "page": 33,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-identification-sheets",
-      "name": "Les fitxes descriptives",
-      "science": "",
-      "group": "Fonaments i diagnosi",
-      "page": 34,
-      "learning": true,
-      "learningSection": "Fonaments i diagnosi",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-identification-sheets",
-          "image": "images/pest-identification-sheets.jpg",
-          "original": "images/pest-identification-sheets-original.jpg",
-          "page": 34
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Recurs",
-          "prompt": "Quin recurs es proposa per facilitar la identificació d’un organisme nociu?",
-          "answer": "Fitxes descriptives de les plagues",
-          "distractors": [
-            "Només la llista de noms comuns",
-            "Només una fotografia sense context",
-            "Només la mida de l’organisme"
-          ],
-          "quote": "Les fitxes descriptives són una eina per identificar organismes nocius i facilitar el diagnòstic.",
-          "page": 34,
-          "id": "pest-identification-sheets-1"
-        },
-        {
-          "kind": "Informació",
-          "prompt": "Quin conjunt d’informació inclou una fitxa de plaga?",
-          "answer": "Taxonomia, hostes, distribució, simptomatologia i biologia",
-          "distractors": [
-            "Només color, mida i nombre d’ales",
-            "Només el nom de la família",
-            "Només una categoria de metamorfosi"
-          ],
-          "quote": "Les fitxes inclouen classificació, categorització, hostes, situació geogràfica, simptomatologia, biologia i mostreig.",
-          "page": 34,
-          "id": "pest-identification-sheets-2"
-        },
-        {
-          "kind": "Mostreig",
-          "prompt": "Què explica l’apartat de mètode de mostreig?",
-          "answer": "Com prendre mostres i el moment òptim per inspeccionar",
-          "distractors": [
-            "Només el nom científic",
-            "Només el tipus d’aparell bucal",
-            "Només la reproducció"
-          ],
-          "quote": "El mètode de mostreig descriu el procediment i el moment òptim per a la inspecció visual i presa de mostres.",
-          "page": 34,
-          "id": "pest-identification-sheets-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Les fitxes descriptives ajuden al diagnòstic amb taxonomia, hostes, símptomes, biologia i mostreig."
-        },
-        {
-          "label": "Recurs",
-          "text": "Les fitxes descriptives són una eina per identificar organismes nocius i facilitar el diagnòstic."
-        },
-        {
-          "label": "Informació",
-          "text": "Les fitxes inclouen classificació, categorització, hostes, situació geogràfica, simptomatologia, biologia i mostreig."
-        },
-        {
-          "label": "Mostreig",
-          "text": "El mètode de mostreig descriu el procediment i el moment òptim per a la inspecció visual i presa de mostres."
-        }
-      ],
-      "groupStudy": {
-        "page": 34,
         "fields": []
       },
       "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
@@ -6394,19 +2192,6 @@ window.PLAGUES_DATA = {
           "quote": "El cos dels insectes adults es divideix en cap, tòrax i abdomen.",
           "page": 9,
           "id": "pest-insect-body-1"
-        },
-        {
-          "kind": "Sentits",
-          "prompt": "On es troben els principals òrgans dels sentits?",
-          "answer": "Al cap",
-          "distractors": [
-            "Al tòrax",
-            "A l’abdomen",
-            "Als èlitres"
-          ],
-          "quote": "Al cap hi ha ulls, antenes i aparell bucal.",
-          "page": 9,
-          "id": "pest-insect-body-2"
         },
         {
           "kind": "Antenes",
@@ -6447,88 +2232,6 @@ window.PLAGUES_DATA = {
       "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
     },
     {
-      "id": "pest-insect-eyes",
-      "name": "Els ulls dels insectes",
-      "science": "",
-      "group": "Biologia dels insectes",
-      "page": 9,
-      "learning": true,
-      "learningSection": "Biologia dels insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-insect-eyes",
-          "image": "images/pest-insect-eyes.jpg",
-          "original": "images/pest-insect-eyes-original.jpg",
-          "page": 9
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Terminologia",
-          "prompt": "Com s’anomenen els ulls simples dels insectes?",
-          "answer": "Ocels",
-          "distractors": [
-            "Cercs",
-            "Quelícers",
-            "Pedipalps"
-          ],
-          "quote": "Els ulls simples s’anomenen ocels.",
-          "page": 9,
-          "id": "pest-insect-eyes-1"
-        },
-        {
-          "kind": "Localització",
-          "prompt": "En quin tagma es troben els ulls i les antenes?",
-          "answer": "Cap",
-          "distractors": [
-            "Tòrax",
-            "Abdomen",
-            "Idiosoma"
-          ],
-          "quote": "Els principals òrgans dels sentits es troben al cap.",
-          "page": 9,
-          "id": "pest-insect-eyes-2"
-        },
-        {
-          "kind": "Comparació",
-          "prompt": "Quins dos tipus d’ulls distingeix el tema?",
-          "answer": "Compostos i simples",
-          "distractors": [
-            "Mastegadors i xucladors",
-            "Dorsals i ventrals",
-            "Sexuals i asexuals"
-          ],
-          "quote": "El tema descriu un parell d’ulls compostos grans i diversos ulls simples.",
-          "page": 9,
-          "id": "pest-insect-eyes-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Al cap hi ha ulls compostos i ulls simples, anomenats ocels."
-        },
-        {
-          "label": "Terminologia",
-          "text": "Els ulls simples s’anomenen ocels."
-        },
-        {
-          "label": "Localització",
-          "text": "Els principals òrgans dels sentits es troben al cap."
-        },
-        {
-          "label": "Comparació",
-          "text": "El tema descriu un parell d’ulls compostos grans i diversos ulls simples."
-        }
-      ],
-      "groupStudy": {
-        "page": 9,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
       "id": "pest-thorax",
       "name": "El tòrax i les potes",
       "science": "",
@@ -6558,19 +2261,6 @@ window.PLAGUES_DATA = {
           "quote": "Cada segment toràcic té un parell de potes en posició ventral.",
           "page": 10,
           "id": "pest-thorax-1"
-        },
-        {
-          "kind": "Estructura",
-          "prompt": "Quants segments té el tòrax?",
-          "answer": "Tres",
-          "distractors": [
-            "Dos",
-            "Quatre",
-            "Sis"
-          ],
-          "quote": "El tòrax consta sempre de tres segments.",
-          "page": 10,
-          "id": "pest-thorax-2"
         },
         {
           "kind": "Adaptació",
@@ -6653,19 +2343,6 @@ window.PLAGUES_DATA = {
           "quote": "Els balancins mantenen l’estabilitat durant el vol; no es pregunta quin parell d’ales els origina.",
           "page": 10,
           "id": "pest-wings-2"
-        },
-        {
-          "kind": "Terminologia",
-          "prompt": "Com s’anomenen els insectes que no tenen ales?",
-          "answer": "Àpters",
-          "distractors": [
-            "Hexàpodes",
-            "Holometàbols",
-            "Polífags"
-          ],
-          "quote": "Els individus sense ales es descriuen com a àpters.",
-          "page": 10,
-          "id": "pest-wings-3"
         }
       ],
       "study": [
@@ -6688,88 +2365,6 @@ window.PLAGUES_DATA = {
       ],
       "groupStudy": {
         "page": 10,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-abdomen",
-      "name": "L’abdomen, els cercs i l’oviscapte",
-      "science": "",
-      "group": "Biologia dels insectes",
-      "page": 11,
-      "learning": true,
-      "learningSection": "Biologia dels insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-abdomen",
-          "image": "images/pest-abdomen.jpg",
-          "original": "images/pest-abdomen-original.jpg",
-          "page": 11
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Localització",
-          "prompt": "En quina regió es troba l’oviscapte o ovipositor?",
-          "answer": "Abdomen",
-          "distractors": [
-            "Cap",
-            "Tòrax",
-            "Gnatosoma"
-          ],
-          "quote": "A l’abdomen s’alberguen els òrgans sexuals externs, com l’oviscapte o ovipositor de les femelles.",
-          "page": 11,
-          "id": "pest-abdomen-1"
-        },
-        {
-          "kind": "Sentits",
-          "prompt": "Què són els cercs?",
-          "answer": "Òrgans sensorials al final de l’abdomen",
-          "distractors": [
-            "Ulls simples del cap",
-            "Ales endurides",
-            "Peces bucals dels àcars"
-          ],
-          "quote": "En insectes més primitius es poden trobar cercs, òrgans sensorials al final de l’abdomen.",
-          "page": 11,
-          "id": "pest-abdomen-2"
-        },
-        {
-          "kind": "Respiració",
-          "prompt": "Què acostuma a presentar cada segment abdominal?",
-          "answer": "Un parell d’obertures del sistema respiratori",
-          "distractors": [
-            "Un parell d’ales",
-            "Un parell d’antenes",
-            "Un parell d’ulls compostos"
-          ],
-          "quote": "Cada segment acostuma a tenir un parell d’obertures a l’exterior del sistema respiratori.",
-          "page": 11,
-          "id": "pest-abdomen-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "L’abdomen és la regió posterior i conté òrgans sexuals externs; alguns insectes hi tenen cercs sensorials."
-        },
-        {
-          "label": "Localització",
-          "text": "A l’abdomen s’alberguen els òrgans sexuals externs, com l’oviscapte o ovipositor de les femelles."
-        },
-        {
-          "label": "Sentits",
-          "text": "En insectes més primitius es poden trobar cercs, òrgans sensorials al final de l’abdomen."
-        },
-        {
-          "label": "Respiració",
-          "text": "Cada segment acostuma a tenir un parell d’obertures a l’exterior del sistema respiratori."
-        }
-      ],
-      "groupStudy": {
-        "page": 11,
         "fields": []
       },
       "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
@@ -6817,19 +2412,6 @@ window.PLAGUES_DATA = {
           "quote": "Es troba en molts grups, especialment ortòpters, coleòpters, neuròpters i alguns himenòpters.",
           "page": 11,
           "id": "pest-chewing-mouth-2"
-        },
-        {
-          "kind": "Adaptació",
-          "prompt": "Amb què es relaciona la forma de l’aparell bucal?",
-          "answer": "Amb el tipus d’alimentació i l’estadi de l’insecte",
-          "distractors": [
-            "Només amb el color del cos",
-            "Només amb la mida de les ales",
-            "Només amb el nombre de potes"
-          ],
-          "quote": "L’aparell bucal varia entre espècies i entre estadis juvenils i adults, adaptat als tipus d’alimentació.",
-          "page": 11,
-          "id": "pest-chewing-mouth-3"
         }
       ],
       "study": [
@@ -6852,170 +2434,6 @@ window.PLAGUES_DATA = {
       ],
       "groupStudy": {
         "page": 11,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-sucking-mouth",
-      "name": "L’aparell bucal xuclador",
-      "science": "",
-      "group": "Biologia dels insectes",
-      "page": 12,
-      "learning": true,
-      "learningSection": "Biologia dels insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-sucking-mouth",
-          "image": "images/pest-sucking-mouth.jpg",
-          "original": "images/pest-sucking-mouth-original.jpg",
-          "page": 12
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Estructura",
-          "prompt": "Quina estructura retràctil caracteritza l’aparell xuclador descrit?",
-          "answer": "Proboscis",
-          "distractors": [
-            "Ràdula",
-            "Oviscapte",
-            "Cercs"
-          ],
-          "quote": "El llavi s’ha transformat en un braç retràctil anomenat proboscis.",
-          "page": 12,
-          "id": "pest-sucking-mouth-1"
-        },
-        {
-          "kind": "Alimentació",
-          "prompt": "Quins aliments absorbeix el lòbul carnós de la proboscis?",
-          "answer": "Líquids i semilíquids",
-          "distractors": [
-            "Només teixits llenyosos",
-            "Només fulles sòlides tallades",
-            "Només residus triturats amb ràdula"
-          ],
-          "quote": "El lòbul actua com una esponja que absorbeix aliments líquids i semilíquids.",
-          "page": 12,
-          "id": "pest-sucking-mouth-2"
-        },
-        {
-          "kind": "Larves",
-          "prompt": "Com s’anomena l’aparell especial amb ganxos bucals d’algunes larves de dípters?",
-          "answer": "Raspador",
-          "distractors": [
-            "Picador-xuclador",
-            "Mastegador-llepador",
-            "Ràdula"
-          ],
-          "quote": "Algunes larves de dípters presenten un aparell raspador amb ganxos bucals per triturar l’aliment.",
-          "page": 12,
-          "id": "pest-sucking-mouth-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "En alguns dípters, una proboscis acaba en un lòbul que absorbeix líquids com una esponja."
-        },
-        {
-          "label": "Estructura",
-          "text": "El llavi s’ha transformat en un braç retràctil anomenat proboscis."
-        },
-        {
-          "label": "Alimentació",
-          "text": "El lòbul actua com una esponja que absorbeix aliments líquids i semilíquids."
-        },
-        {
-          "label": "Larves",
-          "text": "Algunes larves de dípters presenten un aparell raspador amb ganxos bucals per triturar l’aliment."
-        }
-      ],
-      "groupStudy": {
-        "page": 12,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-lapping-mouth",
-      "name": "L’aparell bucal mastegador-llepador",
-      "science": "",
-      "group": "Biologia dels insectes",
-      "page": 12,
-      "learning": true,
-      "learningSection": "Biologia dels insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-lapping-mouth",
-          "image": "images/pest-lapping-mouth.jpg",
-          "original": "images/pest-lapping-mouth-original.jpg",
-          "page": 12
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Funció",
-          "prompt": "Quina funció principal té aquest aparell en les abelles?",
-          "answer": "Recollir el nèctar de les flors",
-          "distractors": [
-            "Perforar teixits per xuclar saba",
-            "Tallar arrels i tubercles",
-            "Raspar fulles amb una ràdula"
-          ],
-          "quote": "La principal funció és la recol·lecció del nèctar de les flors.",
-          "page": 12,
-          "id": "pest-lapping-mouth-1"
-        },
-        {
-          "kind": "Estructura",
-          "prompt": "Com es transforma el llavi?",
-          "answer": "En una llengua allargada i coberta de pilositats",
-          "distractors": [
-            "En èlitres protectors",
-            "En cercs sensorials",
-            "En un ovipositor"
-          ],
-          "quote": "El llavi forma una llengua allargada amb pilositats i un canal central per on ascendeix l’aliment.",
-          "page": 12,
-          "id": "pest-lapping-mouth-2"
-        },
-        {
-          "kind": "Mandíbules",
-          "prompt": "Per a què fan servir també les mandíbules les abelles?",
-          "answer": "Manipular la cera",
-          "distractors": [
-            "Mantenir l’equilibri en vol",
-            "Pondre els ous",
-            "Produir melassa"
-          ],
-          "quote": "Les mandíbules es conserven com a eina de treball, per exemple per manipular cera.",
-          "page": 12,
-          "id": "pest-lapping-mouth-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "En les abelles, el llavi allargat ajuda a recollir nèctar i les mandíbules es conserven com a eina de treball."
-        },
-        {
-          "label": "Funció",
-          "text": "La principal funció és la recol·lecció del nèctar de les flors."
-        },
-        {
-          "label": "Estructura",
-          "text": "El llavi forma una llengua allargada amb pilositats i un canal central per on ascendeix l’aliment."
-        },
-        {
-          "label": "Mandíbules",
-          "text": "Les mandíbules es conserven com a eina de treball, per exemple per manipular cera."
-        }
-      ],
-      "groupStudy": {
-        "page": 12,
         "fields": []
       },
       "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
@@ -7063,19 +2481,6 @@ window.PLAGUES_DATA = {
           "quote": "El tema cita xinxes, mosques blanques, psil·les, cicadèlids, pugons i cotxinilles, entre altres.",
           "page": 12,
           "id": "pest-piercing-mouth-2"
-        },
-        {
-          "kind": "Comparació",
-          "prompt": "Quina acció el diferencia de l’aparell mastegador?",
-          "answer": "Perforar i xuclar, en lloc de tallar aliments sòlids",
-          "distractors": [
-            "Tallar aliments sòlids amb mandíbules",
-            "Llepar nèctar amb una llengua pilosa",
-            "Raspar amb la ràdula"
-          ],
-          "quote": "El picador-xuclador perfora i xucla; el mastegador mossega o talla sòlids.",
-          "page": 12,
-          "id": "pest-piercing-mouth-3"
         }
       ],
       "study": [
@@ -7134,19 +2539,6 @@ window.PLAGUES_DATA = {
           "id": "pest-parthenogenesis-1"
         },
         {
-          "kind": "Comparació",
-          "prompt": "Què requereix la reproducció sexual descrita?",
-          "answer": "Unió de mascle i femella i fecundació",
-          "distractors": [
-            "Només un òvul no fecundat",
-            "Diversos embrions per cada ou sense més condicions",
-            "Una muda de l’exoesquelet"
-          ],
-          "quote": "La reproducció sexual té lloc amb la unió de mascle i femella i la fecundació.",
-          "page": 13,
-          "id": "pest-parthenogenesis-2"
-        },
-        {
           "kind": "Exemple",
           "prompt": "Quin grup s’utilitza per explicar la partenogènesi?",
           "answer": "Pugons",
@@ -7185,170 +2577,6 @@ window.PLAGUES_DATA = {
       "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
     },
     {
-      "id": "pest-polyembryony",
-      "name": "La poliembrionia",
-      "science": "",
-      "group": "Biologia dels insectes",
-      "page": 13,
-      "learning": true,
-      "learningSection": "Biologia dels insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-polyembryony",
-          "image": "images/pest-polyembryony.jpg",
-          "original": "images/pest-polyembryony-original.jpg",
-          "page": 13
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Concepte",
-          "prompt": "Quin procés produeix més d’un embrió a partir d’un ou?",
-          "answer": "Poliembrionia",
-          "distractors": [
-            "Partenogènesi",
-            "Ècdisi",
-            "Diapausa"
-          ],
-          "quote": "Hi ha espècies amb ous capaços de donar lloc a més d’un embrió: poliembrionia.",
-          "page": 13,
-          "id": "pest-polyembryony-1"
-        },
-        {
-          "kind": "Exemple",
-          "prompt": "En quin grup es destaca aquesta reproducció?",
-          "answer": "Vespes paràsites",
-          "distractors": [
-            "Mol·luscs gasteròpodes",
-            "Vertebrats rosegadors",
-            "Tetraníquids"
-          ],
-          "quote": "Es presenta en pocs insectes, principalment en vespes paràsites.",
-          "page": 13,
-          "id": "pest-polyembryony-2"
-        },
-        {
-          "kind": "Utilitat",
-          "prompt": "Per què pot ser útil per al control de plagues?",
-          "answer": "Augmenta la capacitat reproductiva de les vespes paràsites",
-          "distractors": [
-            "Converteix les vespes en fitòfagues",
-            "Elimina la necessitat d’identificar la plaga",
-            "Impedeix que les vespes tinguin descendència"
-          ],
-          "quote": "La poliembrionia pot donar una alta capacitat reproductiva a vespes paràsites útils en el control de plagues.",
-          "page": 13,
-          "id": "pest-polyembryony-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Un ou pot donar lloc a més d’un embrió."
-        },
-        {
-          "label": "Concepte",
-          "text": "Hi ha espècies amb ous capaços de donar lloc a més d’un embrió: poliembrionia."
-        },
-        {
-          "label": "Exemple",
-          "text": "Es presenta en pocs insectes, principalment en vespes paràsites."
-        },
-        {
-          "label": "Utilitat",
-          "text": "La poliembrionia pot donar una alta capacitat reproductiva a vespes paràsites útils en el control de plagues."
-        }
-      ],
-      "groupStudy": {
-        "page": 13,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-cottony-cushion-scale",
-      "name": "La cotxinilla acanalada",
-      "science": "",
-      "group": "Plagues d’insectes",
-      "page": 14,
-      "learning": true,
-      "learningSection": "Plagues d’insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-cottony-cushion-scale",
-          "image": "images/pest-cottony-cushion-scale.jpg",
-          "original": "images/pest-cottony-cushion-scale-original.jpg",
-          "page": 14
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Reproducció",
-          "prompt": "Icerya purchasi produeix els dos tipus de gàmetes. Quin fenomen exemplifica?",
-          "answer": "Hermafroditisme funcional",
-          "distractors": [
-            "Poliembrionia",
-            "Diapausa",
-            "Metamorfosi incompleta"
-          ],
-          "quote": "El tema cita Icerya purchasi com un dels pocs casos en què un organisme genera ambdós gàmetes.",
-          "page": 14,
-          "id": "pest-cottony-cushion-scale-1"
-        },
-        {
-          "kind": "Alimentació",
-          "prompt": "De què s’alimenten les larves i femelles en cítrics?",
-          "answer": "De la saba de l’arbre",
-          "distractors": [
-            "De fusta seca",
-            "De pol·len",
-            "D’altres insectes"
-          ],
-          "quote": "En cítrics, larves i femelles s’alimenten de saba i excreten gran quantitat de melassa.",
-          "page": 14,
-          "id": "pest-cottony-cushion-scale-2"
-        },
-        {
-          "kind": "Símptomes",
-          "prompt": "Què es pot trobar sobre els arbres atacats?",
-          "answer": "Cotxinilles, melassa i negreta",
-          "distractors": [
-            "Galeries fins al pinyol",
-            "Bosses blanques i processons",
-            "Puntejat sense melassa ni cotxinilles"
-          ],
-          "quote": "Els arbres poden quedar coberts de cotxinilles, melassa i la negreta que es forma sobre aquesta.",
-          "page": 14,
-          "id": "pest-cottony-cushion-scale-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Icerya purchasi: exemple d’hermafroditisme funcional i plaga que produeix melassa en cítrics."
-        },
-        {
-          "label": "Reproducció",
-          "text": "El tema cita Icerya purchasi com un dels pocs casos en què un organisme genera ambdós gàmetes."
-        },
-        {
-          "label": "Alimentació",
-          "text": "En cítrics, larves i femelles s’alimenten de saba i excreten gran quantitat de melassa."
-        },
-        {
-          "label": "Símptomes",
-          "text": "Els arbres poden quedar coberts de cotxinilles, melassa i la negreta que es forma sobre aquesta."
-        }
-      ],
-      "groupStudy": {
-        "page": 14,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
       "id": "pest-moulting",
       "name": "El creixement i la muda",
       "science": "",
@@ -7378,19 +2606,6 @@ window.PLAGUES_DATA = {
           "quote": "La muda o ècdisi és el procés de canvi d’exoesquelet.",
           "page": 14,
           "id": "pest-moulting-1"
-        },
-        {
-          "kind": "Terminologia",
-          "prompt": "Com s’anomena la part d’exoesquelet abandonada?",
-          "answer": "Exuvi",
-          "distractors": [
-            "Estadi",
-            "Imago",
-            "Pupa"
-          ],
-          "quote": "La part exterior de l’esquelet abandonada durant la muda és l’exuvi.",
-          "page": 14,
-          "id": "pest-moulting-2"
         },
         {
           "kind": "Període",
@@ -7435,85 +2650,6 @@ window.PLAGUES_DATA = {
       "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
     },
     {
-      "id": "pest-direct-development",
-      "name": "Desenvolupament directe o ametàbol",
-      "science": "",
-      "group": "Biologia dels insectes",
-      "page": 15,
-      "learning": true,
-      "learningSection": "Biologia dels insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-direct-development",
-          "image": "images/pest-direct-development.jpg",
-          "original": "images/pest-direct-development-original.jpg",
-          "page": 15
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Concepte",
-          "prompt": "Els juvenils són com els adults però més petits. Quin desenvolupament és?",
-          "answer": "Directe o ametàbol",
-          "distractors": [
-            "Complet o holometàbol",
-            "Incomplet o hemimetàbol"
-          ],
-          "quote": "En el desenvolupament directe, juvenils i adults són semblants i no hi ha autèntica metamorfosi.",
-          "page": 15,
-          "id": "pest-direct-development-1"
-        },
-        {
-          "kind": "Creixement",
-          "prompt": "Tot i no tenir autèntica metamorfosi, aquests organismes muden?",
-          "answer": "Sí, fins i tot en estadis adults",
-          "distractors": [
-            "No, mai",
-            "Només durant la pupa"
-          ],
-          "quote": "El text explica que canvien sovint de tegument, fins i tot en els estadis adults.",
-          "page": 15,
-          "id": "pest-direct-development-2"
-        },
-        {
-          "kind": "Comparació",
-          "prompt": "Què diferencia principalment juvenils i adults en aquest desenvolupament?",
-          "answer": "Mida i presència d’aparell genital en els adults",
-          "distractors": [
-            "La presència obligada d’una crisàlide",
-            "El pas d’eruga a papallona"
-          ],
-          "quote": "La diferència és la mida i la presència d’aparell genital en els adults.",
-          "page": 15,
-          "id": "pest-direct-development-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Els juvenils s’assemblen als adults, però són més petits; no hi ha una autèntica metamorfosi."
-        },
-        {
-          "label": "Concepte",
-          "text": "En el desenvolupament directe, juvenils i adults són semblants i no hi ha autèntica metamorfosi."
-        },
-        {
-          "label": "Creixement",
-          "text": "El text explica que canvien sovint de tegument, fins i tot en els estadis adults."
-        },
-        {
-          "label": "Comparació",
-          "text": "La diferència és la mida i la presència d’aparell genital en els adults."
-        }
-      ],
-      "groupStudy": {
-        "page": 15,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
       "id": "pest-incomplete-metamorphosis",
       "name": "La metamorfosi incompleta",
       "science": "",
@@ -7542,19 +2678,6 @@ window.PLAGUES_DATA = {
           "quote": "La metamorfosi incompleta passa per ou, nimfes i adult.",
           "page": 15,
           "id": "pest-incomplete-metamorphosis-1"
-        },
-        {
-          "kind": "Terminologia",
-          "prompt": "Com s’anomenen els estadis juvenils?",
-          "answer": "Nimfes",
-          "distractors": [
-            "Crisàlides",
-            "Imagos",
-            "Exuvis"
-          ],
-          "quote": "Els estadis juvenils de la metamorfosi incompleta són nimfes.",
-          "page": 15,
-          "id": "pest-incomplete-metamorphosis-2"
         },
         {
           "kind": "Canvis",
@@ -7636,19 +2759,6 @@ window.PLAGUES_DATA = {
           "quote": "La pupa és un estat intermedi, sense alimentació, en què l’organisme està quiet i es transforma.",
           "page": 16,
           "id": "pest-complete-metamorphosis-2"
-        },
-        {
-          "kind": "Terminologia",
-          "prompt": "Com s’anomena la pupa dels lepidòpters?",
-          "answer": "Crisàlide",
-          "distractors": [
-            "Nimfa",
-            "Exuvi",
-            "Ocel"
-          ],
-          "quote": "En els lepidòpters, la larva s’anomena eruga i la pupa, crisàlide.",
-          "page": 16,
-          "id": "pest-complete-metamorphosis-3"
         }
       ],
       "study": [
@@ -7707,19 +2817,6 @@ window.PLAGUES_DATA = {
           "id": "pest-diapause-1"
         },
         {
-          "kind": "Factors",
-          "prompt": "Quins factors externs es citen com a desencadenants?",
-          "answer": "Temperatura i alimentació",
-          "distractors": [
-            "Nombre de segments toràcics",
-            "Presència de cercs",
-            "Nom científic"
-          ],
-          "quote": "El tema cita temperatura i alimentació entre els factors externs desfavorables.",
-          "page": 16,
-          "id": "pest-diapause-2"
-        },
-        {
           "kind": "Comparació",
           "prompt": "Quina afirmació diferencia diapausa i muda?",
           "answer": "La diapausa interromp l’activitat; la muda renova l’exoesquelet",
@@ -7752,416 +2849,6 @@ window.PLAGUES_DATA = {
       ],
       "groupStudy": {
         "page": 16,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-zoophages",
-      "name": "Zoòfags",
-      "science": "",
-      "group": "Biologia dels insectes",
-      "page": 17,
-      "learning": true,
-      "learningSection": "Biologia dels insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-zoophages",
-          "image": "images/pest-zoophages.jpg",
-          "original": "images/pest-zoophages-original.jpg",
-          "page": 17
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Alimentació",
-          "prompt": "De què s’alimenten els insectes zoòfags?",
-          "answer": "Animals",
-          "distractors": [
-            "Vegetals",
-            "Matèria orgànica en descomposició",
-            "Animals i vegetals"
-          ],
-          "quote": "Els zoòfags s’alimenten de animals.",
-          "page": 17,
-          "id": "pest-zoophages-1"
-        },
-        {
-          "kind": "Funció",
-          "prompt": "Quin paper descriu millor els zoòfags?",
-          "answer": "Poden actuar com a enemics naturals i controlar nivells de plagues.",
-          "distractors": [
-            "Només es defineixen pel nombre d’ales",
-            "Només es defineixen per la metamorfosi",
-            "Tots tenen el mateix cultiu hoste"
-          ],
-          "quote": "Poden actuar com a enemics naturals i controlar nivells de plagues.",
-          "page": 17,
-          "id": "pest-zoophages-2"
-        },
-        {
-          "kind": "Comparació",
-          "prompt": "Un insecte s’alimenta tant d’animals com de vegetals. A quin grup pertany?",
-          "answer": "Omnívors",
-          "distractors": [
-            "Zoòfags",
-            "Fitòfags",
-            "Sapròfags"
-          ],
-          "quote": "Els omnívors tenen una alimentació no específica, tant animal com vegetal.",
-          "page": 17,
-          "id": "pest-zoophages-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Poden actuar com a enemics naturals i controlar nivells de plagues."
-        },
-        {
-          "label": "Alimentació",
-          "text": "Els zoòfags s’alimenten de animals."
-        },
-        {
-          "label": "Funció",
-          "text": "Poden actuar com a enemics naturals i controlar nivells de plagues."
-        },
-        {
-          "label": "Comparació",
-          "text": "Els omnívors tenen una alimentació no específica, tant animal com vegetal."
-        }
-      ],
-      "groupStudy": {
-        "page": 17,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-omnivores",
-      "name": "Omnívors",
-      "science": "",
-      "group": "Biologia dels insectes",
-      "page": 17,
-      "learning": true,
-      "learningSection": "Biologia dels insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-omnivores",
-          "image": "images/pest-omnivores.jpg",
-          "original": "images/pest-omnivores-original.jpg",
-          "page": 17
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Alimentació",
-          "prompt": "De què s’alimenten els insectes omnívors?",
-          "answer": "Animals i vegetals",
-          "distractors": [
-            "Només vegetals",
-            "Només animals",
-            "Només matèria orgànica en descomposició"
-          ],
-          "quote": "Els omnívors s’alimenten de animals i vegetals.",
-          "page": 17,
-          "id": "pest-omnivores-1"
-        },
-        {
-          "kind": "Funció",
-          "prompt": "Quin paper descriu millor els omnívors?",
-          "answer": "Poden actuar com a plaga o enemic natural segons la disponibilitat d’aliment.",
-          "distractors": [
-            "Només es defineixen pel nombre d’ales",
-            "Només es defineixen per la metamorfosi",
-            "Tots tenen el mateix cultiu hoste"
-          ],
-          "quote": "Poden actuar com a plaga o enemic natural segons la disponibilitat d’aliment.",
-          "page": 17,
-          "id": "pest-omnivores-2"
-        },
-        {
-          "kind": "Comparació",
-          "prompt": "Un insecte s’alimenta tant d’animals com de vegetals. A quin grup pertany?",
-          "answer": "Omnívors",
-          "distractors": [
-            "Zoòfags",
-            "Fitòfags",
-            "Sapròfags"
-          ],
-          "quote": "Els omnívors tenen una alimentació no específica, tant animal com vegetal.",
-          "page": 17,
-          "id": "pest-omnivores-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Poden actuar com a plaga o enemic natural segons la disponibilitat d’aliment."
-        },
-        {
-          "label": "Alimentació",
-          "text": "Els omnívors s’alimenten de animals i vegetals."
-        },
-        {
-          "label": "Funció",
-          "text": "Poden actuar com a plaga o enemic natural segons la disponibilitat d’aliment."
-        },
-        {
-          "label": "Comparació",
-          "text": "Els omnívors tenen una alimentació no específica, tant animal com vegetal."
-        }
-      ],
-      "groupStudy": {
-        "page": 17,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-saprophages",
-      "name": "Sapròfags",
-      "science": "",
-      "group": "Biologia dels insectes",
-      "page": 17,
-      "learning": true,
-      "learningSection": "Biologia dels insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-saprophages",
-          "image": "images/pest-saprophages.jpg",
-          "original": "images/pest-saprophages-original.jpg",
-          "page": 17
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Alimentació",
-          "prompt": "De què s’alimenten els insectes sapròfags?",
-          "answer": "Matèria orgànica en descomposició",
-          "distractors": [
-            "Vegetals vius",
-            "Animals vius",
-            "Saba de plantes vives"
-          ],
-          "quote": "Els sapròfags s’alimenten de matèria orgànica en descomposició.",
-          "page": 17,
-          "id": "pest-saprophages-1"
-        },
-        {
-          "kind": "Funció",
-          "prompt": "Quin paper descriu millor els sapròfags?",
-          "answer": "Transformen residus vegetals i animals en molècules més senzilles disponibles per a les plantes.",
-          "distractors": [
-            "Només es defineixen pel nombre d’ales",
-            "Només es defineixen per la metamorfosi",
-            "Tots tenen el mateix cultiu hoste"
-          ],
-          "quote": "Transformen residus vegetals i animals en molècules més senzilles disponibles per a les plantes.",
-          "page": 17,
-          "id": "pest-saprophages-2"
-        },
-        {
-          "kind": "Comparació",
-          "prompt": "Un insecte s’alimenta tant d’animals com de vegetals. A quin grup pertany?",
-          "answer": "Omnívors",
-          "distractors": [
-            "Zoòfags",
-            "Fitòfags",
-            "Sapròfags"
-          ],
-          "quote": "Els omnívors tenen una alimentació no específica, tant animal com vegetal.",
-          "page": 17,
-          "id": "pest-saprophages-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Transformen residus vegetals i animals en molècules més senzilles disponibles per a les plantes."
-        },
-        {
-          "label": "Alimentació",
-          "text": "Els sapròfags s’alimenten de matèria orgànica en descomposició."
-        },
-        {
-          "label": "Funció",
-          "text": "Transformen residus vegetals i animals en molècules més senzilles disponibles per a les plantes."
-        },
-        {
-          "label": "Comparació",
-          "text": "Els omnívors tenen una alimentació no específica, tant animal com vegetal."
-        }
-      ],
-      "groupStudy": {
-        "page": 17,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-phytophages",
-      "name": "Fitòfags",
-      "science": "",
-      "group": "Biologia dels insectes",
-      "page": 17,
-      "learning": true,
-      "learningSection": "Biologia dels insectes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-phytophages",
-          "image": "images/pest-phytophages.jpg",
-          "original": "images/pest-phytophages-original.jpg",
-          "page": 17
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Alimentació",
-          "prompt": "De què s’alimenten els insectes fitòfags?",
-          "answer": "Productes vegetals",
-          "distractors": [
-            "Només animals",
-            "Només sang",
-            "Només matèria orgànica en descomposició"
-          ],
-          "quote": "Els fitòfags s’alimenten de productes vegetals.",
-          "page": 17,
-          "id": "pest-phytophages-1"
-        },
-        {
-          "kind": "Funció",
-          "prompt": "Quin paper descriu millor els fitòfags?",
-          "answer": "Poden afectar fulles, tiges, arrels, flors i fruits.",
-          "distractors": [
-            "Només es defineixen pel nombre d’ales",
-            "Només es defineixen per la metamorfosi",
-            "Tots tenen el mateix cultiu hoste"
-          ],
-          "quote": "Poden afectar fulles, tiges, arrels, flors i fruits.",
-          "page": 17,
-          "id": "pest-phytophages-2"
-        },
-        {
-          "kind": "Comparació",
-          "prompt": "Un insecte s’alimenta tant d’animals com de vegetals. A quin grup pertany?",
-          "answer": "Omnívors",
-          "distractors": [
-            "Zoòfags",
-            "Fitòfags",
-            "Sapròfags"
-          ],
-          "quote": "Els omnívors tenen una alimentació no específica, tant animal com vegetal.",
-          "page": 17,
-          "id": "pest-phytophages-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Poden afectar fulles, tiges, arrels, flors i fruits."
-        },
-        {
-          "label": "Alimentació",
-          "text": "Els fitòfags s’alimenten de productes vegetals."
-        },
-        {
-          "label": "Funció",
-          "text": "Poden afectar fulles, tiges, arrels, flors i fruits."
-        },
-        {
-          "label": "Comparació",
-          "text": "Els omnívors tenen una alimentació no específica, tant animal com vegetal."
-        }
-      ],
-      "groupStudy": {
-        "page": 17,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-myriapods",
-      "name": "Els miriàpodes",
-      "science": "",
-      "group": "Àcars i altres organismes",
-      "page": 25,
-      "learning": true,
-      "learningSection": "Àcars i altres organismes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-myriapods",
-          "image": "images/pest-myriapods.jpg",
-          "original": "images/pest-myriapods-original.jpg",
-          "page": 25
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Identificació",
-          "prompt": "Quins noms comuns corresponen als miriàpodes?",
-          "answer": "Milpeus i centpeus",
-          "distractors": [
-            "Cargols i llimacs",
-            "Aranyes i àcars",
-            "Grills i llagostes"
-          ],
-          "quote": "Els miriàpodes es coneixen vulgarment com a milpeus o centpeus.",
-          "page": 25,
-          "id": "pest-myriapods-1"
-        },
-        {
-          "kind": "Hàbitat",
-          "prompt": "On es localitzen fàcilment segons el tema?",
-          "answer": "Zones humides i fosques",
-          "distractors": [
-            "Només flors exposades al sol",
-            "Només fruits en maduració",
-            "Només medis aquàtics"
-          ],
-          "quote": "La majoria rebutgen la llum i van cap a la humitat.",
-          "page": 25,
-          "id": "pest-myriapods-2"
-        },
-        {
-          "kind": "Alimentació",
-          "prompt": "Quines parts vegetals associa el tema als danys dels miriàpodes?",
-          "answer": "Arrels i tubercles",
-          "distractors": [
-            "Només grans de raïm",
-            "Només borrons d’avellaner",
-            "Només llavors emmagatzemades"
-          ],
-          "quote": "El tema descriu aparell bucal mastegador i alimentació d’arrels i tubercles.",
-          "page": 25,
-          "id": "pest-myriapods-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Milpeus i centpeus: artròpodes terrestres que el tema associa a zones humides i fosques."
-        },
-        {
-          "label": "Identificació",
-          "text": "Els miriàpodes es coneixen vulgarment com a milpeus o centpeus."
-        },
-        {
-          "label": "Hàbitat",
-          "text": "La majoria rebutgen la llum i van cap a la humitat."
-        },
-        {
-          "label": "Alimentació",
-          "text": "El tema descriu aparell bucal mastegador i alimentació d’arrels i tubercles."
-        }
-      ],
-      "groupStudy": {
-        "page": 25,
         "fields": []
       },
       "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
@@ -8209,19 +2896,6 @@ window.PLAGUES_DATA = {
           "quote": "Els fitosèids s’alimenten d’altres àcars i de determinats insectes, com els trips.",
           "page": 25,
           "id": "pest-mites-2"
-        },
-        {
-          "kind": "Comparació",
-          "prompt": "Quin tret ajuda a distingir àcars i insectes?",
-          "answer": "Els àcars no tenen antenes",
-          "distractors": [
-            "Els àcars sempre tenen èlitres",
-            "Els insectes no tenen antenes",
-            "Els àcars tenen tòrax amb tres parells de potes"
-          ],
-          "quote": "Els aràcnids no tenen antenes; els insectes tenen un parell d’antenes.",
-          "page": 25,
-          "id": "pest-mites-3"
         }
       ],
       "study": [
@@ -8244,170 +2918,6 @@ window.PLAGUES_DATA = {
       ],
       "groupStudy": {
         "page": 25,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-mite-body",
-      "name": "Gnatosoma i idiosoma",
-      "science": "",
-      "group": "Àcars i altres organismes",
-      "page": 26,
-      "learning": true,
-      "learningSection": "Àcars i altres organismes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-mite-body",
-          "image": "images/pest-mite-body.jpg",
-          "original": "images/pest-mite-body-original.jpg",
-          "page": 26
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Morfologia",
-          "prompt": "Quines dues parts formen el cos dels àcars?",
-          "answer": "Gnatosoma i idiosoma",
-          "distractors": [
-            "Cap, tòrax i abdomen",
-            "Cercs i ocels",
-            "Èlitres i balancins"
-          ],
-          "quote": "El cos està dividit en gnatosoma i idiosoma.",
-          "page": 26,
-          "id": "pest-mite-body-1"
-        },
-        {
-          "kind": "Localització",
-          "prompt": "On es troba l’aparell bucal dels àcars?",
-          "answer": "Gnatosoma",
-          "distractors": [
-            "Idiosoma",
-            "Tòrax",
-            "Abdomen separat"
-          ],
-          "quote": "El gnatosoma és la part on es troba l’aparell bucal.",
-          "page": 26,
-          "id": "pest-mite-body-2"
-        },
-        {
-          "kind": "Potes",
-          "prompt": "On es troben les potes?",
-          "answer": "Idiosoma",
-          "distractors": [
-            "Gnatosoma",
-            "Oviscapte",
-            "Proboscis"
-          ],
-          "quote": "L’idiosoma és la part del cos on es troben les potes.",
-          "page": 26,
-          "id": "pest-mite-body-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "El cos dels àcars es divideix en gnatosoma i idiosoma."
-        },
-        {
-          "label": "Morfologia",
-          "text": "El cos està dividit en gnatosoma i idiosoma."
-        },
-        {
-          "label": "Localització",
-          "text": "El gnatosoma és la part on es troba l’aparell bucal."
-        },
-        {
-          "label": "Potes",
-          "text": "L’idiosoma és la part del cos on es troben les potes."
-        }
-      ],
-      "groupStudy": {
-        "page": 26,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-mite-mouth",
-      "name": "Quelícers, pedipalps i quetes",
-      "science": "",
-      "group": "Àcars i altres organismes",
-      "page": 26,
-      "learning": true,
-      "learningSection": "Àcars i altres organismes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-mite-mouth",
-          "image": "images/pest-mite-mouth.jpg",
-          "original": "images/pest-mite-mouth-original.jpg",
-          "page": 26
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Estructura",
-          "prompt": "Quines peces formen l’aparell bucal dels àcars?",
-          "answer": "Quelícers i pedipalps",
-          "distractors": [
-            "Mandíbules i èlitres",
-            "Ràdula i peu musculós",
-            "Cercs i ocels"
-          ],
-          "quote": "L’aparell bucal consta de quelícers i pedipalps.",
-          "page": 26,
-          "id": "pest-mite-mouth-1"
-        },
-        {
-          "kind": "Funció",
-          "prompt": "Quina funció addicional tenen els pedipalps?",
-          "answer": "Defensiva i tàctil",
-          "distractors": [
-            "Estabilitzar el vol",
-            "Produir pol·len",
-            "Pondre ous"
-          ],
-          "quote": "Ajuden a processar l’aliment i tenen funcions defensives i tàctils.",
-          "page": 26,
-          "id": "pest-mite-mouth-2"
-        },
-        {
-          "kind": "Identificació",
-          "prompt": "Com s’anomenen els pèls sensorials útils per identificar àcars?",
-          "answer": "Quetes",
-          "distractors": [
-            "Ocels",
-            "Cercs",
-            "Èlitres"
-          ],
-          "quote": "Sobre el cos apareixen pèls sensorials, les quetes, útils per a la identificació.",
-          "page": 26,
-          "id": "pest-mite-mouth-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Els àcars processen l’aliment amb quelícers i pedipalps; les quetes ajuden a identificar-los."
-        },
-        {
-          "label": "Estructura",
-          "text": "L’aparell bucal consta de quelícers i pedipalps."
-        },
-        {
-          "label": "Funció",
-          "text": "Ajuden a processar l’aliment i tenen funcions defensives i tàctils."
-        },
-        {
-          "label": "Identificació",
-          "text": "Sobre el cos apareixen pèls sensorials, les quetes, útils per a la identificació."
-        }
-      ],
-      "groupStudy": {
-        "page": 26,
         "fields": []
       },
       "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
@@ -8454,19 +2964,6 @@ window.PLAGUES_DATA = {
           "quote": "La larva té tres parells de potes; en arribar a adult en té quatre, segons el cicle general descrit.",
           "page": 27,
           "id": "pest-mite-cycle-2"
-        },
-        {
-          "kind": "Reproducció",
-          "prompt": "Com es reprodueixen la majoria d’espècies d’àcars descrites?",
-          "answer": "Sexualment i són ovípares",
-          "distractors": [
-            "Totes per poliembrionia",
-            "Totes per hermafroditisme",
-            "Cap espècie per partenogènesi"
-          ],
-          "quote": "La majoria es reprodueixen sexualment i són ovípares, tot i que diverses espècies també presenten partenogènesi.",
-          "page": 27,
-          "id": "pest-mite-cycle-3"
         }
       ],
       "study": [
@@ -8536,19 +3033,6 @@ window.PLAGUES_DATA = {
           "quote": "L’aparell bucal està format bàsicament per la ràdula, un òrgan raspador.",
           "page": 31,
           "id": "pest-gastropods-2"
-        },
-        {
-          "kind": "Desplaçament",
-          "prompt": "Quins elements ajuden al desplaçament?",
-          "answer": "Peu musculós i mucositat",
-          "distractors": [
-            "Tres parells de potes i ales",
-            "Èlitres i balancins",
-            "Gnatosoma i estilets"
-          ],
-          "quote": "Es desplacen amb el peu musculós, contraient i estenent el cos i ajudats per mucositat.",
-          "page": 31,
-          "id": "pest-gastropods-3"
         }
       ],
       "study": [
@@ -8618,19 +3102,6 @@ window.PLAGUES_DATA = {
           "quote": "És una espècie herbívora voraç que afecta els arrossars del delta de l’Ebre.",
           "page": 31,
           "id": "pest-apple-snail-2"
-        },
-        {
-          "kind": "Moment sensible",
-          "prompt": "En quines fases del cultiu es destaquen els danys?",
-          "answer": "Germinació i creixement primerenc",
-          "distractors": [
-            "Només maduració de fruits llenyosos",
-            "Només després de la collita",
-            "Només floració de fruiters"
-          ],
-          "quote": "Els danys són especialment importants en fases primerenques de germinació i creixement.",
-          "page": 31,
-          "id": "pest-apple-snail-3"
         }
       ],
       "study": [
@@ -8653,88 +3124,6 @@ window.PLAGUES_DATA = {
       ],
       "groupStudy": {
         "page": 31,
-        "fields": []
-      },
-      "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
-    },
-    {
-      "id": "pest-vertebrates",
-      "name": "Els vertebrats",
-      "science": "",
-      "group": "Àcars i altres organismes",
-      "page": 32,
-      "learning": true,
-      "learningSection": "Àcars i altres organismes",
-      "imageContext": "Imatge de suport: relaciona-la amb el concepte o el cas de la pregunta.",
-      "images": [
-        {
-          "id": "pest-vertebrates",
-          "image": "images/pest-vertebrates.jpg",
-          "original": "images/pest-vertebrates-original.jpg",
-          "page": 32
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Classificació",
-          "prompt": "A quin grup pertanyen conills, talps i senglars?",
-          "answer": "Mamífers vertebrats",
-          "distractors": [
-            "Artròpodes",
-            "Mol·luscs",
-            "Insectes"
-          ],
-          "quote": "El tema enumera ratolins, rates, talps, conills i senglars entre els mamífers que ocasionen danys.",
-          "page": 32,
-          "id": "pest-vertebrates-1"
-        },
-        {
-          "kind": "Aus",
-          "prompt": "De què s’alimenten principalment les aus problemàtiques citades?",
-          "answer": "Fulles i llavors",
-          "distractors": [
-            "Només melassa",
-            "Només fongs sapròfits",
-            "Només altres àcars"
-          ],
-          "quote": "Algunes aus, com estornells i ànecs, causen problemes perquè mengen principalment fulles i llavors.",
-          "page": 32,
-          "id": "pest-vertebrates-2"
-        },
-        {
-          "kind": "Danys",
-          "prompt": "A més de perjudicar conreus, què poden danyar els conills?",
-          "answer": "Mànegues de reg, tanques i protectors",
-          "distractors": [
-            "Només els ous d’altres insectes",
-            "Només els èlitres dels coleòpters",
-            "Només les colònies de fitosèids"
-          ],
-          "quote": "El tema cita també destrucció d’infraestructures com mànegues de reg, tanques i protectors.",
-          "page": 32,
-          "id": "pest-vertebrates-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Aus i mamífers poden causar danys a cultius, productes emmagatzemats i infraestructures."
-        },
-        {
-          "label": "Classificació",
-          "text": "El tema enumera ratolins, rates, talps, conills i senglars entre els mamífers que ocasionen danys."
-        },
-        {
-          "label": "Aus",
-          "text": "Algunes aus, com estornells i ànecs, causen problemes perquè mengen principalment fulles i llavors."
-        },
-        {
-          "label": "Danys",
-          "text": "El tema cita també destrucció d’infraestructures com mànegues de reg, tanques i protectors."
-        }
-      ],
-      "groupStudy": {
-        "page": 32,
         "fields": []
       },
       "note": "Imatge extreta del mateix apartat o indicada com a suport. Les preguntes conceptuals no exigeixen identificar una espècie no retolada."
@@ -8769,19 +3158,6 @@ window.PLAGUES_DATA = {
           "quote": "Els danys van de l’esgrogueïment i encrespament de fulles fins al debilitament de la planta.",
           "page": 21,
           "id": "pest-aphids-1"
-        },
-        {
-          "kind": "Relació",
-          "prompt": "Quina secreció dels pugons facilita la proliferació de fongs sapròfits?",
-          "answer": "Melassa",
-          "distractors": [
-            "Seda",
-            "Quitina",
-            "Cera"
-          ],
-          "quote": "La melassa ensucrada facilita fongs sapròfits com la cendrosa o negreta.",
-          "page": 21,
-          "id": "pest-aphids-2"
         },
         {
           "kind": "Transmissió",
@@ -8844,19 +3220,6 @@ window.PLAGUES_DATA = {
       ],
       "questions": [
         {
-          "kind": "Cultiu",
-          "prompt": "Quines hortalisses destaca el tema per a la mosca blanca?",
-          "answer": "Carbassó, mongeta i tomàquet",
-          "distractors": [
-            "Només arròs",
-            "Només alfals",
-            "Només gespa"
-          ],
-          "quote": "Entre les plantes hortícoles destaquen carbassó, mongeta i tomàquet.",
-          "page": 21,
-          "id": "pest-whiteflies-1"
-        },
-        {
           "kind": "Alimentació",
           "prompt": "De què s’alimenten les nimfes i adults de mosca blanca?",
           "answer": "Saba",
@@ -8912,178 +3275,6 @@ window.PLAGUES_DATA = {
       "note": "La plaga no té fotografia individual inequívoca al document. Es treballa amb un cas textual; la imatge de la lupa prové de la pàgina 33."
     },
     {
-      "id": "pest-rice-borer",
-      "name": "El cuc o barrinador de l’arròs",
-      "science": "",
-      "group": "Plagues d’insectes",
-      "page": 22,
-      "learning": true,
-      "learningSection": "Plagues d’insectes",
-      "imageContext": "Cas pràctic · La lupa il·lustra l’observació; no és una fotografia d’aquesta plaga.",
-      "images": [
-        {
-          "id": "pest-rice-borer",
-          "image": "images/pest-rice-borer.jpg",
-          "original": "images/pest-rice-borer-original.jpg",
-          "page": 33
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin nom científic correspon al cuc o barrinador de l’arròs al temari?",
-          "answer": "Chilo suppresalis",
-          "distractors": [
-            "Cydia pomonella",
-            "Lobesia botrana",
-            "Gortyna xanthenes"
-          ],
-          "quote": "El tema l’anomena Chilo suppresalis.",
-          "page": 22,
-          "id": "pest-rice-borer-1"
-        },
-        {
-          "kind": "Danys",
-          "prompt": "Quina part de l’arròs barrinen les erugues?",
-          "answer": "Tiges",
-          "distractors": [
-            "Només flors",
-            "Només grans de raïm",
-            "Només arrels de gespa"
-          ],
-          "quote": "Les erugues penetren a les tiges i les barrinen.",
-          "page": 22,
-          "id": "pest-rice-borer-2"
-        },
-        {
-          "kind": "Estadi",
-          "prompt": "Quin estadi ocasiona el dany descrit?",
-          "answer": "Eruga",
-          "distractors": [
-            "Adult",
-            "Ou",
-            "Pupa"
-          ],
-          "quote": "Les erugues són les que penetren i barrinen les tiges.",
-          "page": 22,
-          "id": "pest-rice-borer-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Chilo suppresalis: les erugues penetren i barrinen les tiges."
-        },
-        {
-          "label": "Nom científic",
-          "text": "El tema l’anomena Chilo suppresalis."
-        },
-        {
-          "label": "Danys",
-          "text": "Les erugues penetren a les tiges i les barrinen."
-        },
-        {
-          "label": "Estadi",
-          "text": "Les erugues són les que penetren i barrinen les tiges."
-        }
-      ],
-      "groupStudy": {
-        "page": 22,
-        "fields": [],
-        "pages": [
-          22,
-          33
-        ]
-      },
-      "note": "La plaga no té fotografia individual inequívoca al document. Es treballa amb un cas textual; la imatge de la lupa prové de la pàgina 33."
-    },
-    {
-      "id": "pest-peach-borers",
-      "name": "El corc del préssec",
-      "science": "",
-      "group": "Plagues d’insectes",
-      "page": 22,
-      "learning": true,
-      "learningSection": "Plagues d’insectes",
-      "imageContext": "Cas pràctic · La lupa il·lustra l’observació; no és una fotografia d’aquesta plaga.",
-      "images": [
-        {
-          "id": "pest-peach-borers",
-          "image": "images/pest-peach-borers.jpg",
-          "original": "images/pest-peach-borers-original.jpg",
-          "page": 33
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Comparació",
-          "prompt": "Quina eruga acostuma a penetrar fins al pinyol del préssec?",
-          "answer": "Cydia molesta (grafolita)",
-          "distractors": [
-            "Anarsia lineatella",
-            "Lobesia botrana",
-            "Phyllocnistis citrella"
-          ],
-          "quote": "La grafolita generalment penetra fins al pinyol; l’atac de l’anàrsia al fruit és més superficial.",
-          "page": 22,
-          "id": "pest-peach-borers-1"
-        },
-        {
-          "kind": "Danys",
-          "prompt": "Quines parts del presseguer afecten aquests corcs?",
-          "answer": "Brots tendres i fruits",
-          "distractors": [
-            "Només arrels",
-            "Només tronc llenyós",
-            "Només llavors emmagatzemades"
-          ],
-          "quote": "Produeixen danys als brots tendres i als fruits.",
-          "page": 22,
-          "id": "pest-peach-borers-2"
-        },
-        {
-          "kind": "Associació",
-          "prompt": "Quin nom correspon a l’anàrsia del presseguer?",
-          "answer": "Anarsia lineatella",
-          "distractors": [
-            "Cydia pomonella",
-            "Zeuzera pyrina",
-            "Chilo suppresalis"
-          ],
-          "quote": "El tema associa anàrsia del presseguer amb Anarsia lineatella.",
-          "page": 22,
-          "id": "pest-peach-borers-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Cydia molesta i Anarsia lineatella causen danys als brots tendres i als fruits."
-        },
-        {
-          "label": "Comparació",
-          "text": "La grafolita generalment penetra fins al pinyol; l’atac de l’anàrsia al fruit és més superficial."
-        },
-        {
-          "label": "Danys",
-          "text": "Produeixen danys als brots tendres i als fruits."
-        },
-        {
-          "label": "Associació",
-          "text": "El tema associa anàrsia del presseguer amb Anarsia lineatella."
-        }
-      ],
-      "groupStudy": {
-        "page": 22,
-        "fields": [],
-        "pages": [
-          22,
-          33
-        ]
-      },
-      "note": "La plaga no té fotografia individual inequívoca al document. Es treballa amb un cas textual; la imatge de la lupa prové de la pàgina 33."
-    },
-    {
       "id": "pest-grape-moth",
       "name": "Cuc o corc del raïm",
       "science": "",
@@ -9113,19 +3304,6 @@ window.PLAGUES_DATA = {
           "quote": "El cuc o corc del raïm és Lobesia botrana.",
           "page": 22,
           "id": "pest-grape-moth-1"
-        },
-        {
-          "kind": "Danys",
-          "prompt": "On penetren les erugues?",
-          "answer": "A l’interior dels grans de raïm",
-          "distractors": [
-            "Al coll de la carxofera",
-            "Als troncs de fruiters",
-            "Als borrons de l’avellaner"
-          ],
-          "quote": "Les erugues penetren a l’interior dels grans de raïm i hi provoquen ferides.",
-          "page": 22,
-          "id": "pest-grape-moth-2"
         },
         {
           "kind": "Relació",
@@ -9168,178 +3346,11 @@ window.PLAGUES_DATA = {
         ]
       },
       "note": "La plaga no té fotografia individual inequívoca al document. Es treballa amb un cas textual; la imatge de la lupa prové de la pàgina 33."
-    },
-    {
-      "id": "pest-citrus-leafminer",
-      "name": "El minador de les fulles dels cítrics",
-      "science": "",
-      "group": "Plagues d’insectes",
-      "page": 22,
-      "learning": true,
-      "learningSection": "Plagues d’insectes",
-      "imageContext": "Cas pràctic · La lupa il·lustra l’observació; no és una fotografia d’aquesta plaga.",
-      "images": [
-        {
-          "id": "pest-citrus-leafminer",
-          "image": "images/pest-citrus-leafminer.jpg",
-          "original": "images/pest-citrus-leafminer-original.jpg",
-          "page": 33
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin nom correspon al minador de les fulles dels cítrics?",
-          "answer": "Phyllocnistis citrella",
-          "distractors": [
-            "Lobesia botrana",
-            "Cydia molesta",
-            "Zeuzera pyrina"
-          ],
-          "quote": "El tema identifica el minador dels cítrics com Phyllocnistis citrella.",
-          "page": 22,
-          "id": "pest-citrus-leafminer-1"
-        },
-        {
-          "kind": "Símptomes",
-          "prompt": "Quin dany caracteritza l’eruga del minador dels cítrics?",
-          "answer": "Galeries sinuoses a les fulles",
-          "distractors": [
-            "Bosses blanques a les branques",
-            "Puntejat cloròtic sense galeries",
-            "Melassa i negreta"
-          ],
-          "quote": "L’eruga excava galeries sinuoses a les fulles i malmet les brotades tendres.",
-          "page": 22,
-          "id": "pest-citrus-leafminer-2"
-        },
-        {
-          "kind": "Vulnerabilitat",
-          "prompt": "On poden ser especialment importants els danys?",
-          "answer": "Plançonades i vivers",
-          "distractors": [
-            "Només productes emmagatzemats",
-            "Només gespes adultes",
-            "Només fruits en maduració"
-          ],
-          "quote": "Els danys poden ser importants en plançonades i vivers.",
-          "page": 22,
-          "id": "pest-citrus-leafminer-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Phyllocnistis citrella excava galeries sinuoses a les fulles i malmet les brotades tendres."
-        },
-        {
-          "label": "Nom científic",
-          "text": "El tema identifica el minador dels cítrics com Phyllocnistis citrella."
-        },
-        {
-          "label": "Símptomes",
-          "text": "L’eruga excava galeries sinuoses a les fulles i malmet les brotades tendres."
-        },
-        {
-          "label": "Vulnerabilitat",
-          "text": "Els danys poden ser importants en plançonades i vivers."
-        }
-      ],
-      "groupStudy": {
-        "page": 22,
-        "fields": [],
-        "pages": [
-          22,
-          33
-        ]
-      },
-      "note": "La plaga no té fotografia individual inequívoca al document. Es treballa amb un cas textual; la imatge de la lupa prové de la pàgina 33."
-    },
-    {
-      "id": "pest-artichoke-borer",
-      "name": "Barrinador de la carxofa",
-      "science": "",
-      "group": "Plagues d’insectes",
-      "page": 23,
-      "learning": true,
-      "learningSection": "Plagues d’insectes",
-      "imageContext": "Cas pràctic · La lupa il·lustra l’observació; no és una fotografia d’aquesta plaga.",
-      "images": [
-        {
-          "id": "pest-artichoke-borer",
-          "image": "images/pest-artichoke-borer.jpg",
-          "original": "images/pest-artichoke-borer-original.jpg",
-          "page": 33
-        }
-      ],
-      "questions": [
-        {
-          "kind": "Nom científic",
-          "prompt": "Quin nom correspon al barrinador de la carxofa?",
-          "answer": "Gortyna xanthenes",
-          "distractors": [
-            "Chilo suppresalis",
-            "Cydia pomonella",
-            "Lobesia botrana"
-          ],
-          "quote": "El barrinador de la carxofa es presenta com Gortyna xanthenes.",
-          "page": 23,
-          "id": "pest-artichoke-borer-1"
-        },
-        {
-          "kind": "Danys",
-          "prompt": "Quin recorregut fan les galeries de les larves?",
-          "answer": "Del nervi central de les fulles a les tiges i al coll",
-          "distractors": [
-            "Només dins del pinyol",
-            "Només als grans de raïm",
-            "Només entre borrons d’avellaner"
-          ],
-          "quote": "Les larves creen galeries al nervi central de les fulles fins a les tiges i al coll.",
-          "page": 23,
-          "id": "pest-artichoke-borer-2"
-        },
-        {
-          "kind": "Cultiu",
-          "prompt": "Sobre quin cultiu constitueix plaga segons el tema?",
-          "answer": "Carxofa",
-          "distractors": [
-            "Faves, exclusivament",
-            "Vinya",
-            "Presseguer"
-          ],
-          "quote": "Constitueix plaga sobre carxofa, tot i que es pot trobar en altres cultius com les faves.",
-          "page": 23,
-          "id": "pest-artichoke-borer-3"
-        }
-      ],
-      "study": [
-        {
-          "label": "Idea clau",
-          "text": "Gortyna xanthenes fa galeries que van del nervi central de la fulla a les tiges i al coll."
-        },
-        {
-          "label": "Nom científic",
-          "text": "El barrinador de la carxofa es presenta com Gortyna xanthenes."
-        },
-        {
-          "label": "Danys",
-          "text": "Les larves creen galeries al nervi central de les fulles fins a les tiges i al coll."
-        },
-        {
-          "label": "Cultiu",
-          "text": "Constitueix plaga sobre carxofa, tot i que es pot trobar en altres cultius com les faves."
-        }
-      ],
-      "groupStudy": {
-        "page": 23,
-        "fields": [],
-        "pages": [
-          23,
-          33
-        ]
-      },
-      "note": "La plaga no té fotografia individual inequívoca al document. Es treballa amb un cas textual; la imatge de la lupa prové de la pàgina 33."
     }
-  ]
+  ],
+  "selection": {
+    "version": "1.5.0",
+    "approach": "Preguntes essencials",
+    "criteria": "Fonaments, fauna útil, morfologia i cicles; plagues representatives amb danys distintius; àcars i altres organismes. Es redueix la repetició d’ordre, aparell bucal i metamorfosi a cada espècie."
+  }
 };

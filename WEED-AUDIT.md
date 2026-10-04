@@ -1,5 +1,7 @@
 # Vegetació espontània: criteris del contingut
 
+> Versió 1.5.0: el banc actiu és la selecció essencial documentada a [CURATION.md](CURATION.md). Els recomptes anteriors d’aquest informe descriuen la construcció del banc complet. Les exclusions i els criteris de fidelitat continuen vigents.
+
 Font única: `fitosT3.pdf`, «Coneix la vegetació espontània present en els cultius», actualització indicada 03/02/2025. S’han revisat visualment les 66 pàgines i el seu text. No s’han consultat ni incorporat els enllaços externs.
 
 69 fitxes, 102 variants d’imatge i 276 preguntes. Les 40 fitxes d’espècies originals es conserven i s’amplien amb 29 fitxes conceptuals. S’han utilitzat les fitxes de les pàgines 23–59 i 61–63. Les fitxes inclouen noms, família, trets, descripció, hàbitat/hostes, comparacions i observacions. Cada pregunta referencia la pàgina impresa; les dades generals utilitzades referencien també les pàgines 17, 21, 22 i 60.

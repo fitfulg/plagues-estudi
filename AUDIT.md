@@ -1,5 +1,7 @@
 # Tema 1: revisió d’aprenentatge — v1.2.0
 
+> Versió 1.5.0: el banc actiu és la selecció essencial documentada a [CURATION.md](CURATION.md). Els recomptes anteriors d’aquest informe descriuen la construcció del banc complet. Les exclusions i els criteris de fidelitat continuen vigents.
+
 Font exclusiva: `fitosT1.pdf`, «Coneix les plagues que afecten els cultius», Escola Agrària, actualitzat el 03/02/2025. Revisats el text i les 34 pàgines renderitzades. No s’han seguit els enllaços externs ni incorporat fonts alienes al document.
 
 ## Cobertura i criteris didàctics
