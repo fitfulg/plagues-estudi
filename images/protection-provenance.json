@@ -1,0 +1,353 @@
+[
+  {
+    "id": "protection-prevention",
+    "source": "fitosT4.pdf",
+    "page": 5,
+    "nativeImageIndex": 7,
+    "quiz": "protection-prevention.jpg",
+    "original": "protection-prevention-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-plant-passport",
+    "source": "fitosT4.pdf",
+    "page": 8,
+    "nativeImageIndex": 1,
+    "quiz": "protection-plant-passport.jpg",
+    "original": "protection-plant-passport-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-resistant-material",
+    "source": "fitosT4.pdf",
+    "page": 10,
+    "nativeImageIndex": 4,
+    "quiz": "protection-resistant-material.jpg",
+    "original": "protection-resistant-material-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-planting",
+    "source": "fitosT4.pdf",
+    "page": 11,
+    "nativeImageIndex": 4,
+    "quiz": "protection-planting.jpg",
+    "original": "protection-planting-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-fertilization",
+    "source": "fitosT4.pdf",
+    "page": 12,
+    "nativeImageIndex": 4,
+    "quiz": "protection-fertilization.jpg",
+    "original": "protection-fertilization-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-soil-work",
+    "source": "fitosT4.pdf",
+    "page": 12,
+    "nativeImageIndex": 5,
+    "quiz": "protection-soil-work.jpg",
+    "original": "protection-soil-work-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-irrigation",
+    "source": "fitosT4.pdf",
+    "page": 13,
+    "nativeImageIndex": 7,
+    "quiz": "protection-irrigation.jpg",
+    "original": "protection-irrigation-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-pruning",
+    "source": "fitosT4.pdf",
+    "page": 13,
+    "nativeImageIndex": 8,
+    "quiz": "protection-pruning.jpg",
+    "original": "protection-pruning-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-crop-rotation",
+    "source": "fitosT4.pdf",
+    "page": 14,
+    "nativeImageIndex": 4,
+    "quiz": "protection-crop-rotation.jpg",
+    "original": "protection-crop-rotation-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-insect-netting",
+    "source": "fitosT4.pdf",
+    "page": 15,
+    "nativeImageIndex": 2,
+    "quiz": "protection-insect-netting.jpg",
+    "original": "protection-insect-netting-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-fruit-bagging",
+    "source": "fitosT4.pdf",
+    "page": 15,
+    "nativeImageIndex": 3,
+    "quiz": "protection-fruit-bagging.jpg",
+    "original": "protection-fruit-bagging-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-mulching",
+    "source": "fitosT4.pdf",
+    "page": 15,
+    "nativeImageIndex": 4,
+    "quiz": "protection-mulching.jpg",
+    "original": "protection-mulching-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-solarization",
+    "source": "fitosT4.pdf",
+    "page": 17,
+    "nativeImageIndex": 1,
+    "quiz": "protection-solarization.jpg",
+    "original": "protection-solarization-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-steam",
+    "source": "fitosT4.pdf",
+    "page": 17,
+    "nativeImageIndex": 2,
+    "quiz": "protection-steam.jpg",
+    "original": "protection-steam-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-biofumigation",
+    "source": "fitosT4.pdf",
+    "page": 18,
+    "nativeImageIndex": 1,
+    "quiz": "protection-biofumigation.jpg",
+    "original": "protection-biofumigation-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-biosolarization",
+    "source": "fitosT4.pdf",
+    "page": 18,
+    "nativeImageIndex": 2,
+    "quiz": "protection-biosolarization.jpg",
+    "original": "protection-biosolarization-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-predators",
+    "source": "fitosT4.pdf",
+    "page": 19,
+    "nativeImageIndex": 1,
+    "quiz": "protection-predators.jpg",
+    "original": "protection-predators-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-parasitoids",
+    "source": "fitosT4.pdf",
+    "page": 19,
+    "nativeImageIndex": 2,
+    "quiz": "protection-parasitoids.jpg",
+    "original": "protection-parasitoids-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-entomopathogens",
+    "source": "fitosT4.pdf",
+    "page": 19,
+    "nativeImageIndex": 3,
+    "quiz": "protection-entomopathogens.jpg",
+    "original": "protection-entomopathogens-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-antagonists",
+    "source": "fitosT4.pdf",
+    "page": 19,
+    "nativeImageIndex": 4,
+    "quiz": "protection-antagonists.jpg",
+    "original": "protection-antagonists-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-biological-strategies",
+    "source": "fitosT4.pdf",
+    "page": 20,
+    "nativeImageIndex": 9,
+    "quiz": "protection-biological-strategies.jpg",
+    "original": "protection-biological-strategies-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-growth-regulators",
+    "source": "fitosT4.pdf",
+    "page": 22,
+    "nativeImageIndex": 1,
+    "quiz": "protection-growth-regulators.jpg",
+    "original": "protection-growth-regulators-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-chitin-inhibitors",
+    "source": "fitosT4.pdf",
+    "page": 22,
+    "nativeImageIndex": 2,
+    "quiz": "protection-chitin-inhibitors.jpg",
+    "original": "protection-chitin-inhibitors-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-sterile-males",
+    "source": "fitosT4.pdf",
+    "page": 22,
+    "nativeImageIndex": 3,
+    "quiz": "protection-sterile-males.jpg",
+    "original": "protection-sterile-males-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-pheromones",
+    "source": "fitosT4.pdf",
+    "page": 23,
+    "nativeImageIndex": 1,
+    "quiz": "protection-pheromones.jpg",
+    "original": "protection-pheromones-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-mass-trapping",
+    "source": "fitosT4.pdf",
+    "page": 23,
+    "nativeImageIndex": 2,
+    "quiz": "protection-mass-trapping.jpg",
+    "original": "protection-mass-trapping-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-chemical-control",
+    "source": "fitosT4.pdf",
+    "page": 24,
+    "nativeImageIndex": 4,
+    "quiz": "protection-chemical-control.jpg",
+    "original": "protection-chemical-control-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-visual-inspection",
+    "source": "fitosT4.pdf",
+    "page": 26,
+    "nativeImageIndex": 8,
+    "quiz": "protection-visual-inspection.jpg",
+    "original": "protection-visual-inspection-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-monitoring-records",
+    "source": "fitosT4.pdf",
+    "page": 27,
+    "nativeImageIndex": 1,
+    "quiz": "protection-monitoring-records.jpg",
+    "original": "protection-monitoring-records-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-phenology",
+    "source": "fitosT4.pdf",
+    "page": 28,
+    "nativeImageIndex": 8,
+    "quiz": "protection-phenology.jpg",
+    "original": "protection-phenology-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-climate",
+    "source": "fitosT4.pdf",
+    "page": 28,
+    "nativeImageIndex": 4,
+    "quiz": "protection-climate.jpg",
+    "original": "protection-climate-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-beating",
+    "source": "fitosT4.pdf",
+    "page": 29,
+    "nativeImageIndex": 1,
+    "quiz": "protection-beating.jpg",
+    "original": "protection-beating-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-color-traps",
+    "source": "fitosT4.pdf",
+    "page": 30,
+    "nativeImageIndex": 4,
+    "quiz": "protection-color-traps.jpg",
+    "original": "protection-color-traps-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-light-traps",
+    "source": "fitosT4.pdf",
+    "page": 31,
+    "nativeImageIndex": 7,
+    "quiz": "protection-light-traps.jpg",
+    "original": "protection-light-traps-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-food-lures",
+    "source": "fitosT4.pdf",
+    "page": 31,
+    "nativeImageIndex": 8,
+    "quiz": "protection-food-lures.jpg",
+    "original": "protection-food-lures-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-sex-lures",
+    "source": "fitosT4.pdf",
+    "page": 32,
+    "nativeImageIndex": 7,
+    "quiz": "protection-sex-lures.jpg",
+    "original": "protection-sex-lures-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-rearing-containers",
+    "source": "fitosT4.pdf",
+    "page": 32,
+    "nativeImageIndex": 8,
+    "quiz": "protection-rearing-containers.jpg",
+    "original": "protection-rearing-containers-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-thresholds",
+    "source": "fitosT4.pdf",
+    "page": 34,
+    "nativeImageIndex": 1,
+    "quiz": "protection-thresholds.jpg",
+    "original": "protection-thresholds-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  },
+  {
+    "id": "protection-control-strategy",
+    "source": "fitosT4.pdf",
+    "page": 35,
+    "nativeImageIndex": 1,
+    "quiz": "protection-control-strategy.jpg",
+    "original": "protection-control-strategy-original.jpg",
+    "processing": "Alpha composited over white; identification label hidden in quiz where necessary; original unlabelled photographs are unchanged."
+  }
+]
