@@ -1,4 +1,4 @@
-# Sanitat vegetal · Joc d’estudi
+# QUALIFITOS
 
 Aplicació estàtica en català amb quatre modes independents basats en `fitosT1 (1)-18-24_merged.pdf`, `fitosT2 (2).pdf` `fitosT3 (1).pdf` i `fitosT4.pdf`.
 
@@ -53,3 +53,7 @@ Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `ima
 ## Protecció de cultius — Tema 4
 
 39 fitxes, 39 imatges i 117 preguntes basades exclusivament en `fitosT4.pdf`, «Protegeix els teus cultius». Imatges i casos de prevenció, mètodes culturals, físics, biològics, biotècnics, químics, seguiment i llindars. Cada sessió tria 10 fitxes amb 2 preguntes per ronda. `protection-data.js`, `protection-content.json`, `images/protection-provenance.json` i `PROTECTION-AUDIT.md` documenten el nou banc.
+
+## Versions
+
+Versió actual: **1.1.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.2.0, 1.3.0…). Per correccions petites, incrementar el pedaç (1.1.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.

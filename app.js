@@ -118,14 +118,14 @@
   function chooseMode(key){
     mode=key;data=modes[key].data;
     $('mode-picker').hidden=true;$('play-area').hidden=false;$('restart').hidden=false;$('change-mode').hidden=false;
-    $('mode-label').textContent=modes[key].label;
+    $('mode-label').textContent=modes[key].label;$('mode-label').hidden=false;
     $('catalog-count').textContent=`${data.cards.reduce((n,c)=>n+c.images.length,0)} imatges · ${data.cards.length} fitxes · ${data.cards.reduce((n,c)=>n+c.questions.length,0)} preguntes`;
     $('data-download').href=modes[key].file;
     start();$('question').focus({preventScroll:true});
   }
   function showModes(){
     $('mode-picker').hidden=false;$('play-area').hidden=true;$('restart').hidden=true;$('change-mode').hidden=true;
-    $('mode-label').textContent='Joc d’estudi · Agricultura';
+    $('mode-label').textContent='';$('mode-label').hidden=true;
     $('picker-title').focus({preventScroll:true});
   }
   $('choose-pests').addEventListener('click',()=>chooseMode('pests'));

@@ -47,3 +47,6 @@ button:focus-visible,a:focus-visible,summary:focus-visible{outline-color:#d2e64b
 .weed-mode .mode-kicker,.weed-mode .mode-start{color:#f2b9cf}.mode-copy{flex:1}.mode-start{margin-top:auto;padding-top:8px}.mode-card strong{overflow-wrap:anywhere}
 
 .protection-mode .mode-kicker,.protection-mode .mode-start{color:#eac48b}
+
+/* Persistent, discreet release marker beside the game title. */
+.brand-title{display:flex;align-items:center;gap:9px;flex-wrap:wrap}.app-version{font-size:10px;line-height:1.4;letter-spacing:.02em;font-weight:400;color:#a8bab0;border:1px solid #486052;border-radius:5px;padding:2px 5px;white-space:nowrap}
