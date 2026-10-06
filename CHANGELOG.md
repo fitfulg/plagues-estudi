@@ -1,3 +1,10 @@
+# v1.8.0 · 06/10/2026
+
+- Afegit el tema 5, Lluita integrada: 40 fitxes i 80 preguntes essencials.
+- Quatre blocs equilibrats, il·lustracions de suport i pàgina original en respondre.
+- Dues descàrregues: PDF per practicar i PDF amb respostes correctes marcades.
+- Bancs dels temes 1–4 conservats.
+
 # Changelog
 
 ## 1.7.0 — 2026-10-04

@@ -59,3 +59,7 @@ Quatre PDF de text seleccionable: 80/80/80/78 preguntes, amb imatges, opcions i 
 ## v1.7.0 — Respostes marcades
 
 Quatre nous PDF amb exactament una resposta CORRECTA per pregunta: 80/80/80/78. Comprovada cada marca contra el banc actiu i comparat el text i ordre de totes les preguntes/opcions amb el PDF per practicar. Documents renderitzats amb Poppler; mostres de cada tema revisades visualment, incloses respostes llargues. Controls d’alçada impedeixen desbordament. Vuit enllaços al selector i enllaç correcte del mode actiu; mòbil de 390 px sense desbordament. Proves dels quatre modes correctes.
+
+## v1.8.0 — Tema 5
+
+40 fitxes i 80 preguntes. Proves dels cinc modes (1.000 sessions cadascun), 2.000 sessions equilibrades del tema 5 i conservació dels bancs anteriors. Partida completa de 20 respostes al navegador, originals i fitxa opcional comprovats; sense errors de consola. Vista mòbil de 390 px sense desbordament. Dos PDF de 51 pàgines: text i ordre de les 80 preguntes/opcions idèntics; exactament dues marques CORRECTA per fitxa. Totes les pàgines renderitzades i revisades.

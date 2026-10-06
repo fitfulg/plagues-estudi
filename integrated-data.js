@@ -1,0 +1,2527 @@
+window.INTEGRATED_DATA = {
+  "title": "Lluita integrada",
+  "source": "fitosT5.pdf · Aplica la lluita integrada als teus cultius · 04/02/2025",
+  "notice": "Contingut formatiu del temari de 04/02/2025; les referències normatives no són una actualització legal.",
+  "cards": [
+    {
+      "id": "integrated-systematic",
+      "name": "Lluita química sistemàtica",
+      "science": "",
+      "group": "Evolució i fonaments",
+      "learning": true,
+      "learningSection": "Evolució i fonaments",
+      "page": 4,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La lluita química sistemàtica aplica productes fitosanitaris seguint un calendari fix establert amb anterioritat."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Els tractaments sistemàtics no sempre estan justificats: es fan sense conèixer els organismes presents i amb productes poc selectius."
+        }
+      ],
+      "groupStudy": {
+        "page": 4,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-systematic",
+          "image": "images/integrated-support-04-4.jpg",
+          "original": "images/integrated-page-04-original.jpg",
+          "page": 4,
+          "imagePage": 4
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-systematic-1",
+          "kind": "Concepte",
+          "prompt": "Quina estratègia es basa en un calendari fix de tractaments?",
+          "answer": "Lluita química sistemàtica",
+          "distractors": [
+            "Lluita química aconsellada",
+            "Lluita dirigida",
+            "Lluita integrada"
+          ],
+          "quote": "La lluita química sistemàtica aplica productes fitosanitaris seguint un calendari fix establert amb anterioritat.",
+          "page": 4
+        },
+        {
+          "id": "integrated-systematic-2",
+          "kind": "Aplicació",
+          "prompt": "Quina limitació descriu el temari per als tractaments sistemàtics?",
+          "answer": "No es coneixen els organismes realment presents",
+          "distractors": [
+            "Es basen en el seguiment rigorós de les plagues",
+            "Determinen la necessitat real d’intervenció",
+            "Prioritzen els factors naturals de limitació"
+          ],
+          "quote": "Els tractaments sistemàtics no sempre estan justificats: es fan sense conèixer els organismes presents i amb productes poc selectius.",
+          "page": 4
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-advised",
+      "name": "Lluita química aconsellada",
+      "science": "",
+      "group": "Evolució i fonaments",
+      "learning": true,
+      "learningSection": "Evolució i fonaments",
+      "page": 4,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La lluita química aconsellada es recolza en les recomanacions dels tècnics especialistes de les Estacions d’Avisos."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Les recomanacions consideren el seguiment de plagues i malalties, l’evolució fenològica de les plantes i les dades meteorològiques."
+        }
+      ],
+      "groupStudy": {
+        "page": 4,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-advised",
+          "image": "images/integrated-support-04-4.jpg",
+          "original": "images/integrated-page-04-original.jpg",
+          "page": 4,
+          "imagePage": 4
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-advised-1",
+          "kind": "Concepte",
+          "prompt": "Quin servei orienta la lluita química aconsellada?",
+          "answer": "Les Estacions d’Avisos",
+          "distractors": [
+            "El CCPAE",
+            "Les ITEAF",
+            "SIGFITO"
+          ],
+          "quote": "La lluita química aconsellada es recolza en les recomanacions dels tècnics especialistes de les Estacions d’Avisos.",
+          "page": 4
+        },
+        {
+          "id": "integrated-advised-2",
+          "kind": "Aplicació",
+          "prompt": "Quin conjunt d’informació sustenta els avisos de tractament?",
+          "answer": "Plagues, fenologia i meteorologia",
+          "distractors": [
+            "Factures, albarans i rebuts",
+            "Hores de formació i tipus de carnet",
+            "Obligacions, prohibicions i recomanacions de certificació"
+          ],
+          "quote": "Les recomanacions consideren el seguiment de plagues i malalties, l’evolució fenològica de les plantes i les dades meteorològiques.",
+          "page": 4
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-directed",
+      "name": "Lluita dirigida",
+      "science": "",
+      "group": "Evolució i fonaments",
+      "learning": true,
+      "learningSection": "Evolució i fonaments",
+      "page": 4,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La lluita dirigida determina la necessitat real d’intervenció, el moment adequat i el producte fitosanitari més efectiu."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "En la lluita dirigida s’introdueix el llindar de tolerància i l’agricultor es recolza en tècnics especialistes."
+        }
+      ],
+      "groupStudy": {
+        "page": 4,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-directed",
+          "image": "images/integrated-support-04-4.jpg",
+          "original": "images/integrated-page-04-original.jpg",
+          "page": 4,
+          "imagePage": 4
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-directed-1",
+          "kind": "Concepte",
+          "prompt": "Quina decisió caracteritza la lluita dirigida?",
+          "answer": "Determinar si cal intervenir, quan i amb quin producte",
+          "distractors": [
+            "Aplicar sempre un calendari fix",
+            "Registrar només les vendes",
+            "Certificar exclusivament productes ecològics"
+          ],
+          "quote": "La lluita dirigida determina la necessitat real d’intervenció, el moment adequat i el producte fitosanitari més efectiu.",
+          "page": 4
+        },
+        {
+          "id": "integrated-directed-2",
+          "kind": "Aplicació",
+          "prompt": "Quin concepte s’introdueix amb la lluita dirigida?",
+          "answer": "Llindar de tolerància",
+          "distractors": [
+            "Període de conversió",
+            "Quadern Integrat d’Explotació",
+            "Producció Agrícola Sostenible"
+          ],
+          "quote": "En la lluita dirigida s’introdueix el llindar de tolerància i l’agricultor es recolza en tècnics especialistes.",
+          "page": 4
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-threshold",
+      "name": "Llindar de tolerància",
+      "science": "",
+      "group": "Evolució i fonaments",
+      "learning": true,
+      "learningSection": "Evolució i fonaments",
+      "page": 4,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El llindar de tolerància és el nivell de població del patogen que, si se sobrepassa, necessita una intervenció limitant."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Sense intervenció, hi ha risc de pèrdues superiors al cost de les mesures de lluita; també es consideren els efectes indesitjables de la intervenció."
+        }
+      ],
+      "groupStudy": {
+        "page": 4,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-threshold",
+          "image": "images/integrated-support-04-4.jpg",
+          "original": "images/integrated-page-04-original.jpg",
+          "page": 4,
+          "imagePage": 4
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-threshold-1",
+          "kind": "Concepte",
+          "prompt": "Què representa el llindar de tolerància?",
+          "answer": "Un nivell de població que orienta la intervenció",
+          "distractors": [
+            "La durada del carnet bàsic",
+            "Un període de conversió a producció ecològica",
+            "Un registre de factures"
+          ],
+          "quote": "El llindar de tolerància és el nivell de població del patogen que, si se sobrepassa, necessita una intervenció limitant.",
+          "page": 4
+        },
+        {
+          "id": "integrated-threshold-2",
+          "kind": "Aplicació",
+          "prompt": "Què es valora en relacionar el llindar amb la intervenció?",
+          "answer": "Pèrdues, cost de la lluita i efectes indesitjables",
+          "distractors": [
+            "Només la data del calendari",
+            "Només el logotip de certificació",
+            "Només les hores del curs d’aplicador"
+          ],
+          "quote": "Sense intervenció, hi ha risc de pèrdues superiors al cost de les mesures de lluita; també es consideren els efectes indesitjables de la intervenció.",
+          "page": 4
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-integration",
+      "name": "Integració dels mètodes de control",
+      "science": "",
+      "group": "Evolució i fonaments",
+      "learning": true,
+      "learningSection": "Evolució i fonaments",
+      "page": 5,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La lluita integrada neix amb la intenció d’integrar el control químic, el biològic i el cultural."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La definició de la FAO considera el medi ambient particular i la dinàmica de les poblacions dels agents nocius."
+        }
+      ],
+      "groupStudy": {
+        "page": 5,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-integration",
+          "image": "images/integrated-support-08-2.jpg",
+          "original": "images/integrated-page-05-original.jpg",
+          "page": 5,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-integration-1",
+          "kind": "Concepte",
+          "prompt": "Quins controls integra inicialment la lluita integrada?",
+          "answer": "Químic, biològic i cultural",
+          "distractors": [
+            "Només químic sistemàtic",
+            "Només tractaments aeris",
+            "Només certificació i registre"
+          ],
+          "quote": "La lluita integrada neix amb la intenció d’integrar el control químic, el biològic i el cultural.",
+          "page": 5
+        },
+        {
+          "id": "integrated-integration-2",
+          "kind": "Aplicació",
+          "prompt": "Què cal tenir en compte per regular les poblacions d’agents nocius?",
+          "answer": "El medi ambient i la dinàmica de les poblacions",
+          "distractors": [
+            "Únicament un calendari fix",
+            "Únicament el carnet del distribuïdor",
+            "Únicament la marca de certificació"
+          ],
+          "quote": "La definició de la FAO considera el medi ambient particular i la dinàmica de les poblacions dels agents nocius.",
+          "page": 5
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-natural-limits",
+      "name": "Factors naturals i llindar econòmic",
+      "science": "",
+      "group": "Evolució i fonaments",
+      "learning": true,
+      "learningSection": "Evolució i fonaments",
+      "page": 5,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La definició de l’OILB dona prioritat als factors naturals de limitació i té en compte exigències econòmiques, ecològiques i toxicològiques."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La regulació integrada manté les poblacions per sota del llindar econòmic de danys."
+        }
+      ],
+      "groupStudy": {
+        "page": 5,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-natural-limits",
+          "image": "images/integrated-support-08-2.jpg",
+          "original": "images/integrated-page-05-original.jpg",
+          "page": 5,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-natural-limits-1",
+          "kind": "Concepte",
+          "prompt": "A què dona prioritat la definició de lluita integrada de l’OILB?",
+          "answer": "Als factors naturals de limitació",
+          "distractors": [
+            "Al calendari fix de tractaments",
+            "Als tractaments aeris",
+            "Als productes poc selectius"
+          ],
+          "quote": "La definició de l’OILB dona prioritat als factors naturals de limitació i té en compte exigències econòmiques, ecològiques i toxicològiques.",
+          "page": 5
+        },
+        {
+          "id": "integrated-natural-limits-2",
+          "kind": "Aplicació",
+          "prompt": "Quin nivell es vol evitar que superin les poblacions nocives?",
+          "answer": "El llindar econòmic de danys",
+          "distractors": [
+            "El període de conversió",
+            "El nivell bàsic de formació",
+            "El registre d’operadors"
+          ],
+          "quote": "La regulació integrada manté les poblacions per sota del llindar econòmic de danys.",
+          "page": 5
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-rational-use",
+      "name": "Ús racional de mesures combinades",
+      "science": "",
+      "group": "Evolució i fonaments",
+      "learning": true,
+      "learningSection": "Evolució i fonaments",
+      "page": 5,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La definició de la Unió Europea combina mesures biològiques, biotecnològiques, químiques, de cultiu i de selecció de vegetals."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "L’ús de productes fitosanitaris químics es limita al mínim necessari per mantenir la població de la plaga en nivells acceptables."
+        }
+      ],
+      "groupStudy": {
+        "page": 5,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-rational-use",
+          "image": "images/integrated-support-09-2.jpg",
+          "original": "images/integrated-page-05-original.jpg",
+          "page": 5,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-rational-use-1",
+          "kind": "Concepte",
+          "prompt": "Quina combinació correspon a la lluita integrada?",
+          "answer": "Mesures biològiques, biotecnològiques, químiques, de cultiu i selecció vegetal",
+          "distractors": [
+            "Només tractaments químics sistemàtics",
+            "Només carnets i inspeccions",
+            "Només factures i albarans"
+          ],
+          "quote": "La definició de la Unió Europea combina mesures biològiques, biotecnològiques, químiques, de cultiu i de selecció de vegetals.",
+          "page": 5
+        },
+        {
+          "id": "integrated-rational-use-2",
+          "kind": "Aplicació",
+          "prompt": "Com s’hi planteja l’ús dels fitosanitaris químics?",
+          "answer": "Limitat al mínim necessari",
+          "distractors": [
+            "Fixat només pel calendari",
+            "Com a únic mètode de control",
+            "Deslligat del nivell de la plaga"
+          ],
+          "quote": "L’ús de productes fitosanitaris químics es limita al mínim necessari per mantenir la població de la plaga en nivells acceptables.",
+          "page": 5
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-green-deal",
+      "name": "Pacte Verd Europeu",
+      "science": "",
+      "group": "Evolució i fonaments",
+      "learning": true,
+      "learningSection": "Evolució i fonaments",
+      "page": 6,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El Pacte Verd Europeu impulsa un ús eficient dels recursos i la transició cap a una economia neta i circular."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "L’estratègia «De la granja a la taula» busca un sistema alimentari just, saludable i respectuós amb el medi ambient."
+        }
+      ],
+      "groupStudy": {
+        "page": 6,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-green-deal",
+          "image": "images/integrated-support-06-1.jpg",
+          "original": "images/integrated-page-06-original.jpg",
+          "page": 6,
+          "imagePage": 6
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-green-deal-1",
+          "kind": "Concepte",
+          "prompt": "Quina orientació té el Pacte Verd Europeu?",
+          "answer": "Ús eficient dels recursos i economia neta i circular",
+          "distractors": [
+            "Calendari fix de tractaments",
+            "Inspecció exclusiva de carnets",
+            "Aplicació exclusiva de productes químics"
+          ],
+          "quote": "El Pacte Verd Europeu impulsa un ús eficient dels recursos i la transició cap a una economia neta i circular.",
+          "page": 6
+        },
+        {
+          "id": "integrated-green-deal-2",
+          "kind": "Aplicació",
+          "prompt": "Quin objectiu té «De la granja a la taula»?",
+          "answer": "Un sistema alimentari just, saludable i respectuós amb el medi ambient",
+          "distractors": [
+            "Expedir el carnet de fumigador",
+            "Inscriure maquinària al ROMA",
+            "Certificar només equips d’aplicació"
+          ],
+          "quote": "L’estratègia «De la granja a la taula» busca un sistema alimentari just, saludable i respectuós amb el medi ambient.",
+          "page": 6
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-gip-goal",
+      "name": "Objectiu de la gestió integrada de plagues",
+      "science": "",
+      "group": "Evolució i fonaments",
+      "learning": true,
+      "learningSection": "Evolució i fonaments",
+      "page": 7,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La GIP promou cultius sans amb la mínima alteració possible dels agroecosistemes i fomenta els mecanismes naturals de control."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La GIP considera la protecció del medi ambient i de la salut humana, amb un ús raonable dels pesticides."
+        }
+      ],
+      "groupStudy": {
+        "page": 7,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-gip-goal",
+          "image": "images/integrated-support-08-2.jpg",
+          "original": "images/integrated-page-07-original.jpg",
+          "page": 7,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-gip-goal-1",
+          "kind": "Concepte",
+          "prompt": "Quin mecanisme fomenta la gestió integrada de plagues?",
+          "answer": "Els mecanismes naturals de control",
+          "distractors": [
+            "Els tractaments sistemàtics injustificats",
+            "L’ús exclusiu de productes poc selectius",
+            "La substitució del seguiment pel calendari"
+          ],
+          "quote": "La GIP promou cultius sans amb la mínima alteració possible dels agroecosistemes i fomenta els mecanismes naturals de control.",
+          "page": 7
+        },
+        {
+          "id": "integrated-gip-goal-2",
+          "kind": "Aplicació",
+          "prompt": "Quina protecció acompanya la sanitat dels cultius en GIP?",
+          "answer": "El medi ambient i la salut humana",
+          "distractors": [
+            "Només l’aparença del producte",
+            "Només la marca de certificació",
+            "Només el calendari comercial"
+          ],
+          "quote": "La GIP considera la protecció del medi ambient i de la salut humana, amb un ús raonable dels pesticides.",
+          "page": 7
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-gip-methods",
+      "name": "Mètodes dins la GIP",
+      "science": "",
+      "group": "Evolució i fonaments",
+      "learning": true,
+      "learningSection": "Evolució i fonaments",
+      "page": 7,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’esquema de GIP inclou mètodes legals, químics, físics, biològics, biotècnics i culturals."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La GIP combina els mètodes disponibles de manera integrada per protegir els cultius."
+        }
+      ],
+      "groupStudy": {
+        "page": 7,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-gip-methods",
+          "image": "images/integrated-support-08-2.jpg",
+          "original": "images/integrated-page-07-original.jpg",
+          "page": 7,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-gip-methods-1",
+          "kind": "Concepte",
+          "prompt": "Quina llista correspon als mètodes de l’esquema de GIP?",
+          "answer": "Legals, químics, físics, biològics, biotècnics i culturals",
+          "distractors": [
+            "Bàsic, qualificat, fumigador i pilot aplicador",
+            "PI, PAE i PAS",
+            "Factures, albarans i rebuts"
+          ],
+          "quote": "L’esquema de GIP inclou mètodes legals, químics, físics, biològics, biotècnics i culturals.",
+          "page": 7
+        },
+        {
+          "id": "integrated-gip-methods-2",
+          "kind": "Aplicació",
+          "prompt": "Com es relacionen els mètodes dins la GIP?",
+          "answer": "Es combinen de manera integrada",
+          "distractors": [
+            "Se substitueixen tots per un calendari fix",
+            "S’aplica exclusivament el control químic",
+            "Es trien sense considerar el cultiu"
+          ],
+          "quote": "La GIP combina els mètodes disponibles de manera integrada per protegir els cultius.",
+          "page": 7
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-prevention",
+      "name": "Principi 1: prevenció",
+      "science": "",
+      "group": "Prevenció i decisions",
+      "learning": true,
+      "learningSection": "Prevenció i decisions",
+      "page": 8,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El primer principi és l’aplicació de bones pràctiques agrícoles per prevenir els organismes nocius."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Es prefereixen els mètodes biològics i culturals si proporcionen un control satisfactori."
+        }
+      ],
+      "groupStudy": {
+        "page": 8,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-prevention",
+          "image": "images/integrated-support-08-1.jpg",
+          "original": "images/integrated-page-08-original.jpg",
+          "page": 8,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-prevention-1",
+          "kind": "Concepte",
+          "prompt": "A quin principi corresponen les bones pràctiques agrícoles preventives?",
+          "answer": "Principi 1: prevenció",
+          "distractors": [
+            "Principi 2: seguiment",
+            "Principi 4: intervenció",
+            "Principi 5: avaluació"
+          ],
+          "quote": "El primer principi és l’aplicació de bones pràctiques agrícoles per prevenir els organismes nocius.",
+          "page": 8
+        },
+        {
+          "id": "integrated-prevention-2",
+          "kind": "Aplicació",
+          "prompt": "Si proporcionen un control satisfactori, quins mètodes es prefereixen?",
+          "answer": "Biològics i culturals",
+          "distractors": [
+            "Químics sistemàtics",
+            "Tractaments poc selectius",
+            "Tractaments fixats només pel calendari"
+          ],
+          "quote": "Es prefereixen els mètodes biològics i culturals si proporcionen un control satisfactori.",
+          "page": 8
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-crop-practices",
+      "name": "Rotació i tècniques de conreu",
+      "science": "",
+      "group": "Prevenció i decisions",
+      "learning": true,
+      "learningSection": "Prevenció i decisions",
+      "page": 8,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La rotació de cultius és una de les bones pràctiques de prevenció enumerades."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Entre les tècniques de conreu adequades hi ha la falsa sembra, la densitat de sembra, la poda i la sembra directa."
+        }
+      ],
+      "groupStudy": {
+        "page": 8,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-crop-practices",
+          "image": "images/integrated-support-08-1.jpg",
+          "original": "images/integrated-page-08-original.jpg",
+          "page": 8,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-crop-practices-1",
+          "kind": "Concepte",
+          "prompt": "Quina pràctica preventiva alterna els cultius?",
+          "answer": "La rotació de cultius",
+          "distractors": [
+            "L’avaluació de resultats",
+            "La inspecció ITEAF",
+            "L’expedició del carnet"
+          ],
+          "quote": "La rotació de cultius és una de les bones pràctiques de prevenció enumerades.",
+          "page": 8
+        },
+        {
+          "id": "integrated-crop-practices-2",
+          "kind": "Aplicació",
+          "prompt": "Quin conjunt correspon a tècniques de conreu preventives?",
+          "answer": "Falsa sembra, densitat de sembra, poda i sembra directa",
+          "distractors": [
+            "Factures, albarans i rebuts",
+            "Bàsic, qualificat i fumigador",
+            "Contracte, pla de treball i autorització local"
+          ],
+          "quote": "Entre les tècniques de conreu adequades hi ha la falsa sembra, la densitat de sembra, la poda i la sembra directa.",
+          "page": 8
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-plant-material",
+      "name": "Material vegetal i equilibri del cultiu",
+      "science": "",
+      "group": "Prevenció i decisions",
+      "learning": true,
+      "learningSection": "Prevenció i decisions",
+      "page": 8,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La prevenció inclou varietats resistents o tolerants i material de sembra o plantació certificat."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "També inclou fertilització equilibrada, reg i drenatge adequats."
+        }
+      ],
+      "groupStudy": {
+        "page": 8,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-plant-material",
+          "image": "images/integrated-support-08-1.jpg",
+          "original": "images/integrated-page-08-original.jpg",
+          "page": 8,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-plant-material-1",
+          "kind": "Concepte",
+          "prompt": "Quin material vegetal afavoreix la prevenció?",
+          "answer": "Varietats resistents o tolerants i material certificat",
+          "distractors": [
+            "Només material triat pel calendari",
+            "Només productes de síntesi",
+            "Només material sense control sanitari"
+          ],
+          "quote": "La prevenció inclou varietats resistents o tolerants i material de sembra o plantació certificat.",
+          "page": 8
+        },
+        {
+          "id": "integrated-plant-material-2",
+          "kind": "Aplicació",
+          "prompt": "Quina gestió del cultiu forma part de la prevenció?",
+          "answer": "Fertilització equilibrada, reg i drenatge adequats",
+          "distractors": [
+            "Registre de vendes exclusivament",
+            "Expedició del carnet de pilot",
+            "Inspecció del magatzem únicament"
+          ],
+          "quote": "També inclou fertilització equilibrada, reg i drenatge adequats.",
+          "page": 8
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-hygiene-allies",
+      "name": "Higiene i fauna auxiliar",
+      "science": "",
+      "group": "Prevenció i decisions",
+      "learning": true,
+      "learningSection": "Prevenció i decisions",
+      "page": 8,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Cal evitar la propagació dels organismes nocius mitjançant material que els pugui transportar."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La fauna auxiliar es protegeix amb productes respectuosos i plantes reservori."
+        }
+      ],
+      "groupStudy": {
+        "page": 8,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-hygiene-allies",
+          "image": "images/integrated-support-08-2.jpg",
+          "original": "images/integrated-page-08-original.jpg",
+          "page": 8,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-hygiene-allies-1",
+          "kind": "Concepte",
+          "prompt": "Què es vol evitar amb la higiene del material de treball?",
+          "answer": "La propagació d’organismes nocius",
+          "distractors": [
+            "La rotació de cultius",
+            "El seguiment de plagues",
+            "La conservació de registres"
+          ],
+          "quote": "Cal evitar la propagació dels organismes nocius mitjançant material que els pugui transportar.",
+          "page": 8
+        },
+        {
+          "id": "integrated-hygiene-allies-2",
+          "kind": "Aplicació",
+          "prompt": "Quina mesura afavoreix la fauna auxiliar?",
+          "answer": "Productes respectuosos i plantes reservori",
+          "distractors": [
+            "Productes poc selectius de calendari",
+            "Supressió del seguiment",
+            "Tractaments sistemàtics injustificats"
+          ],
+          "quote": "La fauna auxiliar es protegeix amb productes respectuosos i plantes reservori.",
+          "page": 8
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-monitoring",
+      "name": "Principi 2: seguiment",
+      "science": "",
+      "group": "Prevenció i decisions",
+      "learning": true,
+      "learningSection": "Prevenció i decisions",
+      "page": 8,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El seguiment estudia els organismes nocius i els seus enemics naturals."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Les observacions de camp permeten conèixer la presència, la població i els danys dels organismes nocius."
+        }
+      ],
+      "groupStudy": {
+        "page": 8,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-monitoring",
+          "image": "images/integrated-support-08-2.jpg",
+          "original": "images/integrated-page-08-original.jpg",
+          "page": 8,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-monitoring-1",
+          "kind": "Concepte",
+          "prompt": "Quins organismes s’observen durant el seguiment?",
+          "answer": "Els nocius i els seus enemics naturals",
+          "distractors": [
+            "Només els productes certificats",
+            "Només els operadors registrats",
+            "Només les varietats comercials"
+          ],
+          "quote": "El seguiment estudia els organismes nocius i els seus enemics naturals.",
+          "page": 8
+        },
+        {
+          "id": "integrated-monitoring-2",
+          "kind": "Aplicació",
+          "prompt": "Quina informació aporta l’observació de camp?",
+          "answer": "Presència, població i danys",
+          "distractors": [
+            "Hores de formació del carnet",
+            "Durada del període de conversió",
+            "Factures de venda exclusivament"
+          ],
+          "quote": "Les observacions de camp permeten conèixer la presència, la població i els danys dels organismes nocius.",
+          "page": 8
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-alerts",
+      "name": "Eines per al seguiment",
+      "science": "",
+      "group": "Prevenció i decisions",
+      "learning": true,
+      "learningSection": "Prevenció i decisions",
+      "page": 8,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El seguiment utilitza sistemes d’alerta, previsió i diagnòstic precoç amb fonament científic."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "L’assessorament de professionals qualificats complementa el seguiment."
+        }
+      ],
+      "groupStudy": {
+        "page": 8,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-alerts",
+          "image": "images/integrated-support-08-2.jpg",
+          "original": "images/integrated-page-08-original.jpg",
+          "page": 8,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-alerts-1",
+          "kind": "Concepte",
+          "prompt": "Quines eines complementen les observacions de camp?",
+          "answer": "Alertes, previsions i diagnòstic precoç",
+          "distractors": [
+            "Només logotips de certificació",
+            "Només calendaris fixos",
+            "Només rebuts d’envasos"
+          ],
+          "quote": "El seguiment utilitza sistemes d’alerta, previsió i diagnòstic precoç amb fonament científic.",
+          "page": 8
+        },
+        {
+          "id": "integrated-alerts-2",
+          "kind": "Aplicació",
+          "prompt": "Qui pot aportar orientació tècnica al seguiment?",
+          "answer": "Assessors professionals qualificats",
+          "distractors": [
+            "Només gestors d’envasos",
+            "Només fabricants de carnets",
+            "Només auditors de factures"
+          ],
+          "quote": "L’assessorament de professionals qualificats complementa el seguiment.",
+          "page": 8
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-decision",
+      "name": "Principi 3: presa de decisions",
+      "science": "",
+      "group": "Prevenció i decisions",
+      "learning": true,
+      "learningSection": "Prevenció i decisions",
+      "page": 9,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La decisió d’intervenir es fonamenta en els resultats de la vigilància i en els llindars."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Els mètodes no químics es prefereixen als químics quan permeten un control satisfactori de la plaga."
+        }
+      ],
+      "groupStudy": {
+        "page": 9,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-decision",
+          "image": "images/integrated-support-09-1.jpg",
+          "original": "images/integrated-page-09-original.jpg",
+          "page": 9,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-decision-1",
+          "kind": "Concepte",
+          "prompt": "En què es basa la decisió d’intervenir?",
+          "answer": "Resultats de vigilància i llindars",
+          "distractors": [
+            "Només una data fixa",
+            "Només el logotip de certificació",
+            "Només el nombre de factures"
+          ],
+          "quote": "La decisió d’intervenir es fonamenta en els resultats de la vigilància i en els llindars.",
+          "page": 9
+        },
+        {
+          "id": "integrated-decision-2",
+          "kind": "Aplicació",
+          "prompt": "Si una alternativa no química controla satisfactòriament la plaga, què es prioritza?",
+          "answer": "L’alternativa no química",
+          "distractors": [
+            "El tractament químic sistemàtic",
+            "L’aplicació independent del seguiment",
+            "El producte menys selectiu"
+          ],
+          "quote": "Els mètodes no químics es prefereixen als químics quan permeten un control satisfactori de la plaga.",
+          "page": 9
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-resistance",
+      "name": "Prevenció de resistències",
+      "science": "",
+      "group": "Prevenció i decisions",
+      "learning": true,
+      "learningSection": "Prevenció i decisions",
+      "page": 9,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Per prevenir resistències, es preveu alternar famílies de matèries actives amb diferents modes d’acció."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "L’alternança de modes d’acció forma part de les decisions sobre els tractaments."
+        }
+      ],
+      "groupStudy": {
+        "page": 9,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-resistance",
+          "image": "images/integrated-support-09-1.jpg",
+          "original": "images/integrated-page-09-original.jpg",
+          "page": 9,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-resistance-1",
+          "kind": "Concepte",
+          "prompt": "Quin criteri guia l’alternança per prevenir resistències?",
+          "answer": "Famílies de matèries actives amb modes d’acció diferents",
+          "distractors": [
+            "Només canviar la data del calendari",
+            "Només canviar l’envàs",
+            "Només canviar el carnet de l’operador"
+          ],
+          "quote": "Per prevenir resistències, es preveu alternar famílies de matèries actives amb diferents modes d’acció.",
+          "page": 9
+        },
+        {
+          "id": "integrated-resistance-2",
+          "kind": "Aplicació",
+          "prompt": "Quina finalitat té alternar els modes d’acció?",
+          "answer": "Prevenir resistències",
+          "distractors": [
+            "Obtenir el logotip ecològic",
+            "Iniciar el període de conversió",
+            "Substituir el quadern d’explotació"
+          ],
+          "quote": "L’alternança de modes d’acció forma part de les decisions sobre els tractaments.",
+          "page": 9
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-intervention",
+      "name": "Principi 4: intervenció",
+      "science": "",
+      "group": "Prevenció i decisions",
+      "learning": true,
+      "learningSection": "Prevenció i decisions",
+      "page": 9,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La intervenció ha de ser rigorosa, amb productes específics i els mínims efectes sobre la salut, el medi ambient i els organismes no objectiu."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Els tractaments s’han de limitar als nivells necessaris, amb dosis i freqüència adequades."
+        }
+      ],
+      "groupStudy": {
+        "page": 9,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-intervention",
+          "image": "images/integrated-support-09-2.jpg",
+          "original": "images/integrated-page-09-original.jpg",
+          "page": 9,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-intervention-1",
+          "kind": "Concepte",
+          "prompt": "Quin criteri de selecció s’aplica als productes d’intervenció?",
+          "answer": "Especificitat i mínims efectes sobre organismes no objectiu",
+          "distractors": [
+            "Poca selectivitat com a prioritat",
+            "Ús exclusiu segons calendari",
+            "Elecció sense considerar la salut"
+          ],
+          "quote": "La intervenció ha de ser rigorosa, amb productes específics i els mínims efectes sobre la salut, el medi ambient i els organismes no objectiu.",
+          "page": 9
+        },
+        {
+          "id": "integrated-intervention-2",
+          "kind": "Aplicació",
+          "prompt": "Com s’ajusten la dosi i la freqüència?",
+          "answer": "Als nivells necessaris",
+          "distractors": [
+            "Només al logotip de certificació",
+            "Només a les hores de formació",
+            "Sense considerar la necessitat de control"
+          ],
+          "quote": "Els tractaments s’han de limitar als nivells necessaris, amb dosis i freqüència adequades.",
+          "page": 9
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-evaluation",
+      "name": "Principi 5: avaluació",
+      "science": "",
+      "group": "Prevenció i decisions",
+      "learning": true,
+      "learningSection": "Prevenció i decisions",
+      "page": 9,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’avaluació compara els resultats reals amb els esperats."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Els registres d’ús de fitosanitaris i els nivells d’organismes nocius permeten comprovar l’eficàcia i orientar futures decisions."
+        }
+      ],
+      "groupStudy": {
+        "page": 9,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-evaluation",
+          "image": "images/integrated-support-09-3.jpg",
+          "original": "images/integrated-page-09-original.jpg",
+          "page": 9,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-evaluation-1",
+          "kind": "Concepte",
+          "prompt": "Què es compara en l’avaluació dels resultats?",
+          "answer": "Els resultats reals i els esperats",
+          "distractors": [
+            "Els carnets bàsic i de pilot",
+            "Els logotips PI i PAE",
+            "Els envasos nous i buits"
+          ],
+          "quote": "L’avaluació compara els resultats reals amb els esperats.",
+          "page": 9
+        },
+        {
+          "id": "integrated-evaluation-2",
+          "kind": "Aplicació",
+          "prompt": "Quina informació ajuda a valorar l’eficàcia de les mesures?",
+          "answer": "Registres dels tractaments i nivells d’organismes nocius",
+          "distractors": [
+            "Només les hores del curs",
+            "Només el codi del carnet",
+            "Només el calendari previst"
+          ],
+          "quote": "Els registres d’ús de fitosanitaris i els nivells d’organismes nocius permeten comprovar l’eficàcia i orientar futures decisions.",
+          "page": 9
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-sustainable-use",
+      "name": "Ús sostenible dels fitosanitaris",
+      "science": "",
+      "group": "Responsabilitats i registres",
+      "learning": true,
+      "learningSection": "Responsabilitats i registres",
+      "page": 11,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El Reial decret 1311/2012 és el marc estatal d’ús sostenible dels productes fitosanitaris citat al temari."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Aquest marc promou la gestió integrada de plagues i els plantejaments o tècniques alternatius."
+        }
+      ],
+      "groupStudy": {
+        "page": 11,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-sustainable-use",
+          "image": "images/integrated-support-09-2.jpg",
+          "original": "images/integrated-page-11-original.jpg",
+          "page": 11,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-sustainable-use-1",
+          "kind": "Concepte",
+          "prompt": "Quin àmbit regula el Reial decret 1311/2012 citat al temari?",
+          "answer": "L’ús sostenible dels productes fitosanitaris",
+          "distractors": [
+            "La certificació exclusiva de productes ecològics",
+            "La llicència de pilot d’aeronau",
+            "El període de conversió ecològica"
+          ],
+          "quote": "El Reial decret 1311/2012 és el marc estatal d’ús sostenible dels productes fitosanitaris citat al temari.",
+          "page": 11
+        },
+        {
+          "id": "integrated-sustainable-use-2",
+          "kind": "Aplicació",
+          "prompt": "Quina orientació de control promou aquest marc?",
+          "answer": "GIP i tècniques alternatives",
+          "distractors": [
+            "Només lluita química sistemàtica",
+            "Només tractaments aeris",
+            "Només calendaris fixos"
+          ],
+          "quote": "Aquest marc promou la gestió integrada de plagues i els plantejaments o tècniques alternatius.",
+          "page": 11
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-records",
+      "name": "Quadern d’explotació",
+      "science": "",
+      "group": "Responsabilitats i registres",
+      "learning": true,
+      "learningSection": "Responsabilitats i registres",
+      "page": 12,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El quadern d’explotació registra tractaments, fertilització i altres operacions de l’explotació."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "El quadern digital integra la informació i facilita la traçabilitat. El temari presenta el Quadern Integrat d’Explotació (QIE)."
+        }
+      ],
+      "groupStudy": {
+        "page": 12,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-records",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-12-original.jpg",
+          "page": 12,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-records-1",
+          "kind": "Concepte",
+          "prompt": "On es recullen tractaments i operacions de l’explotació?",
+          "answer": "Al quadern d’explotació",
+          "distractors": [
+            "Al carnet de fumigador",
+            "A la llicència de pilot",
+            "Al logotip PI"
+          ],
+          "quote": "El quadern d’explotació registra tractaments, fertilització i altres operacions de l’explotació.",
+          "page": 12
+        },
+        {
+          "id": "integrated-records-2",
+          "kind": "Aplicació",
+          "prompt": "Quina finalitat facilita la integració de la informació al quadern?",
+          "answer": "La traçabilitat",
+          "distractors": [
+            "La lluita química sistemàtica",
+            "La substitució de l’observació de camp",
+            "L’eliminació de l’assessorament"
+          ],
+          "quote": "El quadern digital integra la informació i facilita la traçabilitat. El temari presenta el Quadern Integrat d’Explotació (QIE).",
+          "page": 12
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-evidence",
+      "name": "Justificants i conservació",
+      "science": "",
+      "group": "Responsabilitats i registres",
+      "learning": true,
+      "learningSection": "Responsabilitats i registres",
+      "page": 13,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Cal conservar justificants com factures, albarans, documents d’assessorament, anàlisis i rebuts de lliurament d’envasos."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "El temari assenyala una conservació mínima de tres anys per a la documentació d’assessorament signada."
+        }
+      ],
+      "groupStudy": {
+        "page": 13,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-evidence",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-13-original.jpg",
+          "page": 13,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-evidence-1",
+          "kind": "Concepte",
+          "prompt": "Quin document acredita la gestió dels envasos buits?",
+          "answer": "El rebut de lliurament d’envasos",
+          "distractors": [
+            "El carnet de pilot aplicador",
+            "El logotip de producció ecològica",
+            "El calendari de tractaments"
+          ],
+          "quote": "Cal conservar justificants com factures, albarans, documents d’assessorament, anàlisis i rebuts de lliurament d’envasos.",
+          "page": 13
+        },
+        {
+          "id": "integrated-evidence-2",
+          "kind": "Aplicació",
+          "prompt": "Quin termini mínim de conservació indica el temari per al document d’assessorament signat?",
+          "answer": "Tres anys",
+          "distractors": [
+            "Un any",
+            "Cinc anys",
+            "Deu anys"
+          ],
+          "quote": "El temari assenyala una conservació mínima de tres anys per a la documentació d’assessorament signada.",
+          "page": 13
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-advice",
+      "name": "Assessorament en GIP",
+      "science": "",
+      "group": "Responsabilitats i registres",
+      "learning": true,
+      "learningSection": "Responsabilitats i registres",
+      "page": 13,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’assessor en GIP ha d’estar reconegut i ajuda en la presa de decisions."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "L’assessorament queda recollit per escrit i signat per l’agricultor i l’assessor. Les explotacions exemptes d’assessorament han de seguir les guies de GIP."
+        }
+      ],
+      "groupStudy": {
+        "page": 13,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-advice",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-13-original.jpg",
+          "page": 13,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-advice-1",
+          "kind": "Concepte",
+          "prompt": "Quina funció té l’assessor reconegut en GIP?",
+          "answer": "Ajudar en la presa de decisions",
+          "distractors": [
+            "Substituir totes les observacions per un calendari",
+            "Expedir exclusivament llicències de vol",
+            "Recollir exclusivament envasos buits"
+          ],
+          "quote": "L’assessor en GIP ha d’estar reconegut i ajuda en la presa de decisions.",
+          "page": 13
+        },
+        {
+          "id": "integrated-advice-2",
+          "kind": "Aplicació",
+          "prompt": "Qui signa el document d’assessorament?",
+          "answer": "L’agricultor i l’assessor",
+          "distractors": [
+            "Només el gestor d’envasos",
+            "Només el pilot aplicador",
+            "Només el fabricant de maquinària"
+          ],
+          "quote": "L’assessorament queda recollit per escrit i signat per l’agricultor i l’assessor. Les explotacions exemptes d’assessorament han de seguir les guies de GIP.",
+          "page": 13
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-basic-training",
+      "name": "Carnet: nivell bàsic",
+      "science": "",
+      "group": "Responsabilitats i registres",
+      "learning": true,
+      "learningSection": "Responsabilitats i registres",
+      "page": 14,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El nivell bàsic s’adreça a auxiliars i a agricultors que apliquen a la pròpia explotació sense personal auxiliar, amb les condicions indicades al temari."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "El curs de nivell bàsic té una durada mínima de 25 hores. No habilita per aplicar productes que siguin o generin gasos tòxics, molt tòxics o mortals."
+        }
+      ],
+      "groupStudy": {
+        "page": 14,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-basic-training",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-14-original.jpg",
+          "page": 14,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-basic-training-1",
+          "kind": "Concepte",
+          "prompt": "Quin nivell correspon al cas d’un agricultor sense auxiliars que tracta la pròpia explotació amb productes que no generen gasos tòxics?",
+          "answer": "Bàsic",
+          "distractors": [
+            "Fumigador",
+            "Pilot aplicador",
+            "Qualificat per dirigir equips"
+          ],
+          "quote": "El nivell bàsic s’adreça a auxiliars i a agricultors que apliquen a la pròpia explotació sense personal auxiliar, amb les condicions indicades al temari.",
+          "page": 14
+        },
+        {
+          "id": "integrated-basic-training-2",
+          "kind": "Aplicació",
+          "prompt": "Quina durada mínima té el curs bàsic al temari?",
+          "answer": "25 hores",
+          "distractors": [
+            "60 hores",
+            "90 hores",
+            "120 hores"
+          ],
+          "quote": "El curs de nivell bàsic té una durada mínima de 25 hores. No habilita per aplicar productes que siguin o generin gasos tòxics, molt tòxics o mortals.",
+          "page": 14
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-qualified-training",
+      "name": "Carnet: nivell qualificat",
+      "science": "",
+      "group": "Responsabilitats i registres",
+      "learning": true,
+      "learningSection": "Responsabilitats i registres",
+      "page": 14,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El nivell qualificat s’adreça, entre altres casos, als responsables de tractaments terrestres i als agricultors que utilitzen personal auxiliar."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "El curs de nivell qualificat té una durada mínima de 60 hores. També es contempla per a personal de venda professional i aplicacions a tercers."
+        }
+      ],
+      "groupStudy": {
+        "page": 14,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-qualified-training",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-14-original.jpg",
+          "page": 14,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-qualified-training-1",
+          "kind": "Concepte",
+          "prompt": "Quin nivell es preveu per al responsable d’un tractament terrestre amb auxiliars?",
+          "answer": "Qualificat",
+          "distractors": [
+            "Bàsic",
+            "Pilot aplicador",
+            "Només fumigador"
+          ],
+          "quote": "El nivell qualificat s’adreça, entre altres casos, als responsables de tractaments terrestres i als agricultors que utilitzen personal auxiliar.",
+          "page": 14
+        },
+        {
+          "id": "integrated-qualified-training-2",
+          "kind": "Aplicació",
+          "prompt": "Quina durada mínima té el curs qualificat al temari?",
+          "answer": "60 hores",
+          "distractors": [
+            "25 hores",
+            "90 hores",
+            "120 hores"
+          ],
+          "quote": "El curs de nivell qualificat té una durada mínima de 60 hores. També es contempla per a personal de venda professional i aplicacions a tercers.",
+          "page": 14
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-fumigator",
+      "name": "Carnet: fumigador",
+      "science": "",
+      "group": "Responsabilitats i registres",
+      "learning": true,
+      "learningSection": "Responsabilitats i registres",
+      "page": 14,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El nivell de fumigador correspon a productes que siguin o generin gasos classificats com a tòxics, molt tòxics o mortals."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Per al curs de fumigador cal haver adquirit abans la capacitació bàsica o qualificada; la durada mínima és de 25 hores."
+        }
+      ],
+      "groupStudy": {
+        "page": 14,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-fumigator",
+          "image": "images/integrated-support-09-2.jpg",
+          "original": "images/integrated-page-14-original.jpg",
+          "page": 14,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-fumigator-1",
+          "kind": "Concepte",
+          "prompt": "Quina aplicació requereix la capacitació de fumigador?",
+          "answer": "Productes que siguin o generin gasos tòxics, molt tòxics o mortals",
+          "distractors": [
+            "Qualsevol poda del cultiu",
+            "Qualsevol observació de camp",
+            "El registre de factures"
+          ],
+          "quote": "El nivell de fumigador correspon a productes que siguin o generin gasos classificats com a tòxics, molt tòxics o mortals.",
+          "page": 14
+        },
+        {
+          "id": "integrated-fumigator-2",
+          "kind": "Aplicació",
+          "prompt": "Quina formació prèvia requereix el nivell de fumigador?",
+          "answer": "Nivell bàsic o qualificat",
+          "distractors": [
+            "Només una llicència de pilot",
+            "Només una certificació ecològica",
+            "Només una inspecció de maquinària"
+          ],
+          "quote": "Per al curs de fumigador cal haver adquirit abans la capacitació bàsica o qualificada; la durada mínima és de 25 hores.",
+          "page": 14
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-pilot",
+      "name": "Carnet: pilot aplicador",
+      "science": "",
+      "group": "Responsabilitats i registres",
+      "learning": true,
+      "learningSection": "Responsabilitats i registres",
+      "page": 15,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El nivell de pilot aplicador correspon als tractaments des d’aeronaus i té una durada mínima de 90 hores."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La capacitació de pilot aplicador no substitueix la llicència de pilot d’aeronau."
+        }
+      ],
+      "groupStudy": {
+        "page": 15,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-pilot",
+          "image": "images/integrated-support-09-2.jpg",
+          "original": "images/integrated-page-15-original.jpg",
+          "page": 15,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-pilot-1",
+          "kind": "Concepte",
+          "prompt": "Quin nivell de carnet s’associa als tractaments des d’aeronaus?",
+          "answer": "Pilot aplicador",
+          "distractors": [
+            "Bàsic",
+            "Qualificat terrestre",
+            "Fumigador"
+          ],
+          "quote": "El nivell de pilot aplicador correspon als tractaments des d’aeronaus i té una durada mínima de 90 hores.",
+          "page": 15
+        },
+        {
+          "id": "integrated-pilot-2",
+          "kind": "Aplicació",
+          "prompt": "Quina afirmació diferencia el carnet de pilot aplicador de la llicència de vol?",
+          "answer": "El carnet no substitueix la llicència de pilot",
+          "distractors": [
+            "El carnet substitueix sempre la llicència",
+            "El nivell bàsic substitueix la llicència",
+            "La certificació PI substitueix tots dos documents"
+          ],
+          "quote": "La capacitació de pilot aplicador no substitueix la llicència de pilot d’aeronau.",
+          "page": 15
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-non-farm",
+      "name": "Usos no agraris",
+      "science": "",
+      "group": "Responsabilitats i registres",
+      "learning": true,
+      "learningSection": "Responsabilitats i registres",
+      "page": 16,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Per als usos no agraris regulats, el temari preveu professionals capacitats i assessorament, amb les excepcions que especifica."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "El contracte i el pla de treball formen part de la documentació prèvia dels tractaments no agraris descrits."
+        }
+      ],
+      "groupStudy": {
+        "page": 16,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-non-farm",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-16-original.jpg",
+          "page": 16,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-non-farm-1",
+          "kind": "Concepte",
+          "prompt": "Quina combinació descriu els tractaments no agraris regulats al temari?",
+          "answer": "Professionals capacitats i assessorament",
+          "distractors": [
+            "Només un calendari fix sense assessorament",
+            "Només un logotip ecològic",
+            "Només un registre de fertilització"
+          ],
+          "quote": "Per als usos no agraris regulats, el temari preveu professionals capacitats i assessorament, amb les excepcions que especifica.",
+          "page": 16
+        },
+        {
+          "id": "integrated-non-farm-2",
+          "kind": "Aplicació",
+          "prompt": "Quins documents s’hi preveuen abans del tractament?",
+          "answer": "Contracte i pla de treball",
+          "distractors": [
+            "Només factures de collita",
+            "Només el certificat de conversió ecològica",
+            "Només el logotip PI"
+          ],
+          "quote": "El contracte i el pla de treball formen part de la documentació prèvia dels tractaments no agraris descrits.",
+          "page": 16
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-storage-waste",
+      "name": "Emmagatzematge i envasos",
+      "science": "",
+      "group": "Responsabilitats i registres",
+      "learning": true,
+      "learningSection": "Responsabilitats i registres",
+      "page": 17,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El magatzem ha de ser ventilat i tancat amb clau; els productes retirats han d’estar separats dels vigents."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Els envasos buits s’han de lliurar a un gestor autoritzat; el temari esmenta SIGFITO."
+        }
+      ],
+      "groupStudy": {
+        "page": 17,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-storage-waste",
+          "image": "images/integrated-support-09-2.jpg",
+          "original": "images/integrated-page-17-original.jpg",
+          "page": 17,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-storage-waste-1",
+          "kind": "Concepte",
+          "prompt": "Quines condicions descriuen l’emmagatzematge de fitosanitaris?",
+          "answer": "Ventilació, tancament amb clau i separació dels productes retirats",
+          "distractors": [
+            "Només un calendari visible",
+            "Només un logotip de certificació",
+            "Barreja dels productes retirats amb els vigents"
+          ],
+          "quote": "El magatzem ha de ser ventilat i tancat amb clau; els productes retirats han d’estar separats dels vigents.",
+          "page": 17
+        },
+        {
+          "id": "integrated-storage-waste-2",
+          "kind": "Aplicació",
+          "prompt": "Quin destí correspon als envasos buits?",
+          "answer": "Un gestor autoritzat, com el sistema SIGFITO",
+          "distractors": [
+            "L’Estació d’Avisos per al seguiment",
+            "El CCPAE per a la conversió",
+            "El ROMA per a la inscripció de maquinària"
+          ],
+          "quote": "Els envasos buits s’han de lliurar a un gestor autoritzat; el temari esmenta SIGFITO.",
+          "page": 17
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-certification",
+      "name": "Sistemes de certificació",
+      "science": "",
+      "group": "Models de producció",
+      "learning": true,
+      "learningSection": "Models de producció",
+      "page": 18,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "PI, PAE i PAS comparteixen la voluntat de cultivar respectant el medi ambient."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Les certificacions privades poden integrar seguretat alimentària, traçabilitat, medi ambient, salut i benestar dels treballadors i GIP."
+        }
+      ],
+      "groupStudy": {
+        "page": 18,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-certification",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-18-original.jpg",
+          "page": 18,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-certification-1",
+          "kind": "Concepte",
+          "prompt": "Quin objectiu comparteixen els models PI, PAE i PAS?",
+          "answer": "Cultivar respectant el medi ambient",
+          "distractors": [
+            "Aplicar només lluita química sistemàtica",
+            "Prescindir de la traçabilitat",
+            "Substituir tota observació per calendaris"
+          ],
+          "quote": "PI, PAE i PAS comparteixen la voluntat de cultivar respectant el medi ambient.",
+          "page": 18
+        },
+        {
+          "id": "integrated-certification-2",
+          "kind": "Aplicació",
+          "prompt": "Quin conjunt de criteris pot abordar una certificació privada?",
+          "answer": "Seguretat alimentària, traçabilitat, medi ambient i benestar dels treballadors",
+          "distractors": [
+            "Només la data dels tractaments",
+            "Només les hores del carnet",
+            "Només el nombre d’envasos"
+          ],
+          "quote": "Les certificacions privades poden integrar seguretat alimentària, traçabilitat, medi ambient, salut i benestar dels treballadors i GIP.",
+          "page": 18
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-integrated-production",
+      "name": "Producció Integrada: objectius",
+      "science": "",
+      "group": "Models de producció",
+      "learning": true,
+      "learningSection": "Models de producció",
+      "page": 19,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La Producció Integrada busca productes de qualitat i saludables amb un ús mínim de productes de síntesi i una optimització dels recursos."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La PI combina la protecció ambiental amb la viabilitat econòmica de l’explotació."
+        }
+      ],
+      "groupStudy": {
+        "page": 19,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-integrated-production",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-19-original.jpg",
+          "page": 19,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-integrated-production-1",
+          "kind": "Concepte",
+          "prompt": "Quina orientació té la PI respecte dels productes de síntesi?",
+          "answer": "Minimitzar-ne l’ús i optimitzar els recursos",
+          "distractors": [
+            "Usar-los com a únic mètode",
+            "Aplicar-los sempre per calendari",
+            "Prescindir del seguiment del cultiu"
+          ],
+          "quote": "La Producció Integrada busca productes de qualitat i saludables amb un ús mínim de productes de síntesi i una optimització dels recursos.",
+          "page": 19
+        },
+        {
+          "id": "integrated-integrated-production-2",
+          "kind": "Aplicació",
+          "prompt": "Quins dos objectius vol compatibilitzar la PI?",
+          "answer": "Protecció ambiental i viabilitat econòmica",
+          "distractors": [
+            "Calendari fix i manca de seguiment",
+            "Poca selectivitat i eliminació de fauna auxiliar",
+            "Absència de registres i de traçabilitat"
+          ],
+          "quote": "La PI combina la protecció ambiental amb la viabilitat econòmica de l’explotació.",
+          "page": 19
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-integrated-biodiversity",
+      "name": "PI: biodiversitat i recursos",
+      "science": "",
+      "group": "Models de producció",
+      "learning": true,
+      "learningSection": "Models de producció",
+      "page": 19,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La PI conserva la biodiversitat i protegeix la flora i la fauna naturals."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La PI aplica coneixements científics i tècnics, optimitza recursos i gestiona els residus."
+        }
+      ],
+      "groupStudy": {
+        "page": 19,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-integrated-biodiversity",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-19-original.jpg",
+          "page": 19,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-integrated-biodiversity-1",
+          "kind": "Concepte",
+          "prompt": "Què es pretén conservar amb la PI?",
+          "answer": "La biodiversitat i la flora i fauna naturals",
+          "distractors": [
+            "Només els productes de síntesi",
+            "Només el calendari fix",
+            "Només els organismes nocius"
+          ],
+          "quote": "La PI conserva la biodiversitat i protegeix la flora i la fauna naturals.",
+          "page": 19
+        },
+        {
+          "id": "integrated-integrated-biodiversity-2",
+          "kind": "Aplicació",
+          "prompt": "Quina pràctica encaixa amb la PI?",
+          "answer": "Optimitzar recursos i gestionar els residus",
+          "distractors": [
+            "Eliminar la traçabilitat",
+            "Ignorar els coneixements tècnics",
+            "Prescindir de la fauna auxiliar"
+          ],
+          "quote": "La PI aplica coneixements científics i tècnics, optimitza recursos i gestiona els residus.",
+          "page": 19
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-integrated-standards",
+      "name": "PI: normes i control",
+      "science": "",
+      "group": "Models de producció",
+      "learning": true,
+      "learningSection": "Models de producció",
+      "page": 20,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Les normes tècniques de PI recullen obligacions, prohibicions i recomanacions seguint les operacions del cultiu."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Entitats externes de certificació controlen el compliment de les normes de PI."
+        }
+      ],
+      "groupStudy": {
+        "page": 20,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-integrated-standards",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-20-original.jpg",
+          "page": 20,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-integrated-standards-1",
+          "kind": "Concepte",
+          "prompt": "Com s’estructuren les prescripcions de les normes tècniques de PI?",
+          "answer": "Obligacions, prohibicions i recomanacions",
+          "distractors": [
+            "Bàsic, qualificat i fumigador",
+            "Prevenció, conversió i llicència",
+            "Factures, albarans i carnets exclusivament"
+          ],
+          "quote": "Les normes tècniques de PI recullen obligacions, prohibicions i recomanacions seguint les operacions del cultiu.",
+          "page": 20
+        },
+        {
+          "id": "integrated-integrated-standards-2",
+          "kind": "Aplicació",
+          "prompt": "Qui comprova externament el compliment de les normes de PI?",
+          "answer": "Entitats de certificació",
+          "distractors": [
+            "Només el gestor d’envasos",
+            "Només el fabricant del producte",
+            "Només l’Estació d’Avisos"
+          ],
+          "quote": "Entitats externes de certificació controlen el compliment de les normes de PI.",
+          "page": 20
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-integrated-practices",
+      "name": "PI: sòl, nutrients i aigua",
+      "science": "",
+      "group": "Models de producció",
+      "learning": true,
+      "learningSection": "Models de producció",
+      "page": 20,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La PI preveu una pertorbació mínima del sòl i la conservació de la seva estructura."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "El maneig dels nutrients considera l’equilibri entre les aportacions i les extraccions; l’aigua es gestiona amb eficiència segons el sòl i el clima."
+        }
+      ],
+      "groupStudy": {
+        "page": 20,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-integrated-practices",
+          "image": "images/integrated-support-18-1.jpg",
+          "original": "images/integrated-page-20-original.jpg",
+          "page": 20,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-integrated-practices-1",
+          "kind": "Concepte",
+          "prompt": "Quin criteri de maneig del sòl recull la PI?",
+          "answer": "Pertorbació mínima i conservació de l’estructura",
+          "distractors": [
+            "Substituir tota gestió per tractaments aeris",
+            "Aplicar només un calendari fix",
+            "Ignorar l’estructura del sòl"
+          ],
+          "quote": "La PI preveu una pertorbació mínima del sòl i la conservació de la seva estructura.",
+          "page": 20
+        },
+        {
+          "id": "integrated-integrated-practices-2",
+          "kind": "Aplicació",
+          "prompt": "Quina gestió dels recursos descriu la PI?",
+          "answer": "Equilibri de nutrients i ús eficient de l’aigua",
+          "distractors": [
+            "Fertilització deslligada de les extraccions",
+            "Reg independent del sòl i del clima",
+            "Ús de fitosanitaris com a únic criteri"
+          ],
+          "quote": "El maneig dels nutrients considera l’equilibri entre les aportacions i les extraccions; l’aigua es gestiona amb eficiència segons el sòl i el clima.",
+          "page": 20
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-organic-principles",
+      "name": "PAE: cicles i sistemes naturals",
+      "science": "",
+      "group": "Models de producció",
+      "learning": true,
+      "learningSection": "Models de producció",
+      "page": 21,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La Producció Agrària Ecològica utilitza tècniques naturals i respectuoses amb el medi ambient per obtenir productes de qualitat."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La PAE respecta els cicles naturals, la salut del sòl, l’aigua, les plantes i els animals, la biodiversitat i el benestar animal."
+        }
+      ],
+      "groupStudy": {
+        "page": 21,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-organic-principles",
+          "image": "images/integrated-support-06-1.jpg",
+          "original": "images/integrated-page-21-original.jpg",
+          "page": 21,
+          "imagePage": 6
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-organic-principles-1",
+          "kind": "Concepte",
+          "prompt": "Quina descripció correspon a la PAE?",
+          "answer": "Tècniques naturals respectuoses amb el medi ambient",
+          "distractors": [
+            "Ús exclusiu de lluita química sistemàtica",
+            "Calendari fix sense seguiment",
+            "Control basat només en carnets"
+          ],
+          "quote": "La Producció Agrària Ecològica utilitza tècniques naturals i respectuoses amb el medi ambient per obtenir productes de qualitat.",
+          "page": 21
+        },
+        {
+          "id": "integrated-organic-principles-2",
+          "kind": "Aplicació",
+          "prompt": "Quin conjunt de principis recull la PAE?",
+          "answer": "Cicles naturals, biodiversitat i benestar animal",
+          "distractors": [
+            "Només freqüència de tractaments",
+            "Només marca i presentació comercial",
+            "Només hores de formació"
+          ],
+          "quote": "La PAE respecta els cicles naturals, la salut del sòl, l’aigua, les plantes i els animals, la biodiversitat i el benestar animal.",
+          "page": 21
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-organic-methods",
+      "name": "PAE: mètodes i prevenció",
+      "science": "",
+      "group": "Models de producció",
+      "learning": true,
+      "learningSection": "Models de producció",
+      "page": 21,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La PAE es basa en organismes vius i mètodes mecànics, amb producció vegetal vinculada al sòl."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La PAE aplica mesures preventives i de precaució basades en l’avaluació de riscos."
+        }
+      ],
+      "groupStudy": {
+        "page": 21,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-organic-methods",
+          "image": "images/integrated-support-06-1.jpg",
+          "original": "images/integrated-page-21-original.jpg",
+          "page": 21,
+          "imagePage": 6
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-organic-methods-1",
+          "kind": "Concepte",
+          "prompt": "Quins recursos metodològics destaquen en la PAE?",
+          "answer": "Organismes vius i mètodes mecànics",
+          "distractors": [
+            "Només productes de síntesi",
+            "Només calendaris fixos",
+            "Només tractaments aeris"
+          ],
+          "quote": "La PAE es basa en organismes vius i mètodes mecànics, amb producció vegetal vinculada al sòl.",
+          "page": 21
+        },
+        {
+          "id": "integrated-organic-methods-2",
+          "kind": "Aplicació",
+          "prompt": "Què guia les mesures de prevenció i precaució en PAE?",
+          "answer": "L’avaluació de riscos",
+          "distractors": [
+            "Només la marca comercial",
+            "Només la data de venda",
+            "Només la durada del carnet"
+          ],
+          "quote": "La PAE aplica mesures preventives i de precaució basades en l’avaluació de riscos.",
+          "page": 21
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-organic-control",
+      "name": "PAE: inputs i certificació",
+      "science": "",
+      "group": "Models de producció",
+      "learning": true,
+      "learningSection": "Models de producció",
+      "page": 22,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els inputs externs es restringeixen a procedents de la producció ecològica, substàncies naturals o derivades i adobs minerals de baixa solubilitat."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "El CCPAE audita i certifica els productes agroalimentaris ecològics de Catalunya."
+        }
+      ],
+      "groupStudy": {
+        "page": 22,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-organic-control",
+          "image": "images/integrated-support-06-1.jpg",
+          "original": "images/integrated-page-22-original.jpg",
+          "page": 22,
+          "imagePage": 6
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-organic-control-1",
+          "kind": "Concepte",
+          "prompt": "Quins inputs es prioritzen en les categories descrites per a la PAE?",
+          "answer": "Ecològics, naturals o derivats i minerals de baixa solubilitat",
+          "distractors": [
+            "Només productes de síntesi",
+            "Només productes poc selectius",
+            "Qualsevol producte sense restriccions"
+          ],
+          "quote": "Els inputs externs es restringeixen a procedents de la producció ecològica, substàncies naturals o derivades i adobs minerals de baixa solubilitat.",
+          "page": 22
+        },
+        {
+          "id": "integrated-organic-control-2",
+          "kind": "Aplicació",
+          "prompt": "Quin organisme audita i certifica la producció ecològica a Catalunya?",
+          "answer": "CCPAE",
+          "distractors": [
+            "SIGFITO",
+            "ITEAF",
+            "ROMA"
+          ],
+          "quote": "El CCPAE audita i certifica els productes agroalimentaris ecològics de Catalunya.",
+          "page": 22
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-conversion",
+      "name": "Conversió a la producció ecològica",
+      "science": "",
+      "group": "Models de producció",
+      "learning": true,
+      "learningSection": "Models de producció",
+      "page": 23,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La conversió comença amb la notificació de l’activitat i la submissió al sistema de control del CCPAE."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "Durant la conversió s’han de complir les normes de producció ecològica i mantenir la separació i els registres corresponents."
+        }
+      ],
+      "groupStudy": {
+        "page": 23,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-conversion",
+          "image": "images/integrated-support-06-1.jpg",
+          "original": "images/integrated-page-23-original.jpg",
+          "page": 23,
+          "imagePage": 6
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-conversion-1",
+          "kind": "Concepte",
+          "prompt": "Quin fet marca l’inici del període de conversió descrit al temari?",
+          "answer": "Notificar l’activitat i sotmetre’s al control del CCPAE",
+          "distractors": [
+            "Comprar el primer envàs fitosanitari",
+            "Obtenir el carnet de fumigador",
+            "Inscriure la màquina al ROMA"
+          ],
+          "quote": "La conversió comença amb la notificació de l’activitat i la submissió al sistema de control del CCPAE.",
+          "page": 23
+        },
+        {
+          "id": "integrated-conversion-2",
+          "kind": "Aplicació",
+          "prompt": "Què cal aplicar durant el període de conversió?",
+          "answer": "Les normes de producció ecològica",
+          "distractors": [
+            "Només un calendari fix de tractaments",
+            "Només les normes de venda",
+            "Cap registre fins al final de la conversió"
+          ],
+          "quote": "Durant la conversió s’han de complir les normes de producció ecològica i mantenir la separació i els registres corresponents.",
+          "page": 23
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    },
+    {
+      "id": "integrated-sustainability",
+      "name": "Tractaments ecològics i PAS",
+      "science": "",
+      "group": "Models de producció",
+      "learning": true,
+      "learningSection": "Models de producció",
+      "page": 24,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Respon a partir del cas o concepte plantejat.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els tractaments admesos en PAE només s’utilitzen quan són indispensables; un origen natural no implica innocuïtat i poden afectar els enemics naturals."
+        },
+        {
+          "label": "Per aplicar-ho",
+          "text": "La Producció Agrícola Sostenible (PAS) mesura quantitativament la sostenibilitat ambiental, social i econòmica. El temari la presenta com una certificació pública voluntària en desenvolupament."
+        }
+      ],
+      "groupStudy": {
+        "page": 24,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "integrated-sustainability",
+          "image": "images/integrated-support-24-1.jpg",
+          "original": "images/integrated-page-24-original.jpg",
+          "page": 24,
+          "imagePage": 24
+        }
+      ],
+      "questions": [
+        {
+          "id": "integrated-sustainability-1",
+          "kind": "Concepte",
+          "prompt": "Per què cal valorar els efectes d’un tractament encara que sigui d’origen natural?",
+          "answer": "Pot afectar els enemics naturals i no és necessàriament innocu",
+          "distractors": [
+            "Perquè el logotip substitueix el seguiment",
+            "Perquè només compta la data del calendari",
+            "Perquè no cal considerar la selectivitat"
+          ],
+          "quote": "Els tractaments admesos en PAE només s’utilitzen quan són indispensables; un origen natural no implica innocuïtat i poden afectar els enemics naturals.",
+          "page": 24
+        },
+        {
+          "id": "integrated-sustainability-2",
+          "kind": "Aplicació",
+          "prompt": "Quines dimensions mesura la PAS descrita al temari?",
+          "answer": "Ambiental, social i econòmica",
+          "distractors": [
+            "Només la producció total",
+            "Només el nombre de tractaments",
+            "Només el preu de venda"
+          ],
+          "quote": "La Producció Agrícola Sostenible (PAS) mesura quantitativament la sostenibilitat ambiental, social i econòmica. El temari la presenta com una certificació pública voluntària en desenvolupament.",
+          "page": 24
+        }
+      ],
+      "note": "Cas conceptual: la il·lustració no identifica per si sola la resposta. Explicacions resumides del temari de 04/02/2025."
+    }
+  ]
+};

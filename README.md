@@ -1,6 +1,6 @@
 # QUALIFITOS
 
-Aplicació estàtica en català amb quatre modes independents basats en `fitosT1.pdf`, `fitosT2.pdf`, `fitosT3.pdf` i `fitosT4.pdf`.
+Aplicació estàtica en català amb cinc modes independents basats en `fitosT1.pdf`, `fitosT2.pdf`, `fitosT3.pdf` `fitosT4.pdf` i `fitosT5.pdf`.
 
 ## Obrir l’app
 
@@ -56,7 +56,7 @@ Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `ima
 
 ## Versions
 
-Versió actual: **1.7.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.8.0, 1.9.0…). Per correccions petites, incrementar el pedaç (1.7.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
+Versió actual: **1.8.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.8.0, 1.9.0…). Per correccions petites, incrementar el pedaç (1.7.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
 
 ## Tema 1 refet per aprendre
 
@@ -80,4 +80,8 @@ La versió 1.6.0 incorpora un enllaç de descàrrega a cada tema i al peu del jo
 
 ## PDF amb respostes marcades
 
-La versió 1.7.0 afegeix una segona descàrrega per tema, al selector i al peu del joc. Els documents `downloads/*-answers.pdf` mantenen les mateixes preguntes i ordre de les opcions del PDF per practicar; ressalten la resposta correcta en negreta, fons verd clar i etiqueta CORRECTA, llegible també en blanc i negre. Es conserva el solucionari.
+La versió 1.8.0 afegeix una segona descàrrega per tema, al selector i al peu del joc. Els documents `downloads/*-answers.pdf` mantenen les mateixes preguntes i ordre de les opcions del PDF per practicar; ressalten la resposta correcta en negreta, fons verd clar i etiqueta CORRECTA, llegible també en blanc i negre. Es conserva el solucionari.
+
+## Tema 5 · Lluita integrada
+
+40 fitxes i 80 preguntes essencials, repartides en quatre blocs equilibrats. Il·lustracions de suport i pàgina original després de respondre. Font exclusiva: fitosT5.pdf (04/02/2025). PDF per practicar i PDF amb respostes marcades disponibles al selector i dins del joc.

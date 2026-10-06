@@ -50,3 +50,7 @@ Quatre PDF descarregables a downloads/ i enllaços directes al selector i al peu
 ## v1.7.0
 
 Quatre variants downloads/*-answers.pdf afegides. Selector i peu de cada mode ofereixen PDF per practicar i PDF amb respostes marcades. Versió i memòria cau actualitzades. Les versions per practicar es conserven.
+
+## v1.8.0 — Tema 5 · 06/10/2026
+
+Actualització del mateix repositori fitfulg/plagues-estudi: nou mode Lluita integrada, 40 fitxes, 80 preguntes i dos PDF. Recursos i descàrregues publicats abans d’activar el selector.
