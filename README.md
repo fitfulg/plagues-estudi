@@ -1,6 +1,6 @@
 # QUALIFITOS
 
-Aplicació estàtica en català amb cinc modes independents basats en `fitosT1.pdf`, `fitosT2.pdf`, `fitosT3.pdf` `fitosT4.pdf` i `fitosT5.pdf`.
+Aplicació estàtica en català amb sis modes independents basats en `fitosT1.pdf`, `fitosT2.pdf`, `fitosT3.pdf`, `fitosT4.pdf`, `fitosT5.pdf` i `fitosT6.pdf`.
 
 ## Obrir l’app
 
@@ -23,7 +23,7 @@ Obriu `index.html` en un navegador. No cal instal·lar res ni connexió a Intern
 - `app.js`: interacció, correcció, puntuació i resum.
 - `data.js`: banc de 40 fitxes i 80 preguntes.
 - `content.json`: còpia llegible i auditable del contingut, amb referències.
-- `images/`: fotografies, esquemes i il·lustracions dels quatre temaris amb les seves versions originals.
+- `images/`: fotografies, esquemes i il·lustracions dels sis temaris amb les seves versions originals.
 - `images/provenance.json`: pàgina, tira original i coordenades del retall de cada fotografia.
 - `AUDIT.md`: criteris editorials, ambigüitats i exclusions.
 
@@ -56,7 +56,7 @@ Fitxers: `disease-data.js`, `disease-content.json`, `images/disease-*.jpg`, `ima
 
 ## Versions
 
-Versió actual: **1.8.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.8.0, 1.9.0…). Per correccions petites, incrementar el pedaç (1.7.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
+Versió actual: **1.9.0**. La marca es mostra al costat del títol. Amb cada nou tema o canvi substancial, incrementar la versió menor (1.9.0, 1.9.0…). Per correccions petites, incrementar el pedaç (1.7.1…). Reservar la versió major per canvis incompatibles. Actualitzar la marca i el seu text accessible a `index.html`, les claus de memòria cau dels recursos modificats, aquesta secció i `CHANGELOG.md` en publicar.
 
 ## Tema 1 refet per aprendre
 
@@ -80,8 +80,12 @@ La versió 1.6.0 incorpora un enllaç de descàrrega a cada tema i al peu del jo
 
 ## PDF amb respostes marcades
 
-La versió 1.8.0 afegeix una segona descàrrega per tema, al selector i al peu del joc. Els documents `downloads/*-answers.pdf` mantenen les mateixes preguntes i ordre de les opcions del PDF per practicar; ressalten la resposta correcta en negreta, fons verd clar i etiqueta CORRECTA, llegible també en blanc i negre. Es conserva el solucionari.
+La versió 1.9.0 afegeix una segona descàrrega per tema, al selector i al peu del joc. Els documents `downloads/*-answers.pdf` mantenen les mateixes preguntes i ordre de les opcions del PDF per practicar; ressalten la resposta correcta en negreta, fons verd clar i etiqueta CORRECTA, llegible també en blanc i negre. Es conserva el solucionari.
 
 ## Tema 5 · Lluita integrada
 
 40 fitxes i 80 preguntes essencials, repartides en quatre blocs equilibrats. Il·lustracions de suport i pàgina original després de respondre. Font exclusiva: fitosT5.pdf (04/02/2025). PDF per practicar i PDF amb respostes marcades disponibles al selector i dins del joc.
+
+## Tema 6 · Productes fitosanitaris
+
+40 fitxes i 80 preguntes essencials en quatre blocs equilibrats. 33 imatges de suport extretes del temari; pàgina original en respondre. Dues descàrregues PDF, per practicar i amb respostes marcades. Font exclusiva: fitosT6.pdf, actualització 30/10/2024. Els exemples no substitueixen la consulta del Registre ni acrediten autoritzacions actuals.

@@ -1,0 +1,2531 @@
+{
+  "title": "Productes fitosanitaris",
+  "source": "fitosT6.pdf · Fes una bona elecció del producte fitosanitari · 30/10/2024",
+  "notice": "Conceptes del temari de 30/10/2024. Les mencions de productes no acrediten usos ni autoritzacions actuals.",
+  "cards": [
+    {
+      "id": "products-purpose",
+      "name": "Finalitats dels productes fitosanitaris",
+      "science": "",
+      "group": "Fonaments i formes d’actuació",
+      "learning": true,
+      "learningSection": "Fonaments i formes d’actuació",
+      "page": 5,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els productes fitosanitaris tenen com a objectiu bàsic millorar l’estat sanitari de les plantes. També poden conservar vegetals o influir en els seus processos vitals de forma diferent dels nutrients."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Un insecticida-acaricida és eficaç contra insectes i àcars alhora. Altres productes són específics per a un grup d’agents."
+        }
+      ],
+      "groupStudy": {
+        "page": 5,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-purpose",
+          "image": "images/products-support-06-1.jpg",
+          "original": "images/products-page-05-original.jpg",
+          "page": 5,
+          "imagePage": 6
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-purpose-1",
+          "kind": "Concepte",
+          "prompt": "Quin és l’objectiu bàsic dels productes fitosanitaris?",
+          "answer": "Millorar l’estat sanitari de les plantes",
+          "distractors": [
+            "Aportar nutrients al cultiu",
+            "Induir només arrels als esqueixos",
+            "Reduir exclusivament la transpiració"
+          ],
+          "quote": "Els productes fitosanitaris tenen com a objectiu bàsic millorar l’estat sanitari de les plantes. També poden conservar vegetals o influir en els seus processos vitals de forma diferent dels nutrients.",
+          "page": 5
+        },
+        {
+          "id": "products-purpose-2",
+          "kind": "Aplicació",
+          "prompt": "Quins dos grups controla un insecticida-acaricida?",
+          "answer": "Insectes i àcars",
+          "distractors": [
+            "Fongs i nematodes",
+            "Mol·luscs i rosegadors",
+            "Flora adventícia i fongs"
+          ],
+          "quote": "Un insecticida-acaricida és eficaç contra insectes i àcars alhora. Altres productes són específics per a un grup d’agents.",
+          "page": 5
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-systemic",
+      "name": "Acció sistèmica i via floemàtica",
+      "science": "",
+      "group": "Fonaments i formes d’actuació",
+      "learning": true,
+      "learningSection": "Fonaments i formes d’actuació",
+      "page": 7,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els productes sistèmics es distribueixen per l’interior de la planta, a través de la saba elaborada o de la saba bruta."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Per la via floemàtica, el producte es mou amb la saba elaborada des de les fulles fins als teixits en creixement, incloses les arrels."
+        }
+      ],
+      "groupStudy": {
+        "page": 7,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-systemic",
+          "image": "images/products-support-07-4.jpg",
+          "original": "images/products-page-07-original.jpg",
+          "page": 7,
+          "imagePage": 7
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-systemic-1",
+          "kind": "Concepte",
+          "prompt": "Quina acció permet distribuir el producte per l’interior de la planta?",
+          "answer": "Sistèmica",
+          "distractors": [
+            "Penetrant sense transport",
+            "De contacte superficial",
+            "Repel·lent"
+          ],
+          "quote": "Els productes sistèmics es distribueixen per l’interior de la planta, a través de la saba elaborada o de la saba bruta.",
+          "page": 7
+        },
+        {
+          "id": "products-systemic-2",
+          "kind": "Aplicació",
+          "prompt": "Quin recorregut descriu la via floemàtica?",
+          "answer": "De les fulles als teixits en creixement, incloses les arrels",
+          "distractors": [
+            "De les arrels a les fulles amb la saba bruta",
+            "Només a l’espai lliure d’una fulla",
+            "Només a la superfície vegetal"
+          ],
+          "quote": "Per la via floemàtica, el producte es mou amb la saba elaborada des de les fulles fins als teixits en creixement, incloses les arrels.",
+          "page": 7
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-xylem",
+      "name": "Via xilemàtica",
+      "science": "",
+      "group": "Fonaments i formes d’actuació",
+      "learning": true,
+      "learningSection": "Fonaments i formes d’actuació",
+      "page": 8,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Per la via xilemàtica, el producte va de les arrels a les fulles, barrejat amb l’aigua i els nutrients de la saba bruta."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El moviment xilemàtic és passiu i requereix evapotranspiració. El producte ha de ser prou soluble en aigua."
+        }
+      ],
+      "groupStudy": {
+        "page": 8,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-xylem",
+          "image": "images/products-support-08-1.jpg",
+          "original": "images/products-page-08-original.jpg",
+          "page": 8,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-xylem-1",
+          "kind": "Concepte",
+          "prompt": "Quin recorregut correspon a la via xilemàtica?",
+          "answer": "De les arrels a les fulles",
+          "distractors": [
+            "De les fulles a les arrels per la saba elaborada",
+            "Només per la cutícula de la fulla",
+            "Només per la superfície exterior"
+          ],
+          "quote": "Per la via xilemàtica, el producte va de les arrels a les fulles, barrejat amb l’aigua i els nutrients de la saba bruta.",
+          "page": 8
+        },
+        {
+          "id": "products-xylem-2",
+          "kind": "Aplicació",
+          "prompt": "Quin procés de la planta activa aquest moviment passiu?",
+          "answer": "L’evapotranspiració",
+          "distractors": [
+            "La germinació d’espores",
+            "La muda dels insectes",
+            "La senescència de la flor tallada"
+          ],
+          "quote": "El moviment xilemàtic és passiu i requereix evapotranspiració. El producte ha de ser prou soluble en aigua.",
+          "page": 8
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-penetrant",
+      "name": "Acció penetrant",
+      "science": "",
+      "group": "Fonaments i formes d’actuació",
+      "learning": true,
+      "learningSection": "Fonaments i formes d’actuació",
+      "page": 8,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els productes penetrants es difonen dins dels teixits de les fulles o queden atrapats a les cutícules, sense capacitat de moviment per l’interior de la planta."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El temari indica que els productes penetrants no es renten amb la pluja. Aquesta persistència no els converteix en sistèmics."
+        }
+      ],
+      "groupStudy": {
+        "page": 8,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-penetrant",
+          "image": "images/products-support-08-2.jpg",
+          "original": "images/products-page-08-original.jpg",
+          "page": 8,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-penetrant-1",
+          "kind": "Concepte",
+          "prompt": "Un producte entra als teixits foliars però no es transporta per la planta. Quina acció té?",
+          "answer": "Penetrant",
+          "distractors": [
+            "Sistèmica floemàtica",
+            "Sistèmica xilemàtica",
+            "De contacte superficial"
+          ],
+          "quote": "Els productes penetrants es difonen dins dels teixits de les fulles o queden atrapats a les cutícules, sense capacitat de moviment per l’interior de la planta.",
+          "page": 8
+        },
+        {
+          "id": "products-penetrant-2",
+          "kind": "Aplicació",
+          "prompt": "Què distingeix l’acció penetrant de la sistèmica?",
+          "answer": "No presenta transport per l’interior de la planta",
+          "distractors": [
+            "Circula sempre per la saba elaborada",
+            "Circula sempre per la saba bruta",
+            "Es manté exclusivament fora de la planta"
+          ],
+          "quote": "El temari indica que els productes penetrants no es renten amb la pluja. Aquesta persistència no els converteix en sistèmics.",
+          "page": 8
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-contact",
+      "name": "Acció de contacte sobre la planta",
+      "science": "",
+      "group": "Fonaments i formes d’actuació",
+      "learning": true,
+      "learningSection": "Fonaments i formes d’actuació",
+      "page": 8,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els productes de contacte són productes de superfície que resten sobre la planta."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els productes de contacte perden propietats davant del vent, la pluja o el sol. Han d’arribar al lloc on actua el patogen."
+        }
+      ],
+      "groupStudy": {
+        "page": 8,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-contact",
+          "image": "images/products-support-08-3.jpg",
+          "original": "images/products-page-08-original.jpg",
+          "page": 8,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-contact-1",
+          "kind": "Concepte",
+          "prompt": "On roman un producte de contacte segons el seu comportament en la planta?",
+          "answer": "A la superfície de la planta",
+          "distractors": [
+            "A la saba elaborada",
+            "A la saba bruta",
+            "Distribuït per tots els teixits interns"
+          ],
+          "quote": "Els productes de contacte són productes de superfície que resten sobre la planta.",
+          "page": 8
+        },
+        {
+          "id": "products-contact-2",
+          "kind": "Aplicació",
+          "prompt": "Quin factor pot reduir les propietats d’un producte de contacte?",
+          "answer": "Vent, pluja o sol",
+          "distractors": [
+            "El transport floemàtic del producte",
+            "El transport xilemàtic del producte",
+            "La inhibició de la muda de l’insecte"
+          ],
+          "quote": "Els productes de contacte perden propietats davant del vent, la pluja o el sol. Han d’arribar al lloc on actua el patogen.",
+          "page": 8
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-entry",
+      "name": "Acció sobre els organismes plaga",
+      "science": "",
+      "group": "Fonaments i formes d’actuació",
+      "learning": true,
+      "learningSection": "Fonaments i formes d’actuació",
+      "page": 9,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’activitat per ingestió requereix que l’agent causant de la plaga ingereixi el producte."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "L’activitat per inhalació requereix que l’agent respiri el producte. En l’acció per contacte, el producte ha d’estar en contacte amb l’agent. Un producte pot combinar vies."
+        }
+      ],
+      "groupStudy": {
+        "page": 9,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-entry",
+          "image": "images/products-support-09-1.jpg",
+          "original": "images/products-page-09-original.jpg",
+          "page": 9,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-entry-1",
+          "kind": "Concepte",
+          "prompt": "Si l’insecte ha d’ingerir el producte perquè actuï, de quina via es tracta?",
+          "answer": "Ingestió",
+          "distractors": [
+            "Inhalació",
+            "Contacte",
+            "Via xilemàtica"
+          ],
+          "quote": "L’activitat per ingestió requereix que l’agent causant de la plaga ingereixi el producte.",
+          "page": 9
+        },
+        {
+          "id": "products-entry-2",
+          "kind": "Aplicació",
+          "prompt": "Si l’agent ha de respirar el producte, quina activitat es descriu?",
+          "answer": "Inhalació",
+          "distractors": [
+            "Ingestió",
+            "Contacte",
+            "Via floemàtica"
+          ],
+          "quote": "L’activitat per inhalació requereix que l’agent respiri el producte. En l’acció per contacte, el producte ha d’estar en contacte amb l’agent. Un producte pot combinar vies.",
+          "page": 9
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-disease-action",
+      "name": "Acció preventiva i curativa",
+      "science": "",
+      "group": "Fonaments i formes d’actuació",
+      "learning": true,
+      "learningSection": "Fonaments i formes d’actuació",
+      "page": 9,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’acció preventiva evita el desenvolupament de les malalties, però no les controla un cop desenvolupades."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "L’acció curativa actua contra el patogen quan ja s’ha establert."
+        }
+      ],
+      "groupStudy": {
+        "page": 9,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-disease-action",
+          "image": "images/products-support-09-2.jpg",
+          "original": "images/products-page-09-original.jpg",
+          "page": 9,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-disease-action-1",
+          "kind": "Concepte",
+          "prompt": "Quina acció evita que es desenvolupi una malaltia?",
+          "answer": "Preventiva",
+          "distractors": [
+            "Curativa",
+            "Anticoagulant",
+            "Esterilitzant"
+          ],
+          "quote": "L’acció preventiva evita el desenvolupament de les malalties, però no les controla un cop desenvolupades.",
+          "page": 9
+        },
+        {
+          "id": "products-disease-action-2",
+          "kind": "Aplicació",
+          "prompt": "Quina acció actua contra un patogen ja establert?",
+          "answer": "Curativa",
+          "distractors": [
+            "Preventiva",
+            "Repel·lent",
+            "Antigerminant"
+          ],
+          "quote": "L’acció curativa actua contra el patogen quan ja s’ha establert.",
+          "page": 9
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-persistence",
+      "name": "Acció de xoc i acció residual",
+      "science": "",
+      "group": "Fonaments i formes d’actuació",
+      "learning": true,
+      "learningSection": "Fonaments i formes d’actuació",
+      "page": 10,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’acció de xoc fa referència a l’efectivitat immediata del producte sobre la plaga."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "L’acció residual és el temps durant el qual el producte continua essent efectiu després del tractament. Les dosis subletals de productes residuals afavoreixen poblacions resistents."
+        }
+      ],
+      "groupStudy": {
+        "page": 10,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-persistence",
+          "image": "images/products-support-10-1.jpg",
+          "original": "images/products-page-10-original.jpg",
+          "page": 10,
+          "imagePage": 10
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-persistence-1",
+          "kind": "Concepte",
+          "prompt": "Què descriu l’acció de xoc?",
+          "answer": "L’efectivitat immediata sobre la plaga",
+          "distractors": [
+            "El temps d’efectivitat després del tractament",
+            "El transport per la saba",
+            "La selectivitat per la forma de la fulla"
+          ],
+          "quote": "L’acció de xoc fa referència a l’efectivitat immediata del producte sobre la plaga.",
+          "page": 10
+        },
+        {
+          "id": "products-persistence-2",
+          "kind": "Aplicació",
+          "prompt": "Què descriu l’acció residual?",
+          "answer": "La continuïtat de l’efecte després del tractament",
+          "distractors": [
+            "Només la rapidesa de l’efecte inicial",
+            "Només el moviment xilemàtic",
+            "Només la via d’entrada a l’insecte"
+          ],
+          "quote": "L’acció residual és el temps durant el qual el producte continua essent efectiu després del tractament. Les dosis subletals de productes residuals afavoreixen poblacions resistents.",
+          "page": 10
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-authorization",
+      "name": "Registre i autoritzacions",
+      "science": "",
+      "group": "Fonaments i formes d’actuació",
+      "learning": true,
+      "learningSection": "Fonaments i formes d’actuació",
+      "page": 6,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El temari indica que cal consultar el Registre de Productes Fitosanitaris del Ministeri d’Agricultura abans de fer un tractament per disposar d’informació actualitzada."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Les autoritzacions són temporals i estan sotmeses als diferents usos del producte; una referència al material formatiu no acredita una autorització vigent."
+        }
+      ],
+      "groupStudy": {
+        "page": 6,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-authorization",
+          "image": "images/products-support-06-1.jpg",
+          "original": "images/products-page-06-original.jpg",
+          "page": 6,
+          "imagePage": 6
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-authorization-1",
+          "kind": "Concepte",
+          "prompt": "Quina font indica el temari per comprovar la informació actualitzada d’un producte?",
+          "answer": "El Registre de Productes Fitosanitaris",
+          "distractors": [
+            "Només el nom comercial",
+            "Només una fotografia de l’envàs",
+            "Només un exemple antic del curs"
+          ],
+          "quote": "El temari indica que cal consultar el Registre de Productes Fitosanitaris del Ministeri d’Agricultura abans de fer un tractament per disposar d’informació actualitzada.",
+          "page": 6
+        },
+        {
+          "id": "products-authorization-2",
+          "kind": "Aplicació",
+          "prompt": "Per què cal comprovar l’autorització i els usos del producte?",
+          "answer": "Les autoritzacions són temporals i depenen dels usos",
+          "distractors": [
+            "Tots els usos queden autoritzats indefinidament",
+            "La marca determina tots els cultius possibles",
+            "Un envàs fotografiat acredita qualsevol ús"
+          ],
+          "quote": "Les autoritzacions són temporals i estan sotmeses als diferents usos del producte; una referència al material formatiu no acredita una autorització vigent.",
+          "page": 6
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-decision",
+      "name": "Decidir si cal tractar",
+      "science": "",
+      "group": "Fonaments i formes d’actuació",
+      "learning": true,
+      "learningSection": "Fonaments i formes d’actuació",
+      "page": 36,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Abans d’escollir el producte, cal detectar els danys, identificar l’agent i estimar el risc. El tractament ha d’estar justificat pels seguiments, els llindars d’intervenció i el criteri econòmic."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Es prioritzen els mètodes biològics, biotecnològics, culturals i físics. Si cal un producte, es busca especificitat contra la plaga i menor risc per a les persones i el medi ambient."
+        }
+      ],
+      "groupStudy": {
+        "page": 36,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-decision",
+          "image": "images/products-support-36-4.jpg",
+          "original": "images/products-page-36-original.jpg",
+          "page": 36,
+          "imagePage": 36
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-decision-1",
+          "kind": "Concepte",
+          "prompt": "Quina informació justifica la decisió de tractar?",
+          "answer": "Seguiments, llindars d’intervenció i justificació econòmica",
+          "distractors": [
+            "Només el nom comercial",
+            "Només l’existència d’un producte al magatzem",
+            "Només la presentació de l’envàs"
+          ],
+          "quote": "Abans d’escollir el producte, cal detectar els danys, identificar l’agent i estimar el risc. El tractament ha d’estar justificat pels seguiments, els llindars d’intervenció i el criteri econòmic.",
+          "page": 36
+        },
+        {
+          "id": "products-decision-2",
+          "kind": "Aplicació",
+          "prompt": "Quins mètodes es prioritzen abans del control químic?",
+          "answer": "Biològics, biotecnològics, culturals i físics",
+          "distractors": [
+            "Només insecticides organofosforats",
+            "Només herbicides totals",
+            "Només fungicides curatius"
+          ],
+          "quote": "Es prioritzen els mètodes biològics, biotecnològics, culturals i físics. Si cal un producte, es busca especificitat contra la plaga i menor risc per a les persones i el medi ambient.",
+          "page": 36
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-botanical",
+      "name": "Insecticides d’origen vegetal",
+      "science": "",
+      "group": "Control d’insectes i fauna útil",
+      "learning": true,
+      "learningSection": "Control d’insectes i fauna útil",
+      "page": 11,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Les piretrines naturals s’extreuen de la flor del crisantem. El temari també cita l’Azadiractín entre les matèries actives d’origen vegetal."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Les piretrines sintètiques s’anomenen piretroides. Els noms del temari es presenten com a exemples d’estudi, no com una llista actual de productes autoritzats."
+        }
+      ],
+      "groupStudy": {
+        "page": 11,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-botanical",
+          "image": "images/products-support-09-1.jpg",
+          "original": "images/products-page-11-original.jpg",
+          "page": 11,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-botanical-1",
+          "kind": "Concepte",
+          "prompt": "De quina planta s’extreuen les piretrines naturals esmentades?",
+          "answer": "Crisantem",
+          "distractors": [
+            "All",
+            "Cotó",
+            "Gira-sol"
+          ],
+          "quote": "Les piretrines naturals s’extreuen de la flor del crisantem. El temari també cita l’Azadiractín entre les matèries actives d’origen vegetal.",
+          "page": 11
+        },
+        {
+          "id": "products-botanical-2",
+          "kind": "Aplicació",
+          "prompt": "Com s’anomenen les piretrines sintètiques?",
+          "answer": "Piretroides",
+          "distractors": [
+            "Carbamats",
+            "Organofosforats",
+            "Ditiocarbamats"
+          ],
+          "quote": "Les piretrines sintètiques s’anomenen piretroides. Els noms del temari es presenten com a exemples d’estudi, no com una llista actual de productes autoritzats.",
+          "page": 11
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-growth",
+      "name": "Hormones i reguladors de creixement dels insectes",
+      "science": "",
+      "group": "Control d’insectes i fauna útil",
+      "learning": true,
+      "learningSection": "Control d’insectes i fauna útil",
+      "page": 13,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Aquests productes imiten o inhibeixen hormones juvenils o de la muda i actuen sobre el sistema endocrí dels insectes."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Actuen en un període concret del cicle de vida; al camp poden coexistir individus en diversos estadis."
+        }
+      ],
+      "groupStudy": {
+        "page": 13,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-growth",
+          "image": "images/products-support-09-1.jpg",
+          "original": "images/products-page-13-original.jpg",
+          "page": 13,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-growth-1",
+          "kind": "Concepte",
+          "prompt": "Sobre quin sistema actuen els reguladors hormonals dels insectes?",
+          "answer": "Sistema endocrí",
+          "distractors": [
+            "Sistema vascular de la planta",
+            "Cutícula cerosa del fruit",
+            "Coagulació de la sang dels rosegadors"
+          ],
+          "quote": "Aquests productes imiten o inhibeixen hormones juvenils o de la muda i actuen sobre el sistema endocrí dels insectes.",
+          "page": 13
+        },
+        {
+          "id": "products-growth-2",
+          "kind": "Aplicació",
+          "prompt": "Quina limitació exigeix conèixer bé l’estadi de la plaga?",
+          "answer": "Actuen només en un període concret del cicle",
+          "distractors": [
+            "Només actuen sobre flora adventícia",
+            "Només funcionen en flor tallada",
+            "Només actuen sobre ous de nematodes"
+          ],
+          "quote": "Actuen en un període concret del cicle de vida; al camp poden coexistir individus en diversos estadis.",
+          "page": 13
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-predators",
+      "name": "Insectes depredadors",
+      "science": "",
+      "group": "Control d’insectes i fauna útil",
+      "learning": true,
+      "learningSection": "Control d’insectes i fauna útil",
+      "page": 14,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Les larves de Chrysoperla carnea, la crisopa, són depredadores polífagues que ataquen sobretot pugons i àcars."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "En els sírfids, els adults s’alimenten de les flors, mentre que les larves són depredadores d’insectes com els pugons."
+        }
+      ],
+      "groupStudy": {
+        "page": 14,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-predators",
+          "image": "images/products-support-14-1.jpg",
+          "original": "images/products-page-14-original.jpg",
+          "page": 14,
+          "imagePage": 14
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-predators-1",
+          "kind": "Concepte",
+          "prompt": "Quins organismes ataquen principalment les larves de crisopa esmentades?",
+          "answer": "Pugons i àcars",
+          "distractors": [
+            "Llimacs i cargols",
+            "Rosegadors i remugadors",
+            "Fongs i flora adventícia"
+          ],
+          "quote": "Les larves de Chrysoperla carnea, la crisopa, són depredadores polífagues que ataquen sobretot pugons i àcars.",
+          "page": 14
+        },
+        {
+          "id": "products-predators-2",
+          "kind": "Aplicació",
+          "prompt": "Quina diferència alimentària descriu els sírfids?",
+          "answer": "Adults a les flors i larves depredadores de pugons",
+          "distractors": [
+            "Adults depredadors i larves a les flors",
+            "Adults i larves herbívors d’escorça",
+            "Adults i larves paràsits de nematodes"
+          ],
+          "quote": "En els sírfids, els adults s’alimenten de les flors, mentre que les larves són depredadores d’insectes com els pugons.",
+          "page": 14
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-parasitoids",
+      "name": "Insectes parasitoides",
+      "science": "",
+      "group": "Control d’insectes i fauna útil",
+      "learning": true,
+      "learningSection": "Control d’insectes i fauna útil",
+      "page": 14,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Encarsia formosa parasita les larves de les mosques blanques."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Diglyphus isaea parasita els minadors de les fulles del gènere Liriomyza. Els exemples del temari pertanyen als himenòpters."
+        }
+      ],
+      "groupStudy": {
+        "page": 14,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-parasitoids",
+          "image": "images/products-support-14-2.jpg",
+          "original": "images/products-page-14-original.jpg",
+          "page": 14,
+          "imagePage": 14
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-parasitoids-1",
+          "kind": "Concepte",
+          "prompt": "Quin organisme parasita Encarsia formosa?",
+          "answer": "Larves de mosques blanques",
+          "distractors": [
+            "Minadors Liriomyza",
+            "Poll blanc del presseguer",
+            "Nimfes de poll de San José"
+          ],
+          "quote": "Encarsia formosa parasita les larves de les mosques blanques.",
+          "page": 14
+        },
+        {
+          "id": "products-parasitoids-2",
+          "kind": "Aplicació",
+          "prompt": "Quin parasitoide s’associa als minadors Liriomyza?",
+          "answer": "Diglyphus isaea",
+          "distractors": [
+            "Encarsia formosa",
+            "Encarsia berlesei",
+            "Encarsia perniciosi"
+          ],
+          "quote": "Diglyphus isaea parasita els minadors de les fulles del gènere Liriomyza. Els exemples del temari pertanyen als himenòpters.",
+          "page": 14
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-mites-nematodes",
+      "name": "Àcars i nematodes en control biològic",
+      "science": "",
+      "group": "Control d’insectes i fauna útil",
+      "learning": true,
+      "learningSection": "Control d’insectes i fauna útil",
+      "page": 15,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El temari associa Amblyseius swirskii a les larves de trips i als ous i larves de mosca blanca."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Steinernema sp. i Heterorhabditis bacteriophora són els nematodes citats per parasitar insectes. No s’ha d’identificar una espècie només amb la il·lustració genèrica."
+        }
+      ],
+      "groupStudy": {
+        "page": 15,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-mites-nematodes",
+          "image": "images/products-support-15-1.jpg",
+          "original": "images/products-page-15-original.jpg",
+          "page": 15,
+          "imagePage": 15
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-mites-nematodes-1",
+          "kind": "Concepte",
+          "prompt": "A quins estadis s’associa Amblyseius swirskii?",
+          "answer": "Larves de trips i ous i larves de mosca blanca",
+          "distractors": [
+            "Només adults de rosegadors",
+            "Només ous de cargols",
+            "Només espores de fongs"
+          ],
+          "quote": "El temari associa Amblyseius swirskii a les larves de trips i als ous i larves de mosca blanca.",
+          "page": 15
+        },
+        {
+          "id": "products-mites-nematodes-2",
+          "kind": "Aplicació",
+          "prompt": "Quina parella correspon a nematodes utilitzats contra insectes?",
+          "answer": "Steinernema sp. i Heterorhabditis bacteriophora",
+          "distractors": [
+            "Beauveria bassiana i Metarhizium anisopliae",
+            "Encarsia formosa i Diglyphus isaea",
+            "Orius spp. i Chrysoperla carnea"
+          ],
+          "quote": "Steinernema sp. i Heterorhabditis bacteriophora són els nematodes citats per parasitar insectes. No s’ha d’identificar una espècie només amb la il·lustració genèrica.",
+          "page": 15
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-fungi",
+      "name": "Fongs contra insectes",
+      "science": "",
+      "group": "Control d’insectes i fauna útil",
+      "learning": true,
+      "learningSection": "Control d’insectes i fauna útil",
+      "page": 15,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Beauveria bassiana i Metarhizium anisopliae són exemples de fongs que parasiten insectes."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La inoculació de fongs és una estratègia de control biològic de les poblacions d’insectes."
+        }
+      ],
+      "groupStudy": {
+        "page": 15,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-fungi",
+          "image": "images/products-support-15-3.jpg",
+          "original": "images/products-page-15-original.jpg",
+          "page": 15,
+          "imagePage": 15
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-fungi-1",
+          "kind": "Concepte",
+          "prompt": "Quina parella correspon als fongs que parasiten insectes?",
+          "answer": "Beauveria bassiana i Metarhizium anisopliae",
+          "distractors": [
+            "Steinernema sp. i Heterorhabditis bacteriophora",
+            "Encarsia formosa i Diglyphus isaea",
+            "Orius spp. i Chrysoperla carnea"
+          ],
+          "quote": "Beauveria bassiana i Metarhizium anisopliae són exemples de fongs que parasiten insectes.",
+          "page": 15
+        },
+        {
+          "id": "products-fungi-2",
+          "kind": "Aplicació",
+          "prompt": "Quina relació amb la plaga s’atribueix a aquests fongs?",
+          "answer": "Parasiten els insectes",
+          "distractors": [
+            "Dissolen físicament la capa cerosa",
+            "Esterilitzen els mascles per irradiació",
+            "Actuen com a senyal d’atracció sexual"
+          ],
+          "quote": "La inoculació de fongs és una estratègia de control biològic de les poblacions d’insectes.",
+          "page": 15
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-bacteria-virus",
+      "name": "Bacteris i virus contra insectes",
+      "science": "",
+      "group": "Control d’insectes i fauna útil",
+      "learning": true,
+      "learningSection": "Control d’insectes i fauna útil",
+      "page": 16,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Bacillus thuringiensis combat estadis larvaris; la matèria activa obtinguda per fermentació conté cristalls de proteïnes i espores."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El Virus de la Granulosi descrit actua quan les larves neonatals ingereixen el virus en alimentar-se, abans de penetrar al fruit."
+        }
+      ],
+      "groupStudy": {
+        "page": 16,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-bacteria-virus",
+          "image": "images/products-support-16-1.jpg",
+          "original": "images/products-page-16-original.jpg",
+          "page": 16,
+          "imagePage": 16
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-bacteria-virus-1",
+          "kind": "Concepte",
+          "prompt": "Quins components caracteritzen la matèria activa de Bacillus thuringiensis?",
+          "answer": "Cristalls de proteïnes i espores",
+          "distractors": [
+            "Sals de coure i sofre",
+            "Olis minerals i parafines",
+            "Argiles i extractes d’all"
+          ],
+          "quote": "Bacillus thuringiensis combat estadis larvaris; la matèria activa obtinguda per fermentació conté cristalls de proteïnes i espores.",
+          "page": 16
+        },
+        {
+          "id": "products-bacteria-virus-2",
+          "kind": "Aplicació",
+          "prompt": "En quin moment ingereixen el Virus de la Granulosi les larves descrites?",
+          "answer": "En alimentar-se abans de penetrar al fruit",
+          "distractors": [
+            "Durant la floració, com a insectes adults",
+            "Després de convertir-se en pupes immòbils",
+            "Quan ja són adults fora del fruit"
+          ],
+          "quote": "El Virus de la Granulosi descrit actua quan les larves neonatals ingereixen el virus en alimentar-se, abans de penetrar al fruit.",
+          "page": 16
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-pheromones",
+      "name": "Feromones i atraients alimentaris",
+      "science": "",
+      "group": "Control d’insectes i fauna útil",
+      "learning": true,
+      "learningSection": "Control d’insectes i fauna útil",
+      "page": 18,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Les feromones són substàncies detectades per altres individus de la mateixa espècie que provoquen una resposta específica. S’usen en seguiment, trampeig massiu i confusió sexual."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els atraients alimentaris són més inespecífics que les feromones. El temari descriu esquer alimentari combinat amb insecticida."
+        }
+      ],
+      "groupStudy": {
+        "page": 18,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-pheromones",
+          "image": "images/products-support-18-1.jpg",
+          "original": "images/products-page-18-original.jpg",
+          "page": 18,
+          "imagePage": 18
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-pheromones-1",
+          "kind": "Concepte",
+          "prompt": "Quina relació hi ha entre l’emissor i el receptor d’una feromona?",
+          "answer": "Són individus de la mateixa espècie",
+          "distractors": [
+            "Són sempre de grups vegetals diferents",
+            "Són sempre un fong i una planta",
+            "Són sempre un rosegador i un insecte"
+          ],
+          "quote": "Les feromones són substàncies detectades per altres individus de la mateixa espècie que provoquen una resposta específica. S’usen en seguiment, trampeig massiu i confusió sexual.",
+          "page": 18
+        },
+        {
+          "id": "products-pheromones-2",
+          "kind": "Aplicació",
+          "prompt": "Com es comparen els atraients alimentaris amb les feromones?",
+          "answer": "Són més inespecífics",
+          "distractors": [
+            "Són sempre més específics",
+            "Només afecten fongs",
+            "Només afecten flora adventícia"
+          ],
+          "quote": "Els atraients alimentaris són més inespecífics que les feromones. El temari descriu esquer alimentari combinat amb insecticida.",
+          "page": 18
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-soap-oil",
+      "name": "Sabons i olis minerals",
+      "science": "",
+      "group": "Control d’insectes i fauna útil",
+      "learning": true,
+      "learningSection": "Control d’insectes i fauna útil",
+      "page": 17,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els sabons dissolen la protecció de greix de la cutícula dels insectes; la cobertura de la massa foliar és important per al seu efecte físic."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els olis minerals actuen sufocant i asfixiant insectes o atrapant ous i larves. El temari adverteix d’incompatibilitats amb altres productes."
+        }
+      ],
+      "groupStudy": {
+        "page": 17,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-soap-oil",
+          "image": "images/products-support-17-1.jpg",
+          "original": "images/products-page-17-original.jpg",
+          "page": 17,
+          "imagePage": 17
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-soap-oil-1",
+          "kind": "Concepte",
+          "prompt": "Quin mecanisme s’atribueix als sabons?",
+          "answer": "Dissoldre la protecció de greix de la cutícula",
+          "distractors": [
+            "Imitar les hormones de la muda",
+            "Produir anticoagulació",
+            "Inhibir la germinació de la flora adventícia"
+          ],
+          "quote": "Els sabons dissolen la protecció de greix de la cutícula dels insectes; la cobertura de la massa foliar és important per al seu efecte físic.",
+          "page": 17
+        },
+        {
+          "id": "products-soap-oil-2",
+          "kind": "Aplicació",
+          "prompt": "Quin mecanisme s’atribueix als olis minerals?",
+          "answer": "Sufocar o asfixiar insectes i atrapar ous o larves",
+          "distractors": [
+            "Emetre senyals d’atracció sexual",
+            "Parasitar ous de nematodes",
+            "Induir arrels als esqueixos"
+          ],
+          "quote": "Els olis minerals actuen sufocant i asfixiant insectes o atrapant ous i larves. El temari adverteix d’incompatibilitats amb altres productes.",
+          "page": 17
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-repellent-sterile",
+      "name": "Repel·lents i esterilitzants",
+      "science": "",
+      "group": "Control d’insectes i fauna útil",
+      "learning": true,
+      "learningSection": "Control d’insectes i fauna útil",
+      "page": 19,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El temari descriu argiles com les bentolites o el caolín que desincentiven la posta dels insectes sobre la planta."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "L’esterilització dels mascles busca que no deixin descendència en aparellar-se. És una estratègia diferent de matar immediatament l’insecte."
+        }
+      ],
+      "groupStudy": {
+        "page": 19,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-repellent-sterile",
+          "image": "images/products-support-19-1.jpg",
+          "original": "images/products-page-19-original.jpg",
+          "page": 19,
+          "imagePage": 19
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-repellent-sterile-1",
+          "kind": "Concepte",
+          "prompt": "Quina funció s’atribueix a les argiles protectores de la planta?",
+          "answer": "Desincentivar la posta dels insectes",
+          "distractors": [
+            "Imitar hormones de creixement vegetal",
+            "Induir la germinació d’espores",
+            "Augmentar la transpiració"
+          ],
+          "quote": "El temari descriu argiles com les bentolites o el caolín que desincentiven la posta dels insectes sobre la planta.",
+          "page": 19
+        },
+        {
+          "id": "products-repellent-sterile-2",
+          "kind": "Aplicació",
+          "prompt": "Quina finalitat té l’esterilització dels mascles?",
+          "answer": "Evitar que deixin descendència",
+          "distractors": [
+            "Augmentar la seva atracció per les flors",
+            "Afavorir la muda larvària",
+            "Incrementar la posta sobre la planta"
+          ],
+          "quote": "L’esterilització dels mascles busca que no deixin descendència en aparellar-se. És una estratègia diferent de matar immediatament l’insecte.",
+          "page": 19
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-acaricides",
+      "name": "Acaricides: adulticides i larvicides",
+      "science": "",
+      "group": "Altres agents i herbicides",
+      "learning": true,
+      "learningSection": "Altres agents i herbicides",
+      "page": 20,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els acaricides adulticides mostren activitat principal sobre formes mòbils d’àcars."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els larvicides actuen habitualment sobre els processos de muda i afecten larves i nimfes."
+        }
+      ],
+      "groupStudy": {
+        "page": 20,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-acaricides",
+          "image": "images/products-support-20-1.jpg",
+          "original": "images/products-page-20-original.jpg",
+          "page": 20,
+          "imagePage": 20
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-acaricides-1",
+          "kind": "Concepte",
+          "prompt": "Quin grup d’acaricides actua principalment sobre formes mòbils?",
+          "answer": "Adulticides",
+          "distractors": [
+            "Ovicides",
+            "Helicides",
+            "Rodenticides"
+          ],
+          "quote": "Els acaricides adulticides mostren activitat principal sobre formes mòbils d’àcars.",
+          "page": 20
+        },
+        {
+          "id": "products-acaricides-2",
+          "kind": "Aplicació",
+          "prompt": "Quins estadis s’associen principalment als acaricides larvicides?",
+          "answer": "Larves i nimfes",
+          "distractors": [
+            "Només ous d’hivern",
+            "Només ous d’estiu",
+            "Només adults de mol·luscs"
+          ],
+          "quote": "Els larvicides actuen habitualment sobre els processos de muda i afecten larves i nimfes.",
+          "page": 20
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-eggs-molluscs",
+      "name": "Ovicides i productes helicides",
+      "science": "",
+      "group": "Altres agents i herbicides",
+      "learning": true,
+      "learningSection": "Altres agents i herbicides",
+      "page": 20,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els ovicides actuen sobre ous d’àcars; alguns també poden afectar larves neonatals. Hi ha productes que combinen activitat ovicida, larvicida o adulticida."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els productes helicides es destinen a llimacs i cargols i es presenten com a esquers granulats."
+        }
+      ],
+      "groupStudy": {
+        "page": 20,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-eggs-molluscs",
+          "image": "images/products-support-20-2.jpg",
+          "original": "images/products-page-20-original.jpg",
+          "page": 20,
+          "imagePage": 20
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-eggs-molluscs-1",
+          "kind": "Concepte",
+          "prompt": "Quin estadi és l’objectiu principal d’un acaricida ovicida?",
+          "answer": "Els ous",
+          "distractors": [
+            "Les nimfes en muda",
+            "Els adults mòbils",
+            "Els insectes parasitoides"
+          ],
+          "quote": "Els ovicides actuen sobre ous d’àcars; alguns també poden afectar larves neonatals. Hi ha productes que combinen activitat ovicida, larvicida o adulticida.",
+          "page": 20
+        },
+        {
+          "id": "products-eggs-molluscs-2",
+          "kind": "Aplicació",
+          "prompt": "Quins organismes són l’objectiu dels helicides?",
+          "answer": "Llimacs i cargols",
+          "distractors": [
+            "Àcars i pugons",
+            "Fongs i bacteris",
+            "Rosegadors i remugadors"
+          ],
+          "quote": "Els productes helicides es destinen a llimacs i cargols i es presenten com a esquers granulats.",
+          "page": 20
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-rodents",
+      "name": "Productes contra rosegadors",
+      "science": "",
+      "group": "Altres agents i herbicides",
+      "learning": true,
+      "learningSection": "Altres agents i herbicides",
+      "page": 21,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els rodenticides descrits al temari tenen propietats anticoagulants i una acció lenta."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El text remarca que els verins contra vertebrats també són tòxics per als humans i els animals domèstics. Els repel·lents, en canvi, eviten atacs com els que afecten l’escorça."
+        }
+      ],
+      "groupStudy": {
+        "page": 21,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-rodents",
+          "image": "images/products-support-21-4.jpg",
+          "original": "images/products-page-21-original.jpg",
+          "page": 21,
+          "imagePage": 21
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-rodents-1",
+          "kind": "Concepte",
+          "prompt": "Quina propietat caracteritza els rodenticides descrits?",
+          "answer": "Anticoagulant",
+          "distractors": [
+            "Antigerminant",
+            "Fitoreguladora",
+            "Cicatritzant"
+          ],
+          "quote": "Els rodenticides descrits al temari tenen propietats anticoagulants i una acció lenta.",
+          "page": 21
+        },
+        {
+          "id": "products-rodents-2",
+          "kind": "Aplicació",
+          "prompt": "Quina precaució conceptual destaca el temari sobre aquests verins?",
+          "answer": "També són tòxics per a humans i animals domèstics",
+          "distractors": [
+            "La selectivitat els fa innocus per a tot vertebrat",
+            "Només afecten la vegetació espontània",
+            "Només afecten les espores dels fongs"
+          ],
+          "quote": "El text remarca que els verins contra vertebrats també són tòxics per als humans i els animals domèstics. Els repel·lents, en canvi, eviten atacs com els que afecten l’escorça.",
+          "page": 21
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-surface-fungicides",
+      "name": "Fungicides inorgànics de superfície",
+      "science": "",
+      "group": "Altres agents i herbicides",
+      "learning": true,
+      "learningSection": "Altres agents i herbicides",
+      "page": 22,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El sofre i les sals de coure són exemples representatius dels fungicides preventius inorgànics de superfície."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Aquests fungicides actuen sobre la superfície dels vegetals; l’eficàcia depèn de la uniformitat de cobertura."
+        }
+      ],
+      "groupStudy": {
+        "page": 22,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-surface-fungicides",
+          "image": "images/products-support-22-1.jpg",
+          "original": "images/products-page-22-original.jpg",
+          "page": 22,
+          "imagePage": 22
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-surface-fungicides-1",
+          "kind": "Concepte",
+          "prompt": "Quins exemples pertanyen als fungicides inorgànics de superfície?",
+          "answer": "Sofre i sals de coure",
+          "distractors": [
+            "Piretrines i piretroides",
+            "Feromones i proteïnes alimentàries",
+            "Olis minerals i parafines"
+          ],
+          "quote": "El sofre i les sals de coure són exemples representatius dels fungicides preventius inorgànics de superfície.",
+          "page": 22
+        },
+        {
+          "id": "products-surface-fungicides-2",
+          "kind": "Aplicació",
+          "prompt": "Quin aspecte condiciona especialment la seva eficàcia?",
+          "answer": "La uniformitat de cobertura del vegetal",
+          "distractors": [
+            "El transport per la saba elaborada",
+            "L’esterilització dels mascles",
+            "La inducció d’arrels"
+          ],
+          "quote": "Aquests fungicides actuen sobre la superfície dels vegetals; l’eficàcia depèn de la uniformitat de cobertura.",
+          "page": 22
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-curative-fungicides",
+      "name": "Fungicides curatius i control biològic",
+      "science": "",
+      "group": "Altres agents i herbicides",
+      "learning": true,
+      "learningSection": "Altres agents i herbicides",
+      "page": 23,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els fungicides orgànics curatius han de ser sistèmics o tenir característiques que facilitin un elevat grau de penetració."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El control biològic de fongs pot basar-se en hiperparasitisme, competència per espai o nutrients i producció de metabòlits antifúngics."
+        }
+      ],
+      "groupStudy": {
+        "page": 23,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-curative-fungicides",
+          "image": "images/products-support-09-2.jpg",
+          "original": "images/products-page-23-original.jpg",
+          "page": 23,
+          "imagePage": 9
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-curative-fungicides-1",
+          "kind": "Concepte",
+          "prompt": "Quina propietat facilita l’acció curativa contra una infecció establerta?",
+          "answer": "Acció sistèmica o elevada penetració",
+          "distractors": [
+            "Permanència exclusiva fora de la planta",
+            "Atracció sexual d’insectes",
+            "Acció anticoagulant"
+          ],
+          "quote": "Els fungicides orgànics curatius han de ser sistèmics o tenir característiques que facilitin un elevat grau de penetració.",
+          "page": 23
+        },
+        {
+          "id": "products-curative-fungicides-2",
+          "kind": "Aplicació",
+          "prompt": "Què significa hiperparasitisme en aquest context?",
+          "answer": "Un paràsit parasita un altre paràsit",
+          "distractors": [
+            "Un depredador s’alimenta de flors",
+            "Una planta redueix la transpiració",
+            "Una llavor inicia la germinació"
+          ],
+          "quote": "El control biològic de fongs pot basar-se en hiperparasitisme, competència per espai o nutrients i producció de metabòlits antifúngics.",
+          "page": 23
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-nematodes",
+      "name": "Productes per al control de nematodes",
+      "science": "",
+      "group": "Altres agents i herbicides",
+      "learning": true,
+      "learningSection": "Altres agents i herbicides",
+      "page": 24,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El temari explica que la volatilitat d’alguns nematicides facilita la penetració a les capes superiors del sòl."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Purpureocillium lilacinum és el fong citat que parasita ous de nematodes com Meloidogyne sp."
+        }
+      ],
+      "groupStudy": {
+        "page": 24,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-nematodes",
+          "image": "images/products-support-15-2.jpg",
+          "original": "images/products-page-24-original.jpg",
+          "page": 24,
+          "imagePage": 15
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-nematodes-1",
+          "kind": "Concepte",
+          "prompt": "Quina propietat facilita la penetració d’alguns nematicides a les capes superiors del sòl?",
+          "answer": "La volatilitat",
+          "distractors": [
+            "La selectivitat morfològica foliar",
+            "L’atracció sexual",
+            "L’acció anticoagulant"
+          ],
+          "quote": "El temari explica que la volatilitat d’alguns nematicides facilita la penetració a les capes superiors del sòl.",
+          "page": 24
+        },
+        {
+          "id": "products-nematodes-2",
+          "kind": "Aplicació",
+          "prompt": "Quin organisme es cita com a paràsit d’ous de Meloidogyne?",
+          "answer": "Purpureocillium lilacinum",
+          "distractors": [
+            "Chrysoperla carnea",
+            "Encarsia formosa",
+            "Amblyseius swirskii"
+          ],
+          "quote": "Purpureocillium lilacinum és el fong citat que parasita ous de nematodes com Meloidogyne sp.",
+          "page": 24
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-total-herbicides",
+      "name": "Herbicides totals i etiqueta",
+      "science": "",
+      "group": "Altres agents i herbicides",
+      "learning": true,
+      "learningSection": "Altres agents i herbicides",
+      "page": 25,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els herbicides totals s’utilitzen per eliminar els vegetals existents, però el temari puntualitza que sempre hi ha flora adventícia que no controlen."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "L’etiqueta indica espècies sensibles, cultius on hi ha selectivitat i condicions d’aplicació; també pot detallar espècies no controlades."
+        }
+      ],
+      "groupStudy": {
+        "page": 25,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-total-herbicides",
+          "image": "images/products-support-25-4.jpg",
+          "original": "images/products-page-25-original.jpg",
+          "page": 25,
+          "imagePage": 25
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-total-herbicides-1",
+          "kind": "Concepte",
+          "prompt": "Quina precisió cal recordar sobre els herbicides totals?",
+          "answer": "Poden deixar espècies de flora adventícia sense controlar",
+          "distractors": [
+            "Són selectius per a qualsevol cultiu",
+            "Actuen exclusivament sobre fongs",
+            "S’apliquen exclusivament a llavors"
+          ],
+          "quote": "Els herbicides totals s’utilitzen per eliminar els vegetals existents, però el temari puntualitza que sempre hi ha flora adventícia que no controlen.",
+          "page": 25
+        },
+        {
+          "id": "products-total-herbicides-2",
+          "kind": "Aplicació",
+          "prompt": "On es consulten les espècies sensibles i les condicions de selectivitat?",
+          "answer": "A l’etiqueta del producte",
+          "distractors": [
+            "Només a la fotografia de la planta",
+            "Només al nom comercial",
+            "Només al color de l’envàs"
+          ],
+          "quote": "L’etiqueta indica espècies sensibles, cultius on hi ha selectivitat i condicions d’aplicació; també pot detallar espècies no controlades.",
+          "page": 25
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-position-dose",
+      "name": "Selectivitat de posició i de dosi",
+      "science": "",
+      "group": "Altres agents i herbicides",
+      "learning": true,
+      "learningSection": "Altres agents i herbicides",
+      "page": 26,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La selectivitat de posició separa l’aplicació de l’herbicida del cultiu en l’espai o en el temps."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La selectivitat segons la dosi es dona quan un mateix herbicida afecta diferents espècies a diferents dosis. Gairebé tots els selectius poden deixar de ser-ho a dosis altes."
+        }
+      ],
+      "groupStudy": {
+        "page": 26,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-position-dose",
+          "image": "images/products-support-25-4.jpg",
+          "original": "images/products-page-26-original.jpg",
+          "page": 26,
+          "imagePage": 25
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-position-dose-1",
+          "kind": "Concepte",
+          "prompt": "Separar l’herbicida del cultiu en l’espai o en el temps és selectivitat…",
+          "answer": "De posició",
+          "distractors": [
+            "Fisiològica",
+            "Morfològica",
+            "Segons la dosi"
+          ],
+          "quote": "La selectivitat de posició separa l’aplicació de l’herbicida del cultiu en l’espai o en el temps.",
+          "page": 26
+        },
+        {
+          "id": "products-position-dose-2",
+          "kind": "Aplicació",
+          "prompt": "Si diferents dosis d’un mateix herbicida afecten espècies diferents, quina selectivitat es descriu?",
+          "answer": "Segons la dosi",
+          "distractors": [
+            "De posició",
+            "Morfològica",
+            "Per competència de nutrients"
+          ],
+          "quote": "La selectivitat segons la dosi es dona quan un mateix herbicida afecta diferents espècies a diferents dosis. Gairebé tots els selectius poden deixar de ser-ho a dosis altes.",
+          "page": 26
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-physiology-shape",
+      "name": "Selectivitat fisiològica i morfològica",
+      "science": "",
+      "group": "Altres agents i herbicides",
+      "learning": true,
+      "learningSection": "Altres agents i herbicides",
+      "page": 26,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La selectivitat fisiològica pot deure’s al fet que el cultiu metabolitza ràpidament l’herbicida o que aquest no afecta el seu metabolisme."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La selectivitat morfològica es relaciona amb diferències d’absorció; la superfície foliar pot afavorir més adherència en unes espècies que en altres."
+        }
+      ],
+      "groupStudy": {
+        "page": 26,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-physiology-shape",
+          "image": "images/products-support-27-1.jpg",
+          "original": "images/products-page-26-original.jpg",
+          "page": 26,
+          "imagePage": 27
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-physiology-shape-1",
+          "kind": "Concepte",
+          "prompt": "El cultiu metabolitza ràpidament un herbicida i no pateix danys. Quina selectivitat és?",
+          "answer": "Fisiològica",
+          "distractors": [
+            "Morfològica",
+            "De posició en el temps",
+            "De posició en l’espai"
+          ],
+          "quote": "La selectivitat fisiològica pot deure’s al fet que el cultiu metabolitza ràpidament l’herbicida o que aquest no afecta el seu metabolisme.",
+          "page": 26
+        },
+        {
+          "id": "products-physiology-shape-2",
+          "kind": "Aplicació",
+          "prompt": "La forma i la superfície de la fulla alteren l’absorció. Quina selectivitat hi està relacionada?",
+          "answer": "Morfològica",
+          "distractors": [
+            "Fisiològica",
+            "De posició en el temps",
+            "Segons la dosi exclusivament"
+          ],
+          "quote": "La selectivitat morfològica es relaciona amb diferències d’absorció; la superfície foliar pot afavorir més adherència en unes espècies que en altres.",
+          "page": 26
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-absorption",
+      "name": "Herbicides: lloc d’aplicació i absorció",
+      "science": "",
+      "group": "Altres agents i herbicides",
+      "learning": true,
+      "learningSection": "Altres agents i herbicides",
+      "page": 27,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els herbicides aplicats a la part aèria s’absorbeixen sobretot per les fulles; alguns també admeten absorció radicular."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els herbicides aplicats al sòl s’absorbeixen sobretot per les arrels de la flora adventícia."
+        }
+      ],
+      "groupStudy": {
+        "page": 27,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-absorption",
+          "image": "images/products-support-27-1.jpg",
+          "original": "images/products-page-27-original.jpg",
+          "page": 27,
+          "imagePage": 27
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-absorption-1",
+          "kind": "Concepte",
+          "prompt": "Per on s’absorbeixen principalment els herbicides aplicats a la part aèria?",
+          "answer": "Per les fulles",
+          "distractors": [
+            "Per les arrels",
+            "Per les flors exclusivament",
+            "Pels fruits exclusivament"
+          ],
+          "quote": "Els herbicides aplicats a la part aèria s’absorbeixen sobretot per les fulles; alguns també admeten absorció radicular.",
+          "page": 27
+        },
+        {
+          "id": "products-absorption-2",
+          "kind": "Aplicació",
+          "prompt": "Per on s’absorbeixen principalment els herbicides aplicats al sòl?",
+          "answer": "Per les arrels",
+          "distractors": [
+            "Per les fulles",
+            "Per les flors exclusivament",
+            "Pels fruits exclusivament"
+          ],
+          "quote": "Els herbicides aplicats al sòl s’absorbeixen sobretot per les arrels de la flora adventícia.",
+          "page": 27
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-crop-timing",
+      "name": "Moment d’aplicació respecte del cultiu",
+      "science": "",
+      "group": "Aplicació, conservació i elecció",
+      "learning": true,
+      "learningSection": "Aplicació, conservació i elecció",
+      "page": 28,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La presembra del cultiu correspon al període després de preparar el sòl i abans de sembrar."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La preemergència del cultiu va de la sembra a l’emergència. La postemergència correspon al cultiu ja nascut."
+        }
+      ],
+      "groupStudy": {
+        "page": 28,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-crop-timing",
+          "image": "images/products-support-28-1.jpg",
+          "original": "images/products-page-28-original.jpg",
+          "page": 28,
+          "imagePage": 28
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-crop-timing-1",
+          "kind": "Concepte",
+          "prompt": "Després de preparar el sòl però abans de sembrar, en quin moment som?",
+          "answer": "Presembra del cultiu",
+          "distractors": [
+            "Preemergència del cultiu",
+            "Postemergència del cultiu",
+            "Postcollita"
+          ],
+          "quote": "La presembra del cultiu correspon al període després de preparar el sòl i abans de sembrar.",
+          "page": 28
+        },
+        {
+          "id": "products-crop-timing-2",
+          "kind": "Aplicació",
+          "prompt": "Entre la sembra i el naixement del cultiu, quin moment es defineix?",
+          "answer": "Preemergència del cultiu",
+          "distractors": [
+            "Presembra del cultiu",
+            "Postemergència del cultiu",
+            "Postcollita"
+          ],
+          "quote": "La preemergència del cultiu va de la sembra a l’emergència. La postemergència correspon al cultiu ja nascut.",
+          "page": 28
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-weed-timing",
+      "name": "Moment d’aplicació respecte de la flora adventícia",
+      "science": "",
+      "group": "Aplicació, conservació i elecció",
+      "learning": true,
+      "learningSection": "Aplicació, conservació i elecció",
+      "page": 29,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La preemergència de la flora adventícia és anterior al seu naixement; els productes descrits són residuals i s’apliquen al sòl. La postemergència és posterior al naixement."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "En sòls molt sorrencs, es poden produir pèrdues d’herbicida per lixiviació: l’aigua l’arrossega a capes inferiors o a aigües subterrànies."
+        }
+      ],
+      "groupStudy": {
+        "page": 29,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-weed-timing",
+          "image": "images/products-support-29-1.jpg",
+          "original": "images/products-page-29-original.jpg",
+          "page": 29,
+          "imagePage": 29
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-weed-timing-1",
+          "kind": "Concepte",
+          "prompt": "Quin cas correspon a preemergència de la flora adventícia?",
+          "answer": "Aplicació abans que neixin les males herbes",
+          "distractors": [
+            "Aplicació quan les males herbes ja han nascut",
+            "Aplicació exclusivament després de la collita",
+            "Aplicació exclusivament sobre fruits emmagatzemats"
+          ],
+          "quote": "La preemergència de la flora adventícia és anterior al seu naixement; els productes descrits són residuals i s’apliquen al sòl. La postemergència és posterior al naixement.",
+          "page": 29
+        },
+        {
+          "id": "products-weed-timing-2",
+          "kind": "Aplicació",
+          "prompt": "Com s’anomena l’arrossegament de l’herbicida amb l’aigua cap a capes inferiors?",
+          "answer": "Lixiviació",
+          "distractors": [
+            "Evapotranspiració",
+            "Hiperparasitisme",
+            "Senescència"
+          ],
+          "quote": "En sòls molt sorrencs, es poden produir pèrdues d’herbicida per lixiviació: l’aigua l’arrossega a capes inferiors o a aigües subterrànies.",
+          "page": 29
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-storage",
+      "name": "Conservació i magatzems",
+      "science": "",
+      "group": "Aplicació, conservació i elecció",
+      "learning": true,
+      "learningSection": "Aplicació, conservació i elecció",
+      "page": 30,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La conservació depèn de la neteja i manteniment dels locals, les condicions ambientals i les condicions agronòmiques, inclosa la maduresa de collita."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El temari indica que molts desinfectants volàtils de magatzems requereixen personal especialitzat amb la titulació corresponent."
+        }
+      ],
+      "groupStudy": {
+        "page": 30,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-storage",
+          "image": "images/products-support-30-1.jpg",
+          "original": "images/products-page-30-original.jpg",
+          "page": 30,
+          "imagePage": 30
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-storage-1",
+          "kind": "Concepte",
+          "prompt": "Quin conjunt de factors condiciona la conservació dels vegetals?",
+          "answer": "Locals, ambient i condicions agronòmiques",
+          "distractors": [
+            "Només la forma de l’envàs",
+            "Només el color de la llavor",
+            "Només el nom comercial"
+          ],
+          "quote": "La conservació depèn de la neteja i manteniment dels locals, les condicions ambientals i les condicions agronòmiques, inclosa la maduresa de collita.",
+          "page": 30
+        },
+        {
+          "id": "products-storage-2",
+          "kind": "Aplicació",
+          "prompt": "Quin requisit professional destaca el temari per a molts desinfectants de magatzems?",
+          "answer": "Personal especialitzat amb titulació corresponent",
+          "distractors": [
+            "Qualsevol usuari sense formació",
+            "Només saber identificar flors",
+            "Només conèixer el color de l’envàs"
+          ],
+          "quote": "El temari indica que molts desinfectants volàtils de magatzems requereixen personal especialitzat amb la titulació corresponent.",
+          "page": 30
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-postharvest",
+      "name": "Conservació de fruites i hortalisses",
+      "science": "",
+      "group": "Aplicació, conservació i elecció",
+      "learning": true,
+      "learningSection": "Aplicació, conservació i elecció",
+      "page": 31,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "En postcollita, els antitranspirants, normalment ceres, eviten l’assecament i milloren la presentació."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els detergents eliminen restes de negreta, pols i capa cerosa, i poden disminuir residus i espores. També es descriuen fungicides preventius i productes contra fisiopaties."
+        }
+      ],
+      "groupStudy": {
+        "page": 31,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-postharvest",
+          "image": "images/products-support-31-1.jpg",
+          "original": "images/products-page-31-original.jpg",
+          "page": 31,
+          "imagePage": 31
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-postharvest-1",
+          "kind": "Concepte",
+          "prompt": "Quina funció tenen les ceres antitranspirants en postcollita?",
+          "answer": "Evitar l’assecament dels vegetals",
+          "distractors": [
+            "Estimular arrels als esqueixos",
+            "Esterilitzar insectes mascles",
+            "Provocar la caiguda de fulles"
+          ],
+          "quote": "En postcollita, els antitranspirants, normalment ceres, eviten l’assecament i milloren la presentació.",
+          "page": 31
+        },
+        {
+          "id": "products-postharvest-2",
+          "kind": "Aplicació",
+          "prompt": "Quin grup s’utilitza per eliminar negreta, pols i restes de la superfície del fruit?",
+          "answer": "Detergents",
+          "distractors": [
+            "Arrelants",
+            "Defoliants",
+            "Feromones"
+          ],
+          "quote": "Els detergents eliminen restes de negreta, pols i capa cerosa, i poden disminuir residus i espores. També es descriuen fungicides preventius i productes contra fisiopaties.",
+          "page": 31
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-treated-seeds",
+      "name": "Llavors, bulbs i tubercles de sembra",
+      "science": "",
+      "group": "Aplicació, conservació i elecció",
+      "learning": true,
+      "learningSection": "Aplicació, conservació i elecció",
+      "page": 31,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els tractaments d’aquest material busquen conservar-lo durant l’emmagatzematge i prevenir atacs precoços de fongs i insectes al camp."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Les llavors tractades s’acoloreixen i l’envàs ho adverteix per evitar usos en pinsos o altres consums diferents de la sembra."
+        }
+      ],
+      "groupStudy": {
+        "page": 31,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-treated-seeds",
+          "image": "images/products-support-31-2.jpg",
+          "original": "images/products-page-31-original.jpg",
+          "page": 31,
+          "imagePage": 31
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-treated-seeds-1",
+          "kind": "Concepte",
+          "prompt": "Quina doble finalitat tenen els tractaments del material de sembra?",
+          "answer": "Conservació i prevenció d’atacs precoços al camp",
+          "distractors": [
+            "Defoliació i pol·linització",
+            "Atracció sexual i esterilització",
+            "Anticoagulació i repel·lència"
+          ],
+          "quote": "Els tractaments d’aquest material busquen conservar-lo durant l’emmagatzematge i prevenir atacs precoços de fongs i insectes al camp.",
+          "page": 31
+        },
+        {
+          "id": "products-treated-seeds-2",
+          "kind": "Aplicació",
+          "prompt": "Per què s’acoloreixen les llavors tractades i se n’adverteix a l’envàs?",
+          "answer": "Per evitar usos diferents de la sembra",
+          "distractors": [
+            "Per indicar una varietat de flor tallada",
+            "Per assenyalar una feromona",
+            "Per afavorir el consum com a pinso"
+          ],
+          "quote": "Les llavors tractades s’acoloreixen i l’envàs ho adverteix per evitar usos en pinsos o altres consums diferents de la sembra.",
+          "page": 31
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-cut-flowers",
+      "name": "Conservació de flor tallada",
+      "science": "",
+      "group": "Aplicació, conservació i elecció",
+      "learning": true,
+      "learningSection": "Aplicació, conservació i elecció",
+      "page": 32,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La senescència és l’envelliment biològic de la flor tallada; es manifesta amb pèrdua de pes i enrotllament dels pètals."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Les dissolucions conservants poden aportar sucres o actuar sobre el pH per retardar els símptomes de senescència."
+        }
+      ],
+      "groupStudy": {
+        "page": 32,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-cut-flowers",
+          "image": "images/products-support-32-1.jpg",
+          "original": "images/products-page-32-original.jpg",
+          "page": 32,
+          "imagePage": 32
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-cut-flowers-1",
+          "kind": "Concepte",
+          "prompt": "Com s’anomena l’envelliment biològic de la flor tallada?",
+          "answer": "Senescència",
+          "distractors": [
+            "Lixiviació",
+            "Evapotranspiració",
+            "Hiperparasitisme"
+          ],
+          "quote": "La senescència és l’envelliment biològic de la flor tallada; es manifesta amb pèrdua de pes i enrotllament dels pètals.",
+          "page": 32
+        },
+        {
+          "id": "products-cut-flowers-2",
+          "kind": "Aplicació",
+          "prompt": "Quina finalitat tenen les dissolucions conservants de flor tallada?",
+          "answer": "Retardar els símptomes de senescència",
+          "distractors": [
+            "Afavorir la brotació de patates",
+            "Induir la muda dels insectes",
+            "Provocar la defoliació del cotó"
+          ],
+          "quote": "Les dissolucions conservants poden aportar sucres o actuar sobre el pH per retardar els símptomes de senescència.",
+          "page": 32
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-biostimulants-roots",
+      "name": "Bioestimulants i arrelants",
+      "science": "",
+      "group": "Aplicació, conservació i elecció",
+      "learning": true,
+      "learningSection": "Aplicació, conservació i elecció",
+      "page": 33,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els bioestimulants ajuden a recuperar els vegetals després d’estrès ambiental o cultural i poden afavorir precocitat, qualitat o quantitat de collita."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els arrelants indueixen i acceleren el creixement de les arrels als esqueixos."
+        }
+      ],
+      "groupStudy": {
+        "page": 33,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-biostimulants-roots",
+          "image": "images/products-support-33-3.jpg",
+          "original": "images/products-page-33-original.jpg",
+          "page": 33,
+          "imagePage": 33
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-biostimulants-roots-1",
+          "kind": "Concepte",
+          "prompt": "Quin grup es descriu per recuperar vegetals després d’una situació d’estrès?",
+          "answer": "Bioestimulants",
+          "distractors": [
+            "Defoliants",
+            "Rodenticides",
+            "Helicides"
+          ],
+          "quote": "Els bioestimulants ajuden a recuperar els vegetals després d’estrès ambiental o cultural i poden afavorir precocitat, qualitat o quantitat de collita.",
+          "page": 33
+        },
+        {
+          "id": "products-biostimulants-roots-2",
+          "kind": "Aplicació",
+          "prompt": "Quin grup indueix el creixement d’arrels als esqueixos?",
+          "answer": "Arrelants",
+          "distractors": [
+            "Antitranspirants",
+            "Cicatritzants",
+            "Inhibidors de la brotació"
+          ],
+          "quote": "Els arrelants indueixen i acceleren el creixement de les arrels als esqueixos.",
+          "page": 33
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-transpiration-regulators",
+      "name": "Antitranspirants i fitoreguladors",
+      "science": "",
+      "group": "Aplicació, conservació i elecció",
+      "learning": true,
+      "learningSection": "Aplicació, conservació i elecció",
+      "page": 33,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els antitranspirants redueixen el consum hídric i poden disminuir el xoc fisiològic del trasplantament."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els fitoreguladors controlen processos com creixement, brotada, floració, aparició i caiguda de fruits i estat latent."
+        }
+      ],
+      "groupStudy": {
+        "page": 33,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-transpiration-regulators",
+          "image": "images/products-support-33-4.jpg",
+          "original": "images/products-page-33-original.jpg",
+          "page": 33,
+          "imagePage": 33
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-transpiration-regulators-1",
+          "kind": "Concepte",
+          "prompt": "Quin grup redueix el consum hídric i ajuda davant del xoc del trasplantament?",
+          "answer": "Antitranspirants",
+          "distractors": [
+            "Defoliants",
+            "Arrelants",
+            "Detergents"
+          ],
+          "quote": "Els antitranspirants redueixen el consum hídric i poden disminuir el xoc fisiològic del trasplantament.",
+          "page": 33
+        },
+        {
+          "id": "products-transpiration-regulators-2",
+          "kind": "Aplicació",
+          "prompt": "Quin grup regula processos com la floració, la brotada i l’estat latent?",
+          "answer": "Fitoreguladors",
+          "distractors": [
+            "Helicides",
+            "Rodenticides",
+            "Atraients alimentaris"
+          ],
+          "quote": "Els fitoreguladors controlen processos com creixement, brotada, floració, aparició i caiguda de fruits i estat latent.",
+          "page": 33
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-growth-management",
+      "name": "Brotació, defoliació i cicatrització",
+      "science": "",
+      "group": "Aplicació, conservació i elecció",
+      "learning": true,
+      "learningSection": "Aplicació, conservació i elecció",
+      "page": 34,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els inhibidors de la brotació i el creixement eviten l’aparició de «grills» en patates emmagatzemades."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els defoliants faciliten la recol·lecció mecanitzada del cotó. En altres conreus, el temari descriu dessecants amb aquesta finalitat."
+        },
+        {
+          "label": "Per recordar",
+          "text": "Els cicatritzants poden ser fungicides d’ampli espectre o preparats màstics, una pasta de resina."
+        }
+      ],
+      "groupStudy": {
+        "page": 34,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-growth-management",
+          "image": "images/products-support-34-2.jpg",
+          "original": "images/products-page-34-original.jpg",
+          "page": 34,
+          "imagePage": 34
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-growth-management-1",
+          "kind": "Concepte",
+          "prompt": "Quin grup evita l’aparició de «grills» en patates emmagatzemades?",
+          "answer": "Inhibidors de la brotació i el creixement",
+          "distractors": [
+            "Arrelants",
+            "Bioestimulants",
+            "Antitranspirants"
+          ],
+          "quote": "Els inhibidors de la brotació i el creixement eviten l’aparició de «grills» en patates emmagatzemades.",
+          "page": 34
+        },
+        {
+          "id": "products-growth-management-2",
+          "kind": "Aplicació",
+          "prompt": "Quina finalitat tenen els defoliants en el cotó?",
+          "answer": "Facilitar la recol·lecció mecanitzada",
+          "distractors": [
+            "Estimular el creixement d’arrels",
+            "Conservar la flor tallada",
+            "Afavorir la posta d’insectes"
+          ],
+          "quote": "Els defoliants faciliten la recol·lecció mecanitzada del cotó. En altres conreus, el temari descriu dessecants amb aquesta finalitat.",
+          "page": 34
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    },
+    {
+      "id": "products-selection",
+      "name": "Escollir el producte i llegir la informació tècnica",
+      "science": "",
+      "group": "Aplicació, conservació i elecció",
+      "learning": true,
+      "learningSection": "Aplicació, conservació i elecció",
+      "page": 35,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La consulta per aplicació/plagues relaciona les matèries actives autoritzades amb cada cultiu."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La selecció valora forma d’actuació, presentació, concentració, dosis i usos, terminis de seguretat i condicions generals, a més de riscos laborals, selectivitat i risc ambiental."
+        }
+      ],
+      "groupStudy": {
+        "page": 35,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "products-selection",
+          "image": "images/products-support-36-4.jpg",
+          "original": "images/products-page-35-original.jpg",
+          "page": 35,
+          "imagePage": 36
+        }
+      ],
+      "questions": [
+        {
+          "id": "products-selection-1",
+          "kind": "Concepte",
+          "prompt": "Quina consulta del Registre permet relacionar productes, cultiu i agent nociu?",
+          "answer": "Per aplicació/plagues",
+          "distractors": [
+            "Només pel nom comercial",
+            "Només pel número de registre",
+            "Només per substància activa sense acotar l’ús"
+          ],
+          "quote": "La consulta per aplicació/plagues relaciona les matèries actives autoritzades amb cada cultiu.",
+          "page": 35
+        },
+        {
+          "id": "products-selection-2",
+          "kind": "Aplicació",
+          "prompt": "Quina informació cal llegir a la documentació tècnica abans de decidir?",
+          "answer": "Usos, dosis, terminis de seguretat i condicions d’ús",
+          "distractors": [
+            "Només el nom comercial",
+            "Només el color de l’envàs",
+            "Només la fotografia del cultiu"
+          ],
+          "quote": "La selecció valora forma d’actuació, presentació, concentració, dosis i usos, terminis de seguretat i condicions generals, a més de riscos laborals, selectivitat i risc ambiental.",
+          "page": 35
+        }
+      ],
+      "note": "Contingut conceptual del temari de 30/10/2024. La imatge no identifica per si sola un producte, una espècie o una autorització."
+    }
+  ]
+}

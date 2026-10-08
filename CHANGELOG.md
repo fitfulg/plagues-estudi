@@ -1,3 +1,10 @@
+# v1.9.0 · 08/10/2026
+
+- Nou tema 6: Productes fitosanitaris, 40 fitxes i 80 preguntes.
+- Imatges de suport, correcció amb font i fitxa opcional al mateix panell.
+- PDF per practicar i PDF amb respostes marcades.
+- Bancs dels temes 1–5 conservats.
+
 # v1.8.0 · 06/10/2026
 
 - Afegit el tema 5, Lluita integrada: 40 fitxes i 80 preguntes essencials.

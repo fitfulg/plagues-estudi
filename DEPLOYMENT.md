@@ -54,3 +54,7 @@ Quatre variants downloads/*-answers.pdf afegides. Selector i peu de cada mode of
 ## v1.8.0 — Tema 5 · 06/10/2026
 
 Actualització del mateix repositori fitfulg/plagues-estudi: nou mode Lluita integrada, 40 fitxes, 80 preguntes i dos PDF. Recursos i descàrregues publicats abans d’activar el selector.
+
+## v1.9.0 — Tema 6 · 08/10/2026
+
+Preparada l’actualització del mateix repositori fitfulg/plagues-estudi: mode Productes fitosanitaris, 40 fitxes, 80 preguntes i dos PDF. Recursos i descàrregues es publiquen abans d’activar el selector.

@@ -63,3 +63,7 @@ Quatre nous PDF amb exactament una resposta CORRECTA per pregunta: 80/80/80/78. 
 ## v1.8.0 — Tema 5
 
 40 fitxes i 80 preguntes. Proves dels cinc modes (1.000 sessions cadascun), 2.000 sessions equilibrades del tema 5 i conservació dels bancs anteriors. Partida completa de 20 respostes al navegador, originals i fitxa opcional comprovats; sense errors de consola. Vista mòbil de 390 px sense desbordament. Dos PDF de 51 pàgines: text i ordre de les 80 preguntes/opcions idèntics; exactament dues marques CORRECTA per fitxa. Totes les pàgines renderitzades i revisades.
+
+## v1.9.0 — Tema 6
+
+40 fitxes i 80 preguntes; proves dels sis modes (1.000 sessions cadascun) i 2.000 sessions equilibrades del nou tema. Dos PDF de 52 pàgines, amb les mateixes preguntes i alternatives en el mateix ordre; 80 respostes marcades verificades. 104 pàgines renderitzades i revisades. La connexió del navegador al servidor local no estava disponible en aquesta sessió; es comprovarà el joc al domini públic.

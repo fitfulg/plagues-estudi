@@ -2,9 +2,9 @@
 (()=>{
   'use strict';
   const $=id=>document.getElementById(id);
-  const modes={integrated:{data:window.INTEGRATED_DATA,label:"Lluita integrada",file:"downloads/topic-5-integrated.pdf?v=1.8.0",answersFile:"downloads/topic-5-integrated-answers.pdf?v=1.8.0"},pests:{data:window.PLAGUES_DATA,label:'Plagues',file:'downloads/topic-1-pests.pdf?v=1.6.0'},diseases:{data:window.DISEASE_DATA,label:'Malalties',file:'downloads/topic-2-diseases.pdf?v=1.6.0'},protection:{data:window.PROTECTION_DATA,label:'Protecció de cultius',file:'downloads/topic-4-protection.pdf?v=1.6.0'},weeds:{data:window.WEED_DATA,label:'Vegetació espontània',file:'downloads/topic-3-weeds.pdf?v=1.6.0'}};
+  const modes={products:{data:window.PRODUCTS_DATA,label:"Productes fitosanitaris",file:"downloads/topic-6-products.pdf?v=1.9.0",answersFile:"downloads/topic-6-products-answers.pdf?v=1.9.0"},integrated:{data:window.INTEGRATED_DATA,label:"Lluita integrada",file:"downloads/topic-5-integrated.pdf?v=1.8.0",answersFile:"downloads/topic-5-integrated-answers.pdf?v=1.8.0"},pests:{data:window.PLAGUES_DATA,label:'Plagues',file:'downloads/topic-1-pests.pdf?v=1.6.0'},diseases:{data:window.DISEASE_DATA,label:'Malalties',file:'downloads/topic-2-diseases.pdf?v=1.6.0'},protection:{data:window.PROTECTION_DATA,label:'Protecció de cultius',file:'downloads/topic-4-protection.pdf?v=1.6.0'},weeds:{data:window.WEED_DATA,label:'Vegetació espontània',file:'downloads/topic-3-weeds.pdf?v=1.6.0'}};
   let data=null,mode=null;
-  const previousCards={integrated:null,pests:null,diseases:null,weeds:null,protection:null};
+  const previousCards={products:null,integrated:null,pests:null,diseases:null,weeds:null,protection:null};
   let rounds=[],ri=0,qi=0,score=0,answered=0,locked=false,history=[],total=0,lastCard=null;
   const current=()=>rounds[ri], question=()=>current().questions[qi];
   function stats(){
@@ -132,6 +132,7 @@
     $('picker-title').focus({preventScroll:true});
   }
   $('choose-integrated').addEventListener('click',()=>chooseMode('integrated'));
+  $('choose-products').addEventListener('click',()=>chooseMode('products'));
   $('choose-pests').addEventListener('click',()=>chooseMode('pests'));
   $('choose-diseases').addEventListener('click',()=>chooseMode('diseases'));
   $('choose-protection').addEventListener('click',()=>chooseMode('protection'));
