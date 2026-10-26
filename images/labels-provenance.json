@@ -1,0 +1,162 @@
+{
+  "reading": {
+    "source": "fitosT7.pdf",
+    "page": 1,
+    "normalizedCrop": [
+      0.07,
+      0.44,
+      0.96,
+      0.96
+    ]
+  },
+  "label": {
+    "source": "fitosT7.pdf",
+    "page": 5,
+    "normalizedCrop": [
+      0.63,
+      0.27,
+      0.92,
+      0.59
+    ]
+  },
+  "control": {
+    "source": "fitosT7.pdf",
+    "page": 8,
+    "normalizedCrop": [
+      0.13,
+      0.13,
+      0.29,
+      0.23
+    ]
+  },
+  "lab": {
+    "source": "fitosT7.pdf",
+    "page": 10,
+    "normalizedCrop": [
+      0.58,
+      0.34,
+      0.9,
+      0.49
+    ]
+  },
+  "active": {
+    "source": "fitosT7.pdf",
+    "page": 10,
+    "normalizedCrop": [
+      0.58,
+      0.66,
+      0.9,
+      0.82
+    ]
+  },
+  "leaf": {
+    "source": "fitosT7.pdf",
+    "page": 11,
+    "normalizedCrop": [
+      0.55,
+      0.13,
+      0.9,
+      0.31
+    ]
+  },
+  "wetting": {
+    "source": "fitosT7.pdf",
+    "page": 11,
+    "normalizedCrop": [
+      0.235,
+      0.54,
+      0.835,
+      0.699
+    ]
+  },
+  "bottles": {
+    "source": "fitosT7.pdf",
+    "page": 14,
+    "normalizedCrop": [
+      0.53,
+      0.16,
+      0.91,
+      0.34
+    ]
+  },
+  "powder": {
+    "source": "fitosT7.pdf",
+    "page": 15,
+    "normalizedCrop": [
+      0.622,
+      0.292,
+      0.91,
+      0.458
+    ]
+  },
+  "baits": {
+    "source": "fitosT7.pdf",
+    "page": 17,
+    "normalizedCrop": [
+      0.57,
+      0.18,
+      0.9,
+      0.31
+    ]
+  },
+  "mixture": {
+    "source": "fitosT7.pdf",
+    "page": 22,
+    "normalizedCrop": [
+      0.14,
+      0.48,
+      0.86,
+      0.65
+    ]
+  },
+  "sigfito": {
+    "source": "fitosT7.pdf",
+    "page": 29,
+    "normalizedCrop": [
+      0.64,
+      0.11,
+      0.915,
+      0.284
+    ]
+  },
+  "ppe": {
+    "source": "fitosT7.pdf",
+    "page": 29,
+    "normalizedCrop": [
+      0.114,
+      0.648,
+      0.49,
+      0.842
+    ]
+  },
+  "skull": {
+    "source": "fitosT7.pdf",
+    "page": 28,
+    "normalizedCrop": [
+      0.383,
+      0.2275,
+      0.476,
+      0.2875
+    ]
+  },
+  "corrosion": {
+    "source": "fitosT7.pdf",
+    "page": 28,
+    "normalizedCrop": [
+      0.383,
+      0.3525,
+      0.476,
+      0.4125
+    ]
+  },
+  "gas": {
+    "source": "fitosT7.pdf",
+    "page": 28,
+    "normalizedCrop": [
+      0.622,
+      0.415,
+      0.711,
+      0.476
+    ]
+  }
+}
