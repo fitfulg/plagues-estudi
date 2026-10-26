@@ -67,3 +67,7 @@ Quatre nous PDF amb exactament una resposta CORRECTA per pregunta: 80/80/80/78. 
 ## v1.9.0 — Tema 6
 
 40 fitxes i 80 preguntes; proves dels sis modes (1.000 sessions cadascun) i 2.000 sessions equilibrades del nou tema. Dos PDF de 52 pàgines, amb les mateixes preguntes i alternatives en el mateix ordre; 80 respostes marcades verificades. 104 pàgines renderitzades i revisades. La connexió del navegador al servidor local no estava disponible en aquesta sessió; es comprovarà el joc al domini públic.
+
+## v1.10.0 · Tema 7 · 26/10/2026
+
+1.000 sessions de cada un dels set modes i proves del controlador: puntuació, bloqueig de resposta, originals, fitxa opcional, sessió completa, resum i reinici. 2.000 sessions equilibrades del tema 7 amb cobertura de les 80 preguntes. Referències locals i identificadors verificats. Dos PDF de 51 pàgines amb ordre idèntic de preguntes/opcions i marques correctes; revisió visual de 102 pàgines.

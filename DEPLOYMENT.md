@@ -58,3 +58,9 @@ Actualització del mateix repositori fitfulg/plagues-estudi: nou mode Lluita int
 ## v1.9.0 — Tema 6 · 08/10/2026
 
 Preparada l’actualització del mateix repositori fitfulg/plagues-estudi: mode Productes fitosanitaris, 40 fitxes, 80 preguntes i dos PDF. Recursos i descàrregues es publiquen abans d’activar el selector.
+
+## v1.10.0 · Tema 7 · 26/10/2026
+
+Versió 1.10.0 preparada per al mateix repositori fitfulg/plagues-estudi. Tema 7, imatges i dues descàrregues incorporats conjuntament; bancs anteriors preservats.
+
+Publicació mitjançant la sessió autenticada de fitfulg a GitHub: primer les imatges i els dos PDF, després el selector i els fitxers de la versió 1.10.0.

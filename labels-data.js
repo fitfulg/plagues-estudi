@@ -1,0 +1,2527 @@
+window.LABELS_DATA = {
+  "title": "Etiquetatge",
+  "source": "fitosT7.pdf · Interpreta l’etiqueta d’un producte fitosanitari · 30/10/2024",
+  "notice": "Material d’estudi del temari de 30/10/2024.",
+  "cards": [
+    {
+      "id": "labels-01",
+      "name": "Funció de l’etiqueta",
+      "science": "",
+      "group": "Etiqueta, registre i composició",
+      "learning": true,
+      "learningSection": "Etiqueta, registre i composició",
+      "page": 4,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’etiqueta conté la informació i les instruccions per utilitzar el producte fitosanitari amb seguretat i eficàcia."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Les inscripcions han de ser clares, llegibles i indelebles. La informació correspon al registre del producte."
+        }
+      ],
+      "groupStudy": {
+        "page": 4,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-01",
+          "image": "images/labels-reading.jpg",
+          "original": "images/labels-page-04-original.jpg",
+          "page": 4,
+          "imagePage": 1
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-01-1",
+          "kind": "Concepte",
+          "prompt": "Quina és la funció principal de l’etiqueta?",
+          "answer": "Informar per utilitzar el producte amb seguretat i eficàcia",
+          "distractors": [
+            "Substituir el quadern d’explotació",
+            "Registrar totes les transaccions del venedor",
+            "Descriure només el nom comercial"
+          ],
+          "quote": "L’etiqueta conté la informació i les instruccions per utilitzar el producte fitosanitari amb seguretat i eficàcia.",
+          "page": 4
+        },
+        {
+          "id": "labels-01-2",
+          "kind": "Aplicació",
+          "prompt": "Com han de ser les inscripcions de l’etiqueta?",
+          "answer": "Clares, llegibles i indelebles",
+          "distractors": [
+            "Únicament gràfiques i sense text",
+            "Limitades al nom del fabricant",
+            "Substituïdes per un registre de transaccions"
+          ],
+          "quote": "Les inscripcions han de ser clares, llegibles i indelebles. La informació correspon al registre del producte.",
+          "page": 4
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-02",
+      "name": "Les tres àrees de l’etiqueta",
+      "science": "",
+      "group": "Etiqueta, registre i composició",
+      "learning": true,
+      "learningSection": "Etiqueta, registre i composició",
+      "page": 31,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Les tres àrees són registre, utilització i risc. Cal llegir-les abans de manipular el producte."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Les àrees de registre i utilització ajuden a identificar i elegir el producte. La de risc també és important durant la preparació."
+        }
+      ],
+      "groupStudy": {
+        "page": 31,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-02",
+          "image": "images/labels-reading.jpg",
+          "original": "images/labels-page-31-original.jpg",
+          "page": 31,
+          "imagePage": 1
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-02-1",
+          "kind": "Concepte",
+          "prompt": "Quines tres àrees organitzen la informació de l’etiqueta?",
+          "answer": "Registre, utilització i risc",
+          "distractors": [
+            "Composició, transport i eliminació",
+            "Prevenció, resposta i emmagatzematge",
+            "Nom comercial, lot i quantitat neta"
+          ],
+          "quote": "Les tres àrees són registre, utilització i risc. Cal llegir-les abans de manipular el producte.",
+          "page": 31
+        },
+        {
+          "id": "labels-02-2",
+          "kind": "Aplicació",
+          "prompt": "Quines àrees ajuden a identificar i elegir el producte?",
+          "answer": "Registre i utilització",
+          "distractors": [
+            "Només la data de fabricació",
+            "Només els consells d’eliminació",
+            "Només el número de lot"
+          ],
+          "quote": "Les àrees de registre i utilització ajuden a identificar i elegir el producte. La de risc també és important durant la preparació.",
+          "page": 31
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-03",
+      "name": "Àrea de registre",
+      "science": "",
+      "group": "Etiqueta, registre i composició",
+      "learning": true,
+      "learningSection": "Etiqueta, registre i composició",
+      "page": 5,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’àrea de registre identifica característiques tècniques i legals: nom comercial, número d’inscripció, ingredients actius i concentració."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "També inclou tipus d’acció, formulació, dades del titular i quantitat neta. La formulació és la forma de presentació del producte."
+        }
+      ],
+      "groupStudy": {
+        "page": 5,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-03",
+          "image": "images/labels-label.jpg",
+          "original": "images/labels-page-05-original.jpg",
+          "page": 5,
+          "imagePage": 5
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-03-1",
+          "kind": "Concepte",
+          "prompt": "On cercaries el número d’inscripció i la concentració de matèria activa?",
+          "answer": "A l’àrea de registre",
+          "distractors": [
+            "Al quadern d’explotació",
+            "Als consells P500",
+            "A la secció de primers auxilis"
+          ],
+          "quote": "L’àrea de registre identifica característiques tècniques i legals: nom comercial, número d’inscripció, ingredients actius i concentració.",
+          "page": 5
+        },
+        {
+          "id": "labels-03-2",
+          "kind": "Aplicació",
+          "prompt": "Què indica el tipus de formulació?",
+          "answer": "La forma de presentació del producte",
+          "distractors": [
+            "El temps entre tractament i collita",
+            "El grau de perillositat",
+            "La data de fabricació del lot"
+          ],
+          "quote": "També inclou tipus d’acció, formulació, dades del titular i quantitat neta. La formulació és la forma de presentació del producte.",
+          "page": 5
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-04",
+      "name": "Identificació del producte",
+      "science": "",
+      "group": "Etiqueta, registre i composició",
+      "learning": true,
+      "learningSection": "Etiqueta, registre i composició",
+      "page": 6,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El número de registre serveix de referència per identificar un producte concret. El nom comercial facilita reconèixer-lo."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El nom comú de les matèries actives identifica les substàncies que conté el formulat; és diferent del nom comercial."
+        }
+      ],
+      "groupStudy": {
+        "page": 6,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-04",
+          "image": "images/labels-label.jpg",
+          "original": "images/labels-page-06-original.jpg",
+          "page": 6,
+          "imagePage": 5
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-04-1",
+          "kind": "Concepte",
+          "prompt": "Quina dada és la referència per identificar un producte concret?",
+          "answer": "El número de registre",
+          "distractors": [
+            "El número de lot",
+            "La quantitat neta",
+            "La data de fabricació"
+          ],
+          "quote": "El número de registre serveix de referència per identificar un producte concret. El nom comercial facilita reconèixer-lo.",
+          "page": 6
+        },
+        {
+          "id": "labels-04-2",
+          "kind": "Aplicació",
+          "prompt": "El nom comercial i el nom de la matèria activa…",
+          "answer": "Són dades diferents de la identificació",
+          "distractors": [
+            "Són sempre el mateix nom",
+            "Indiquen només el lot",
+            "Expressen sempre la concentració"
+          ],
+          "quote": "El nom comú de les matèries actives identifica les substàncies que conté el formulat; és diferent del nom comercial.",
+          "page": 6
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-05",
+      "name": "Registre europeu i registre estatal",
+      "science": "",
+      "group": "Etiqueta, registre i composició",
+      "learning": true,
+      "learningSection": "Etiqueta, registre i composició",
+      "page": 7,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Després del registre europeu de la substància activa, les empreses desenvolupen el formulat i fan assajos per registrar el producte als estats membres."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El registre estatal conté dades dels productes formulats que també han de figurar a les etiquetes."
+        }
+      ],
+      "groupStudy": {
+        "page": 7,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-05",
+          "image": "images/labels-reading.jpg",
+          "original": "images/labels-page-07-original.jpg",
+          "page": 7,
+          "imagePage": 1
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-05-1",
+          "kind": "Concepte",
+          "prompt": "Què desenvolupen les empreses després de registrar la substància activa?",
+          "answer": "El formulat amb tots els ingredients",
+          "distractors": [
+            "Únicament el símbol de gestió d’envasos",
+            "Només un nou codi de prudència",
+            "Un quadern d’explotació per a cada envàs"
+          ],
+          "quote": "Després del registre europeu de la substància activa, les empreses desenvolupen el formulat i fan assajos per registrar el producte als estats membres.",
+          "page": 7
+        },
+        {
+          "id": "labels-05-2",
+          "kind": "Aplicació",
+          "prompt": "Quina informació del registre estatal es relaciona amb l’etiqueta?",
+          "answer": "Les dades del producte fitosanitari registrat",
+          "distractors": [
+            "Només les transaccions del venedor",
+            "Només el contracte amb l’usuari",
+            "Només el carnet de l’aplicador"
+          ],
+          "quote": "El registre estatal conté dades dels productes formulats que també han de figurar a les etiquetes.",
+          "page": 7
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-06",
+      "name": "Productes no autoritzats",
+      "science": "",
+      "group": "Etiqueta, registre i composició",
+      "learning": true,
+      "learningSection": "Etiqueta, registre i composició",
+      "page": 7,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El temari inclou entre els productes no autoritzats les falsificacions i els productes amb autorització caducada."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els controls de venda comproven el registre i l’autorització dels productes, l’emmagatzematge i les etiquetes, entre altres aspectes."
+        }
+      ],
+      "groupStudy": {
+        "page": 7,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-06",
+          "image": "images/labels-control.jpg",
+          "original": "images/labels-page-07-original.jpg",
+          "page": 7,
+          "imagePage": 8
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-06-1",
+          "kind": "Concepte",
+          "prompt": "Quin exemple correspon a un producte no autoritzat?",
+          "answer": "Un producte amb l’autorització caducada",
+          "distractors": [
+            "Un formulat amb número de lot",
+            "Un producte amb ingredients inerts",
+            "Un granulat dispersable en aigua"
+          ],
+          "quote": "El temari inclou entre els productes no autoritzats les falsificacions i els productes amb autorització caducada.",
+          "page": 7
+        },
+        {
+          "id": "labels-06-2",
+          "kind": "Aplicació",
+          "prompt": "Què es comprova en els controls dels establiments de venda?",
+          "answer": "El registre i l’autorització dels productes",
+          "distractors": [
+            "Només el color dels envasos",
+            "Només els cultius fotografiats",
+            "Només el volum del dipòsit d’aplicació"
+          ],
+          "quote": "Els controls de venda comproven el registre i l’autorització dels productes, l’emmagatzematge i les etiquetes, entre altres aspectes.",
+          "page": 7
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-07",
+      "name": "Lot i quantitat neta",
+      "science": "",
+      "group": "Etiqueta, registre i composició",
+      "learning": true,
+      "learningSection": "Etiqueta, registre i composició",
+      "page": 5,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’àrea de registre inclou el número de referència i la data de fabricació del lot."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La quantitat neta dels preparats sòlids s’expressa en g o kg; la dels líquids, en ml o l."
+        }
+      ],
+      "groupStudy": {
+        "page": 5,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-07",
+          "image": "images/labels-label.jpg",
+          "original": "images/labels-page-05-original.jpg",
+          "page": 5,
+          "imagePage": 5
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-07-1",
+          "kind": "Concepte",
+          "prompt": "Quina parella de dades identifica el lot a l’etiqueta?",
+          "answer": "Número de referència i data de fabricació",
+          "distractors": [
+            "Dosi i termini de seguretat",
+            "Frase H i frase P",
+            "Concentració i tipus d’acció"
+          ],
+          "quote": "L’àrea de registre inclou el número de referència i la data de fabricació del lot.",
+          "page": 5
+        },
+        {
+          "id": "labels-07-2",
+          "kind": "Aplicació",
+          "prompt": "Quines unitats corresponen a la quantitat neta d’un preparat sòlid?",
+          "answer": "g o kg",
+          "distractors": [
+            "ml o l",
+            "L/ha",
+            "CFU/g"
+          ],
+          "quote": "La quantitat neta dels preparats sòlids s’expressa en g o kg; la dels líquids, en ml o l.",
+          "page": 5
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-08",
+      "name": "Matèria activa",
+      "science": "",
+      "group": "Etiqueta, registre i composició",
+      "learning": true,
+      "learningSection": "Etiqueta, registre i composició",
+      "page": 10,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La substància o matèria activa actua sobre el patogen que es vol combatre. Pot ser orgànica o inorgànica, natural, de síntesi o biològica."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "A l’etiqueta ha d’aparèixer el nom de la matèria activa i la quantitat que conté el producte."
+        }
+      ],
+      "groupStudy": {
+        "page": 10,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-08",
+          "image": "images/labels-active.jpg",
+          "original": "images/labels-page-10-original.jpg",
+          "page": 10,
+          "imagePage": 10
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-08-1",
+          "kind": "Concepte",
+          "prompt": "Quin component actua sobre el patogen que es vol combatre?",
+          "answer": "La matèria activa",
+          "distractors": [
+            "L’ingredient inert",
+            "El colorant",
+            "El fluïdificant"
+          ],
+          "quote": "La substància o matèria activa actua sobre el patogen que es vol combatre. Pot ser orgànica o inorgànica, natural, de síntesi o biològica.",
+          "page": 10
+        },
+        {
+          "id": "labels-08-2",
+          "kind": "Aplicació",
+          "prompt": "Quines dades de la matèria activa han d’aparèixer a l’etiqueta?",
+          "answer": "El nom i la quantitat que conté",
+          "distractors": [
+            "Només el número de lot",
+            "Només el nom comercial",
+            "Només el termini de seguretat"
+          ],
+          "quote": "A l’etiqueta ha d’aparèixer el nom de la matèria activa i la quantitat que conté el producte.",
+          "page": 10
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-09",
+      "name": "Ingredients inerts",
+      "science": "",
+      "group": "Etiqueta, registre i composició",
+      "learning": true,
+      "learningSection": "Etiqueta, registre i composició",
+      "page": 10,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els ingredients inerts faciliten la dosificació, perquè la matèria activa actua en quantitats molt petites."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "En conreus certificats cal tenir-los en compte: poden no estar inclosos en els llistats de substàncies autoritzades."
+        }
+      ],
+      "groupStudy": {
+        "page": 10,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-09",
+          "image": "images/labels-lab.jpg",
+          "original": "images/labels-page-10-original.jpg",
+          "page": 10,
+          "imagePage": 10
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-09-1",
+          "kind": "Concepte",
+          "prompt": "Quina funció s’atribueix als ingredients inerts?",
+          "answer": "Facilitar la dosificació del producte",
+          "distractors": [
+            "Combatre directament el patogen",
+            "Indicar el grau de perillositat",
+            "Identificar el número de lot"
+          ],
+          "quote": "Els ingredients inerts faciliten la dosificació, perquè la matèria activa actua en quantitats molt petites.",
+          "page": 10
+        },
+        {
+          "id": "labels-09-2",
+          "kind": "Aplicació",
+          "prompt": "Per què cal revisar els ingredients inerts en conreus certificats?",
+          "answer": "Poden no estar inclosos en les substàncies autoritzades",
+          "distractors": [
+            "Sempre equivalen a una matèria activa",
+            "Fixen per si sols el termini de seguretat",
+            "Substitueixen la lectura de l’etiqueta"
+          ],
+          "quote": "En conreus certificats cal tenir-los en compte: poden no estar inclosos en els llistats de substàncies autoritzades.",
+          "page": 10
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-10",
+      "name": "Additius",
+      "science": "",
+      "group": "Etiqueta, registre i composició",
+      "learning": true,
+      "learningSection": "Etiqueta, registre i composició",
+      "page": 11,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els additius milloren el producte final sense alterar-ne les propietats i no tenen activitat sobre el patogen."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El temari esmenta colorants, repulsius, irritants i emètics, així com antiaglutinants i fluïdificants que faciliten l’elaboració del brou."
+        }
+      ],
+      "groupStudy": {
+        "page": 11,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-10",
+          "image": "images/labels-leaf.jpg",
+          "original": "images/labels-page-11-original.jpg",
+          "page": 11,
+          "imagePage": 11
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-10-1",
+          "kind": "Concepte",
+          "prompt": "Quina descripció correspon als additius?",
+          "answer": "Milloren el producte final sense activitat sobre el patogen",
+          "distractors": [
+            "Són l’única substància que combat el patogen",
+            "Identifiquen el registre oficial",
+            "Expressen la riquesa en matèria activa"
+          ],
+          "quote": "Els additius milloren el producte final sense alterar-ne les propietats i no tenen activitat sobre el patogen.",
+          "page": 11
+        },
+        {
+          "id": "labels-10-2",
+          "kind": "Aplicació",
+          "prompt": "Quina parella facilita l’elaboració del brou?",
+          "answer": "Antiaglutinants i fluïdificants",
+          "distractors": [
+            "Número de registre i número de lot",
+            "Frases H i frases P",
+            "Termini de seguretat i LMR"
+          ],
+          "quote": "El temari esmenta colorants, repulsius, irritants i emètics, així com antiaglutinants i fluïdificants que faciliten l’elaboració del brou.",
+          "page": 11
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-11",
+      "name": "Adjuvants",
+      "science": "",
+      "group": "Formulacions i presentacions",
+      "learning": true,
+      "learningSection": "Formulacions i presentacions",
+      "page": 11,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els adjuvants modifiquen les propietats físiques i químiques de la matèria activa i en milloren l’acció."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Entre els adjuvants hi ha tensioactius o mullants, estabilitzants, dispersants i sinèrgics."
+        }
+      ],
+      "groupStudy": {
+        "page": 11,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-11",
+          "image": "images/labels-wetting.jpg",
+          "original": "images/labels-page-11-original.jpg",
+          "page": 11,
+          "imagePage": 11
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-11-1",
+          "kind": "Concepte",
+          "prompt": "Què fan els adjuvants?",
+          "answer": "Modifiquen propietats físiques i químiques i milloren l’acció",
+          "distractors": [
+            "Identifiquen el lot de fabricació",
+            "Només aporten el color de l’envàs",
+            "Fixen el número de registre"
+          ],
+          "quote": "Els adjuvants modifiquen les propietats físiques i químiques de la matèria activa i en milloren l’acció.",
+          "page": 11
+        },
+        {
+          "id": "labels-11-2",
+          "kind": "Aplicació",
+          "prompt": "Quin conjunt està format per tipus d’adjuvants?",
+          "answer": "Mullants, estabilitzants i dispersants",
+          "distractors": [
+            "Registre, utilització i risc",
+            "Pols, grànuls i esquers",
+            "Insecticides, fungicides i herbicides"
+          ],
+          "quote": "Entre els adjuvants hi ha tensioactius o mullants, estabilitzants, dispersants i sinèrgics.",
+          "page": 11
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-12",
+      "name": "Mullants i estabilitzants",
+      "science": "",
+      "group": "Formulacions i presentacions",
+      "learning": true,
+      "learningSection": "Formulacions i presentacions",
+      "page": 11,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els tensioactius o mullants permeten formar una emulsió en barrejar líquids insolubles amb aigua."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els estabilitzants protegeixen la matèria activa d’una degradació ràpida."
+        }
+      ],
+      "groupStudy": {
+        "page": 11,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-12",
+          "image": "images/labels-wetting.jpg",
+          "original": "images/labels-page-11-original.jpg",
+          "page": 11,
+          "imagePage": 11
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-12-1",
+          "kind": "Concepte",
+          "prompt": "Quins adjuvants faciliten la formació d’una emulsió?",
+          "answer": "Tensioactius o mullants",
+          "distractors": [
+            "Estabilitzants",
+            "Sinèrgics",
+            "Colorants"
+          ],
+          "quote": "Els tensioactius o mullants permeten formar una emulsió en barrejar líquids insolubles amb aigua.",
+          "page": 11
+        },
+        {
+          "id": "labels-12-2",
+          "kind": "Aplicació",
+          "prompt": "Quins adjuvants protegeixen d’una degradació ràpida?",
+          "answer": "Estabilitzants",
+          "distractors": [
+            "Mullants",
+            "Dispersants",
+            "Emètics"
+          ],
+          "quote": "Els estabilitzants protegeixen la matèria activa d’una degradació ràpida.",
+          "page": 11
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-13",
+      "name": "Dispersants i sinèrgics",
+      "science": "",
+      "group": "Formulacions i presentacions",
+      "learning": true,
+      "learningSection": "Formulacions i presentacions",
+      "page": 11,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els dispersants augmenten l’homogeneïtat dels sòlids en l’aigua i redueixen la velocitat de sedimentació."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els sinèrgics potencien l’acció de la matèria activa. Aquesta definició no substitueix les dosis de l’etiqueta."
+        }
+      ],
+      "groupStudy": {
+        "page": 11,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-13",
+          "image": "images/labels-lab.jpg",
+          "original": "images/labels-page-11-original.jpg",
+          "page": 11,
+          "imagePage": 10
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-13-1",
+          "kind": "Concepte",
+          "prompt": "Quins adjuvants redueixen la sedimentació de partícules sòlides al brou?",
+          "answer": "Dispersants o agents de suspensió",
+          "distractors": [
+            "Colorants",
+            "Emètics",
+            "Repulsius"
+          ],
+          "quote": "Els dispersants augmenten l’homogeneïtat dels sòlids en l’aigua i redueixen la velocitat de sedimentació.",
+          "page": 11
+        },
+        {
+          "id": "labels-13-2",
+          "kind": "Aplicació",
+          "prompt": "Quin tipus d’adjuvant potencia l’acció de la matèria activa?",
+          "answer": "Sinèrgic",
+          "distractors": [
+            "Dispersant",
+            "Estabilitzant",
+            "Colorant"
+          ],
+          "quote": "Els sinèrgics potencien l’acció de la matèria activa. Aquesta definició no substitueix les dosis de l’etiqueta.",
+          "page": 11
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-14",
+      "name": "Concentrats EC i SL",
+      "science": "",
+      "group": "Formulacions i presentacions",
+      "learning": true,
+      "learningSection": "Formulacions i presentacions",
+      "page": 14,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El concentrat emulsionable (EC) conté agents que permeten formar una emulsió estable en afegir-hi aigua."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El concentrat soluble (SL) és un líquid homogeni que forma una veritable dissolució de la matèria activa en l’aigua."
+        }
+      ],
+      "groupStudy": {
+        "page": 14,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-14",
+          "image": "images/labels-bottles.jpg",
+          "original": "images/labels-page-14-original.jpg",
+          "page": 14,
+          "imagePage": 14
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-14-1",
+          "kind": "Concepte",
+          "prompt": "Quin codi identifica el concentrat emulsionable?",
+          "answer": "EC",
+          "distractors": [
+            "SL",
+            "WP",
+            "WG"
+          ],
+          "quote": "El concentrat emulsionable (EC) conté agents que permeten formar una emulsió estable en afegir-hi aigua.",
+          "page": 14
+        },
+        {
+          "id": "labels-14-2",
+          "kind": "Aplicació",
+          "prompt": "Quina presentació forma una veritable dissolució en aigua?",
+          "answer": "Concentrat soluble (SL)",
+          "distractors": [
+            "Concentrat emulsionable (EC)",
+            "Pols mullable (WP)",
+            "Granulat (GR)"
+          ],
+          "quote": "El concentrat soluble (SL) és un líquid homogeni que forma una veritable dissolució de la matèria activa en l’aigua.",
+          "page": 14
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-15",
+      "name": "Pols mullable i granulat dispersable",
+      "science": "",
+      "group": "Formulacions i presentacions",
+      "learning": true,
+      "learningSection": "Formulacions i presentacions",
+      "page": 14,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La pols mullable (WP) és una pols fina preparada per aplicar-la en dispersió després de barrejar-la amb aigua."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El granulat dispersable (WG) es presenta en grànuls sòlids que es dispersen en l’aigua de preparació del brou."
+        }
+      ],
+      "groupStudy": {
+        "page": 14,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-15",
+          "image": "images/labels-bottles.jpg",
+          "original": "images/labels-page-14-original.jpg",
+          "page": 14,
+          "imagePage": 14
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-15-1",
+          "kind": "Concepte",
+          "prompt": "Quina presentació és una pols fina per dispersar en aigua?",
+          "answer": "Pols mullable (WP)",
+          "distractors": [
+            "Pols seca (DP)",
+            "Concentrat soluble (SL)",
+            "Granulat (GR)"
+          ],
+          "quote": "La pols mullable (WP) és una pols fina preparada per aplicar-la en dispersió després de barrejar-la amb aigua.",
+          "page": 14
+        },
+        {
+          "id": "labels-15-2",
+          "kind": "Aplicació",
+          "prompt": "Quin codi identifica els grànuls que es dispersen en l’aigua del brou?",
+          "answer": "WG",
+          "distractors": [
+            "GR",
+            "MG",
+            "BB"
+          ],
+          "quote": "El granulat dispersable (WG) es presenta en grànuls sòlids que es dispersen en l’aigua de preparació del brou.",
+          "page": 14
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-16",
+      "name": "Suspensió concentrada",
+      "science": "",
+      "group": "Formulacions i presentacions",
+      "learning": true,
+      "learningSection": "Formulacions i presentacions",
+      "page": 14,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La suspensió concentrada (SC) és una dispersió estable de partícules sòlides en un líquid."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "A diferència de la dissolució del concentrat soluble (SL), en una SC hi ha una fase sòlida en suspensió."
+        }
+      ],
+      "groupStudy": {
+        "page": 14,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-16",
+          "image": "images/labels-bottles.jpg",
+          "original": "images/labels-page-14-original.jpg",
+          "page": 14,
+          "imagePage": 14
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-16-1",
+          "kind": "Concepte",
+          "prompt": "Què significa SC?",
+          "answer": "Suspensió concentrada",
+          "distractors": [
+            "Concentrat soluble",
+            "Concentrat emulsionable",
+            "Esquer concentrat"
+          ],
+          "quote": "La suspensió concentrada (SC) és una dispersió estable de partícules sòlides en un líquid.",
+          "page": 14
+        },
+        {
+          "id": "labels-16-2",
+          "kind": "Aplicació",
+          "prompt": "Quina diferència permet distingir SC de SL?",
+          "answer": "SC conté partícules sòlides en suspensió",
+          "distractors": [
+            "SC és sempre un gas",
+            "SL és un granulat d’aplicació directa",
+            "SL és una pols seca"
+          ],
+          "quote": "A diferència de la dissolució del concentrat soluble (SL), en una SC hi ha una fase sòlida en suspensió.",
+          "page": 14
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-17",
+      "name": "Pols seca i granulats",
+      "science": "",
+      "group": "Formulacions i presentacions",
+      "learning": true,
+      "learningSection": "Formulacions i presentacions",
+      "page": 15,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "En la pols seca (DP), la matèria activa es barreja amb un sòlid inert en forma de pols, com talc o argila."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els granulats d’aplicació directa han d’estar secs, sense agregats durs ni cossos estranys visibles, i no han de generar pols."
+        }
+      ],
+      "groupStudy": {
+        "page": 15,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-17",
+          "image": "images/labels-powder.jpg",
+          "original": "images/labels-page-15-original.jpg",
+          "page": 15,
+          "imagePage": 15
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-17-1",
+          "kind": "Concepte",
+          "prompt": "Quin codi correspon a la pols seca?",
+          "answer": "DP",
+          "distractors": [
+            "WP",
+            "SC",
+            "SL"
+          ],
+          "quote": "En la pols seca (DP), la matèria activa es barreja amb un sòlid inert en forma de pols, com talc o argila.",
+          "page": 15
+        },
+        {
+          "id": "labels-17-2",
+          "kind": "Aplicació",
+          "prompt": "Quina característica es demana als granulats d’aplicació directa?",
+          "answer": "Que no generin pols",
+          "distractors": [
+            "Que formin una veritable dissolució",
+            "Que siguin líquids homogenis",
+            "Que alliberin fum per ignició"
+          ],
+          "quote": "Els granulats d’aplicació directa han d’estar secs, sense agregats durs ni cossos estranys visibles, i no han de generar pols.",
+          "page": 15
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-18",
+      "name": "Esquers",
+      "science": "",
+      "group": "Formulacions i presentacions",
+      "learning": true,
+      "learningSection": "Formulacions i presentacions",
+      "page": 17,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Els esquers atreuen els organismes causants de plaga. Els blocs d’esquer (BB) s’utilitzen en raticides."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els esquers insecticides i mol·lusquicides es presenten com a esquer granulat (GB)."
+        }
+      ],
+      "groupStudy": {
+        "page": 17,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-18",
+          "image": "images/labels-baits.jpg",
+          "original": "images/labels-page-17-original.jpg",
+          "page": 17,
+          "imagePage": 17
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-18-1",
+          "kind": "Concepte",
+          "prompt": "Quin codi correspon als blocs d’esquer?",
+          "answer": "BB",
+          "distractors": [
+            "GB",
+            "WG",
+            "SC"
+          ],
+          "quote": "Els esquers atreuen els organismes causants de plaga. Els blocs d’esquer (BB) s’utilitzen en raticides.",
+          "page": 17
+        },
+        {
+          "id": "labels-18-2",
+          "kind": "Aplicació",
+          "prompt": "Quin format esmenta el temari per als esquers insecticides i mol·lusquicides?",
+          "answer": "Esquer granulat (GB)",
+          "distractors": [
+            "Concentrat soluble (SL)",
+            "Pols mullable (WP)",
+            "Líquid electroaplicable (ED)"
+          ],
+          "quote": "Els esquers insecticides i mol·lusquicides es presenten com a esquer granulat (GB).",
+          "page": 17
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-19",
+      "name": "Concentració de matèria activa",
+      "science": "",
+      "group": "Formulacions i presentacions",
+      "learning": true,
+      "learningSection": "Formulacions i presentacions",
+      "page": 18,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "En formulacions sòlides, el percentatge pes/pes indica grams de matèria activa en 100 grams de formulat."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El percentatge pes/volum indica grams de matèria activa en 100 mil·lilitres de formulat. És una concentració del producte, no una dosi per superfície."
+        }
+      ],
+      "groupStudy": {
+        "page": 18,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-19",
+          "image": "images/labels-lab.jpg",
+          "original": "images/labels-page-18-original.jpg",
+          "page": 18,
+          "imagePage": 10
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-19-1",
+          "kind": "Concepte",
+          "prompt": "Què expressa el percentatge pes/pes d’un formulat sòlid?",
+          "answer": "Grams de matèria activa en 100 g de formulat",
+          "distractors": [
+            "Litres de producte per hectàrea",
+            "Dies entre tractament i collita",
+            "Mil·lilitres de brou per planta"
+          ],
+          "quote": "En formulacions sòlides, el percentatge pes/pes indica grams de matèria activa en 100 grams de formulat.",
+          "page": 18
+        },
+        {
+          "id": "labels-19-2",
+          "kind": "Aplicació",
+          "prompt": "Què expressa el percentatge pes/volum?",
+          "answer": "Grams de matèria activa en 100 ml de formulat",
+          "distractors": [
+            "Grams de matèria activa en 100 g de formulat",
+            "Litres de producte per hectàrea",
+            "Dies de termini de seguretat"
+          ],
+          "quote": "El percentatge pes/volum indica grams de matèria activa en 100 mil·lilitres de formulat. És una concentració del producte, no una dosi per superfície.",
+          "page": 18
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-20",
+      "name": "Aplicacions líquides",
+      "science": "",
+      "group": "Formulacions i presentacions",
+      "learning": true,
+      "learningSection": "Formulacions i presentacions",
+      "page": 13,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Les aplicacions líquides també s’anomenen polvorització i utilitzen barreges aquoses o brous preparats a partir del producte comercial."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La barreja amb aigua permet distribuir uniformement la quantitat de producte indicada. La forma d’aplicació figura a l’etiqueta."
+        }
+      ],
+      "groupStudy": {
+        "page": 13,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-20",
+          "image": "images/labels-bottles.jpg",
+          "original": "images/labels-page-13-original.jpg",
+          "page": 13,
+          "imagePage": 14
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-20-1",
+          "kind": "Concepte",
+          "prompt": "Com s’anomena també l’aplicació líquida?",
+          "answer": "Polvorització",
+          "distractors": [
+            "Empolsament",
+            "Fumigació",
+            "Aplicació d’esquers"
+          ],
+          "quote": "Les aplicacions líquides també s’anomenen polvorització i utilitzen barreges aquoses o brous preparats a partir del producte comercial.",
+          "page": 13
+        },
+        {
+          "id": "labels-20-2",
+          "kind": "Aplicació",
+          "prompt": "Per què es prepara un brou amb aigua en aquestes aplicacions?",
+          "answer": "Per distribuir uniformement el producte",
+          "distractors": [
+            "Per convertir qualsevol formulat en gas",
+            "Per eliminar la necessitat de dosificació",
+            "Per substituir la informació de l’etiqueta"
+          ],
+          "quote": "La barreja amb aigua permet distribuir uniformement la quantitat de producte indicada. La forma d’aplicació figura a l’etiqueta.",
+          "page": 13
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-21",
+      "name": "Àrea d’utilització",
+      "science": "",
+      "group": "Utilització i compatibilitat",
+      "learning": true,
+      "learningSection": "Utilització i compatibilitat",
+      "page": 19,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’àrea d’utilització indica cultius i agents contra els quals està autoritzat el producte, així com condicions, dosis i terminis de seguretat."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Un producte pot continuar al registre i tenir alguns usos modificats. Cal revisar els usos concrets."
+        }
+      ],
+      "groupStudy": {
+        "page": 19,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-21",
+          "image": "images/labels-label.jpg",
+          "original": "images/labels-page-19-original.jpg",
+          "page": 19,
+          "imagePage": 5
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-21-1",
+          "kind": "Concepte",
+          "prompt": "On cercaries els cultius, les dosis i els terminis de seguretat?",
+          "answer": "A l’àrea d’utilització",
+          "distractors": [
+            "Només al nom comercial",
+            "Només al número de lot",
+            "Als consells P500"
+          ],
+          "quote": "L’àrea d’utilització indica cultius i agents contra els quals està autoritzat el producte, així com condicions, dosis i terminis de seguretat.",
+          "page": 19
+        },
+        {
+          "id": "labels-21-2",
+          "kind": "Aplicació",
+          "prompt": "Que un producte continuï al registre implica que tots els usos són invariables?",
+          "answer": "No, alguns usos poden haver-se modificat",
+          "distractors": [
+            "Sí, els usos mai canvien",
+            "Sí, si conserva el mateix envàs",
+            "Sí, si conserva el número de lot"
+          ],
+          "quote": "Un producte pot continuar al registre i tenir alguns usos modificats. Cal revisar els usos concrets.",
+          "page": 19
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-22",
+      "name": "Informació específica dels herbicides",
+      "science": "",
+      "group": "Utilització i compatibilitat",
+      "learning": true,
+      "learningSection": "Utilització i compatibilitat",
+      "page": 19,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’etiqueta d’un herbicida especifica l’estadi de desenvolupament de la mala herba i del cultiu."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "L’àrea d’utilització també informa de la fitotoxicitat, la sensibilitat varietal i altres efectes desfavorables."
+        }
+      ],
+      "groupStudy": {
+        "page": 19,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-22",
+          "image": "images/labels-label.jpg",
+          "original": "images/labels-page-19-original.jpg",
+          "page": 19,
+          "imagePage": 5
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-22-1",
+          "kind": "Concepte",
+          "prompt": "Quins estadis cal revisar a l’etiqueta d’un herbicida?",
+          "answer": "Els de la mala herba i del cultiu",
+          "distractors": [
+            "Només l’edat de l’aplicador",
+            "Només la data del lot",
+            "Només l’estat de l’envàs"
+          ],
+          "quote": "L’etiqueta d’un herbicida especifica l’estadi de desenvolupament de la mala herba i del cultiu.",
+          "page": 19
+        },
+        {
+          "id": "labels-22-2",
+          "kind": "Aplicació",
+          "prompt": "On s’informa de la sensibilitat varietal i de la fitotoxicitat?",
+          "answer": "A l’àrea d’utilització",
+          "distractors": [
+            "Només al codi del lot",
+            "Només al símbol SIGFITO",
+            "Només al nom comercial"
+          ],
+          "quote": "L’àrea d’utilització també informa de la fitotoxicitat, la sensibilitat varietal i altres efectes desfavorables.",
+          "page": 19
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-23",
+      "name": "Termini de seguretat",
+      "science": "",
+      "group": "Utilització i compatibilitat",
+      "learning": true,
+      "learningSection": "Utilització i compatibilitat",
+      "page": 20,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El termini de seguretat indica els dies mínims entre el tractament i la recol·lecció."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El termini pot variar segons el cultiu i així ho ha d’indicar l’etiqueta. Es relaciona amb el límit màxim de residu (LMR)."
+        }
+      ],
+      "groupStudy": {
+        "page": 20,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-23",
+          "image": "images/labels-reading.jpg",
+          "original": "images/labels-page-20-original.jpg",
+          "page": 20,
+          "imagePage": 1
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-23-1",
+          "kind": "Concepte",
+          "prompt": "Entre quins moments se situa el termini de seguretat per a la collita?",
+          "answer": "Entre el tractament i la recol·lecció",
+          "distractors": [
+            "Entre fabricació i venda",
+            "Entre compra i emmagatzematge",
+            "Entre registre i fabricació"
+          ],
+          "quote": "El termini de seguretat indica els dies mínims entre el tractament i la recol·lecció.",
+          "page": 20
+        },
+        {
+          "id": "labels-23-2",
+          "kind": "Aplicació",
+          "prompt": "El termini de seguretat pot variar segons el cultiu?",
+          "answer": "Sí, i l’etiqueta ho ha d’indicar",
+          "distractors": [
+            "No, només depèn del color de l’envàs",
+            "No, sempre és el mateix per a tots els usos",
+            "Només varia amb el número de lot"
+          ],
+          "quote": "El termini pot variar segons el cultiu i així ho ha d’indicar l’etiqueta. Es relaciona amb el límit màxim de residu (LMR).",
+          "page": 20
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-24",
+      "name": "Dosi i unitats",
+      "science": "",
+      "group": "Utilització i compatibilitat",
+      "learning": true,
+      "learningSection": "Utilització i compatibilitat",
+      "page": 20,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L/ha expressa litres de producte comercial per hectàrea de superfície a tractar."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "ml/L expressa mil·lilitres de producte comercial per litre de brou. Cal distingir la dosi per superfície de la concentració del brou."
+        }
+      ],
+      "groupStudy": {
+        "page": 20,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-24",
+          "image": "images/labels-lab.jpg",
+          "original": "images/labels-page-20-original.jpg",
+          "page": 20,
+          "imagePage": 10
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-24-1",
+          "kind": "Concepte",
+          "prompt": "Quina unitat expressa una dosi per superfície?",
+          "answer": "L/ha",
+          "distractors": [
+            "ml/L",
+            "% p/p",
+            "CFU/g"
+          ],
+          "quote": "L/ha expressa litres de producte comercial per hectàrea de superfície a tractar.",
+          "page": 20
+        },
+        {
+          "id": "labels-24-2",
+          "kind": "Aplicació",
+          "prompt": "Què indica ml/L en la dosificació del brou?",
+          "answer": "Mil·lilitres de producte comercial per litre de brou",
+          "distractors": [
+            "Litres de brou per hectàrea",
+            "Grams de matèria activa per 100 g de formulat",
+            "Dies entre tractament i collita"
+          ],
+          "quote": "ml/L expressa mil·lilitres de producte comercial per litre de brou. Cal distingir la dosi per superfície de la concentració del brou.",
+          "page": 20
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-25",
+      "name": "Mescles i efectes",
+      "science": "",
+      "group": "Utilització i compatibilitat",
+      "learning": true,
+      "learningSection": "Utilització i compatibilitat",
+      "page": 21,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Les mescles poden canviar la toxicitat, l’efecte sobre la planta i l’eficàcia; no són aconsellables si no estan expressament indicades a l’etiqueta."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Un efecte antagònic significa que una substància frena l’efecte de l’altra; un efecte sinèrgic és superior a l’aplicació per separat."
+        }
+      ],
+      "groupStudy": {
+        "page": 21,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-25",
+          "image": "images/labels-mixture.jpg",
+          "original": "images/labels-page-21-original.jpg",
+          "page": 21,
+          "imagePage": 22
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-25-1",
+          "kind": "Concepte",
+          "prompt": "Quina informació cal comprovar abans de considerar una mescla?",
+          "answer": "Que estigui expressament indicada a l’etiqueta",
+          "distractors": [
+            "Que els envasos tinguin el mateix color",
+            "Que tinguin la mateixa quantitat neta",
+            "Que els lots siguin del mateix dia"
+          ],
+          "quote": "Les mescles poden canviar la toxicitat, l’efecte sobre la planta i l’eficàcia; no són aconsellables si no estan expressament indicades a l’etiqueta.",
+          "page": 21
+        },
+        {
+          "id": "labels-25-2",
+          "kind": "Aplicació",
+          "prompt": "Què descriu un efecte antagònic?",
+          "answer": "Una substància frena l’efecte de l’altra",
+          "distractors": [
+            "L’efecte és superior al de l’aplicació per separat",
+            "El producte es distribueix per la saba",
+            "La informació de l’etiqueta queda inalterada"
+          ],
+          "quote": "Un efecte antagònic significa que una substància frena l’efecte de l’altra; un efecte sinèrgic és superior a l’aplicació per separat.",
+          "page": 21
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-26",
+      "name": "Compatibilitat de productes",
+      "science": "",
+      "group": "Utilització i compatibilitat",
+      "learning": true,
+      "learningSection": "Utilització i compatibilitat",
+      "page": 21,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "No s’han de preparar mescles si no es coneix la fitotoxicitat que poden produir en el conreu."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Que dos productes siguin del mateix fabricant no garanteix que siguin compatibles."
+        }
+      ],
+      "groupStudy": {
+        "page": 21,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-26",
+          "image": "images/labels-mixture.jpg",
+          "original": "images/labels-page-21-original.jpg",
+          "page": 21,
+          "imagePage": 22
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-26-1",
+          "kind": "Concepte",
+          "prompt": "Quin risc per al conreu cal conèixer abans de plantejar una mescla?",
+          "answer": "La fitotoxicitat",
+          "distractors": [
+            "El número de lot",
+            "La quantitat neta de l’envàs",
+            "El tipus d’embalatge"
+          ],
+          "quote": "No s’han de preparar mescles si no es coneix la fitotoxicitat que poden produir en el conreu.",
+          "page": 21
+        },
+        {
+          "id": "labels-26-2",
+          "kind": "Aplicació",
+          "prompt": "Dos productes del mateix fabricant són necessàriament compatibles?",
+          "answer": "No, el fabricant comú no ho garanteix",
+          "distractors": [
+            "Sí, sempre",
+            "Sí, si són líquids",
+            "Sí, si tenen el mateix volum d’envàs"
+          ],
+          "quote": "Que dos productes siguin del mateix fabricant no garanteix que siguin compatibles.",
+          "page": 21
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-27",
+      "name": "pH i estabilitat",
+      "science": "",
+      "group": "Utilització i compatibilitat",
+      "learning": true,
+      "learningSection": "Utilització i compatibilitat",
+      "page": 22,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Una matèria activa pot ser estable en un determinat pH i descompondre’s ràpidament en un altre rang de pH."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Una incompatibilitat pot provocar precipitacions, separació de fases i obturació de conductes i broquets."
+        }
+      ],
+      "groupStudy": {
+        "page": 22,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-27",
+          "image": "images/labels-mixture.jpg",
+          "original": "images/labels-page-22-original.jpg",
+          "page": 22,
+          "imagePage": 22
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-27-1",
+          "kind": "Concepte",
+          "prompt": "Quina propietat del brou pot canviar l’estabilitat d’una matèria activa?",
+          "answer": "El pH",
+          "distractors": [
+            "El número de lot",
+            "El nom comercial per si sol",
+            "La data d’impressió de l’etiqueta"
+          ],
+          "quote": "Una matèria activa pot ser estable en un determinat pH i descompondre’s ràpidament en un altre rang de pH.",
+          "page": 22
+        },
+        {
+          "id": "labels-27-2",
+          "kind": "Aplicació",
+          "prompt": "Quin problema de la maquinària pot causar una mescla incompatible?",
+          "answer": "Obturació de conductes i broquets",
+          "distractors": [
+            "Modificació del número de registre",
+            "Canvi del nom comercial",
+            "Augment del termini de comercialització"
+          ],
+          "quote": "Una incompatibilitat pot provocar precipitacions, separació de fases i obturació de conductes i broquets.",
+          "page": 22
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-28",
+      "name": "Prevenció de riscos en les mescles",
+      "science": "",
+      "group": "Utilització i compatibilitat",
+      "learning": true,
+      "learningSection": "Utilització i compatibilitat",
+      "page": 23,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El temari prioritza llegir l’etiqueta i informar-se sobre les incompatibilitats abans de preparar mescles."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Entre les mesures de prevenció figuren els EPI adequats, llocs ventilats i allunyats de cursos d’aigua, i aigua neta i de qualitat."
+        }
+      ],
+      "groupStudy": {
+        "page": 23,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-28",
+          "image": "images/labels-ppe.jpg",
+          "original": "images/labels-page-23-original.jpg",
+          "page": 23,
+          "imagePage": 29
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-28-1",
+          "kind": "Concepte",
+          "prompt": "Quina és una mesura prèvia per minimitzar riscos d’incompatibilitat?",
+          "answer": "Llegir l’etiqueta i informar-se de les incompatibilitats",
+          "distractors": [
+            "Guiar-se només pel nom comercial",
+            "Barrejar sense conèixer la fitotoxicitat",
+            "Suposar compatibilitat pel fabricant"
+          ],
+          "quote": "El temari prioritza llegir l’etiqueta i informar-se sobre les incompatibilitats abans de preparar mescles.",
+          "page": 23
+        },
+        {
+          "id": "labels-28-2",
+          "kind": "Aplicació",
+          "prompt": "Quin conjunt recull mesures de prevenció descrites?",
+          "answer": "EPI adequats, ventilació i allunyament de cursos d’aigua",
+          "distractors": [
+            "Només igualar el color dels envasos",
+            "Només conservar el mateix número de lot",
+            "Prescindir de la lectura si hi ha pictogrames"
+          ],
+          "quote": "Entre les mesures de prevenció figuren els EPI adequats, llocs ventilats i allunyats de cursos d’aigua, i aigua neta i de qualitat.",
+          "page": 23
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-29",
+      "name": "Lectura abans de manipular",
+      "science": "",
+      "group": "Utilització i compatibilitat",
+      "learning": true,
+      "learningSection": "Utilització i compatibilitat",
+      "page": 31,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Cal llegir les tres àrees de l’etiqueta abans de manipular el producte, no només durant l’aplicació."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "En la preparació ja hi ha contacte potencial amb el producte; la informació de risc també és necessària en aquesta fase."
+        }
+      ],
+      "groupStudy": {
+        "page": 31,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-29",
+          "image": "images/labels-reading.jpg",
+          "original": "images/labels-page-31-original.jpg",
+          "page": 31,
+          "imagePage": 1
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-29-1",
+          "kind": "Concepte",
+          "prompt": "Quan cal llegir totes les àrees de l’etiqueta?",
+          "answer": "Abans de manipular el producte",
+          "distractors": [
+            "Només després del tractament",
+            "Només quan l’envàs és buit",
+            "Només en arribar la collita"
+          ],
+          "quote": "Cal llegir les tres àrees de l’etiqueta abans de manipular el producte, no només durant l’aplicació.",
+          "page": 31
+        },
+        {
+          "id": "labels-29-2",
+          "kind": "Aplicació",
+          "prompt": "La informació de risc és necessària durant la preparació?",
+          "answer": "Sí, ja hi ha contacte potencial amb el producte",
+          "distractors": [
+            "No, només serveix per a la recol·lecció",
+            "No, només serveix per al registre",
+            "Només si falta el número de lot"
+          ],
+          "quote": "En la preparació ja hi ha contacte potencial amb el producte; la informació de risc també és necessària en aquesta fase.",
+          "page": 31
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-30",
+      "name": "Persistència de l’activitat",
+      "science": "",
+      "group": "Utilització i compatibilitat",
+      "learning": true,
+      "learningSection": "Utilització i compatibilitat",
+      "page": 12,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’acció de xoc té efectivitat puntual i immediata."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "L’acció residual es perllonga en el temps. La persistència és diferent de la forma de presentació del producte."
+        }
+      ],
+      "groupStudy": {
+        "page": 12,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-30",
+          "image": "images/labels-leaf.jpg",
+          "original": "images/labels-page-12-original.jpg",
+          "page": 12,
+          "imagePage": 11
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-30-1",
+          "kind": "Concepte",
+          "prompt": "Quina acció es defineix per l’efectivitat puntual i immediata?",
+          "answer": "Acció de xoc",
+          "distractors": [
+            "Acció residual",
+            "Formulació soluble",
+            "Concentració pes/pes"
+          ],
+          "quote": "L’acció de xoc té efectivitat puntual i immediata.",
+          "page": 12
+        },
+        {
+          "id": "labels-30-2",
+          "kind": "Aplicació",
+          "prompt": "Quina acció es perllonga en el temps?",
+          "answer": "Acció residual",
+          "distractors": [
+            "Acció de xoc",
+            "Pols mullable",
+            "Granulat dispersable"
+          ],
+          "quote": "L’acció residual es perllonga en el temps. La persistència és diferent de la forma de presentació del producte.",
+          "page": 12
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-31",
+      "name": "Àrea de risc",
+      "science": "",
+      "group": "Perills, prudència i documentació",
+      "learning": true,
+      "learningSection": "Perills, prudència i documentació",
+      "page": 24,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "L’àrea de risc informa de la perillositat i de com actuar davant d’una intoxicació o un accident."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Hi figuren frases H i P, pictogrames, informació d’accidents, primers auxilis i instruccions de gestió dels envasos."
+        }
+      ],
+      "groupStudy": {
+        "page": 24,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-31",
+          "image": "images/labels-reading.jpg",
+          "original": "images/labels-page-24-original.jpg",
+          "page": 24,
+          "imagePage": 1
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-31-1",
+          "kind": "Concepte",
+          "prompt": "On cercaries la perillositat i la informació en cas d’accident?",
+          "answer": "A l’àrea de risc",
+          "distractors": [
+            "Només al nom comercial",
+            "Només al número de lot",
+            "Només a la quantitat neta"
+          ],
+          "quote": "L’àrea de risc informa de la perillositat i de com actuar davant d’una intoxicació o un accident.",
+          "page": 24
+        },
+        {
+          "id": "labels-31-2",
+          "kind": "Aplicació",
+          "prompt": "Quin conjunt correspon a l’àrea de risc?",
+          "answer": "Frases H i P, pictogrames i primers auxilis",
+          "distractors": [
+            "Nom comercial, lot i quantitat neta",
+            "Únicament dosis i cultius autoritzats",
+            "Només presentacions EC, SL i WG"
+          ],
+          "quote": "Hi figuren frases H i P, pictogrames, informació d’accidents, primers auxilis i instruccions de gestió dels envasos.",
+          "page": 24
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-32",
+      "name": "Frases H",
+      "science": "",
+      "group": "Perills, prudència i documentació",
+      "learning": true,
+      "learningSection": "Perills, prudència i documentació",
+      "page": 25,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Les frases H indiquen la naturalesa del risc i el grau de perillositat. La sèrie H200 correspon a perills físics."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La sèrie H300 correspon a perills per a la salut humana i la sèrie H400 a perills ambientals."
+        }
+      ],
+      "groupStudy": {
+        "page": 25,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-32",
+          "image": "images/labels-reading.jpg",
+          "original": "images/labels-page-25-original.jpg",
+          "page": 25,
+          "imagePage": 1
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-32-1",
+          "kind": "Concepte",
+          "prompt": "Quina sèrie de frases H s’associa als perills físics?",
+          "answer": "H200",
+          "distractors": [
+            "H300",
+            "H400",
+            "P200"
+          ],
+          "quote": "Les frases H indiquen la naturalesa del risc i el grau de perillositat. La sèrie H200 correspon a perills físics.",
+          "page": 25
+        },
+        {
+          "id": "labels-32-2",
+          "kind": "Aplicació",
+          "prompt": "Quina sèrie de frases H s’associa als perills ambientals?",
+          "answer": "H400",
+          "distractors": [
+            "H200",
+            "H300",
+            "P400"
+          ],
+          "quote": "La sèrie H300 correspon a perills per a la salut humana i la sèrie H400 a perills ambientals.",
+          "page": 25
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-33",
+      "name": "Interpretar indicacions de perill",
+      "science": "",
+      "group": "Perills, prudència i documentació",
+      "learning": true,
+      "learningSection": "Perills, prudència i documentació",
+      "page": 25,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "H301 significa «Tòxic en cas d’ingestió»; H302 significa «Nociu en cas d’ingestió»."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "H410 significa «Molt tòxic per als organismes aquàtics, amb efectes nocius duradors»."
+        }
+      ],
+      "groupStudy": {
+        "page": 25,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-33",
+          "image": "images/labels-reading.jpg",
+          "original": "images/labels-page-25-original.jpg",
+          "page": 25,
+          "imagePage": 1
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-33-1",
+          "kind": "Concepte",
+          "prompt": "Quina indicació correspon a H301?",
+          "answer": "Tòxic en cas d’ingestió",
+          "distractors": [
+            "Nociu en cas d’ingestió",
+            "Mortal en contacte amb la pell",
+            "Sòlid inflamable"
+          ],
+          "quote": "H301 significa «Tòxic en cas d’ingestió»; H302 significa «Nociu en cas d’ingestió».",
+          "page": 25
+        },
+        {
+          "id": "labels-33-2",
+          "kind": "Aplicació",
+          "prompt": "Quin risc descriu H410?",
+          "answer": "Molt tòxic per als organismes aquàtics, amb efectes nocius duradors",
+          "distractors": [
+            "Gas extremadament inflamable",
+            "Pot ser corrosiu per als metalls",
+            "Tòxic en contacte amb la pell"
+          ],
+          "quote": "H410 significa «Molt tòxic per als organismes aquàtics, amb efectes nocius duradors».",
+          "page": 25
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-34",
+      "name": "Frases P",
+      "science": "",
+      "group": "Perills, prudència i documentació",
+      "learning": true,
+      "learningSection": "Perills, prudència i documentació",
+      "page": 26,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "Les frases P descriuen mesures per minimitzar o evitar efectes adversos durant l’ús o l’eliminació d’una substància o mescla perillosa."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "P100 agrupa consells generals, P200 consells de prevenció i P300 consells de resposta."
+        }
+      ],
+      "groupStudy": {
+        "page": 26,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-34",
+          "image": "images/labels-reading.jpg",
+          "original": "images/labels-page-26-original.jpg",
+          "page": 26,
+          "imagePage": 1
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-34-1",
+          "kind": "Concepte",
+          "prompt": "Què expressen les frases P?",
+          "answer": "Consells de prudència",
+          "distractors": [
+            "La concentració de matèria activa",
+            "El número de registre",
+            "La data de fabricació"
+          ],
+          "quote": "Les frases P descriuen mesures per minimitzar o evitar efectes adversos durant l’ús o l’eliminació d’una substància o mescla perillosa.",
+          "page": 26
+        },
+        {
+          "id": "labels-34-2",
+          "kind": "Aplicació",
+          "prompt": "Quina sèrie de frases P correspon a la prevenció?",
+          "answer": "P200",
+          "distractors": [
+            "P100",
+            "P300",
+            "H200"
+          ],
+          "quote": "P100 agrupa consells generals, P200 consells de prevenció i P300 consells de resposta.",
+          "page": 26
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-35",
+      "name": "Prudència: emmagatzematge i eliminació",
+      "science": "",
+      "group": "Perills, prudència i documentació",
+      "learning": true,
+      "learningSection": "Perills, prudència i documentació",
+      "page": 27,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La sèrie P400 agrupa consells de prudència d’emmagatzematge."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La sèrie P500 agrupa consells d’eliminació; P501 fa referència a eliminar el contingut o recipient."
+        }
+      ],
+      "groupStudy": {
+        "page": 27,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-35",
+          "image": "images/labels-sigfito.jpg",
+          "original": "images/labels-page-27-original.jpg",
+          "page": 27,
+          "imagePage": 29
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-35-1",
+          "kind": "Concepte",
+          "prompt": "Quina sèrie agrupa consells d’emmagatzematge?",
+          "answer": "P400",
+          "distractors": [
+            "P100",
+            "P200",
+            "H400"
+          ],
+          "quote": "La sèrie P400 agrupa consells de prudència d’emmagatzematge.",
+          "page": 27
+        },
+        {
+          "id": "labels-35-2",
+          "kind": "Aplicació",
+          "prompt": "Quin àmbit correspon a P501?",
+          "answer": "Eliminació del contingut o recipient",
+          "distractors": [
+            "Identificació del lot",
+            "Concentració del formulat",
+            "Dosi per hectàrea"
+          ],
+          "quote": "La sèrie P500 agrupa consells d’eliminació; P501 fa referència a eliminar el contingut o recipient.",
+          "page": 27
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-36",
+      "name": "Pictograma de toxicitat aguda",
+      "science": "",
+      "group": "Perills, prudència i documentació",
+      "learning": true,
+      "learningSection": "Perills, prudència i documentació",
+      "page": 28,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La taula associa la calavera amb tíbies creuades a toxicitat aguda (categories 1-3)."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La flama s’associa a inflamable; cal distingir-la de la flama sobre un cercle, que indica comburent."
+        }
+      ],
+      "groupStudy": {
+        "page": 28,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-36",
+          "image": "images/labels-skull.jpg",
+          "original": "images/labels-page-28-original.jpg",
+          "page": 28,
+          "imagePage": 28
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-36-1",
+          "kind": "Concepte",
+          "prompt": "Quin perill associa la taula al pictograma de la calavera?",
+          "answer": "Toxicitat aguda (cat. 1-3)",
+          "distractors": [
+            "Gas a pressió",
+            "Corrosiu",
+            "Perill per al medi ambient"
+          ],
+          "quote": "La taula associa la calavera amb tíbies creuades a toxicitat aguda (categories 1-3).",
+          "page": 28
+        },
+        {
+          "id": "labels-36-2",
+          "kind": "Aplicació",
+          "prompt": "Quin símbol correspon a inflamable?",
+          "answer": "Una flama",
+          "distractors": [
+            "Una ampolla de gas",
+            "Un arbre i un peix",
+            "Una calavera amb tíbies creuades"
+          ],
+          "quote": "La flama s’associa a inflamable; cal distingir-la de la flama sobre un cercle, que indica comburent.",
+          "page": 28
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-37",
+      "name": "Pictogrames de corrosió i medi ambient",
+      "science": "",
+      "group": "Perills, prudència i documentació",
+      "learning": true,
+      "learningSection": "Perills, prudència i documentació",
+      "page": 28,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El pictograma de líquid vessant sobre una mà i un metall s’associa a corrosiu."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "El pictograma amb l’arbre i el peix s’associa al perill per al medi ambient."
+        }
+      ],
+      "groupStudy": {
+        "page": 28,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-37",
+          "image": "images/labels-corrosion.jpg",
+          "original": "images/labels-page-28-original.jpg",
+          "page": 28,
+          "imagePage": 28
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-37-1",
+          "kind": "Concepte",
+          "prompt": "Quin perill indica el símbol que mostra un líquid sobre una mà i un metall?",
+          "answer": "Corrosiu",
+          "distractors": [
+            "Inflamable",
+            "Gas a pressió",
+            "Comburent"
+          ],
+          "quote": "El pictograma de líquid vessant sobre una mà i un metall s’associa a corrosiu.",
+          "page": 28
+        },
+        {
+          "id": "labels-37-2",
+          "kind": "Aplicació",
+          "prompt": "Quin pictograma s’associa al perill per al medi ambient?",
+          "answer": "Arbre i peix",
+          "distractors": [
+            "Ampolla de gas",
+            "Flama sobre un cercle",
+            "Bomba explotant"
+          ],
+          "quote": "El pictograma amb l’arbre i el peix s’associa al perill per al medi ambient.",
+          "page": 28
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-38",
+      "name": "Pictogrames de gas i comburent",
+      "science": "",
+      "group": "Perills, prudència i documentació",
+      "learning": true,
+      "learningSection": "Perills, prudència i documentació",
+      "page": 28,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La taula associa el símbol de l’ampolla al gas a pressió."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La flama sobre un cercle s’associa a comburent, un símbol diferent de la flama d’inflamable."
+        }
+      ],
+      "groupStudy": {
+        "page": 28,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-38",
+          "image": "images/labels-gas.jpg",
+          "original": "images/labels-page-28-original.jpg",
+          "page": 28,
+          "imagePage": 28
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-38-1",
+          "kind": "Concepte",
+          "prompt": "Quin perill indica el pictograma de l’ampolla?",
+          "answer": "Gas a pressió",
+          "distractors": [
+            "Corrosiu",
+            "Explosiu",
+            "Toxicitat aguda (cat. 1-3)"
+          ],
+          "quote": "La taula associa el símbol de l’ampolla al gas a pressió.",
+          "page": 28
+        },
+        {
+          "id": "labels-38-2",
+          "kind": "Aplicació",
+          "prompt": "Quin símbol indica comburent?",
+          "answer": "Flama sobre un cercle",
+          "distractors": [
+            "Calavera amb tíbies creuades",
+            "Arbre i peix",
+            "Ampolla de gas"
+          ],
+          "quote": "La flama sobre un cercle s’associa a comburent, un símbol diferent de la flama d’inflamable.",
+          "page": 28
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-39",
+      "name": "Gestió dels envasos",
+      "science": "",
+      "group": "Perills, prudència i documentació",
+      "learning": true,
+      "learningSection": "Perills, prudència i documentació",
+      "page": 29,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "El símbol SIGFITO identifica el gestor d’envasos; els envasos que el porten es poden entregar als punts de recollida SIGFITO."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "La informació sobre què fer amb l’envàs després d’acabar el producte figura a l’etiqueta."
+        }
+      ],
+      "groupStudy": {
+        "page": 29,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-39",
+          "image": "images/labels-sigfito.jpg",
+          "original": "images/labels-page-29-original.jpg",
+          "page": 29,
+          "imagePage": 29
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-39-1",
+          "kind": "Concepte",
+          "prompt": "Què identifica el símbol SIGFITO?",
+          "answer": "El gestor d’envasos",
+          "distractors": [
+            "La concentració de matèria activa",
+            "El tipus de formulació",
+            "El termini de seguretat"
+          ],
+          "quote": "El símbol SIGFITO identifica el gestor d’envasos; els envasos que el porten es poden entregar als punts de recollida SIGFITO.",
+          "page": 29
+        },
+        {
+          "id": "labels-39-2",
+          "kind": "Aplicació",
+          "prompt": "On cercaries les instruccions per gestionar l’envàs buit?",
+          "answer": "A l’etiqueta del producte",
+          "distractors": [
+            "Només al número de lot",
+            "Només al nom comercial",
+            "Només a la dosi per hectàrea"
+          ],
+          "quote": "La informació sobre què fer amb l’envàs després d’acabar el producte figura a l’etiqueta.",
+          "page": 29
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    },
+    {
+      "id": "labels-40",
+      "name": "Fitxa de dades de seguretat",
+      "science": "",
+      "group": "Perills, prudència i documentació",
+      "learning": true,
+      "learningSection": "Perills, prudència i documentació",
+      "page": 29,
+      "imageRole": "support",
+      "imageContext": "Imatge de suport del temari. Llegeix el cas o el concepte abans de respondre.",
+      "study": [
+        {
+          "label": "Idea principal",
+          "text": "La fitxa de dades de seguretat s’adreça als usuaris professionals i amplia la informació sobre manipulació, transport i emmagatzematge."
+        },
+        {
+          "label": "Per relacionar",
+          "text": "Els responsables de comercialitzar el producte la faciliten gratuïtament amb el primer lliurament i n’han de proporcionar una versió revisada quan canvien aspectes de seguretat, salut o medi ambient."
+        }
+      ],
+      "groupStudy": {
+        "page": 29,
+        "fields": []
+      },
+      "images": [
+        {
+          "id": "labels-40",
+          "image": "images/labels-ppe.jpg",
+          "original": "images/labels-page-29-original.jpg",
+          "page": 29,
+          "imagePage": 29
+        }
+      ],
+      "questions": [
+        {
+          "id": "labels-40-1",
+          "kind": "Concepte",
+          "prompt": "Quin document amplia la informació sobre manipulació, transport i emmagatzematge?",
+          "answer": "La fitxa de dades de seguretat",
+          "distractors": [
+            "El número de lot",
+            "El símbol SIGFITO",
+            "La quantitat neta"
+          ],
+          "quote": "La fitxa de dades de seguretat s’adreça als usuaris professionals i amplia la informació sobre manipulació, transport i emmagatzematge.",
+          "page": 29
+        },
+        {
+          "id": "labels-40-2",
+          "kind": "Aplicació",
+          "prompt": "Qui facilita la fitxa de dades de seguretat als usuaris professionals?",
+          "answer": "Els responsables de la comercialització",
+          "distractors": [
+            "El punt de recollida d’envasos",
+            "El fabricant de la maquinària",
+            "El titular del quadern d’explotació"
+          ],
+          "quote": "Els responsables de comercialitzar el producte la faciliten gratuïtament amb el primer lliurament i n’han de proporcionar una versió revisada quan canvien aspectes de seguretat, salut o medi ambient.",
+          "page": 29
+        }
+      ],
+      "note": "Temari de 30/10/2024. Les etiquetes il·lustratives no acrediten autoritzacions actuals."
+    }
+  ]
+};

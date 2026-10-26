@@ -1,3 +1,10 @@
+# v1.10.0 · 26/10/2026
+
+- Tema 7: Etiquetatge, 40 fitxes i 80 preguntes essencials.
+- Pictogrames i imatges del temari, originals després de respondre.
+- PDF per practicar i amb respostes marcades.
+- Temes 1–6 conservats.
+
 # v1.9.0 · 08/10/2026
 
 - Nou tema 6: Productes fitosanitaris, 40 fitxes i 80 preguntes.
