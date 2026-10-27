@@ -1,3 +1,10 @@
+# v1.12.0 · 27/10/2026
+
+- Tema 9: Manipulació segura, 40 fitxes i 80 preguntes essencials.
+- Imatges del temari i originals després de respondre.
+- PDF per practicar i amb respostes marcades.
+- Temes 1–8 conservats.
+
 # v1.11.0 · 27/10/2026
 
 - Tema 8: Riscos i prevenció, 40 fitxes i 80 preguntes essencials.

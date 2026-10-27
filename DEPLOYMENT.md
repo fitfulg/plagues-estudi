@@ -68,3 +68,7 @@ Publicació mitjançant la sessió autenticada de fitfulg a GitHub: primer les i
 ## v1.11.0 · Tema 8 · 27/10/2026
 
 Versió 1.11.0 per al mateix repositori fitfulg/plagues-estudi. Publicació amb la sessió autenticada de fitfulg: imatges i PDF abans d’activar el vuitè mode. Temes 1–7 conservats.
+
+## v1.12.0 · Tema 9 · 27/10/2026
+
+Versió 1.12.0 per al mateix repositori fitfulg/plagues-estudi. Publicació amb la sessió autenticada de fitfulg: imatges i PDF abans d’activar el novè mode. Temes 1–8 conservats.
