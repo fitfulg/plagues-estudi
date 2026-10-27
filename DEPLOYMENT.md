@@ -64,3 +64,7 @@ Preparada l’actualització del mateix repositori fitfulg/plagues-estudi: mode 
 Versió 1.10.0 preparada per al mateix repositori fitfulg/plagues-estudi. Tema 7, imatges i dues descàrregues incorporats conjuntament; bancs anteriors preservats.
 
 Publicació mitjançant la sessió autenticada de fitfulg a GitHub: primer les imatges i els dos PDF, després el selector i els fitxers de la versió 1.10.0.
+
+## v1.11.0 · Tema 8 · 27/10/2026
+
+Versió 1.11.0 per al mateix repositori fitfulg/plagues-estudi. Publicació amb la sessió autenticada de fitfulg: imatges i PDF abans d’activar el vuitè mode. Temes 1–7 conservats.

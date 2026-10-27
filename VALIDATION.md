@@ -71,3 +71,7 @@ Quatre nous PDF amb exactament una resposta CORRECTA per pregunta: 80/80/80/78. 
 ## v1.10.0 · Tema 7 · 26/10/2026
 
 1.000 sessions de cada un dels set modes i proves del controlador: puntuació, bloqueig de resposta, originals, fitxa opcional, sessió completa, resum i reinici. 2.000 sessions equilibrades del tema 7 amb cobertura de les 80 preguntes. Referències locals i identificadors verificats. Dos PDF de 51 pàgines amb ordre idèntic de preguntes/opcions i marques correctes; revisió visual de 102 pàgines.
+
+## v1.11.0 · Tema 8 · 27/10/2026
+
+1.000 sessions de cadascun dels vuit modes i proves del controlador: puntuació, bloqueig de resposta, originals, fitxa opcional, sessió completa, resum i reinici. 2.000 sessions equilibrades del tema 8, amb cobertura de les 80 preguntes. Referències locals, identificadors i noms de fitxer comprovats. Dos PDF de 51 pàgines amb ordre idèntic de preguntes/opcions i una marca correcta per pregunta; revisió visual de les 102 pàgines.

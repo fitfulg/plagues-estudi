@@ -1,3 +1,10 @@
+# v1.11.0 · 27/10/2026
+
+- Tema 8: Riscos i prevenció, 40 fitxes i 80 preguntes essencials.
+- Imatges del temari i originals després de respondre.
+- PDF per practicar i amb respostes marcades.
+- Temes 1–7 conservats.
+
 # v1.10.0 · 26/10/2026
 
 - Tema 7: Etiquetatge, 40 fitxes i 80 preguntes essencials.
